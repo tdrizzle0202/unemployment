@@ -1,0 +1,3751 @@
+[
+  {
+    "type": "NarrativeText",
+    "element_id": "515ee7839dbcdfc8f1fa96b7dcbdbb8e",
+    "text": "UNEMPLOYMENT INSURANCE HANDBOOK FOR",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d7c70646d89ea21db5bc7728343090ac",
+    "text": "UNEMPLOYED WORKERS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1035c5a9bf1fb87c8a945b976325f9ae",
+    "text": "Revised 9/11/2025",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "nebraska.pdf",
+      "parent_id": "d7c70646d89ea21db5bc7728343090ac"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "e51987ff0e3df44bd5b13c0ef6fe672f",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "04f96f2064a5e48e740548583782f5e3",
+    "text": "NEBRASKA-",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5387f704da95864cd6275964657066a4",
+    "text": "Good Life. Great Connections.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7e45a7a648f79086a31113aa4f4b95e3",
+    "text": "DEPARTMENT OF LABOR",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "b8d4263c52376f3b2e71a5859a1bc2ee",
+    "text": "A proud partner of the amerobcenter network",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "937f670722b67840a620435f2aa0d9c6",
+    "text": "NEBRASKA",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3bafdc594c80e1887fb955bd61d91970",
+    "text": "Good Life. Great Connections.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8da35556c259611a0d73bbb60d345c23",
+    "text": "DEPARTMENT OF LABOR",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8d88e259ede0c2d7dcc6ddc50be26a0f",
+    "text": "File online at: NEworks.nebraska.gov",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "30287fbb03beda5f9fd392afd6365601",
+    "text": "The Nebraska Unemployment Insurance Program is gov- erned by the Nebraska Employment Security Law (NESL) Neb. Rev. Stat. § 48-601 to 48-671 and related statutes. It is administered by the Nebraska Department of Labor, a state agency. The NESL and Nebraska Administrative Codes (NAC) cited can be viewed at: dol.nebraska.gov.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e95250b9c7fbb29c2223a685307d76d0",
+    "text": "Benefits are paid from the Nebraska State Unemployment Insurance Trust Fund. The fund is supported solely by a special tax on employers. No deductions are taken from employees’ paychecks for unemployment insurance.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2a0b0397d29711de2675e237d01c2a61",
+    "text": "This guide is not intended to take the place of the law, but to provide you with a general understanding of some of the requirements. This guidance document is advisory in nature but is binding on an agency until amended by such agency. A guidance document does not include internal procedural documents that only affect the internal operations of the agency and does not impose additional requirements or penalties on regulated parties or include confidential infor- mation or rules and regulations made in accordance with the Administrative Procedure Act. If you believe that this guidance document imposes additional requirements or penalties on regulated parties, you may request a review of the document.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ea319cd232679c5f80c1887e82143206",
+    "text": "To preserve the confidentiality of your personal information, the following unemployment insurance actions must be performed online:",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "014e2db33526ec90b5d068255deb5b62",
+    "text": "• File a New Claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "217e43c070b2298f700a27cddb2f3f43",
+    "text": "• File a Weekly Claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5829fb5b87ac6af2cadddbd19f7a4291",
+    "text": "• Reopen a Claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7e20b34012fdfbf02c9c44dbe7ac479a",
+    "text": "• Check Payment Status",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f4611f44fabe0d6401ae79505214d64d",
+    "text": "• Change Method of Payment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "24df67af2f44f30221cd52adda618363",
+    "text": "• Retrieve Tax Statements",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d9c12c6961e69724edcd84f8318ce35f",
+    "text": "• View Payment History",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "938fb77060e11cda78b6f2bc5b211a7a",
+    "text": "• Update Contact Information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "097b10cd9f19a455b084bfb1f8036af1",
+    "text": "For step-by- step instructions, visit:",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ea9dea91fae03474609aa454315d5277",
+    "text": "NEworks.nebraska.gov and click Unemployment Services, then Get Information.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6ccc8d1aa5cbeb6b3114f38d0f740ff7",
+    "text": "For technical assistance, contact the Nebraska Claims Center.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ba31bb079a232d8b2ee841aa4ff7ceb6",
+    "text": "ReliaCard (Debit card inquiries) (855) 233-8429",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "12d66ed4c6d28c7ad93b5c84eb91257a",
+    "text": "Equal Opportunity Program/Employer TDD/TTY: 800.833.7352 Auxiliary aids and services are available upon request to individuals with disabilities",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf",
+      "parent_id": "8d88e259ede0c2d7dcc6ddc50be26a0f"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "4a804f396be3ff99e10078de1d40d98d",
+    "text": "2 | Handbook for Unemployed Workers",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "eb722d0a618f7d579423ef06da4f7a60",
+    "text": "CONTENTS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "fc578d67ec8ef957e387d7850413fd13",
+    "text": "Gather the Following Information Before Filing a New Claim .....................................................4 Language Assistance ............................................................................................5 Registering in NEworks & Filing a New Claim ......................................5 Reemployment Services .....................................................................................9 The Adjudication Process ...................................................................................9 Work Search Requirements .............................................................................10 Filing Weekly Claims .............................................................................................11 Earnings Requirements .......................................................................................11 Qualifying Wages for Eligibility ......................................................................12 Benefit Amounts .....................................................................................................12 If You Are Working While Claiming .............................................................13 Stopping & Restarting Benefits .....................................................................13 Eligibility Issues .........................................................................................................14 Separation Issues .....................................................................................................15 Benefit Accuracy Reviews .................................................................................17 Appeals ...........................................................................................................................17 Overpayments and Fraud ..................................................................................17",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><tbody><tr><td colspan=\"2\">Gather the Following</td></tr><tr><td colspan=\"2\">Information Before Filing a New Claim [</td></tr><tr><td>Language Assistance</td><td>e e e</td></tr><tr><td>Registering in NEworks &amp; Filing a New Claim</td><td>N</td></tr><tr><td>e e e e e e Reemployment Services</td><td></td></tr><tr><td>The Adjudication Process...</td><td></td></tr><tr><td>Work Search Requirements e e e e</td><td>10</td></tr><tr><td>Filing Weekly Claims</td><td>n</td></tr><tr><td>e e Earnings Requirements</td><td>e e e n</td></tr><tr><td>Qualifying Wages for Eligibility</td><td>12</td></tr><tr><td>Benefit Amounts e</td><td>12</td></tr><tr><td>If You Are Working While Claiming</td><td>e e e e e e e e e 13</td></tr><tr><td>Stopping &amp; Restarting Benefits</td><td>13</td></tr><tr><td>Eligibility Issues</td><td>14</td></tr><tr><td>Separation Issues e</td><td>15</td></tr><tr><td>Benefit Accuracy Reviews e e e e</td><td>17</td></tr><tr><td>Appeals e</td><td>e e 17</td></tr><tr><td>e e e e Overpayments and Fraud</td><td>17</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "nebraska.pdf",
+      "parent_id": "eb722d0a618f7d579423ef06da4f7a60"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2f42cb22d8a65bb2009f805fec54a040",
+    "text": "Nebraska Department of Labor | 3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "80847f46bbfb9425d059dd1eafa565d0",
+    "text": "GATHER THE FOLLOWING INFORMATION BEFORE FILING A NEW CLAIM",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "76411cd2ad0d2237f925004aa0db2aa1",
+    "text": "• Social Security Number",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "nebraska.pdf",
+      "parent_id": "80847f46bbfb9425d059dd1eafa565d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "51f96cf17cd4ba1fe8f1a81dc87a98c4",
+    "text": "• Complete home mailing address, including ZIP code",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "nebraska.pdf",
+      "parent_id": "80847f46bbfb9425d059dd1eafa565d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f2cfef2f31b8f4ca68045cd4e04ea148",
+    "text": "• Telephone number",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "nebraska.pdf",
+      "parent_id": "80847f46bbfb9425d059dd1eafa565d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1867cac2d20fab3fd9c305833ad001dd",
+    "text": "• Email address",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "nebraska.pdf",
+      "parent_id": "80847f46bbfb9425d059dd1eafa565d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9071b11c529935ca30ded12ac55889ee",
+    "text": "• County where you live",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "nebraska.pdf",
+      "parent_id": "80847f46bbfb9425d059dd1eafa565d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b9632c332c9d39a51136dc084e043125",
+    "text": "• Driver’s license number or State ID card number",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "nebraska.pdf",
+      "parent_id": "80847f46bbfb9425d059dd1eafa565d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "97099259b7d5c895e4ca7e36fb2c8a74",
+    "text": "• If you select direct deposit, your bank routing number and account number",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "nebraska.pdf",
+      "parent_id": "80847f46bbfb9425d059dd1eafa565d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2dd5ea1a557e80be1fefd421e2853cfe",
+    "text": "• The company names for all your employers from the past 18 months as they appear on your paycheck stubs or W-2 forms",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "nebraska.pdf",
+      "parent_id": "80847f46bbfb9425d059dd1eafa565d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "99963ebaab2589215c53a49169f3ecfc",
+    "text": "• Complete mailing addresses of employers, including ZIP code and the city in which the business is physically located",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "nebraska.pdf",
+      "parent_id": "80847f46bbfb9425d059dd1eafa565d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d87803aa4ce42e249472e5c909886a8b",
+    "text": "• Your start and end dates with each employer, including month, day, and year.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "nebraska.pdf",
+      "parent_id": "80847f46bbfb9425d059dd1eafa565d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a565b4fd0ef9a7129c006ae78d2e7ad3",
+    "text": "• Your reason for leaving each employer (lack of work, voluntary quit, discharge, leave of absence)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "nebraska.pdf",
+      "parent_id": "80847f46bbfb9425d059dd1eafa565d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d2f055de909a8d5ed3850bf20c214d54",
+    "text": "• If a non-citizen: Documentation issued by US Citizenship and Immigration Services",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "nebraska.pdf",
+      "parent_id": "80847f46bbfb9425d059dd1eafa565d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fbb7b6072d965ffd2fa5547ff75b53d5",
+    "text": "• If you served in the military the past 18 months, DD 214 Member #4 Form",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "nebraska.pdf",
+      "parent_id": "80847f46bbfb9425d059dd1eafa565d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a03c480874a9bab37589e869413c0f61",
+    "text": "• If you worked for the federal government as a civilian employee in the last 18 months, Standard Form 8 or Standard Form 50. Also, compile your total wages earned with the federal employer in the last 18 months and indicate how you were paid (hourly, weekly, and monthly)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "nebraska.pdf",
+      "parent_id": "80847f46bbfb9425d059dd1eafa565d0"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "6fffc58aa476061d6261df9df0fb354e",
+    "text": "4 | Handbook for Unemployed Workers",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1a901ffe86ab83c6062957d5b25d3d1c",
+    "text": "Important! This web page contains essential information about the services provided by the Nebraska Department of Labor. It is essential that you understand this information, which is why we will provide it to you in your preferred language at no cost. To request translation or interpretation services, call (402) 458-2500.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7904745e6a66d7ccddf800d2efd5b907",
+    "text": "Spanish",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4adc1d4c49ca032e6492e81b59481e1e",
+    "text": "¡Importante! Esta página web contiene información esencial sobre los servicios provistos por el Departamento de Trabajo de Nebraska. Es esencial que usted entienda esta información y por esta razón le presentamos la información en su idioma preferido sin costo. Para solicitar servicios de traducción o interpretación, llame al (402) 458-2500.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf",
+      "parent_id": "7904745e6a66d7ccddf800d2efd5b907"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cba000bde9561d1fed07f17809830188",
+    "text": "Chinese",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d3aef3792cdf8f95de61b924b7827fb4",
+    "text": "重要信息！本网页包含有关内布拉斯加州劳工部 (Nebraska Department of Labor) 所提供服务的重 要信息。您必须了解这些信息，因此我们将以您偏好的语言免费提供这些信息。如需翻译或口译服务， 请致电 (402) 458-2500。",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf",
+      "parent_id": "cba000bde9561d1fed07f17809830188"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f0f2894dd240620ef61d0e5e2a0c4b0e",
+    "text": "Vietnamese",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bff12fc85a9b937a2873beb143bda96b",
+    "text": "Điều Quan Trọng! Mạng lưới này có thông tin thiết yếu về các dịch vụ từ Bộ Lao động Nebraska. Điều quan trọng là quý vị hiểu rõ thông tin này, và do chúng tôi sẽ cung cấp miễn phí thông tin này bằng ngôn ngữ quý vị ưa chuộng. Gọi số (402) 458-2500 để yêu cầu dịch vụ thông dịch hay thông ngôn.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf",
+      "parent_id": "f0f2894dd240620ef61d0e5e2a0c4b0e"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fd9936127e41f2b34dabba7a4a4d97b1",
+    "text": "Tagalog",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a02a8907347104645a4cff8b1dde379b",
+    "text": "Mahalaga! Ang web page na ito ay naglalaman ng mahalagang impormasyon tungkol sa mga serbisyong ipinagkakaloob ng Nebraska Department of Labor. Mahalaga na maunawaan mo ang impormasyong ito, kung kaya ipagkakaloob namin ito sa iyo sa mas gusto mong wika nang walang bayad. Upang humiling ng pagsasalin sa wika o mga serbisyo ng interpreter, tumawag sa (402) 458-2500.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf",
+      "parent_id": "fd9936127e41f2b34dabba7a4a4d97b1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3d2883126eb98b02c9bb046f61a3a529",
+    "text": "French",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "90f580a4a0ff7e76fb96a38d3e456622",
+    "text": "Important ! Cette page Web contient des informations essentielles sur les services fournis par le ministère du Travail du Nebraska. Il est très important que vous compreniez ces informations, c’est pourquoi nous vous les fournirons gratuitement dans la langue de votre choix. Pour demander des services de traduction ou d’interprétation, appelez le (402) 458-2500",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf",
+      "parent_id": "3d2883126eb98b02c9bb046f61a3a529"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d0aa19c9fbdce4909f703090009bd248",
+    "text": "Arabic",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aeea28717a05ab69596516197c368cf3",
+    "text": "نأ يرورﺿﻟا نﻣ .ﺎﻛﺳارﺑﻧ ﻲﻓ لﻣﻌﻟا ةرازو ﺎﮭﻣدﻘﺗ ﻲﺗﻟا تﺎﻣدﺧﻟا نﻋ ﺔﯾﺳﺎﺳأ تﺎﻣوﻠﻌﻣ ﻰﻠﻋ هذھ بﯾوﻟا ﺔﺣﻔﺻ يوﺗﺣﺗ !مﺎھ وأ ﺔﯾرﯾرﺣﺗﻟا ﺔﻣﺟرﺗﻟا تﺎﻣدﺧ بﻠطﻟ .ﺔﻔﻠﻛﺗ يأ كﻠﻣﺣﺗ نود ﺎﮭﻠﺿﻔﺗ ﻲﺗﻟا ﺔﻐﻠﻟﺎﺑ كﻟ ﺎﮭﻣدﻘﻧﺳ بﺑﺳﻟا اذﮭﻟو ،تﺎﻣوﻠﻌﻣﻟا هذھ مﮭﻔﺗ .( )402 -458 2500 ﻰﻠﻋ لﺻﺗا ،ﺔﯾروﻔﻟا",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf",
+      "parent_id": "d0aa19c9fbdce4909f703090009bd248"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3992005f4d5356c594e57b02a37d832d",
+    "text": "Amharic",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fb4b6aab64a3276c594082334202333a",
+    "text": "አስፈላጊ! ይህ የድር-ገጽ (web)፤ በኔብራስካ የስራ ሚኒስቴር ( Nebraska Department of Labor) ስለሚሰጡ አገልግሎቶች አስፈላጊ መረጃ የያዘ ነው። ይህንን መረጃ እርሶ መረዳት ስላለቦት፤ እርሶ በመረጡት ቋንቋ አዘጋጅተን ካለምንም ክፍያ እንድታገኙት እናደርጋለን። የጽሁፍ ወይም የቃል ትርጉም አገልግሎት ለማግኘት በስልክ ቁጥር (402) 458-2500 ይደውሉ።",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf",
+      "parent_id": "3992005f4d5356c594e57b02a37d832d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4837ce6328d864fcbedeac6a8b04612e",
+    "text": "Farsi",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2577bea836eeb76c969684ca45f56623",
+    "text": "ار تﺎﻋﻼﻃا ﻦﯾا ﺎﻤﺷ ﻪﮐ ﺖﺳا یرو ض� .دﻮﺷ � ﻪ�ارا ﺎکﺳا ب�ﻧ رﺎک ەرادا ﻂﺳﻮﺗ ﻪﮐ ﺖﺳا تیﺎﻣﺪﺧ ەرﺎ�رد �ﺎﺳا تﺎﻋﻼﻃا یوﺎﺣ ﻪﺤﻔﺻ ﻦﯾا !ﻢهﻣ ەرﺎﻤﺷ ﺎب �ﺎﻔﺷ و بیﺘﮐ ﻪﻤﺟﺮﺗ تﺎﻣﺪﺧ ﺖﺳاﻮﺧرد یاﺮﺑ .ﻢ�ﻨﮐ � ض ینﻣﺎﺗ ﺎﻤﺷ ��ﺟﺮﺗ نﺎ�ز ﻪب ﻪﻨ��ﻫ نوﺪب ار نآ ﺎﻣ ﺖﻠﻋ ض ینﻤﻫ ﻪب ،ﺪ��ﺷ ﻪﺟﻮﺘﻣ .ﺪ� ی�ﮕب سﺎﻤﺗ ( -458 )402 2500",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf",
+      "parent_id": "4837ce6328d864fcbedeac6a8b04612e"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "05653e807f5a993f28e74152a64a51cc",
+    "text": "Russian",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "638e50d474788bb372530e7e316dce9a",
+    "text": "Внимание! На этой веб-странице содержится крайне важная информация об услугах Департамента труда штата Небраска. Вам необходимо понимать эту информацию, поэтому мы предоставим её вам бесплатно и на предпочитаемом вами языке. Если вам требуются услуги письменного или устного перевода, обращайтесь по телефону (402) 458-2500.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf",
+      "parent_id": "05653e807f5a993f28e74152a64a51cc"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d771f7bd6cd50dc396c77028e16d9337",
+    "text": "Somali",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "78c9c5da0549d3dfa1d0b580612aeb4c",
+    "text": "Muhiim ah! Boggaan mareegta waxaa ku jira macluumaad muhiim ah oo ku saabsan adeegyada ay bixiso Waaxda Shaqada ee Nebraska(Nebraska Department of Labor). Waa lama huraan inaad fahanto macluumaadkan, taasna waa sababta aan kuugu siinayno luuqada aad doorbidayso iyadoo si lacag la'aan ah. Si aad u codsato adeegyada turjumaada ama fasiraada, wac (402) 458-2500.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "nebraska.pdf",
+      "parent_id": "d771f7bd6cd50dc396c77028e16d9337"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "46140019bafaaa56f41224a2e9472398",
+    "text": "REGISTERING IN NEWORKS & FILING A NEW CLAIM",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "74ad2bc2946a7116d9aab7b0717bc8cb",
+    "text": "When to File for Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2bb6d6d81ab218eaa7151619d7f40dd8",
+    "text": "File your new claim as soon as your employment ends or you begin working reduced hours. An unemployment claim is effective the week in which you apply for benefits. Weeks prior to the effective date of your claim cannot be paid even if you meet all the eligibility requirements.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "74ad2bc2946a7116d9aab7b0717bc8cb"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "29f286f64b7f443a40dd167eb2d09ddb",
+    "text": "How to File for Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "124dc3b2a4975072956522526253f076",
+    "text": "Claims in Nebraska are filed online. If you do not have internet access or have a disability requiring assistive technology, please visit your local Job Center for assistance. For a listing of Job Centers, click here.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "29f286f64b7f443a40dd167eb2d09ddb"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2656aa272b350532becd2385dbb7b095",
+    "text": "Resume Requirements",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4ee583bd6095cea000725b999c215a33",
+    "text": "For step-by-step instructions, go to: NEworks. nebraska.gov and click Unemployment Services, then Get Information.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "2656aa272b350532becd2385dbb7b095"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9ea9a231a678302e4432994d2c4a1c98",
+    "text": "To protect your privacy and ensure the accuracy of information provided to Nebraska Department of Labor, you should never have someone file a claim on your behalf.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "2656aa272b350532becd2385dbb7b095"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ff4bf81fd3ca8db0884f071f6811d24a",
+    "text": "Claims can be filed on a computer or mobile device. If you do not have access to the internet, you may use computers at any of the job centers listed online at dol.nebraska.gov/ContactUs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "2656aa272b350532becd2385dbb7b095"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8d1dea77aa9d953d6d00187a677358c3",
+    "text": "You must register in Nebraska’s reemployment website,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "2656aa272b350532becd2385dbb7b095"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "eed16d611c99f0a8d7638b0e74cb0404",
+    "text": "NEworks - NEworks.nebraska.gov - before filing a new",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "2656aa272b350532becd2385dbb7b095"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fa7015ddc1d8846127165549c2a9c9b2",
+    "text": "claim. When creating an account in NEworks and applying for benefits, you will be prompted to create a resume. Make sure your resume is searchable and set to “online” to meet the eligibility requirement.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "2656aa272b350532becd2385dbb7b095"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d7aa403b619b6bbfb2cf4d996ba51d9a",
+    "text": "If you are filing a claim from another state and do not live in a county bordering Nebraska, you must also register for employ- ment services in the state of your residence.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "2656aa272b350532becd2385dbb7b095"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "19fc56d5c91be9cb882bbb2e47df03a3",
+    "text": "Able and Available to Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ce838cd0acbc147f382dc89f356faaab",
+    "text": "In order to qualify for UI benefits you must be:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "19fc56d5c91be9cb882bbb2e47df03a3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e6f241d7305c723cde8bf63cf0a943bb",
+    "text": "• Actively looking for work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "19fc56d5c91be9cb882bbb2e47df03a3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c7b3a9745887a39d36fdace52523fca2",
+    "text": "• Mentally and physically able to work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "19fc56d5c91be9cb882bbb2e47df03a3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1e3ba04e47ad01537419f3f9f2da998b",
+    "text": "• Legally authorized to work in the United States",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "19fc56d5c91be9cb882bbb2e47df03a3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "159e384cf94a9964a2ee5340967e77a8",
+    "text": "• Available to accept new work (for example, you do not have personal responsibilities that would prevent you from working)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "19fc56d5c91be9cb882bbb2e47df03a3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7f6aa8571ef7d543a6c2d19276955928",
+    "text": "Claiming benefits while incarcerated is fraud and may result in criminal prosecution. 219 NAC 4; Neb. Rev. Stat. § 48-627(3); Neb. Rev. Stat. § 48-663.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "19fc56d5c91be9cb882bbb2e47df03a3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "57ec101181088b5bf9f7e3a11ae5a426",
+    "text": "Your Privacy and Your Password",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d52e6dc220d296c6ce21c71d0da34633",
+    "text": "To protect your privacy, NDOL does not provide information about your claim to anyone other than you, whether the informa- tion is requested in person, in writing, by email or over the phone. We cannot give information to a family member.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "57ec101181088b5bf9f7e3a11ae5a426"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f9ec8e993663749de5ca0dc9b08dbf12",
+    "text": "When filing for unemployment benefits online, you will choose a secure password to protect your privacy and ensure the utmost security. You will need your secure password to file your weekly claim each week, so be sure to keep it in a safe place.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf",
+      "parent_id": "57ec101181088b5bf9f7e3a11ae5a426"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b589c20a5cb4a88235b1b4d7ad05579d",
+    "text": "6 | Handbook for Unemployed Workers",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0f3954c2fbc548abe81003b2e9464f96",
+    "text": "Methods of Payment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "99b1a70ba966e2d6d4e4de88713b4fa4",
+    "text": "You are required to select a payment method of direct deposit or debit card when filing your new claim. We do not issue paper checks. You can change your payment method by logging into your unemployment claim at NEworks.nebraska.gov. New Unemployment Insurance claims are typically processed within 21 days from the date the claim is filed. After your new claim is processed and if you are determined eligible, you will typically receive payment within 2-3 business days of filing your weekly claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "nebraska.pdf",
+      "parent_id": "0f3954c2fbc548abe81003b2e9464f96"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0e3a43fe690adb7cac6abe1c81c3f534",
+    "text": "Direct Deposit",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0458e7cca09e0d3780240bce66cb8857",
+    "text": "Direct deposit is an electronic payment transfer to an individual’s checking or savings account. When you file your initial claim and select direct deposit as your preferred method of payment, or when you modify your bank account information, you must enter the bank routing and account numbers. You are solely responsible for the accuracy of the account information. Incorrect information may result in a delay of benefit payments, and possible fees. You are also solely responsible for updating your banking information should changes occur. Failure to do so could affect timely receipt of your unemployment insurance benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "nebraska.pdf",
+      "parent_id": "0e3a43fe690adb7cac6abe1c81c3f534"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "068b8796ab4097f1072355e268ef4139",
+    "text": "For direct deposit, your routing and account numbers can be found at the bottom of your paper checks. If you do not know the appropriate routing number or your checking or savings account number, please contact your bank.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "nebraska.pdf",
+      "parent_id": "0e3a43fe690adb7cac6abe1c81c3f534"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f38ea7fcbd717da0c52d26c474cfa019",
+    "text": "A.B.A Routing Numbers Example",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "nebraska.pdf",
+      "parent_id": "0e3a43fe690adb7cac6abe1c81c3f534"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "9d41816357c1b796139f523d5150cd4c",
+    "text": "John Q. Public 123 Main Street 101 Your Town, USA 12345789 Pay 1o the order of 218 23L5 cc Routing/Transit Account Number Number",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "90019db40ac2118cd6f9a5e47953c3d1",
+    "text": "• DO NOT enter the number that appears on your debit card.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5079a3e0a8c4651f131306f8d69d189a",
+    "text": "• DO NOT enter prepaid card numbers. Payments will not be issued to any prepaid cards under the direct deposit payment method.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "aabfec27ca913ebf0b3b30074ae5a2e6",
+    "text": "Debit Card",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d8bcddc0c98e545603423e5ec9d4383f",
+    "text": "The U.S. Bank ReliaCard® is a VISA® prepaid debit card.* The card is mailed in a plain windowed enve lope at the time a claim becomes payable. There is no information on the envelope indicating that a ReliaCard debit card is enclosed. Keep the card and the information that came with the card until the expiration date print ed on the card. If your unemployment claim ends and you file a new claim, a new card will be issued even if the previous card has not expired.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "nebraska.pdf",
+      "parent_id": "aabfec27ca913ebf0b3b30074ae5a2e6"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "045746ec0dcccc72116bcaa0eaf31399",
+    "text": "*The ReliaCard® is issued by U.S. Bank National Association pursuant to a license from Visa U.S.A. Inc. © 2022 U.S. Bank. Member FDIC.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "nebraska.pdf",
+      "parent_id": "aabfec27ca913ebf0b3b30074ae5a2e6"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "261a363ec6a32ebe781f35578e3ed47a",
+    "text": "Nebraska Department of Labor | 7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3fe0a95e617f8bb9661ba9ba2fba1c32",
+    "text": "If you have a change of address, you must update your address in your NEworks account and report your new address to ReliaCard by calling Customer Service at 855-233-8429.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c5ca237024cfc1d3b59d1ee99203ffa3",
+    "text": "For more information visit: www.usbankreliacard.com",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e41d5a160543f5f7a96370e138d21f0c",
+    "text": "Income Tax Withholding",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c4a97660f22750abf1dac9ce2c0a464b",
+    "text": "Unemployment benefits are taxable income under federal and state law. The benefits paid to you are reported to the Internal Revenue Service and to the Nebraska Department of Revenue. No income tax is withheld from your benefit payments unless you request it. If you decide to have taxes withheld, 10 percent will be deducted from your weekly benefit payment for federal taxes and 5% will be withheld for state taxes. You can request, stop, or change your income tax withholding by logging into your account at NEworks.nebraska.gov.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "nebraska.pdf",
+      "parent_id": "e41d5a160543f5f7a96370e138d21f0c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "690b573aa9d5dac6d4f6220dd8c79571",
+    "text": "No later than January 31, you will receive an IRS Form 1099-G showing the total benefits paid to you for the prior year and the income taxes withheld. It will be sent to your last known address, so keep your address current.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "nebraska.pdf",
+      "parent_id": "e41d5a160543f5f7a96370e138d21f0c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "25393f14171f4e6e1422c0b2f1aa8a7b",
+    "text": "You can view and print your 1099-G form online by logging into your account at NEworks.nebraska.gov.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "nebraska.pdf",
+      "parent_id": "e41d5a160543f5f7a96370e138d21f0c"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f23814191dd085855ae9f74921a93df7",
+    "text": "While Your New Claim is Pending",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "45df75a292cc6d1dcbe81517e0085036",
+    "text": "New Unemployment Insurance claims are typically processed within 21 days from the date the claim is filed. Federal and State law require that a request for separation information be sent to each employer to verify work history, wages and details regarding the separation. You may also be contacted and asked to provide information to evaluate benefit eligibility. Remember to do the following while your claim is being processed:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "nebraska.pdf",
+      "parent_id": "f23814191dd085855ae9f74921a93df7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4f5ce57db82f839cc2c292417754852d",
+    "text": "Read all communication about your claim. Check your email, the NEworks Message Center, telephone messages, and the mail for any claim-related updates. Keep your address current because you will receive letters outlining what you need to do to maintain benefit eligibility. The decisions about your claim are made based on available information, so it is important that you respond on time when you are instructed to do so.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "nebraska.pdf",
+      "parent_id": "f23814191dd085855ae9f74921a93df7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5bda24f37cf3a0fe7d66d9ea78358bda",
+    "text": "File weekly claims at NEworks.nebraska.gov while your claim is processing. You have from Sunday to Saturday to file your claim for the previous week. If you don’t file your claim on time, your benefit payments may be affected.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "nebraska.pdf",
+      "parent_id": "f23814191dd085855ae9f74921a93df7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0ee36f63ca2bae5024a34c8cfa59c83d",
+    "text": "Report your gross wages (before taxes are deducted) for each week you claim. Gross wages include, but are not limited to: your hourly rate of pay multiplied by the total hours worked, tips, and commission. You must report all wages for the week that you perform the work. Do not wait until you are paid. Keep track of the total hours you work each week, Sunday through Saturday because your claim maybe audited. Misreporting wages is fraud and could result in penalties and criminal charges.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "nebraska.pdf",
+      "parent_id": "f23814191dd085855ae9f74921a93df7"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d6d1056adf5f6de30da46f0ef8e513e5",
+    "text": "8 | Handbook for Unemployed Workers",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6c5099a011370b6e49b66e41839d2bf1",
+    "text": "REEMPLOYMENT SERVICES",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "59bad0538265490e55bf45e7cdd121b1",
+    "text": "The Nebraska Department of Labor provides a Reemployment Services (NEres) program, designed to help you find work. The program selects individuals early in their unemployment and offers job seeker services to help you become reemployed as soon as possible. If you receive a notice that you have been selected, you are required to take part in this program in or- der to remain eligible for unemployment insurance benefits. For any week that you do not participate in the NEres program, you may be disqualified from receiving unemployment benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf",
+      "parent_id": "6c5099a011370b6e49b66e41839d2bf1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6d9046a61f57cf1d0b683a6f461173e9",
+    "text": "NEres starts with an orientation and includes a required one-on-one meeting with a Department of Labor staff member. Staff will review your employment history, help you create an employment plan and refer you to the reemployment services that fit your needs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf",
+      "parent_id": "6c5099a011370b6e49b66e41839d2bf1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dc983f86449a603e0c42edb548e8b13a",
+    "text": "For a list of job centers offering reemployment services, go to dol.nebraska.gov/ContactUs",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf",
+      "parent_id": "6c5099a011370b6e49b66e41839d2bf1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "495eb2b03b2af61f0ece4811f17d2780",
+    "text": "THE ADJUDICATION PROCESS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "40339a6cf4b85d8a263b3b8f209279df",
+    "text": "Adjudication is the process used to resolve questions regarding eligibility for unemployment insurance benefits. Your claim may be referred to an adjudicator if there are questions about why you left your job or whether you are able and available for work. Other issues may also prompt a claim to be referred to",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf",
+      "parent_id": "495eb2b03b2af61f0ece4811f17d2780"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a5b73458515772c62ebc1089d3cfd568",
+    "text": "an adjudicator. Please see the Eligibility Issues and Separation Issues sections.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf",
+      "parent_id": "495eb2b03b2af61f0ece4811f17d2780"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "32925b3a5fde0b76c06084b197503808",
+    "text": "To prepare for an adjudicator’s call, have the following information ready:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf",
+      "parent_id": "495eb2b03b2af61f0ece4811f17d2780"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "47e2bc8e323eeb242261027c121bd913",
+    "text": "• Reason for separation from your employer",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf",
+      "parent_id": "495eb2b03b2af61f0ece4811f17d2780"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "53d025951cb13ae09ee1ea58f070f9b2",
+    "text": "• Dates when events happened causing the separation",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf",
+      "parent_id": "495eb2b03b2af61f0ece4811f17d2780"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "42ee047570495ef3e10a283aa23a78d3",
+    "text": "• Names of witnesses or supervisors involved with the separation",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf",
+      "parent_id": "495eb2b03b2af61f0ece4811f17d2780"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3289fd809b134e98a6f70d7ac3f1d885",
+    "text": "• Written documentation, such as warnings, medical notes, if applicable",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf",
+      "parent_id": "495eb2b03b2af61f0ece4811f17d2780"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4203b53c078866a922e8ca6e64d0a9b9",
+    "text": "• Check stubs verifying vacation, severance, holiday or bonus pay, if applicable",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf",
+      "parent_id": "495eb2b03b2af61f0ece4811f17d2780"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a5aaac4ee7f405ee5d1421ff8464e42b",
+    "text": "• Any questions you may have",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf",
+      "parent_id": "495eb2b03b2af61f0ece4811f17d2780"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fe0b48bc83978cdafb8e2f241e6992eb",
+    "text": "During adjudication, the Department of Labor will make a determi- nation about your claim based on all available information, includ- ing information from you, your employers, and sometimes other sources. If you receive a phone call or letter from an adjudicator, be sure to respond on time.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf",
+      "parent_id": "495eb2b03b2af61f0ece4811f17d2780"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7fe80cef40e3230032c9db570ff30f71",
+    "text": "While your claim is pending adjudication, continue to file weekly claims and complete your weekly online work search logs. If your claim is determined payable and you have met all other eligibility requirements, you will receive back payments for prior weeks claimed in a lump sum.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf",
+      "parent_id": "495eb2b03b2af61f0ece4811f17d2780"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9aefe717aa0d52048c9924a4569cef86",
+    "text": "If you disagree with a determination issued, you have the right to appeal within 20 days. Please see the Appeals section of this guide for further instructions.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf",
+      "parent_id": "495eb2b03b2af61f0ece4811f17d2780"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "769f70dd7aed58e7ed1f07da9082fe85",
+    "text": "Nebraska Department of Labor | 9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "142c30747f52382d72154c99bbc8935d",
+    "text": "Reemployment Activities Unemployment Insurance Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "25d905b4cc4d93db3d343b6bf72d605e",
+    "text": "Five of the following reemployment activities must be completed per benefit week in order to remain eligible for Unemployment Benefits. At least two of the five reemployment activities must be applications for suitable work as defined by Neb. Rev. Stat. § 48-628.15(5). This requirement does not apply if you are on a temporary layoff and your employer has confirmed a return-to-work date within 16 weeks of your layoff date, if you are attached to certain industries, if you are a member in good standing with a union hiring hall, or you are in a TRADE or Approved Training program.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "nebraska.pdf",
+      "parent_id": "142c30747f52382d72154c99bbc8935d"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "2f134fea2e2a0542ee9b7b37a2da5c07",
+    "text": "11 Attending a Nebraska Reemployment   Services Session with the Nebraska   Department of Labor.  22 Conducting work searches using internet    job banks as well as professional/trade   publications (provide the site searched and   the date the web site was accessed).  33 Applying to a job posting through the   Nebraska Department of Labor’s web   application for reemployment services   (NEworks.nebraska.gov).  44 Applying to a job posting through an   Internet job bank or directly through an   employer’s website (provide proof of the   date of application and job applied for).  55 Attending a resume writing class for   the purpose of preparing or revising a   resume for submission to a job posting.   66 Attending job seeking skills classes,   workshops, or job clubs.  77 Meeting with a career counselor  88 Attending a sponsored networking event in   your occupational field or industry.  99  Attending a job fair.  1010 Joining a professional   organization in your occupation   field or industry.  1111 Taking a civil service exam.  1212 Taking a pre-employment exam,    at the request of an employer.  1313 Taking skills and interests tests   sponsored by the Department of Labor,   a community college or accredited   college or university to identify a new   occupational field or industry.  1414 Visiting an employer’s place    of business to fill out a    job application.  1515 Calling employers to arrange    for job interviews. ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "962e74e694945ae9dc08fcf90aac0e50",
+    "text": "10 | Handbook for Unemployed Workers",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "90d95a0c69fcd558f5cb4c0770712a70",
+    "text": "FILING WEEKLY CLAIMS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7992d4e876c7570ba8b9617fdc344ae4",
+    "text": "How to File",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0576cbc0df13724fdfcb347b1949a633",
+    "text": "After you file your new claim, file weekly claims online at NEworks.nebraska.gov for every week you are unemployed or your hours are reduced. You must file a weekly claim for any week that you want payment or waiting week credit, even if your new claim is still being processed, your eligibility is being decided, or you have an appeal pending. After your claim has been pro- cessed and if you are determined eligible, you will typically receive payment within 2-3 business days of filing your weekly claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "nebraska.pdf",
+      "parent_id": "7992d4e876c7570ba8b9617fdc344ae4"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "dc15d07acf692bf6e2320d8c03c7cb4a",
+    "text": "When to File",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ccb4434e100b6d0826c05ee96c5fa6b8",
+    "text": "You have from Sunday to Saturday to request benefits for the previous week. Failure to file your weekly claim on time could result in denial of benefits. 219 NAC 2 (003)(C)(D)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "nebraska.pdf",
+      "parent_id": "dc15d07acf692bf6e2320d8c03c7cb4a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ae246190162c2321a3eab9ec7173abb0",
+    "text": "Waiting Week",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a338921bf20107c1dc980ee7fc80db72",
+    "text": "The first eligible week is called your “waiting week.” To get credit for the waiting week, you must file a weekly claim and meet all eligibility requirements for that week. The waiting week is never paid. However, you must serve a waiting week to be eligible for payments for later weeks. There is one waiting week per benefit year. If for any reason your benefits are denied for the beginning weeks of your request, your waiting week will be your first eligible week after the denial period. A week that is prior to the effective date of the claim or a week that is under disqualification for any reason cannot be used as the waiting week. Neb. Rev. Stat. § 48-627 (4)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "nebraska.pdf",
+      "parent_id": "ae246190162c2321a3eab9ec7173abb0"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2c9515b1aad1b63984c32c853f940a0f",
+    "text": "Earnings Requirements",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7f40daf8af3f34d7cb5fb43567616d3b",
+    "text": "You must meet certain earnings requirements in order to qualify for unemployment benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "nebraska.pdf",
+      "parent_id": "2c9515b1aad1b63984c32c853f940a0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e692c797950eca9456c95488438ba457",
+    "text": "NDOL looks at the following when determining if you have enough wages to qualify for benefits:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "nebraska.pdf",
+      "parent_id": "2c9515b1aad1b63984c32c853f940a0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f9a14005f7856ca9a3413dd52441b069",
+    "text": "1. Total wages earned during your base period. For 2025, the minimum earnings requirement is $5,297. The minimum earnings requirement is adjusted annually.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "nebraska.pdf",
+      "parent_id": "2c9515b1aad1b63984c32c853f940a0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d9a8f2c887879ce5e94a87751f06ff51",
+    "text": "A standard base period is the first four of the last five completed calendar quarters before the start date of your claim. A calendar quarter is equal to three-month segments of the year beginning in January. If you do not meet the requirement for total earnings during the standard base period, you may be eligible using an alternate base period (the last four completed calendar quarters before the start date of your claim).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "nebraska.pdf",
+      "parent_id": "2c9515b1aad1b63984c32c853f940a0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "52a554fed17dd4d28e45d417cdb5c5f4",
+    "text": "Tim filed an unemployment claim in July, 2024. His regular base period is April, 2023 to March, 2024. His alternate base period is July, 2023 to June, 2024.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "nebraska.pdf",
+      "parent_id": "2c9515b1aad1b63984c32c853f940a0f"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "ef43f46018e51600fadad01458b1a756",
+    "text": "2023  2024   Q2  Q3  Q4  Q1  Q2  Q3  April  Regular Base Period  March  Unemployment   Claim Filed  July  Alternate Base Period  June  July 2024 ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "aa2d51d29384ea77db23b58adfd9b38f",
+    "text": "Nebraska Department of Labor | 11",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "604dd539f1ac27c2e5ccaa8ddd33126c",
+    "text": "2. Wages earned per quarter. You must have earned at least $1,850 in wages in one quarter and $800 in another quarter in order to qualify. Wages must have been earned from employers required to pay unemployment insurance taxes (insured employers).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d03146c3200b53528f3d81e960fe08a3",
+    "text": "QUALIFYING WAGES FOR ELIGIBILITY",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "76e00dd9f5aa67b955fd707ba8aa4523",
+    "text": "Wages must have been earned from employers required to pay unemployment insurance taxes (insured employers). If you are not sure whether your work is insured employment, you should file a claim and request weekly benefits. A wage investi- gation will be conducted to determine if you are eligible to receive benefits. Neb. Rev. Stat. § 48-627.01(1a)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "nebraska.pdf",
+      "parent_id": "d03146c3200b53528f3d81e960fe08a3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "060c7702707a2445d9a63bfffb0e377a",
+    "text": "Under Nebraska law, you cannot receive benefits on ‘back-to-back’ unemployment claims unless you have worked in insured employment since the filing date of your prior claim and earned at least six times the previous weekly benefit amount. Your new claim must meet both the minimum monetary requirements and the requalification requirement. Neb. Rev. Stat. § 48-627.01(1b)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "nebraska.pdf",
+      "parent_id": "d03146c3200b53528f3d81e960fe08a3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f77380caf29bfdeb84e69b6ad83791ee",
+    "text": "BENEFIT AMOUNTS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a1be166e1e3464eb1ed23cdc934d9d71",
+    "text": "The maximum weekly benefit amount for 2025 is $564. Your individual benefits are calculated by identifying the highest quarter wages in your base period. That amount is then divided by 13 to arrive at the average weekly wage, then divided again by two and rounded down to the next even dollar amount to arrive at your weekly benefit amount. After your claim has been processed you can view your weekly benefit amount in the Unemployment Services Claim Summary. You will also be advised of your weekly benefit amount when you receive your monetary determination. Neb. Rev. Stat. § 48-624",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "nebraska.pdf",
+      "parent_id": "f77380caf29bfdeb84e69b6ad83791ee"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0adbd3f835349c2633c112dbcdf40fca",
+    "text": "If you are determined eligible, you will typically receive payment within 2-3 business days of filing your weekly claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "nebraska.pdf",
+      "parent_id": "f77380caf29bfdeb84e69b6ad83791ee"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "615ac319cfcd134feb55ee564e1e2261",
+    "text": "You may be eligible for up to 26 weeks of benefits during a 12-month period. The maximum amount of unemployment benefits you may receive during your benefit year is 26 times your weekly benefit amount, or 1/3 of your total base period wages, whichever is less. Your maximum amount is calculated after any separation issues are adjudicated and may be reduced when there are separation disqualifications, such as a discharge or quit or refusal of suitable employment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "nebraska.pdf",
+      "parent_id": "f77380caf29bfdeb84e69b6ad83791ee"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "7de649d255fcb91bf714de56fe40784c",
+    "text": "12 | Handbook for Unemployed Workers",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bea0e3bfecbc7a3f43efeda1e61ca9a8",
+    "text": "IF YOU ARE WORKING WHILE CLAIMING",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5d31a324bfaeae7dced8d00f865bebb4",
+    "text": "Report Wages",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5fcd6237b7251cbf802da52af7b4fa77",
+    "text": "Report wages earned during that week even if you did not actually receive payment that week. Each time you file a weekly claim, you will be asked if you worked. Answer “yes” if you performed any work for wages, even if it was temporary or part-time. You must report your gross wages (before deductions and taxes). Wages include but are not limited to: wages, tips, salary, commission, cash, allowances for meals or lodging, vacation pay and bonuses. You must report your wages in the week you perform the work, not when you are paid. If you worked for more than one employer in a week, add your wages from all employers. If you earned less than your weekly benefit amount for any claimed week, you may be eligible for partial benefits. If your wages for the week are more than your weekly benefit amount, you will not receive benefits for that week. Neb. Rev. Stat. § 48-625.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf",
+      "parent_id": "5d31a324bfaeae7dced8d00f865bebb4"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d9c9355c899a5fd13cd91ee4a08aa785",
+    "text": "Accepting Full-Time Employment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "85f7821e3d16ed5014eece7e18ca9eb1",
+    "text": "If you’ve been claiming Unemployment Insurance benefits and have accepted a new job, you may claim benefits until you start your new employment. Log into your NEworks account and upload a letter from your new employer indicating the start date. The letter will be reviewed to determine if you meet the conditions for waiver of job search requirements.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf",
+      "parent_id": "d9c9355c899a5fd13cd91ee4a08aa785"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7f78d450e3b09ea600f05149c2a6981c",
+    "text": "You must continue to search for work until notified by NDOL that the requirement is waived. Contact NDOL if you have questions about claiming benefits until you start your job, or if you are unsure whether you are required to search for work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf",
+      "parent_id": "d9c9355c899a5fd13cd91ee4a08aa785"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "29f311094c9d500e318a5bdca99edc8b",
+    "text": "STOPPING & RESTARTING BENEFITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6b31ab9232113b8bd185c992a3a2d676",
+    "text": "To Reopen Your Claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "267a1a448cc1b5dcdb4fdf23fa0960a4",
+    "text": "If you become unemployed again and wish to file for benefits, go online to NEworks.nebraska.gov and reopen your claim during the first week your job has ended or your employer has reduced your work hours. When reopening the claim you must add all employment since last time you filed for unemployment in order to prevent a delay in processing of your claim. You will not be able to file a weekly claim for benefits until you reopen your claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf",
+      "parent_id": "6b31ab9232113b8bd185c992a3a2d676"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4186cc629b943800f4d105237fb691b7",
+    "text": "Reopen your claim if:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fe01f40e8072a5cac7a77c4c8fca8eaf",
+    "text": "• You have not submitted a weekly certification for benefits for two or more weeks,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf",
+      "parent_id": "4186cc629b943800f4d105237fb691b7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "191805acdc1cba566737a02f4cabcbf0",
+    "text": "• You received a notice that you must reopen your claim to continue benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf",
+      "parent_id": "4186cc629b943800f4d105237fb691b7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7e147c10ef7a4f713aca5ef4b42daad2",
+    "text": "Failure to report all work and wages when submitting your weekly claim may result in any or all of the following consequences:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf",
+      "parent_id": "4186cc629b943800f4d105237fb691b7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2038f129c54e7ae02a52b6c4207d159b",
+    "text": "• Repaying incorrectly paid benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf",
+      "parent_id": "4186cc629b943800f4d105237fb691b7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9d4ee93f51f52034d9022617f77f199c",
+    "text": "• 15% penalty fee on the amount of any benefits owed",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf",
+      "parent_id": "4186cc629b943800f4d105237fb691b7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ccad48d27717ef4be3c90b22f39a9167",
+    "text": "• Loss of future benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf",
+      "parent_id": "4186cc629b943800f4d105237fb691b7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6526c596d840bb2a6ceb2e0831a330a6",
+    "text": "• Interception of federal and/or State of Nebraska income tax refunds to repay benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf",
+      "parent_id": "4186cc629b943800f4d105237fb691b7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "645c0205b755f13cdc820ac8bc4b0059",
+    "text": "• Civil action",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf",
+      "parent_id": "4186cc629b943800f4d105237fb691b7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "857f1c5e86a2303683af59e9b848f16f",
+    "text": "• Criminal prosecution",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf",
+      "parent_id": "4186cc629b943800f4d105237fb691b7"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "dc44b53de96f2e2e543d02f0619baa70",
+    "text": "Nebraska Department of Labor | 13",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "49b8ed80de6ad23a63d4ea22cfba6c9d",
+    "text": "EXAMPLES OF ELIGIBILITY ISSUES",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a0fbe129041e70326c526794724a17d5",
+    "text": "Able and Available to Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ec747f680ca391848233659a3c2bd5f3",
+    "text": "In order to qualify for UI benefits you must be:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf",
+      "parent_id": "a0fbe129041e70326c526794724a17d5"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e5c33df0869c18d08405a837612af6e0",
+    "text": "• Actively looking for work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf",
+      "parent_id": "a0fbe129041e70326c526794724a17d5"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3e9126c5eae23275d2ffc102e37eb315",
+    "text": "• Mentally and physically able to work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf",
+      "parent_id": "a0fbe129041e70326c526794724a17d5"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "945f41abd9bb6d500eeda7abed67c591",
+    "text": "• Legally authorized to work in the United States",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf",
+      "parent_id": "a0fbe129041e70326c526794724a17d5"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "166a4917abc0a022ba0d413ea4161cb8",
+    "text": "• Available to accept new work (for example, you do not have personal responsibilities that would prevent you from working)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf",
+      "parent_id": "a0fbe129041e70326c526794724a17d5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f3290747227297d84fadef24e96c8ac4",
+    "text": "Claiming benefits while incarcerated is fraud and may result in criminal prosecution. 219 NAC 4; Neb. Rev. Stat. § 48-627(3); Neb. Rev. Stat. § 48-663.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf",
+      "parent_id": "a0fbe129041e70326c526794724a17d5"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "50e8c06edd04aba5aae8833a6d00bfdb",
+    "text": "Resume Requirement",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f8b5f886c0e88573fb72eb7ea1021965",
+    "text": "You must have an active, online resume in order to qualify for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cf72f57f6c5e69e2577d253c2194a969",
+    "text": "When creating an account in NEworks and applying for benefits, you will be prompted to create a resume. Your resume must be searchable and set to “online” before you file your first weekly claim in order to meet Unemployment Insurance eligibility requirements.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf",
+      "parent_id": "f8b5f886c0e88573fb72eb7ea1021965"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "76b022f08d0dcfc226e1dd151af0f7c9",
+    "text": "Education Employees",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0acc8f2bfc808273af0aba638241c71f",
+    "text": "If you are employed for or on behalf of an educational institution, benefits may be denied between terms and/or during regu- larly scheduled breaks. Neb. Rev. Stat. § 48-628.06",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf",
+      "parent_id": "76b022f08d0dcfc226e1dd151af0f7c9"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "624e924f86c4fcdbd5aa910b3019511e",
+    "text": "Reemployment Services",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2930cd1d740d5af0c06531028675cfcd",
+    "text": "If you receive a notice that you have been selected for the Reemployment Services program (NEres), you are required to take part in this program in order to remain eligible for unemployment insurance benefits. Neb. Rev. Stat. § 48-627(5)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf",
+      "parent_id": "624e924f86c4fcdbd5aa910b3019511e"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "357029a2d0eca5d18472fa9a20be80dd",
+    "text": "Reporting",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "24f5cb7b3b74944231322c70b7dbce2e",
+    "text": "The Nebraska Department of Labor may contact you and require that you provide additional information regarding your claim. If you fail to respond and provide the information requested, you may be disqualified from benefits. 219 NAC 2(004)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf",
+      "parent_id": "357029a2d0eca5d18472fa9a20be80dd"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c33ed00804a27815d8ec2a8ca4df3cf6",
+    "text": "Attending School",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4bc389ca6ed7a3b089b3fa2e6f8c3395",
+    "text": "If you are regularly attending school as a full-time student, you may be disqualified from benefits unless you were a student at the time you earned the majority of the wages in your base period. An exception may apply if you are enrolled in a training program which has been approved by the Commissioner of Labor. Neb. Rev. Stat. § 48-628.03",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf",
+      "parent_id": "c33ed00804a27815d8ec2a8ca4df3cf6"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "79ec87a18d442928cc8be6aa1f2cc546",
+    "text": "14 | Handbook for Unemployed Workers",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e9890dc7409acf212792afe507e63c66",
+    "text": "Approved Training Program",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a29dfaa9b2014ee8637b4632f3212f35",
+    "text": "If you qualify for unemployment insurance benefits and are planning to attend vocational training, you may apply for the Approved Training program. If your application is approved by the Commissioner of Labor, the work search requirements will be waived while you are in training until you exhaust your regular unemployment insurance benefits. After your regular unemployment benefits are exhausted, you may be eligible for up to an additional 26 weeks of benefits if you continue your training. Tuition and school expenses are not paid under this program. Work search requirements are waived while you are receiving additional benefits under the Approved Training Program. 225 NAC 1 For more information regarding this program, go to dol.nebraska.gov.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "nebraska.pdf",
+      "parent_id": "e9890dc7409acf212792afe507e63c66"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cfe3579e6cace11aed7df98b12860bde",
+    "text": "Strike/Labor Dispute",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ced1a68ff6b4834a42e9c3fe89fcbf4e",
+    "text": "In general, individuals are disqualified for the week(s) they are unemployed due to a work stoppage resulting from a strike or lockout. Neb. Rev. Stat. § 48-628.09",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "nebraska.pdf",
+      "parent_id": "cfe3579e6cace11aed7df98b12860bde"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1ba3dbfc9e4ddfb2eacb4d6df6b2fc10",
+    "text": "Vacation, Severance, or Receipt of Other Payments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9fd03e90e6bb9d42e728164c735fe46d",
+    "text": "Benefits may be denied or reduced for any week in which you receive additional payments from your employer. Examples in- clude vacation, severance, holiday, bonus, sick, workers’ compensation or pension payments. Neb. Rev. Stat. § 48-628.02(1)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "nebraska.pdf",
+      "parent_id": "1ba3dbfc9e4ddfb2eacb4d6df6b2fc10"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0a93b50f25ef1870933b2d85200c8c9f",
+    "text": "Work Refusal",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5198d8fbda17740c10c21afb7de87d53",
+    "text": "You may be disqualified for 12 weeks for failing to accept an offer of suitable employment or failure to accept a Nebraska Department of Labor Employment Services referral. Suitability is determined by considering a person’s training and expe- rience and the conditions in the labor market. Maximum benefits payable may also be reduced when a disqualification is assessed. Neb. Rev. Stat. § 48-628(1)(3)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "nebraska.pdf",
+      "parent_id": "0a93b50f25ef1870933b2d85200c8c9f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "932dfc37ff2567834f2780dd5bb9a0ad",
+    "text": "Work Search",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cfb3537f55fd4bbb12c7b3367fa68f10",
+    "text": "You will be disqualified for weeks that you did not meet the work search requirements. See the Work Search Require- ments section of this Guide for more information. 219 NAC 4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "nebraska.pdf",
+      "parent_id": "932dfc37ff2567834f2780dd5bb9a0ad"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "53a6c13a6c559e44d2f7fb32ae11c155",
+    "text": "Employment Eligibility",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "415d6e7824a2094090bc6f6945224d62",
+    "text": "The Immigration Reform and Control Act of 1986 (P.L-99-803) requires all employers to verify employment eligibility of new employees. When an employer hires you, the employer will require that you show certain documents to prove your identity and employment eligibility. Failure to present the documents to your employer or the Nebraska Department of Labor may affect your eligibility for unemployment benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "nebraska.pdf",
+      "parent_id": "53a6c13a6c559e44d2f7fb32ae11c155"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f2c8050e5abe5f9b3f6c4131c402dac2",
+    "text": "SEPARATION ISSUES",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "117c4057b7808149c0bd83b69548c64b",
+    "text": "Voluntary Quit",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b049af5179d5f82fc664a2f058505840",
+    "text": "In Nebraska, good cause for quitting includes but is not limited to the conditions of work, compelling health reasons, or quitting to escape spousal abuse. If the Nebraska Department of Labor determines that a person has quit a job with- out good cause, maximum benefits payable may be reduced when a disqualification is assessed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "nebraska.pdf",
+      "parent_id": "117c4057b7808149c0bd83b69548c64b"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "119047bc3b62ced4b73f466e2a6316db",
+    "text": "Nebraska Department of Labor | 15",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "89923a45c70df5a716412443b406d31f",
+    "text": "The disqualified individual will be ineligible for benefits until they meet the following requalification requirements:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8e097940aa79c70f02b9e4094e87dcb4",
+    "text": "• Returned to insured work,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f72172013fce9ccb0f14f74a972de9d8",
+    "text": "• Earned at least four times the claim’s weekly benefit amount, and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "51d25e3d8241943fafca93ce38b15750",
+    "text": "• Separated from the most recent employer under non-disqualifying conditions",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b9b13bb0773b24d2546aa57a522196d9",
+    "text": "Discharge for Ordinary Misconduct",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cea5346291b4457e162d99e7672a2647",
+    "text": "If a person is discharged from a job for misconduct, a disqualification is assessed for the week of the discharge plus 14 weeks, as determined by the Nebraska Department of Labor. In cases of misconduct, the burden of proof is on the employer. The employer must prove that an employee was discharged for acts or omissions that 1) damaged the em- ployer’s interest in relation to the employment; 2) the employee knew or reasonably should have known were contrary to the employer’s interests; and 3) were willful or within the employee’s control. Maximum benefits payable may also be reduced when a disqualification is assessed. Neb. Rev. Stat. § 48-628.10(1)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "nebraska.pdf",
+      "parent_id": "b9b13bb0773b24d2546aa57a522196d9"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cbb4550a7520f089aa4ba9f4ffdfa608",
+    "text": "Discharge for Aggravated Misconduct",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9f9e90a2188051ae0a10773e090da1e9",
+    "text": "If a person is discharged for misconduct not considered to be willful and flagrant or unlawful, but which included being under the influence of any intoxicating beverage or being under the influence of any controlled substance not prescribed by a physician licensed to practice medicine or surgery, and when the person is under the influence on the worksite or while engaged in work for the employer, then the disqualification includes a cancellation of wages from the employer. Neb. Rev. Stat. § 48-628.10(2)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "nebraska.pdf",
+      "parent_id": "cbb4550a7520f089aa4ba9f4ffdfa608"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0be5260ddc87eba75cf9948eed6cdd45",
+    "text": "Discharge for Gross Misconduct",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b5705c83d784a260ac55a012bcf24e4a",
+    "text": "If a person is discharged due to an act or omission that is willful and flagrant or unlawful, that individual does not qualify for benefits on wages earned prior to the date of the act. Neb. Rev. Stat. § 48-628.10(3)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "nebraska.pdf",
+      "parent_id": "0be5260ddc87eba75cf9948eed6cdd45"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b71ab9fa60b75ef6ba0cc06d4748b7f4",
+    "text": "Leave of Absence",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7d73fcf668040a940da3d8206182d121",
+    "text": "To receive unemployment benefits, you must be completely separated from your employer, on a temporary layoff, or working reduced hours. A leave of absence is not a complete separation from employment. As generally defined, a leave of absence is a mutual agreement between the employee and employer. The employee is not separated and does not report for work for a mutually agreed upon time period.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "nebraska.pdf",
+      "parent_id": "b71ab9fa60b75ef6ba0cc06d4748b7f4"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "19219b0a080ad80957f23fd17fdd624b",
+    "text": "The Nebraska Employment Security Law requires a disqualification from benefits for any week in which the individual is on a leave of absence. Neb. Rev. Stat. § 48-602; Neb. Rev. Stat. § 48-628.08; 219 NAC 8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "nebraska.pdf",
+      "parent_id": "b71ab9fa60b75ef6ba0cc06d4748b7f4"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "bc22e8be6573f3ede24e745b0397ee0f",
+    "text": "16 | Handbook for Unemployed Workers",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a00895390d490c9143f80a1dadb97667",
+    "text": "BENEFIT ACCURACY REVIEWS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1bfccda13cc5303adccb4d2c15656619",
+    "text": "The Benefit Accuracy Measurement Unit (BAM) randomly selects claims for audit each week. BAM investigators review and verify all data related to the case selected and gather new information from claimants, employers and other sources when necessary to determine if payments or denials are proper. Areas investigated include, but are not limited to base period wages, the reasons for separation or reduction in working hours, claimant ability and availability for work, claimant weekly reemployment activities, and wages reported during the benefit year.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "nebraska.pdf",
+      "parent_id": "a00895390d490c9143f80a1dadb97667"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "47041fe77e3b1ae2c5cb93a23cfbdeb2",
+    "text": "When payments or denials are determined to be improper, the BAM investigator may make corrections on the claim or for- ward it to the appropriate unit for corrections.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "nebraska.pdf",
+      "parent_id": "a00895390d490c9143f80a1dadb97667"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fd31a504f118ff581bed03f2298f1a87",
+    "text": "Selected claimants are required to participate in the investigation. Failure to provide information as requested by the BAM investigator may result in a denial of benefits. 219 NAC 2(004)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "nebraska.pdf",
+      "parent_id": "a00895390d490c9143f80a1dadb97667"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "30cab9b66ac23068210172f920ba601a",
+    "text": "APPEALS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b91dfb8c590b4cae0454d3d8c49b5078",
+    "text": "You have the right to appeal if you disagree with a determination regarding your claim. Your appeal must be received within 20 calendar days from the date the determination was mailed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "nebraska.pdf",
+      "parent_id": "30cab9b66ac23068210172f920ba601a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9e10c9c47c0db02ae69fd08365f7a5b7",
+    "text": "You can file your appeal online at NEworks.nebraska.gov, by email (NDOL.Appeals@nebraska.gov), by fax (402-471-1734), or in writing by mailing to: Nebraska Appeal Tribunal, Nebraska Department of Labor, PO Box 94600, Lincoln, NE 68509. If your appeal is in writing, you must state the reason you wish to appeal and include your signature, Social Security Number and employer’s name. There are two parties that may file an appeal regarding your unemployment benefits - you, the claim- ant, and your former employer. Neb. Rev. Stat. § 48-634",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "nebraska.pdf",
+      "parent_id": "30cab9b66ac23068210172f920ba601a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9871ed5315b7110e386674c287e346c9",
+    "text": "You will be notified by the Nebraska Appeal Tribunal that an appeal has been received. In a separate notice, you will be informed of the time and date of the hearing. Follow all instructions from the Appeal Tribunal to protect your own interests. It is important that you participate in the hearing. Appeal hearings are free and a lawyer is not required, although you may be represented at your own expense. Appeal hearings are conducted by telephone conference call.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "nebraska.pdf",
+      "parent_id": "30cab9b66ac23068210172f920ba601a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1ed7472116434d343460481723a1b9b0",
+    "text": "While your appeal is pending, continue to file for weekly benefits, complete any required reemployment activities, and log these activities at NEworks.nebraska.gov. If you disagree with the appeal decision, you may request that the decision be reconsidered or you may appeal to the District Court. Neb. Rev. Stat. § 48-638",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "nebraska.pdf",
+      "parent_id": "30cab9b66ac23068210172f920ba601a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ca5a637da62d30d009827cb8c3263706",
+    "text": "OVERPAYMENTS AND FRAUD",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "db88267b832114c3f3d880eb15e47b7d",
+    "text": "Overpayments can result from a disqualification on benefits already paid, an appeal reversal, or from unreported or misre- ported wages. Benefit Payment Control monitors benefit payments to determine if unemployment benefits were paid cor- rectly. This includes sending wage audits and employment status review requests to employers to ensure accurate report- ing of wages. Incorrect or unreported wages can result in a person having to repay benefits, loss of future benefit eligibility, and criminal prosecution. Neb. Rev. Stat. § 48-663; Neb. Rev. Stat. § 48-665",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "nebraska.pdf",
+      "parent_id": "ca5a637da62d30d009827cb8c3263706"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2e5e4607f61fdc8b7381ab631bd7f15f",
+    "text": "Nebraska Department of Labor | 17",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6ab0d09f37290dfef83133abeb758f90",
+    "text": "The Nebraska Department of Labor may contact you and require that you provide additional information regarding your claim. If you fail to report and provide the information requested, you may be disqualified from benefits. 219 NAC 2(004)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "99ebb6dc92f3f1c3d54f3701e721bf5b",
+    "text": "If you are paid more than you are eligible to receive, you will be notified that you have been overpaid. All overpayments must be repaid. Weekly benefit payments may be intercepted and applied towards your overpayment. The Nebraska Department of Labor can recover overpayments by intercepting your state and/or federal income tax refund and/or through civil action. Neb. Rev. Stat. § 48-665",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b6ee85daac1f4ac52c2549dd0e99f417",
+    "text": "Failure to report information that affects your eligibility for unemployment benefits may be an act of fraud. Falsely reporting information on your claim application or weekly claim certifications may also be an act of fraud. Neb. Rev. Stat. § 48-663; Neb. Rev. Stat. § 48-663.01",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fab17739b94bdbe5a810a4d2ed1ba8d7",
+    "text": "Consequences of unemployment insurance fraud may include:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "023f832f2650193a0ce9682b12ce703f",
+    "text": "• Repaying benefits received",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "26dcfaae42346076ac53c08d3df88c34",
+    "text": "• A 15% penalty based on the amount of the overpayment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2b48ace71be1015e2b914bb987fc2baf",
+    "text": "• Losing eligibility to receive benefits now and in the future",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cdf4761fcd6434c328e3dbc8ad019a52",
+    "text": "• Forfeiting state and federal income tax refunds",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "63da543d6955f6f99225d141a89f02c7",
+    "text": "• Criminal charges, jail time, felony or misdemeanor conviction",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2575ea7c1d254a100f043eb8c0791c34",
+    "text": "If you have a balance due on two or more fraudulent overpayments determined within five years prior to the effective date of a claim, you are disqualified until the overpaid benefits are repaid in full. Neb. Rev. Stat. § 48-628.11",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "nebraska.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "4fb68135173f09c56b288c844ed1c1c0",
+    "text": "18 | Handbook for Unemployed Workers",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "nebraska.pdf"
+    }
+  }
+]

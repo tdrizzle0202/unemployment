@@ -1,0 +1,2701 @@
+[
+  {
+    "type": "Image",
+    "element_id": "44747363b81c83e63543475d46ce765f",
+    "text": "2 OKLAHOMA Employment Security Commission R NS L > e",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0f1a8ba5bb90bfc898f3dbfd252c9492",
+    "text": "CLAIMANT HANDBOOK",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f1067e022fcb06720e8f76b9ae20f215",
+    "text": "A Guide to Unemployment Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "oklahoma.pdf",
+      "parent_id": "0f1a8ba5bb90bfc898f3dbfd252c9492"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cf466e75ce484c7de2e684517ee6534b",
+    "text": "OES-339 (Rev. 05-2025)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "oklahoma.pdf",
+      "parent_id": "0f1a8ba5bb90bfc898f3dbfd252c9492"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d8a0ebccb9ac8abc1aa3683100d43c7d",
+    "text": "Table of Contents",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "062ffb8f84e3cff355063eb8b8b5da3b",
+    "text": "2 Contact OESC",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf",
+      "parent_id": "d8a0ebccb9ac8abc1aa3683100d43c7d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f3f42689f53adfb8fceb03e6d6314bc4",
+    "text": "3 Unemployment Insurance (UI)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf",
+      "parent_id": "d8a0ebccb9ac8abc1aa3683100d43c7d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6f727895bd1936feeb8c88c9120915ce",
+    "text": "4 Unemployment Compensation",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf",
+      "parent_id": "d8a0ebccb9ac8abc1aa3683100d43c7d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d839a8ea26c83c718b5c443604e3d261",
+    "text": "5 Weekly Certifications",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf",
+      "parent_id": "d8a0ebccb9ac8abc1aa3683100d43c7d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "717495159d51a3e518101cd2bcaa33ec",
+    "text": "6 Ineligible for Benefits & Appeals",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf",
+      "parent_id": "d8a0ebccb9ac8abc1aa3683100d43c7d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "633a4846c3b2665c0e44b56330103223",
+    "text": "7 Reemployment Services",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf",
+      "parent_id": "d8a0ebccb9ac8abc1aa3683100d43c7d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5909c7658a5371d4e3f4797bbba6ae5d",
+    "text": "8 Employment & Training Programs",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf",
+      "parent_id": "d8a0ebccb9ac8abc1aa3683100d43c7d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1aa0d2ef8108b607fc62e805d10f3cd6",
+    "text": "9 Work Search Form",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf",
+      "parent_id": "d8a0ebccb9ac8abc1aa3683100d43c7d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e3a7ebe38ef3eaf21cbd1d62424e88b3",
+    "text": "OESC is an equal opportunity employer/program. Auxilliary aids and services are available upon request to individuals with disabilities.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf",
+      "parent_id": "d8a0ebccb9ac8abc1aa3683100d43c7d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4287699a539a861ac93a6c1e0b276e39",
+    "text": "Contact OESC",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "97e7420e2d19def3381286480aec71bc",
+    "text": "For general information or to file a claim:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf",
+      "parent_id": "4287699a539a861ac93a6c1e0b276e39"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "95802773a8767ed747b78e092db26e71",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b9455e924a0dae410791ade8161c7a3c",
+    "text": "Give us a call:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "43d48c0e46fca523ae9d9ba75bf5ff71",
+    "text": "Mon. - Fri. 8:00 a.m. - 4:15 p.m. 405-525-1500",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "babb2a56c57650be8d9eda26e386181d",
+    "text": "=",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "765591cd5abd9ba99dfba70ef53477ee",
+    "text": "Visit us online:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c8e47d6afeed1f4ce54dbd916a55e01f",
+    "text": "oklahoma.gov/oesc",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "2aba4231690782035a2200b72738e10a",
+    "text": "A",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a8e32e323fa0a4c2e1f716da7f50ac43",
+    "text": "Visit us in-person:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3d382894e44f8190f3d1be6005329eaa",
+    "text": "Mon. - Fri. 8:00 a.m. - 5:00 p.m.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3a2eeac11bff9744452d04e20740d3dd",
+    "text": "Find your nearest office at: oklahoma.gov/oesc/locations",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7cfc228768c5938eafb3667a2cee3319",
+    "text": "2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "608986ea11886d2263580e05bc4c40a8",
+    "text": "Unemployment Insurance (UI)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "db8243260d386b3cc4d5cd4c7bb279de",
+    "text": "What is Unemployment Insurance?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cb91d397028397237ecdefd713fcae8c",
+    "text": "The intent of Unemployment Insurance is to pay benefits to eligible individuals during periods of unemployment when suitable work is not available.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf",
+      "parent_id": "db8243260d386b3cc4d5cd4c7bb279de"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a34f325bc4708ed6519c12785f3a6425",
+    "text": "Unemployment Insurance is a temporary income intended to help workers who are unemployed through no fault of their own. It is an insurance paid by liable employers. Deductions are NOT made from employee wages to pay Unemployment Insurance.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf",
+      "parent_id": "db8243260d386b3cc4d5cd4c7bb279de"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ada228ef4240dc20f6a1412894adde09",
+    "text": "Unemployment Insurance Fraud",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3e342c9645ba1b0c0e922280795a7fc6",
+    "text": "The Oklahoma Employment Security Commission is responsible for protecting the integrity of the Unemployment Insurance Trust Fund. Individuals who commit fraud are subject to possible criminal prosecution, fines and imprisonment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf",
+      "parent_id": "ada228ef4240dc20f6a1412894adde09"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7ec4a05f336d3c03395f639fe1091116",
+    "text": "Fraud, for Unemployment Insurance purposes, is knowingly making a false statement, misrepresenting a material fact or withholding information to obtain unemployment benefits. Any statement made to obtain unemployment benefits will be verified. Individuals found to be overpaid due to fraudulent actions will be required to repay benefits plus penalty and interest, and possibly be denied future benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf",
+      "parent_id": "ada228ef4240dc20f6a1412894adde09"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fd06986dcca928251756b6175146a408",
+    "text": "Eligibility Criteria",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "98ea3eecc3360debdd1b4c167bab9213",
+    "text": "To qualify for unemployment benefits, claimants must perform or meet the below criteria:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf",
+      "parent_id": "fd06986dcca928251756b6175146a408"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bed6fb533ab474cee6e83a13602c4c9e",
+    "text": "Be monetarily eligible",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9082353bc294c0fe318eba98ef1e4a14",
+    "text": "Claimants must have earned a minimum of $1,500 during their base period and have total wages of one and one- half times their highest quarter.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf",
+      "parent_id": "bed6fb533ab474cee6e83a13602c4c9e"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2f850b4a2dbcb001c8f82a67ae0bd3ac",
+    "text": "Be unemployed through no fault of their own",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1e7d5ff1fcb76ae5c8a83657a607375f",
+    "text": "Claimants must have lost their job through no fault of their own, such as a layoff or reduction in hours or pay not related to performance.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2f850b4a2dbcb001c8f82a67ae0bd3ac"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a0337ee240d8f4118d2f888906dfa499",
+    "text": "Be able, available and seeking work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e744611b4382045428869727f3ee04b5",
+    "text": "Claimants must be able and available to work, and actively seek work by performing the required number of work searches each week. Work searches must be documented and tracked.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf",
+      "parent_id": "a0337ee240d8f4118d2f888906dfa499"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3ffb032db8988d05cefa620fea5dc3e1",
+    "text": "Register for work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d5d0e857d6fadb9c514bc94522eed8e5",
+    "text": "Claimants must register for a job seeker account on employoklahoma.gov and complete/upload and publish their resume. Failing to publish a resume will stop unemployment benefts from being issued..",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "employoklahoma . gov",
+          "url": "https://www.employoklahoma.gov/Participants/s/login/",
+          "start_index": 0
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf",
+      "parent_id": "3ffb032db8988d05cefa620fea5dc3e1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2932869465cca3a25b209c43319c0469",
+    "text": "Verify identity",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "68eaece1005b699334da5b0ea37b66c7",
+    "text": "Identity verification is required prior to filing a claim for unemployment and will be required every 90 days when receiving or filing for unemployment benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2932869465cca3a25b209c43319c0469"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "584455f35b4a72329ca94af076efc9cc",
+    "text": "Unemployment Insurance tax is paid by liable employers and is based on wages and separations. This tax does not come out of employee paychecks.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2932869465cca3a25b209c43319c0469"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "af88266002451f40bc67015975ed6bc9",
+    "text": "Claimant Handbook: A Guide to Unemployment Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "6eeab0fe37dd9b098c9c02f0dadec86c",
+    "text": "3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "06e8c0ff443b12176e97f15c61b008a8",
+    "text": "Unemployment Compensation",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ef46026cbc512718dea0c8a0973ab0e3",
+    "text": "Monetary Determination",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ab2e0ac1d2145249872945686aeec552",
+    "text": "After filing an initial claim for unemployment benefits, claimants will receive a \"Monetary Determination\" for unemployment benefits. This determination will show:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "ef46026cbc512718dea0c8a0973ab0e3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "25639c8c407a6bc05410812d86495301",
+    "text": "• The employers that paid unemployment taxes on eligible wages during the base period.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "ef46026cbc512718dea0c8a0973ab0e3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d74f89af640ef9ccec0d074e662d68b4",
+    "text": "• The start date of the benefit year, which is the Sunday of the week the claim was filed, with the end date being the Saturday of the same week one year later.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "ef46026cbc512718dea0c8a0973ab0e3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "012e195a542c5ed6dd51a00c93bda7a0",
+    "text": "• The weekly benefit amount.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "ef46026cbc512718dea0c8a0973ab0e3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a01e358918723b32549e79ffd53670a0",
+    "text": "• The maximum benefit amount.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "ef46026cbc512718dea0c8a0973ab0e3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "11abdb611176a6a5f31f53b59bb02804",
+    "text": "• Any additional relevant information.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "ef46026cbc512718dea0c8a0973ab0e3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4244d4a89066c65ca57239964b862650",
+    "text": "Receiving Payments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "58fa8c7ad966cde6efd46e119a549bfa",
+    "text": "Benefits are issued by an outside company, Conduent. All eligible individuals will be mailed a debit card after the waiting period, or first week of benefits, is served. Unemployment payments will be issued to this debit card, but individuals may elect to have funds automatically transferred to their personal bank after receiving and activating this card.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "4244d4a89066c65ca57239964b862650"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b219f3317a25417d7944f609dc696d30",
+    "text": "Please keep in mind the debit card is valid for three years; however, automatic transfers will be deactivated after six months of inactivity.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "4244d4a89066c65ca57239964b862650"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "adc6589d1c21ae77dbe1b501acd32711",
+    "text": "A new card will not automatically be mailed to individuals who were previously issued a debit card which has not expired.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "4244d4a89066c65ca57239964b862650"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d07218604d26aa8081feea7fdaae758b",
+    "text": "For payment inquiries or to set up automatic transfers, contact Conduent at:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "4244d4a89066c65ca57239964b862650"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d3ecf305ab34ef9871fed718f67baa47",
+    "text": "• (866) 320-8699",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "4244d4a89066c65ca57239964b862650"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "179088f1a4d573890d0972df96097e6b",
+    "text": "• goprogram.com",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "goprogram . com",
+          "url": "https://www.goprogram.com/goedcrecipient/#/",
+          "start_index": 3
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "4244d4a89066c65ca57239964b862650"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a145a56d72c501d31a4f09729a8966d4",
+    "text": "Don't share your PIN with anyone!",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "4244d4a89066c65ca57239964b862650"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c2c55f3721791b8f2943432da09d05d9",
+    "text": "Weekly Benefit Amount (WBA)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9b6dccdb5325cce125fe5a36df61b174",
+    "text": "The weekly benefit amount is one twenty-third (1/23) of the highest quarter of taxable wages in the base period, not to exceed the maximum weekly benefit amount allowed by Oklahoma law.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "c2c55f3721791b8f2943432da09d05d9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "886de7ef88a7a57a22bb0f3073a8f95f",
+    "text": "Taxable wages are those wages during the base period that are subject to unemployment tax. This is a tax paid by employers and is not taken from employee paychecks.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "c2c55f3721791b8f2943432da09d05d9"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9045ac38410937965134140a043b5323",
+    "text": "For 2024, the maximum WBA is capped at $519.00.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0c81310b3521313839d363539dc7b4cd",
+    "text": "Maximum Benefit Amount (MBA)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8b1a3ebc098e3332c42b310b50d4f755",
+    "text": "Typically, individuals are able to receive benefits for up to 16 weeks as established by state law; although, in some cases this can vary.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "0c81310b3521313839d363539dc7b4cd"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b4753172869c3905d8604158387a966d",
+    "text": "Base Period",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3abb34bcf247dfa3395d3b51e5429f30",
+    "text": "Base periods are the 12-month period consisting of the first four of the last five completed calendar quarters before the effective date of the claim. Once a monetarily eligible claim is established, the base period cannot be changed. For base period purposes, quarters change after the first Sunday in the quarter.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "b4753172869c3905d8604158387a966d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d9c748b0e79f61e14f30ab2e443f6812",
+    "text": "1st quarter—January, February, March 2nd quarter—April, May, June 3rd quarter—July, August, September 4th quarter—October, November, December",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "b4753172869c3905d8604158387a966d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9384990917cec8765fd78f6836d52b71",
+    "text": "Example",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b63919fb01d53ed096ebc6884bb123d",
+    "text": "If the highest calendar quarter of taxable wages during the base period is $14,000, divide that by 23 which would be $608.70. Since this exceeds the maximum allowed by law, the weekly benefit amount would be adjusted to the maximum allowed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf",
+      "parent_id": "9384990917cec8765fd78f6836d52b71"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2e7f8449bbb2e4f94bdd2bf57b568aaf",
+    "text": "Claimant Handbook: A Guide to Unemployment Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a2957d5a37f08cb3a3b0b9eef4571618",
+    "text": "4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5ed6766c3324ac539f9c4c9f0b6b3551",
+    "text": "Weekly Certifications",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e2f95a73eea0163fe1a18aaff94bcd82",
+    "text": "Claiming or Getting Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0d9ba6d3a55495d8e88e3908ce2588e7",
+    "text": "After filing an initial unemployment claim, claimants must submit weekly certifications for each week unemployed to receive benefits. Weekly certifications are applicable to the previous week, so the earliest day to file for benefits is the Sunday after a week of unemployment. Weekly certifications must be submitted within 14 days of the week ending date.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e2f95a73eea0163fe1a18aaff94bcd82"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5b44c7e8bed01e93bcd6e1f826fad6e0",
+    "text": "When filing a weekly certification, be prepared with the following:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e2f95a73eea0163fe1a18aaff94bcd82"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fdffe3864505ca304c75e584be0ef8a1",
+    "text": "• Social Security Number and/or e-mail address",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e2f95a73eea0163fe1a18aaff94bcd82"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4efbec82f52b74849c97bfba7a8d2357",
+    "text": "• Personal Identification Number (PIN) and/or password",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e2f95a73eea0163fe1a18aaff94bcd82"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cdbb532b692647fa4e4a1e10ff9a809b",
+    "text": "• Information on any earnings, including paid time off and severance pay, as well as the number of hours worked if working part-time.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e2f95a73eea0163fe1a18aaff94bcd82"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4e2a28c54be54bfb9aff292662f56e25",
+    "text": "The Claimant's Social Security Number is required to file an unemployment claim. OESC shares information with various Federal and State agencies for the administration of their programs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e2f95a73eea0163fe1a18aaff94bcd82"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bf2bec1e615656b2be386fddab5de108",
+    "text": "Claimants are responsible for keeping their contact information up to date with OESC.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e2f95a73eea0163fe1a18aaff94bcd82"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4fa72be264912b3501e09a9084067043",
+    "text": "Filing by phone",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "34ac408c6d6cc43fcc6c1a8d74d85f2d",
+    "text": "When filing weekly certifications by phone, listen to the entire question before entering a response. Trying to enter a response before the system prompts an answer may start the question over or result in an incorrect selection.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "4fa72be264912b3501e09a9084067043"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b5d9831968c7ff46fe9edda1e6483ef1",
+    "text": "Work Search Requirements",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "955cdff721e71355505ec9382bce4d17",
+    "text": "To receive unemployment benefits, claimants are required to perform a minimum of two work search efforts for each week unemployed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "b5d9831968c7ff46fe9edda1e6483ef1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2041cd6e2d3e50feff18a5a30ee5fed0",
+    "text": "Work searches should be documented using employoklahoma.gov or with the work search log found online in the \"Additional Resources\" section at oklahoma.gov/oesc/individuals. An example work search log can be found on the last page of this handbook.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "employoklahoma . gov",
+          "url": "https://www.employoklahoma.gov/Participants/s/login/",
+          "start_index": 0
+        },
+        {
+          "text": "oklahoma . gov / oesc / individuals",
+          "url": "https://oklahoma.gov/oesc/individuals/unemployment.html",
+          "start_index": 0
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "b5d9831968c7ff46fe9edda1e6483ef1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9413293b39750918661b7fe3a29a0ec8",
+    "text": "Work searches should be for work the claimant is willing and qualified to do, pay that they are willing to accept and in the area that they are willing to work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "b5d9831968c7ff46fe9edda1e6483ef1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5f9965d2dba6b8d89b9db449b8eccb00",
+    "text": "All work search efforts are subject to verification if selected for an audit. Failure to make the required number of work searches each week will result in a denial of benefits and possible overpayment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "b5d9831968c7ff46fe9edda1e6483ef1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "15f044bb857302b71e696b02d299a334",
+    "text": "Work search efforts to the same employer for the same role or position may only be repeated every four weeks. Claimants may search for different roles or positions with the same employer, as desired. If employer initiates a second interview and the claimant completes the interview, the second interview may be considered a work search effort for the claimant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "b5d9831968c7ff46fe9edda1e6483ef1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0b8c820ff517ef6003cf5ae040e3a3f3",
+    "text": "Individuals on a temporary layoff with a return-to-work date may be exempt for work searches.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "b5d9831968c7ff46fe9edda1e6483ef1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "67455efce43e96ddbb537ca41195f430",
+    "text": "Individuals that are a member of a union with a hiring hall will be required to contact their hiring hall for work each week",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "b5d9831968c7ff46fe9edda1e6483ef1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cb95ffdd74c818a6f9a8cd99c9ee41b9",
+    "text": "For more information about work searches, view Oklahoma Admin. Code 240:10-3-20",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "b5d9831968c7ff46fe9edda1e6483ef1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cc818ce4cb0699381c9eaea99e82628c",
+    "text": "Working While Receiving Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fa552c3cc9d1516675e2d3aaf62aa4bf",
+    "text": "Any employment MUST be reported when filing for unemployment benefits. This includes full-time, part- time, temporary, short-term or cash-in-hand (i.e., babysitting or mowing lawns) work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "cc818ce4cb0699381c9eaea99e82628c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1482c5ae5710b1f8e450290fbf3ad794",
+    "text": "Claimants must report any and all earnings. Earnings may include wages earned before deductions, commission, bonuses, severance, retirement, profit sharing, holiday pay, and vacation pay. Earnings will be automatically deducted from unemployment benefits for the week it is entered. Claimants who disagree with a deduction on their weekly claim must request a determination before an appeal can be submitted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "cc818ce4cb0699381c9eaea99e82628c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f3c8106c7774f524170a3eae61e03044",
+    "text": "When returning to full-time employment, simply stop filing weekly certifications.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "cc818ce4cb0699381c9eaea99e82628c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d07bf06e4fe451dafcbbbabb322247f7",
+    "text": "All individuals who received unemployment benefits will receive a 1099-G. These forms will be mailed out by January 31st of the following year and will need to be included with income tax filings.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf",
+      "parent_id": "cc818ce4cb0699381c9eaea99e82628c"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c659b22e98a405117f122cfec6abdf7b",
+    "text": "Claimant Handbook: A Guide to Unemployment Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8291cde21c3b6e29b8a0d5d059f304b2",
+    "text": "5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9c0334338d8c60c07aa2ede2c0917637",
+    "text": "Ineligible for Benefits & Appeals",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f3a6fc3a4fddbe797f3a896a925e8b92",
+    "text": "Ineligible for Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a381002d9165914d043730a019e04f76",
+    "text": "If there is an issue or \"stop\" on a claim, it can take some time for OESC to thoroughly investigate and determine eligibility. The investigation often involves notifying the previous employer and requesting job separation information or other details. Once the investigation is complete, a determination will be mailed to the claimant stating the results of the investigation. Claimants, as well as employers who are an interested party, can appeal this decision if they disagree.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf",
+      "parent_id": "f3a6fc3a4fddbe797f3a896a925e8b92"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4973277675578a4d41e6ace0a0794d8b",
+    "text": "Filing an Appeal",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3dfe00511d743256eea6dacec5c53b78",
+    "text": "Parties have 10 calendar days from the mailing date of the determination to appeal the determination.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf",
+      "parent_id": "4973277675578a4d41e6ace0a0794d8b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "480064124f2bc73ff32aa8159b34bd5b",
+    "text": "If the tenth day falls on a weekend or state holiday, the deadline will be the following business day.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf",
+      "parent_id": "4973277675578a4d41e6ace0a0794d8b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "22059ab75324b0826621c04d11220a49",
+    "text": "If the determination includes an overpayment, claimants have 20 days after the mailing date of the determination to file an appeal. If the overpayment is a result of a determination, individuals must appeal both the overpayment and the determination.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf",
+      "parent_id": "4973277675578a4d41e6ace0a0794d8b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1ffda6f2df3c5bd2e5db8ed25db625c7",
+    "text": "Appeals can be filed online, by mail, fax, phone or email. The mailing address, fax number, telephone number and email address will be listed on the Notice of Determination.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf",
+      "parent_id": "4973277675578a4d41e6ace0a0794d8b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2fba44ac58e47a8eaad05f5eaac99a25",
+    "text": "Preparing for an Appeal",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "04118fcb5d4a664bca21f4f896adb23f",
+    "text": "When filing an appeal, have the following information ready:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2fba44ac58e47a8eaad05f5eaac99a25"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0c411f6ecd2612bb0e96a6c05011d653",
+    "text": "• Full legal name",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2fba44ac58e47a8eaad05f5eaac99a25"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "439d72b24224ce90affea769a2c3af8e",
+    "text": "• Social security number",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2fba44ac58e47a8eaad05f5eaac99a25"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3ed7678ac985a5a491d2ff31240e7a14",
+    "text": "• Phone number",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2fba44ac58e47a8eaad05f5eaac99a25"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1d6b6e64abf24d3a0836d8ba985c5ecc",
+    "text": "• Date of determination",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2fba44ac58e47a8eaad05f5eaac99a25"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "141a64ab086dbff220c46807d1e8a1d1",
+    "text": "• Section of law you are appealing (found on the determination)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2fba44ac58e47a8eaad05f5eaac99a25"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b822d10ce04f0accef6236fa9e7c6962",
+    "text": "• A detailed explanation of why you disagree with the decision",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2fba44ac58e47a8eaad05f5eaac99a25"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "08de0c6c7bbc93b3cce6256c3b10634e",
+    "text": "After an appeal has been filed, parties will be mailed a Notice of Appeal with copies of all pertinent claim information. After the hearing has been set, parties will be mailed a Notice of Hearing. Parties must register before the deadline to attend the hearing. Failure to participate in the appeals hearing may result in a denial of benefits!",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2fba44ac58e47a8eaad05f5eaac99a25"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e0c0cb466a2f28865fda531dc0f252ee",
+    "text": "Individuals must continue filing their weekly certifications while in the appeals process! If found eligible for benefits after an appeal has completed, all eligible weeks submitted will be paid. Any weeks without a weekly certification will not be paid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2fba44ac58e47a8eaad05f5eaac99a25"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b3c6154ca28d5d2ae7d1651d6568189a",
+    "text": "Claimant Handbook: A Guide to Unemployment Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "bea6b9f2c2c4d79eaec12a1cf93c2b2c",
+    "text": "6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "40ef743efe0237ea00bec35220226ed6",
+    "text": "Reemployment Services",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "21f1014c2b706399683ef84c4ed7ca53",
+    "text": "OESC offices across the state offer free services and resources to help job seekers through the stress of filing unemployment, finding and applying for a job, prepping for an interview or even gathering information about entering a new career field.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "40ef743efe0237ea00bec35220226ed6"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e4eff56af2f714825808fe99bca09a69",
+    "text": "Available resources and services:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4fb21d47103f89d9c0473aa120bf3495",
+    "text": "• Access to computers and printers",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e4eff56af2f714825808fe99bca09a69"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9797eb81a6aed3b28dc145242a68b912",
+    "text": "• Career guidance, counseling and planning",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e4eff56af2f714825808fe99bca09a69"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "64f7f4949e78a86dba5017d9ae705659",
+    "text": "• Job fair, job listings and recruitment information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e4eff56af2f714825808fe99bca09a69"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9068a601c014faee4a9008c8791431a9",
+    "text": "• Job search, referrals and placement assistance",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e4eff56af2f714825808fe99bca09a69"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c908bfd8bfb20b21e27333ad837acb30",
+    "text": "• Labor market research and information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e4eff56af2f714825808fe99bca09a69"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c43d6ea9ead8e1a1bf5df6d6fe5dc7ff",
+    "text": "• Information and referral to partner services and community resources",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e4eff56af2f714825808fe99bca09a69"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "18e35d0dbee51599508473afe0518b60",
+    "text": "• Self-service job search through the state's job board: www.employoklahoma.gov",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "www . employoklahoma . gov",
+          "url": "https://www.employoklahoma.gov/Participants/s/login/",
+          "start_index": 0
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e4eff56af2f714825808fe99bca09a69"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "df477298407c2f23a56afddf11741c04",
+    "text": "• Youth and senior employment programs",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e4eff56af2f714825808fe99bca09a69"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3154e92cfac0cce03fcfa41aad1a76a9",
+    "text": "• Job readiness preparation and coaching",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e4eff56af2f714825808fe99bca09a69"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ab50dd26ca1747febf51ebaf3e29c7ba",
+    "text": "• Veteran employment services",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e4eff56af2f714825808fe99bca09a69"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2f257bd183e64782b0c026f9187ee128",
+    "text": "• Work Opportunity Tax Credit precertification",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e4eff56af2f714825808fe99bca09a69"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a76b8e64789e025ebc3d7a2745f4cfb8",
+    "text": "• Federal Bonding program registration",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e4eff56af2f714825808fe99bca09a69"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5a6490204938d76656092c89437f940f",
+    "text": "• Training and apprenticeship opportunities",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "e4eff56af2f714825808fe99bca09a69"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6ebe2f09468f1414b73107f147789e5f",
+    "text": "Additional Resources and Services",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0ed97aa7b3e1d9fc75e4a57eb7b8b4dc",
+    "text": "OESC is part of a statewide partnership with other state agencies and organizations that provide various types of services and resources to aid individuals with gaining employment. Visit any OESC office to learn more about the training and employment resources available through partner agencies.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "6ebe2f09468f1414b73107f147789e5f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "48cf72a05b503e1eff91a38f51807509",
+    "text": "Services for Veterans",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8ed764f9a9b0c7e280d18d98902fa49c",
+    "text": "OESC can also provide personalized career services for eligible veterans and spouses through the Jobs for Veterans State Grant (JVSG). The JVSG team is comprised solely of veterans and are stationed throughout the state. As veterans serving veterans, they provide real world experience of transitioning from the military and entering the civilian workforce, while undergoing training to understand the full array of resources and services available to veterans to succeed in the 21st century workforce.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "48cf72a05b503e1eff91a38f51807509"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5df5cd3c2c20fcbdccd737774d51062b",
+    "text": "Through this program, veterans may receive one-on- one career guidance and assistance. This may include referrals to community or government resources, job referrals or even connecting veterans directly to hiring managers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "48cf72a05b503e1eff91a38f51807509"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f1c18dd16cf88b9fec6da5e90af93cf8",
+    "text": "Required Appointments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "04a3445c2999fd97ce0dc3fe4273a18d",
+    "text": "The Reemployment Services and Eligibility Assessment (RESEA) program provides reemployment assistance to Unemployment Insurance claimants who may not be able to return to their previous occupation or industry and, as a result, may run out of unemployment benefits. Selected participants will have the opportunity to work with a RESEA specialist to assist participants with returning to work as quickly as possible.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "f1c18dd16cf88b9fec6da5e90af93cf8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3c5d717da06491465fa3ff82ebb3a275",
+    "text": "Individuals who are selected for this program will be notifed by mail, and must attend all appointments to receive unemployment benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf",
+      "parent_id": "f1c18dd16cf88b9fec6da5e90af93cf8"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "1ace1b2d3e8a2dc2cf9eaef1a2ca5662",
+    "text": "Claimant Handbook: A Guide to Unemployment Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a8848291104a18b724877bbbd0205019",
+    "text": "7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f402e6cd6e4b26dfd39437a0272c76fb",
+    "text": "Employment & Training Programs",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "730bf13db95bcb255877970a99676063",
+    "text": "Work Opportunity Tax Credit",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e2ca986ea569b5854336b58d5a9c8159",
+    "text": "The Work Opportunity Tax Credit is a tax credit offered to employers as an incentive to hire individuals who are members of certain groups, which have traditionally faced significant barriers to employment. The credit is used to reduce the federal tax liability of private/for-profit employers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "oklahoma.pdf",
+      "parent_id": "730bf13db95bcb255877970a99676063"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b90527349eea47ce9823fa223eb032a1",
+    "text": "Federal Bonding",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d82990e5b2619a33abd96a4434616046",
+    "text": "Many employers carry insurance to protect themselves against employee theft or dishonesty. When such commercial insurance is denied because of an individual’s background, the employer often denies a job to that person. The Federal Bonding program fills this gap by offering fidelity bonding to employers who hire at-risk job applicants. This program is offered at no cost to job seekers or employers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "oklahoma.pdf",
+      "parent_id": "b90527349eea47ce9823fa223eb032a1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c4e9ce64b46fe3cc1a66da6ee2be0c00",
+    "text": "Trade Adjustment Assistance",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4a11178f4b6b77c6442de71024c495ff",
+    "text": "Trade Adjustment Assistance (TAA) is a federal program that provides assistance to workers who lose their jobs, or whose work hours are reduced, as a result of increased imports. Under this program, individuals may qualify to receive allowances for training, job search, and relocation if their company is certified as \"trade impacted\".",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "oklahoma.pdf",
+      "parent_id": "c4e9ce64b46fe3cc1a66da6ee2be0c00"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0edb7c342731db2b3f11912b476b063b",
+    "text": "Approved Training",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ed32259b194367dd6d8b559472696006",
+    "text": "Work search efforts may be waived for unemployment claimants in an approved training program.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "oklahoma.pdf",
+      "parent_id": "0edb7c342731db2b3f11912b476b063b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2c6e6d59df781f167d51ba1a8ab3e7a6",
+    "text": "Types of approved training:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "525665c06bee258ce61c83c15d14eb95",
+    "text": "• Regular approved training: No monetary assistance is given to defray school costs, but work search requirements will be replaced with satisfactory attendance and progress in training.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2c6e6d59df781f167d51ba1a8ab3e7a6"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9fbaeeaf34cded8d7d03bc0e3a841ff9",
+    "text": "• Workforce Investment and Opportunity Act (WIOA) approved training: In some instances, state agencies may be able to offset portions of tuition.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2c6e6d59df781f167d51ba1a8ab3e7a6"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9f2e255a62fdd946491ef6c561486949",
+    "text": "• Trade Adjustment Assistance (TAA) approved training.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2c6e6d59df781f167d51ba1a8ab3e7a6"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5b16edef17015dc7288caefd573eaa32",
+    "text": "Learn more about employment and training programs by visiting an OESC office or by going online to www.oklahoma.gov/oesc/individuals/programs",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2c6e6d59df781f167d51ba1a8ab3e7a6"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8bba843c371c420d522a9481bdf7366f",
+    "text": "Claimant Handbook: A Guide to Unemployment Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "34d1316bdbbcea8d3bb310153c1e8211",
+    "text": "8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6d1e0c611a32c7c4eb33b222874e0da6",
+    "text": "Work Search Form",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "1f17f209ea57666eafe342f6bf3bb10d",
+    "text": "OKLAHOMA Employment Security Commission",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6fb14f6c38127ad347cdd2c41a5a0941",
+    "text": "WORK SEARCH FORM",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "3dc95448d5c9d6300352c36650d2d572",
+    "text": "Name: Unemployment Claim ID #: DUA/TAA#: 555555555 (If necessary) 11111 John Smith - Example Employer Information Job title Application Method Date of Work Search Results (Address, contact name, phone #) Applied for (Online, In-person, Etc.) Fishbuam's Fritter House 04/03/2025 | 3262 er Norman, OK Mim Fish/ (405) 555-5555 head cook Emailed Will call if needed - not hired Mechanic In-person Not hiring k of Metropoli Online 04/17/2025 |15 tinis ave, Guymon, OK/ Bob Coin/ (405) 555-5555 Bank teller Interviewed 4/18/2025 - no offer Veterans Affairs - OKC Maintenance Online 04/22/2025 | e 36th St, OK/ Elle Wood/ (405) 555-5555 Technician Il Waiting - no response Mc-Fil-A/ 742 Evergreen Terrace, 04/29/2025 Tahlequah. OK/ Mary Wells/ (405) 555 Manager Job Fair at K Works Interviewed on the spot - no offer Restaurants To-Go/ 9407 n May Ave, Work form home Online 05/04/2025 OKC, OK/ Frank Eggers/ (405) 555-5555 ag No response Staffing Solutions/ 4132 Wurking Ave, Phone Interviewed 5/17/2025 - wiill call if offered 05/12/2025 Lawton, OK! Ler Berry/ (405) 555-5555 Tardis Tasty Treats/ 76 Totter's Ln, McAlester, Decorator Facebook jobs phone interview 5/15/2025 and again 05/13/2025 OK/ Tracie Roberts/ (405) 555-5555 5/17/2025 - no offer yet but promising Built a better resume 05/21/2025 Oo office in Muskogee, OK Watson Pest Detection/ 221 Baker St. Office assistant In-Person Met owner at networking event and gave my 05/29/2025 Enid, OK/ Omar Akkad/ (405) resume. He called 6/5 and hired me.",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><thead><tr><th colspan=\"2\" rowspan=\"2\">Name: John Smith - Example</th><th colspan=\"2\" rowspan=\"2\">Unemployment Claim ID #: 555555555</th><th rowspan=\"3\">pbion - | 7| Results</th></tr><tr><th>Date of Work Search</th><th>Employer Information (Address, contact name, phone #)</th><th>Job title Applied for</th><th>Application Method (Online, In-person, Etc.)</th></tr></thead><tbody><tr><td>04/03/2025 |</td><td>Fishbuam's Fritter House 3262 ryer Norman, OK /Jim Fish/ (405) 555-5555</td><td>head cook</td><td>Emailed</td><td>Will call if needed - not hired</td></tr><tr><td>04/29/2025</td><td>Mc-Fil-A/ 742 Evergreen Terrace, Tahlequah. OK/ Mary Wells/ (405) 555-5555</td><td>Manager</td><td>Job Fair at OK Works ofce</td><td>Interviewed on the spot - no offer</td></tr><tr><td>05/04/2025</td><td>Restaurants To-Go/ 9407 n May Ave, OKC, OK/ Frank Eggers/ (405) 555-5555</td><td>Work form home agent</td><td>Online</td><td>No response</td></tr><tr><td>05/12/2025</td><td>Staffing Solutions/ 4132 Wurking Ave, Lawton, OK! Lery Berry/ (405) 555-5555</td><td>maintenance Anything</td><td>Phone</td><td>Interviewed 5/17/2025 - will call if offered</td></tr><tr><td>05/13/2025</td><td>Tardis Tasty Treats/ 76 Totter's Ln, McAlester, OK!/ Tracie Roberts/ (405) 555-5555</td><td>Decorator</td><td>Facebook jobs</td><td>phone interview 5/15/2025 and again 5/17/2025 - no offer yet but promising</td></tr><tr><td>05/21/2025</td><td>Resume Worksh Oklahoma Work office in Muskogee, OK</td><td></td><td></td><td>e</td></tr><tr><td>05/29/2025</td><td>Watson Pest Detection/ 221 Baker St. Enid, OK/ Omar Akkad/ (405) 555-5555</td><td>Office assistant</td><td>In-Person</td><td>Met owner at networking event and gave my resume. He called 6/5 and hired me.</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "oklahoma.pdf",
+      "parent_id": "6fb14f6c38127ad347cdd2c41a5a0941"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4516a8b062c70bfddcdb8b66a7f3d900",
+    "text": "In accordance with Oklahoma Admin. Code 240:10-3-20, all individuals filing for unemployment must perform the minimum number of weekly work searches each week that benefits are claimed as required by OESC, unless they meet the criteria of an exempted group. All work search efforts must be recorded and maintained for two years for audit purposes.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "oklahoma.pdf",
+      "parent_id": "6fb14f6c38127ad347cdd2c41a5a0941"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7d471a953509919b504492408f83dcdd",
+    "text": "Auxiliary aids and services are available on request to individuals with disabilities. / Equal Opportunity Program.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "oklahoma.pdf",
+      "parent_id": "6fb14f6c38127ad347cdd2c41a5a0941"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "93680b3406c05c44c6fcf33e100b47d9",
+    "text": "OES-622 (Rev. 04-2025)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "oklahoma.pdf",
+      "parent_id": "6fb14f6c38127ad347cdd2c41a5a0941"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "faf32599c57dcd03b065581687eadddc",
+    "text": "#% OKLAHOMA Employment Security Commission",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2a17f3b1fa906da9d2fb00c2a4367614",
+    "text": "WORK SEARCH FORM",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "56f9ccbd39094c10c731293419e63a5f",
+    "text": "Name: Unemployment Claim ID #: DUA/TAA #: (If necessary) Employer Information Application Method Date of Work Search Results (Address, contact name, phone #) (Online, In-person, Etc.) 1] —",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><thead><tr><th rowspan=\"2\">Name:</th><th colspan=\"2\">==</th><th rowspan=\"2\">DUA/TAA #: (If necessary) its IIIIII</th></tr><tr><th></th><th></th></tr></thead><tbody></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2a17f3b1fa906da9d2fb00c2a4367614"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1ed1a6b1066f48af150bf9644f7bcab2",
+    "text": "In accordance with Oklahoma Admin. Code 240:10-3-20, all individuals filing for unemployment must perform the minimum number of weekly work searches each week that benefits are claimed as required by OESC, unless they meet the criteria of an exempted group. All work search efforts must be recorded and maintained for two years for audit purposes.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2a17f3b1fa906da9d2fb00c2a4367614"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f3128591a69532c82917a3e151a134c6",
+    "text": "Auxiliary aids and services are available on request to individuals with disabilities. / Equal Opportunity Program.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2a17f3b1fa906da9d2fb00c2a4367614"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d391083194bbecc68f438b6203950321",
+    "text": "OES-622 (Rev. 04-2025)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "oklahoma.pdf",
+      "parent_id": "2a17f3b1fa906da9d2fb00c2a4367614"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "394dfd37ed01938bca4259fa49400139",
+    "text": "For additional copies of the work search form go to oklahoma.gov/oesc/individuals.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "dd70259932ac85307b66651c52c9b5da",
+    "text": "Claimant Handbook: A Guide to Unemployment Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "oklahoma.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b24a2ea4128ac735c5dd33c789cda6fd",
+    "text": "9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "oklahoma.pdf"
+    }
+  }
+]

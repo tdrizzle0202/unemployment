@@ -1,0 +1,4675 @@
+[
+  {
+    "type": "UncategorizedText",
+    "element_id": "cd7b586f5fe609d516f9776c8b22b74d",
+    "text": "State of lllinois",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "526ddd2b43276bb3c5035f3c08b424e6",
+    "text": "Department of Employment Security",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "3c28287573edc410a826f7577208e218",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e4a0853a940b30642ef71a044b834f94",
+    "text": "Benefits Handbook Unemployment Insurance",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "83e35a68b6b5203c8c9029668e7fe6a2",
+    "text": "x / VY, Do O 00, x ¥ Oo e T (g x ¥ Coc ) ) ) D ) N",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "4c183bce666c95b22ef23d8b24eea228",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "ab02848493213d7a82052cb495048245",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d7f6bbd5b0a1cf7ba9117a540a675841",
+    "text": "Introduction ........................................................................................................................................................................... 3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "23e10256060c06d6afc30711a38e2fb8",
+    "text": "Where to Find IDES Services ................................................................................................................................................ 3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "04fe536e330f7f004151b4a5ef5274ab",
+    "text": "Protect Your Benefits ............................................................................................................................................................ 3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "851e6cfd91036d161ae402f6ba9430cd",
+    "text": "Unemployment Insurance Benefits...................................................................................................................................... 3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7e76154fd60ca1754c932427e5af6c84",
+    "text": "Insured Work ......................................................................................................................................................................... 4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3bfbb6766a0df06de214656a89bac5f0",
+    "text": "Uninsured Work .................................................................................................................................................................... 4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7c0e4d38767d129a0119f68c177b0bdf",
+    "text": "Are You Eligible for Benefits? ............................................................................................................................................... 5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "43b65d10b6587dc8d1c8b683f91f1073",
+    "text": "When and Where to File ....................................................................................................................................................... 8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8da9bc18c03b7104ee758a0623f2872b",
+    "text": "Information Needed to File for Benefits .............................................................................................................................. 8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6261de1d076b3b0f2cd6cc2549298e2b",
+    "text": "What “Able to and Available for Work” Means ................................................................................................................... 9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "297e2662bb13aedc3ceca38c6b0f2220",
+    "text": "Actively Looking for Work .................................................................................................................................................... 9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1b9b76b66fdcc3b0e9fa9f663f72a672",
+    "text": "Claiming Children as Dependents ...................................................................................................................................... 10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e6a60467ad67d96f98e4378881e06b4e",
+    "text": "Claiming a Spouse as a Dependent ..................................................................................................................................... 10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "90c385071d4f35095766b96943e8e9d0",
+    "text": "What Happens When You File Your New Claim for Benefits? ......................................................................................... 10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "fc68d56cf074aff243f44d7fe6d4db4e",
+    "text": "Benefits Paid for Weeks ...................................................................................................................................................... 11",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f3fe88c59781c9895fedc28fab720863",
+    "text": "Receiving Payments via Paper Check or Direct Deposit .................................................................................................. 11",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4150ee0bbc186ab05e4abef3dba769f8",
+    "text": "Certify for Benefits .............................................................................................................................................................. 12",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "27c399ec9718cab2fb0fad69c85ad762",
+    "text": "Scheduled Appointments .................................................................................................................................................... 12",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7ef0c2310e3fd480406ab3b2908d04c4",
+    "text": "If You Are Unable to Work .................................................................................................................................................. 13",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0b3e8bcc5bf8e8104dd97a2129a83933",
+    "text": "If You Move .......................................................................................................................................................................... 13",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "89ff7454f66e88534f1f2e66b4de9b4e",
+    "text": "When You Return to Work.................................................................................................................................................. 13",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0abd5c973f98f8d2945409524f17ddd8",
+    "text": "If You Are Overpaid ............................................................................................................................................................. 14",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "35115318c56052212b9a75b22612e80b",
+    "text": "False or Misleading Information ........................................................................................................................................ 14",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "41a6e67eb110cf59877fd373c7a98e02",
+    "text": "If Your Claim Is Contested .................................................................................................................................................. 14",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5ebc01a07c576c2c2f5fd36a609a525b",
+    "text": "If Your Claim Is Denied at Any Time – Your Appeal Rights .............................................................................................. 15",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "423bdc60b404488b05b04bd9cf16a1fb",
+    "text": "What Happens to Your Appeal?.......................................................................................................................................... 15",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d581930ae53c0c9768672e13fd403756",
+    "text": "Employer Appeal Rights ..................................................................................................................................................... 16",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "67c8fed8b8892bd78d7fb0dd7c7e062d",
+    "text": "How Your Benefits Are Determined .................................................................................................................................. 16",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1c0db8b052f320c19dd832c4d6df5e0c",
+    "text": "Your Base Period ................................................................................................................................................................. 16",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "416fe95b3064a38d11607a0fdb2a1775",
+    "text": "Total Weekly Benefits ......................................................................................................................................................... 17",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "098eca2df85c0f59f5c605097642ec47",
+    "text": "Total Yearly Benefits ........................................................................................................................................................... 18",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "01f6087d7b91b1ee63e92035360e3e42",
+    "text": "Partial Benefits–Part-Time Work ....................................................................................................................................... 18",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "82046932451d1f6a5c2e7935fb4f0f5e",
+    "text": "Figuring Partial Benefits ..................................................................................................................................................... 18",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "09792f0b7b1214611415a6bcaac133ef",
+    "text": "Interstate Benefits ............................................................................................................................................................... 19",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f05fc05c73580d066fd8cf30c2c0f7cc",
+    "text": "Combined Wage Claim ........................................................................................................................................................ 19",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1052fedb16edc27ce378d2af417b9523",
+    "text": "United States Government Employees .............................................................................................................................. 19",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b05868ef356600dc8b08a845ed57a4e5",
+    "text": "U.S. Military Veterans .......................................................................................................................................................... 20",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d1e8c180d809fdbed16e76c16254c97f",
+    "text": "Trade Assistance Benefits ................................................................................................................................................... 21",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8f318af7561ebebbd2b28864cd9290a0",
+    "text": "Profiling and Referral to Reemployment Services ............................................................................................................ 21",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "996d538bf909a55b618602702767e3b2",
+    "text": "Report Your Return to Work IMMEDIATELY! ................................................................................................................... 22",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1cf347d955eb5737379c59fd1889dc26",
+    "text": "Final Tips for Filing ............................................................................................................................................................. 22",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e528401ac9fd0f8b6525d9d6f57609e3",
+    "text": "Benefits May Be Taxable ..................................................................................................................................................... 22",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "12345e97e7d95b7f57782d13a4e2da73",
+    "text": "Your Social Security Number Is Required ......................................................................................................................... 23",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "252d25bd1b3dc4fa1a016d3550476202",
+    "text": "W bwwuw",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "illinois.pdf",
+      "parent_id": "ab02848493213d7a82052cb495048245"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "1644e2209e22fcd6f9d63d5ebc856a67",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "885918f5a40f2739aa3b4ba82c8d77b8",
+    "text": "Introduction",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "illinois.pdf",
+      "parent_id": "1644e2209e22fcd6f9d63d5ebc856a67"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "097e5ae04ed3133d49a69c56f0636582",
+    "text": "This publication provides detailed instructions on how job seekers can apply for unemployment insurance benefits. The Illinois Department of Employment Security (IDES) collects unemployment insurance taxes from the state’s liable employers and returns those dollars to eligible Illinois workers as unemployment insurance benefits. IDES also operates an employment service and other special programs for the unemployed and underemployed and matches employer labor needs with the skills of job seekers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "illinois.pdf",
+      "parent_id": "885918f5a40f2739aa3b4ba82c8d77b8"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6d6909a335e3df62663d721f3691891b",
+    "text": "Where to Find IDES Services",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "illinois.pdf",
+      "parent_id": "1644e2209e22fcd6f9d63d5ebc856a67"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2d17f06623f345f326256fa957e2f6d2",
+    "text": "Visit the IDES website at IDES.Illinois.gov for all services. IDES services are also available at IDES offices and Illinois workNet Centers throughout Illinois. To find an office near you, go to IDES.Illinois.gov and select Office Locator from the About menu. If you have questions about filing a claim, please consult this brochure. You may also call IDES Claimant Services at (800) 244-5631 if you still have questions. Unemployment insurance benefits recipients are required to actively seek employment. They are also required to register with the Illinois Employment Service systems. Both requirements can be fulfilled by logging in to IllinoisJobLink.com and completing the registration process, creating a resume, and searching for work. For information on career choices, employment trends, job outlooks, job descriptions and wages, go to IDES.Illinois.gov, and select Jobs & Workforce.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "illinois.pdf",
+      "parent_id": "6d6909a335e3df62663d721f3691891b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2d0384d8521547e23b7108d667bd7991",
+    "text": "Protect Your Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "illinois.pdf",
+      "parent_id": "1644e2209e22fcd6f9d63d5ebc856a67"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dadbda7abda7cffd88e276eb05bec1af",
+    "text": "Many unemployed workers lose their benefits for a week or more because they do not follow the instructions in this booklet. Mistakes in filing claims can delay payment of your benefits. If you do not understand these instructions, call IDES Claimant Services at (800) 244-5631 or ask for assistance at an IDES office or Illinois workNet Center. You are entitled to be represented in all matters relating to your claim by a person or organization of your choice. Information concerning your claim can be given to your representative only if that representative shows evidence of authorization from you.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "illinois.pdf",
+      "parent_id": "2d0384d8521547e23b7108d667bd7991"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d86b688c694f521b9465530724a9c891",
+    "text": "Unemployment Insurance Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "illinois.pdf",
+      "parent_id": "1644e2209e22fcd6f9d63d5ebc856a67"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c4a942bdb88ccaec89cb9dba25a77d38",
+    "text": "Unemployment insurance is a state-operated insurance program designed to partially compensate you for loss of wages when you are out of work. As with fire, accident, health and other types of insurance, it is for an emergency: when you are temporarily or permanently out of a job or if you work less than full-time due to lack of work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "illinois.pdf",
+      "parent_id": "d86b688c694f521b9465530724a9c891"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "0e1837016bdefa3e7319dadc738d3552",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ad58858fed1c05eaa6178cf6a293c979",
+    "text": "The program ensures that, if you meet the eligibility requirements of the law, you will have some income while you are looking for a job, up to a maximum of 26 full weeks in a one-year period. However, unemployment insurance cannot and does not protect you against wage losses while you are absent from work due to illness or while you are idle by choice.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "illinois.pdf",
+      "parent_id": "0e1837016bdefa3e7319dadc738d3552"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fdd84e3ec9f96e20da796628183c759b",
+    "text": "Unemployment insurance should not be confused with Social Security, which is a federal program to protect you and your dependents against loss of earnings upon retirement, permanent disability or death. You pay for Social Security partially through payroll deductions; you do not pay any part of your wages, either directly or through payroll deductions, for unemployment insurance in Illinois. Unemployment insurance benefits are funded by tax dollars collected from Illinois employers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "illinois.pdf",
+      "parent_id": "0e1837016bdefa3e7319dadc738d3552"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0f45c0c4e809f4e4971f9820009ff44d",
+    "text": "Because employers pay the cost of unemployment insurance (the amount that they pay varies depending on the number of claims charged to their experience), employers have the right to contest claims that they believe are not legitimate.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "illinois.pdf",
+      "parent_id": "0e1837016bdefa3e7319dadc738d3552"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "24c8134815ecbcf9fcb03c5fbc7dd928",
+    "text": "Insured Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "illinois.pdf",
+      "parent_id": "0e1837016bdefa3e7319dadc738d3552"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d83c91ddd0ec5b937b2a602b1b64d1bf",
+    "text": "If you qualify for unemployment insurance, you will receive benefits based on insured work. Insured work is work performed for an employer who is subject to the law — one who is required to make payments to the state under the Illinois Unemployment Insurance Act.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "illinois.pdf",
+      "parent_id": "24c8134815ecbcf9fcb03c5fbc7dd928"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "83e4a078c1ce37afe585f78201ee5925",
+    "text": "The biweekly payments to you are known as benefits. To qualify for benefits, you must meet eligibility requirements. If you do, benefits will be paid to you as a matter of right. Benefits are not based on need; they are not charity or welfare.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "illinois.pdf",
+      "parent_id": "24c8134815ecbcf9fcb03c5fbc7dd928"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f8501c15ce6240ed31b1b8da53c7671c",
+    "text": "In Illinois, the unemployment insurance program is administered by IDES; services are provided to the public via the Internet and at IDES offices throughout the state.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "illinois.pdf",
+      "parent_id": "24c8134815ecbcf9fcb03c5fbc7dd928"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d2ef64dd7a1fdf457d8f2df3cba456d1",
+    "text": "If you become unemployed, you may file a claim online at IDES.Illinois.gov or at an IDES office. Office locations can be found online or by calling IDES Claimant Services.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "illinois.pdf",
+      "parent_id": "24c8134815ecbcf9fcb03c5fbc7dd928"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6837a276a348967d3027bd6de940f943",
+    "text": "File your claim during the first week after you have become unemployed or as soon thereafter as possible. If you delay filing, you may lose benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "illinois.pdf",
+      "parent_id": "24c8134815ecbcf9fcb03c5fbc7dd928"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "27d7e1c0fa65adfed2d97164dba77f36",
+    "text": "Uninsured Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "illinois.pdf",
+      "parent_id": "0e1837016bdefa3e7319dadc738d3552"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "96b02f6a937b05bbfc7bc486c4e93d1a",
+    "text": "There are some types of work that may not be insured in Illinois. Wages paid for uninsured work cannot be used as a basis for claiming benefits. Here are some examples:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "illinois.pdf",
+      "parent_id": "27d7e1c0fa65adfed2d97164dba77f36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ae95bffb8f7a1defc1c2a87005bd3418",
+    "text": "1. Agricultural workers who are covered are those who worked for an employing unit that paid at least $20,000 in cash wages to these employees during any calendar quarter or employed 10 or more individuals within each of 20 or more calendar weeks within either the current or preceding calendar year. Other agricultural workers are not covered.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "illinois.pdf",
+      "parent_id": "27d7e1c0fa65adfed2d97164dba77f36"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "4a0efc3aaeec6175b9186deab1a34b7c",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "da557a2d1f6afee6a65a56aa66a62df7",
+    "text": "2. Domestic workers who are covered are those who worked for an employing unit that paid at least $1,000 in cash wages for any domestic services in any calendar quarter in either the current or preceding calendar year. Other domestic workers are not covered.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "4a0efc3aaeec6175b9186deab1a34b7c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2c9578396c6b64475075bafd85cb1cc2",
+    "text": "3. Railroad work covered by the Railroad Unemployment Insurance Act is not insured.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "4a0efc3aaeec6175b9186deab1a34b7c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f1f2572616f2fafbf05437a0a5d643dc",
+    "text": "4. Certain family employment, such as a person working for a spouse, a parent working for a son or daughter or a son or daughter under 18 working for a parent, is not covered.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "4a0efc3aaeec6175b9186deab1a34b7c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "53ae37b75081e505b272cda6d75dca16",
+    "text": "5. Work as an insurance agent or solicitor paid solely on a commission basis is not covered.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "4a0efc3aaeec6175b9186deab1a34b7c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d2c0c7d8a72352d75cf20c66b94bc5cd",
+    "text": "6. Some government work in special job situations (elected officials) or those hired to work for a short period following a disaster may not be covered.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "4a0efc3aaeec6175b9186deab1a34b7c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "aeb5fc5920b2c7992a17db8bbcb4b7d8",
+    "text": "7. Federal, state or locally funded work-relief and/or work training are not covered.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "4a0efc3aaeec6175b9186deab1a34b7c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "043b50b6d880535c0f1ffe7d94a95147",
+    "text": "8. Direct sellers of consumer products on a buy-sell basis, by direct commission or any similar basis in a home or in an establishment other than a permanent retail establishment are also not covered.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "4a0efc3aaeec6175b9186deab1a34b7c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e43932b7c2bf545033eeb31ed1f4d029",
+    "text": "There are some other types of work that are not insured under the Illinois program but may be insured under another state (see page 19) or the federal government. If you have any questions, call IDES Claimant Services.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "4a0efc3aaeec6175b9186deab1a34b7c"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c81c8b4e56e90fa371d395738c97d1b8",
+    "text": "Are You Eligible for Benefits?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "4a0efc3aaeec6175b9186deab1a34b7c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c7b928f39efe4fdce57073f5807cc286",
+    "text": "Unemployment insurance, like other forms of insurance, requires that certain eligibility conditions be met before your claim can be paid. These conditions are designed to ascertain that you have been recently employed and are now unemployed through no fault of your own. You are eligible for benefits only for weeks in which you meet all of the eligibility conditions and are not subject to disqualification.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "c81c8b4e56e90fa371d395738c97d1b8"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6c5533b5bc0a33c2e34eaf550d9c7ced",
+    "text": "GENERAL ELIGIBILITY",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "4a0efc3aaeec6175b9186deab1a34b7c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "71d40f1ddf98e169ad92544198c3027c",
+    "text": "1. You are unemployed through no fault of your own.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "6c5533b5bc0a33c2e34eaf550d9c7ced"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "765c2ed0de0f7e0c0022b2ae435aa09f",
+    "text": "2. You were paid $1,600 or more in wages during your base period for insured work (See page 14).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "6c5533b5bc0a33c2e34eaf550d9c7ced"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7c70b963e3f21c9c0ad88d9fbaf261c5",
+    "text": "3. You were paid at least $440 of your base period wages at any time during the base period outside the calendar quarter in which your wages were highest.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "6c5533b5bc0a33c2e34eaf550d9c7ced"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c1f8d9ae88c4472c3f37940fe8a4a96d",
+    "text": "4. You were registered for work with IDES. (See page 9).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "6c5533b5bc0a33c2e34eaf550d9c7ced"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bf6bc8d6a1b5f50d31da8751607201c9",
+    "text": "WEEKLY ELIGIBILITY",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "4a0efc3aaeec6175b9186deab1a34b7c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d623f307251f4128e6c5026103bdeceb",
+    "text": "1. You filed your claim (certified) for the week as scheduled using the automated Tele-Serve system, via the Internet or as otherwise directed by IDES staff.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "bf6bc8d6a1b5f50d31da8751607201c9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "81a210d7853b78e10256bb370d620987",
+    "text": "2. You have served one “waiting week.” The “waiting week” is a qualifying period required by law. Benefits are not paid for this week. It is usually the first week for which you file your claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "illinois.pdf",
+      "parent_id": "bf6bc8d6a1b5f50d31da8751607201c9"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "ede6738aafe390fa95ba416f6beab200",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e3757e7c8e4bfaf24272d55e20f9ff1b",
+    "text": "3. During the week, you were able to work, available for work and actively looking for work. (See pages 8 & 9).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf",
+      "parent_id": "ede6738aafe390fa95ba416f6beab200"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6b2b18bc1f2b3bad49357dec40b1aa75",
+    "text": "DISQUALIFICATIONS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf",
+      "parent_id": "ede6738aafe390fa95ba416f6beab200"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a8ab5dc1e398dc2e4429f251def7df11",
+    "text": "Even though you meet the eligibility conditions listed above, you will not be eligible for benefits if you are disqualified. You will be disqualified if:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf",
+      "parent_id": "6b2b18bc1f2b3bad49357dec40b1aa75"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3539893440b1a2251c59416ff751ca96",
+    "text": "1. You quit your job without good cause attributable to your employer, unless you quit because of one of these reasons: health, sexual harassment, domestic violence, unsuitable work, acceptance of another job, failure to exercise bumping privileges or the need to accompany a military spouse or a spouse who is relocating due to employment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf",
+      "parent_id": "6b2b18bc1f2b3bad49357dec40b1aa75"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a1df22fe5d5dd3a0303670b0988a67f7",
+    "text": "2. You were discharged for misconduct connected with your work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf",
+      "parent_id": "6b2b18bc1f2b3bad49357dec40b1aa75"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "36e8142b7da586a2cb0760229b6fbb81",
+    "text": "3. You failed, without good cause, to apply for or accept a suitable job offered to you. Under the law, a job is not suitable if:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf",
+      "parent_id": "6b2b18bc1f2b3bad49357dec40b1aa75"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0502f1d0278efb2fe492f2613ba8d5df",
+    "text": "a. The job opening exists because of a labor dispute.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf",
+      "parent_id": "6b2b18bc1f2b3bad49357dec40b1aa75"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e37473506055f7af37b08d301cec5965",
+    "text": "b. The wages, hours or other working conditions of the job are not as good as those that exist for the same kind of work in the same community.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf",
+      "parent_id": "6b2b18bc1f2b3bad49357dec40b1aa75"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "82adb2577a9c359ab80b46d53944651a",
+    "text": "c. Your safety, health or morals may be endangered.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf",
+      "parent_id": "6b2b18bc1f2b3bad49357dec40b1aa75"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a215f92d2ba7bc9efa5d782929e8c5c9",
+    "text": "d. You would have to resign from or be prevented from joining a union to get or keep the job.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf",
+      "parent_id": "6b2b18bc1f2b3bad49357dec40b1aa75"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "483af229f1fb02f93dfe8ad9e0f4ea55",
+    "text": "e. You would displace another worker under a collective bargaining agreement and cause that person to be laid off.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf",
+      "parent_id": "6b2b18bc1f2b3bad49357dec40b1aa75"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c02e8a9ddaec420ea1557419f42d6dbe",
+    "text": "Note: If any of the first three disqualifications apply to you, you will not be eligible for future benefits until you find another job and earn an amount equal to or more than your weekly benefit amount in each of four calendar weeks, and then lose that job through no fault of your own. (A few types of work cannot be used to requalify.)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf",
+      "parent_id": "6b2b18bc1f2b3bad49357dec40b1aa75"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9a1212983595cb682a90da6afa56d26e",
+    "text": "4. You were discharged because you committed a felony or theft in connection with your work. You may be denied all benefits based on wages paid you up to the date of your discharge.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf",
+      "parent_id": "6b2b18bc1f2b3bad49357dec40b1aa75"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "08932d8f7a96e80741c17c83b5ba9555",
+    "text": "5. You are unemployed because a labor dispute has caused a stoppage of work at the place where you work. You may be denied benefits until the stoppage ends. If you can show that you and all the other workers in your grade or classification were not participating in or directly impacted by the labor dispute, you will not be denied benefits even though there is a stoppage.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf",
+      "parent_id": "6b2b18bc1f2b3bad49357dec40b1aa75"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d55fe91eef9299aeeae78da8fa12e52f",
+    "text": "6. For the same week for which you claim Illinois benefits, you are receiving unemployment insurance benefits from another state or under a federal law such as the Railroad Unemployment Insurance Act.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf",
+      "parent_id": "6b2b18bc1f2b3bad49357dec40b1aa75"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a14a5e47aef86d9dbe9d5d817019d919",
+    "text": "7. For any week for which you claim benefits, you have been or will be paid or your employer is obligated to pay wages in the form of vacation pay, vacation allowance or stand-by pay for an announced shutdown for inventory or vacation purposes or if, in connection with your separation, the employer makes or will make such payment and files a timely designation of the period covered by the pay or for which you receive wages in lieu of notice or a back-pay award.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "illinois.pdf",
+      "parent_id": "6b2b18bc1f2b3bad49357dec40b1aa75"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "cd1a8e91cc7a4bf7aca018825aba8d72",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "70abdbbc4224e78fb4dc1423b5c8456e",
+    "text": "8. For the same week for which you claim benefits, you are receiving workers’ compensation for a temporary total disability equal to or more than the unemployment insurance benefits you could draw for the week. If the amount is less than the benefits, you may be paid the difference.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "illinois.pdf",
+      "parent_id": "cd1a8e91cc7a4bf7aca018825aba8d72"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3bdd2c9258328d232c04e3994ce619e6",
+    "text": "9. Since the beginning of your prior benefit year (see page 17) in which you were paid benefits, you have not earned the required amount to qualify for a second year of benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "illinois.pdf",
+      "parent_id": "cd1a8e91cc7a4bf7aca018825aba8d72"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "273384771aac77bd1763f106d06e7705",
+    "text": "10. You will be paid or have received a retirement pension or other similar periodic payment for the week for which you claim benefits. One-half (50%) of your retirement pension payment (if paid for in part by your base period or chargeable employer) or all (100%) of your retirement pension payment (if the base period or chargeable employer paid all of its cost) will be deducted from your unemployment insurance benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "illinois.pdf",
+      "parent_id": "cd1a8e91cc7a4bf7aca018825aba8d72"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ffdea48e5ddb9696975eff69ca57f0b0",
+    "text": "Retirement pension deduction is determined by using the following calculation: monthly amount of pension is divided by thirty (30) then multiplied by seven (7), which is the weekly pension amount. If the employer paid any part of the pension, then the weekly pension amount is divided by two (2) to determine one-half (50%).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "illinois.pdf",
+      "parent_id": "cd1a8e91cc7a4bf7aca018825aba8d72"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "50c59f6508a2975abd1a2bffc54c12ac",
+    "text": "For example, an individual receives $1030.50 a month in retirement pension, of which the employer paid part of the pension and the weekly benefit amount is $331.00. The formula is as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "illinois.pdf",
+      "parent_id": "cd1a8e91cc7a4bf7aca018825aba8d72"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e14b516fc52e562dafc360439bdd0ce6",
+    "text": "$1030.50 + 30 = $34.35 B Daily Amount $34.35x 7= $240.45 ..... Weekly Retirement Amount $240.452= $120.225 50% of Weekly Amount $331.00 - $120.225 = $210.775 ... Round to next highestdollar $21L.00 [ Benefit amount after retirement deductions",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "illinois.pdf",
+      "parent_id": "cd1a8e91cc7a4bf7aca018825aba8d72"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1af9e1780e6fd2218aaa39e8f5a9b426",
+    "text": "11. Your claim is based on wages that were earned while you worked for an educational institution as a teacher, researcher or administrator, you are between academic terms or you are on vacation or a holiday recess and you have the reasonable assurance of returning the following term. However, educational personnel might qualify for unemployment insurance benefits between and within an academic term if they have sufficient non-academic wages. You will be disqualified if you worked for any educational institution as a bus driver, crossing guard, cafeteria worker, clerk, etc. and you are between academic terms and there is reasonable assurance that you will return to such work in the term that immediately follows. Academic personnel might also be disqualified during a period of paid sabbatical leave.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "illinois.pdf",
+      "parent_id": "e14b516fc52e562dafc360439bdd0ce6"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a059822e3449ed632484baf0645efe28",
+    "text": "12. You are a professional athlete, you are between sport seasons and there is reasonable assurance that you will return to athletic services.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "illinois.pdf",
+      "parent_id": "e14b516fc52e562dafc360439bdd0ce6"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bd5543b27a7374fe574b9825de3588a5",
+    "text": "13. Your benefits would be based upon wages earned while you were an alien who was not a permanent resident or did not have a work permit.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "illinois.pdf",
+      "parent_id": "e14b516fc52e562dafc360439bdd0ce6"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "47db97b48a6c269999cd420281b7462b",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "781b9d67958f7e528e30482d3e3e1230",
+    "text": "When and Where to File",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "47db97b48a6c269999cd420281b7462b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "393513f91062a04237a511274a6c1b3e",
+    "text": "File your claim for unemployment insurance benefits during the first week after you have become unemployed. File for benefits online at IDES.Illinois.gov or at an IDES office. If you are uncertain about your eligibility for benefits, call IDES Claimant Services for further information.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "781b9d67958f7e528e30482d3e3e1230"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "02afca7c041a2da3699b07b0467a2ecb",
+    "text": "You must also register with the Illinois Employment Service system at IllinoisJobLink.com, or you may register at an IDES office.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "781b9d67958f7e528e30482d3e3e1230"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "15c1d7842969f1214dd7044a3ffaab92",
+    "text": "Information Needed to File for Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "47db97b48a6c269999cd420281b7462b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e591383df1eddec4d939360880809799",
+    "text": "• Your Social Security Number and Name as it appears on your Social Security card;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "15c1d7842969f1214dd7044a3ffaab92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4913db3b2d44755f79be0b5ef5b912ac",
+    "text": "• Your Driver License / State ID (this will provide your weight, which is required);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "15c1d7842969f1214dd7044a3ffaab92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5e09e7793d6462f954b9afbe6d941319",
+    "text": "• If claiming your spouse or child as a dependent, the Social Security Number, date of birth and name(s) of dependent(s);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "15c1d7842969f1214dd7044a3ffaab92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cbecddb07fbce529c376f4a228a96795",
+    "text": "• Name, mailing address, phone number, employment dates, and separation reason for all the employers you worked for in the last 18 months;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "15c1d7842969f1214dd7044a3ffaab92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2b2a101dfa401aaeca9f32e56d8d6d44",
+    "text": "o Wage records (W-2 form, check stubs, etc.) from these employers may be necessary.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "15c1d7842969f1214dd7044a3ffaab92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1b13db1e3ebf60ac0d3d8f6a80d417c3",
+    "text": "• If you worked since Sunday of this week, the gross wages earned this week;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "15c1d7842969f1214dd7044a3ffaab92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5ab340fe6e428e41664d414945c4f1b1",
+    "text": "o You must report all gross wages for any work performed, full or part-time;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "15c1d7842969f1214dd7044a3ffaab92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fdca96871ded3bf6d33deda37104a24b",
+    "text": "o Gross means the total amount earned before deductions, not “take home pay”, including wages in the form of lodging, meals, merchandise or any other form;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "15c1d7842969f1214dd7044a3ffaab92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "433cca61a1f94e3c91ee6d4e9f0b3996",
+    "text": "o Gross wages must be reported the week in which they are earned, not the week in which you receive the wages;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "15c1d7842969f1214dd7044a3ffaab92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "66709b07bf91e9fb0034aaf742dd9303",
+    "text": "o If your gross wages earned in any week are less than your weekly benefit amount, you still may be eligible to receive a full or partial benefit payment);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "15c1d7842969f1214dd7044a3ffaab92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d8b118307bc9609965f2ad8eeb2d0627",
+    "text": "• Records of any pension payments you are receiving (not including Social Security);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "15c1d7842969f1214dd7044a3ffaab92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "81bb9e0ec7cb5203a8ee82b069e51736",
+    "text": "• If you are not a United States citizen, your Alien Registration Information;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "15c1d7842969f1214dd7044a3ffaab92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d5c0de691ec65521849431840c46b3e9",
+    "text": "• If you are a recently separated veteran, the Member 4 Copy of the DD form 214 / 215;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "15c1d7842969f1214dd7044a3ffaab92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b6827cc9a72130c9980199c71bce03db",
+    "text": "o Other copies of the DD Form 214 / 215 are acceptable, but the Member 4 copy is the most commonly available.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "15c1d7842969f1214dd7044a3ffaab92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3693e6954fc3548905d1e9c1daf615bc",
+    "text": "• If you are separated from work as a civilian employee of the federal government, copies of your Standard Form 8 and Personnel Action Form 50.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "illinois.pdf",
+      "parent_id": "15c1d7842969f1214dd7044a3ffaab92"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "a31c2710adcc98dac11ae882cf4ea915",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5698716f72d94fe25c3552eca4b71379",
+    "text": "Note: The law provides jail sentences and fines if you attempt to obtain benefits fraudulently by withholding pertinent information or by making false statements to obtain benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf",
+      "parent_id": "a31c2710adcc98dac11ae882cf4ea915"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4e9e1c2700e08cba3526b74976bfd886",
+    "text": "What “Able to and Available for Work” Means",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf",
+      "parent_id": "a31c2710adcc98dac11ae882cf4ea915"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aa4d652a191b277b1b418761ee2b18f1",
+    "text": "The law states that you must be able to and available for work during any week for which you claim benefits. This means that during the week you must have been willing, ready, and able to accept a suitable job. Normally this means a full-time job. You are not able to and available for work if:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf",
+      "parent_id": "4e9e1c2700e08cba3526b74976bfd886"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2a023485555326c7a3a10d9f7bbdb78f",
+    "text": "1. You are sick and cannot work on any day.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf",
+      "parent_id": "4e9e1c2700e08cba3526b74976bfd886"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5fad2a031302e761cee83c1ad49710a6",
+    "text": "2. You are away on vacation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf",
+      "parent_id": "4e9e1c2700e08cba3526b74976bfd886"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a1b64bc6abf943cab7e309f0cfb4abdc",
+    "text": "3. You must stay at home to keep house or care for your family.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf",
+      "parent_id": "4e9e1c2700e08cba3526b74976bfd886"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9166dc3931b14b080ea21bff49786f7f",
+    "text": "4. You have retired and will not accept a suitable job.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf",
+      "parent_id": "4e9e1c2700e08cba3526b74976bfd886"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b1bbec514b2f34326cbea9fed7775c86",
+    "text": "5. After losing your last job, you move to and stay in a community where your chances of getting a job are definitely not as good as those in the community you left.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf",
+      "parent_id": "4e9e1c2700e08cba3526b74976bfd886"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "67ecddb6ccb9ad93432ee0bb3666a66b",
+    "text": "6. The wages, hours, or work conditions you insist on unreasonably limit the chances of your getting a job.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf",
+      "parent_id": "4e9e1c2700e08cba3526b74976bfd886"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1eeeaacffc930ccf3e3cf7f8668c6229",
+    "text": "7. Your main occupation is that of a student in attendance at or on vacation from school. However, you may be eligible for benefits if you are attending an approved training course to help you get a job under specified circumstances. If you are enrolled in such a course, inform a representative at IDES Claimant Services, at an IDES office or a workNet Center.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf",
+      "parent_id": "4e9e1c2700e08cba3526b74976bfd886"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "af0432cf014cd3c650594926dbcfe466",
+    "text": "Actively Looking for Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf",
+      "parent_id": "a31c2710adcc98dac11ae882cf4ea915"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5c69e97b8d55d1633d2229a4a8f020a2",
+    "text": "The law states that you must be actively looking for work on your own initiative. You must register with the Illinois Employment Service system at IllinoisJobLink.com, or you may register at an IDES office. Your work preferences and skills will be matched to available job openings. Staff members are available at the IDES offices to help with your job search. In addition, you may be asked to regularly inform IDES about:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf",
+      "parent_id": "af0432cf014cd3c650594926dbcfe466"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "671efcb947be10c18387f80eef4f310f",
+    "text": "1. What you are doing to find work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf",
+      "parent_id": "af0432cf014cd3c650594926dbcfe466"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7d065d3cbc40fd099aa60a89645dc6c8",
+    "text": "2. The kind of work you have been seeking.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf",
+      "parent_id": "af0432cf014cd3c650594926dbcfe466"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5427282bb80c1a36389b6fe399b555af",
+    "text": "3. Your prospects of being hired.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf",
+      "parent_id": "af0432cf014cd3c650594926dbcfe466"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ea4e15c859a96c96959e91f1927af4d9",
+    "text": "Keep a record of when and where you apply for work. If you search for work at IllinoisJobLink.com, your efforts will be recorded there. You can also use a Work Search Record form available on our website: IDES.Illinois.gov. If your period of unemployment becomes extended, you may have to consider altering your requirements to improve your chances of finding work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "illinois.pdf",
+      "parent_id": "af0432cf014cd3c650594926dbcfe466"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "34a7bbc8bc06541b2427071e1c20d706",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "illinois.pdf",
+      "parent_id": "af0432cf014cd3c650594926dbcfe466"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c81eeb3abc5d5308065a56f7a040ab4b",
+    "text": "Claiming Children as Dependents",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "illinois.pdf",
+      "parent_id": "a31c2710adcc98dac11ae882cf4ea915"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "31f7037648332f9502c6414abfd61d41",
+    "text": "You may claim a child as a dependent if all the following conditions apply:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "illinois.pdf",
+      "parent_id": "c81eeb3abc5d5308065a56f7a040ab4b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3e4619a5e1303fecd7563d5ccdc7c1a2",
+    "text": "1. The child has not been claimed as a dependent by anyone else during the past year.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "illinois.pdf",
+      "parent_id": "c81eeb3abc5d5308065a56f7a040ab4b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7a0b207fb3ab26bf60cf9b5da69cc2dc",
+    "text": "2. The child is not a member of the same family in which one child has been claimed as a dependent by the other parent.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "illinois.pdf",
+      "parent_id": "c81eeb3abc5d5308065a56f7a040ab4b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d4ba5c7687c3e57684175232120a410f",
+    "text": "3. The child is under 18 years of age, or, if older, has been unable to work because of illness or other disability during the 90 days prior to the first day of each week for which you file a claim for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "illinois.pdf",
+      "parent_id": "c81eeb3abc5d5308065a56f7a040ab4b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5f914ccdf748b6d13fd0a6d9fdb3899c",
+    "text": "4. The child is your natural child, your stepchild or your adopted child, or the child is in your custody by court order.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "illinois.pdf",
+      "parent_id": "c81eeb3abc5d5308065a56f7a040ab4b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6e04bbd4ca99626b2e02046f49061585",
+    "text": "5. You provided more than one-half of the support for the child for the 90 days prior to the first day of each week for which you file a claim for benefits (or for the duration of the relationship if it existed for less than 90 days) or you provided at least one-quarter of the support if you and your spouse together provided more than one-half the support and were members of the same household.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "illinois.pdf",
+      "parent_id": "c81eeb3abc5d5308065a56f7a040ab4b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "be5553a75d3f43c4f9dd420caea44160",
+    "text": "If you were prevented by illness or injury from supporting your child or children during the 90-day period but were legally obligated to support them, you are considered to have supported them.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "illinois.pdf",
+      "parent_id": "c81eeb3abc5d5308065a56f7a040ab4b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "13c657624cd778ba72304dbde5362311",
+    "text": "Claiming a Spouse as a Dependent",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "illinois.pdf",
+      "parent_id": "a31c2710adcc98dac11ae882cf4ea915"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bab884193067f1553ee8dc2be9a618da",
+    "text": "You may claim your spouse as a dependent if they do not have enough wages of their own to qualify for benefits and you provided more than one-half of your spouse’s support for the 90 days prior to the first day of each week for which you file a claim for benefits. However, if your marriage took place less than 90 days before the first day of the benefit week, you may claim your spouse as a dependent if they do not have enough wages to qualify for benefits and you have provided more than one-half of their support since the date of the marriage. If you were prevented by illness or injury from supporting your spouse during the 90-day period but were legally obligated to provide support, you are considered to have supported them. You cannot claim both a dependent spouse and a dependent child.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "illinois.pdf",
+      "parent_id": "13c657624cd778ba72304dbde5362311"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ce35bc5e2a0be03121dbdf58f3c59274",
+    "text": "What Happens When You File Your New Claim for Benefits?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "illinois.pdf",
+      "parent_id": "a31c2710adcc98dac11ae882cf4ea915"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "390719cb9bd049bff4e7d82e5c265bb8",
+    "text": "1. After you file your claim, you will be assigned a call day to certify for weeks of benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "illinois.pdf",
+      "parent_id": "ce35bc5e2a0be03121dbdf58f3c59274"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "357c6db9090290bfb94691aa7eccdadd",
+    "text": "2. You are required to complete your registration with the Illinois Employment Service system at IllinosJobLink.com.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "illinois.pdf",
+      "parent_id": "ce35bc5e2a0be03121dbdf58f3c59274"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "a4a80397966c9d59dfa5dd96018cae41",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 11",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6c110ffedac0981397a57da41de7fe62",
+    "text": "3. You will be informed that you must actively look for work and must maintain a record of your work search efforts (See page 9). This documentation must be produced if requested by this agency.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "illinois.pdf",
+      "parent_id": "a4a80397966c9d59dfa5dd96018cae41"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f927acab573c925838aa5aac5521b37d",
+    "text": "A determination that you were actively seeking work during a week being claimed is subject to reconsideration. (The determination may be reconsidered even though you have been paid benefits or returned to work since then.) To preserve evidence that you were actively seeking work, do not discard your written work search record for any week being claimed until 53 weeks have passed from the end of that week. Further, if there is an appeal pending regarding your active work search for a week, keep your written work search record until there has been a final resolution of the matter. An easy alternative is to maintain your work search record online at IllinoisJobLink.com.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "IllinoisJobLink . com .",
+          "url": "https://illinoisjoblink.illinois.gov/ada/r/",
+          "start_index": 661
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "illinois.pdf",
+      "parent_id": "a4a80397966c9d59dfa5dd96018cae41"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9ca681466849ce71d86c01f3fe18fb54",
+    "text": "After your claim is filed, IDES will send you a statement called a UI Finding. The Finding shows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "illinois.pdf",
+      "parent_id": "a4a80397966c9d59dfa5dd96018cae41"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9b1fc72df250eb0baf16442945234373",
+    "text": "• Your first certification date.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "illinois.pdf",
+      "parent_id": "a4a80397966c9d59dfa5dd96018cae41"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c1deb300307d581c160fecdfe794383d",
+    "text": "• The wages you were paid by each employer in each calendar quarter of your base period for insured work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "illinois.pdf",
+      "parent_id": "a4a80397966c9d59dfa5dd96018cae41"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bdb0b332ae26ea1acc57cace085d4675",
+    "text": "• Date of claim and benefit year begin and end dates.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "illinois.pdf",
+      "parent_id": "a4a80397966c9d59dfa5dd96018cae41"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "60bc0394de0aa128c235eef7fa1fd11f",
+    "text": "• Your weekly benefit amount and dependent allowance.*",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "illinois.pdf",
+      "parent_id": "a4a80397966c9d59dfa5dd96018cae41"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b8c57791e67cb2dd949116e07bd3833d",
+    "text": "• Your maximum benefit balance.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "illinois.pdf",
+      "parent_id": "a4a80397966c9d59dfa5dd96018cae41"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fff8104012e344560cb925b8e4796920",
+    "text": "*Your WBA and dependent allowance are separate amounts; if you are entitled to a dependent allowance, it will be added to your WBA, increasing your total benefit payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "illinois.pdf",
+      "parent_id": "a4a80397966c9d59dfa5dd96018cae41"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "63f790d37c229cac34de5536502c8126",
+    "text": "If the Finding is correct, retain it. If it is not, report the error immediately to IDES. Please be prepared to show proof of wages paid during your base period (i.e., W-2 statements, check stubs, etc.). Once you file a claim for unemployment insurance benefits, you cannot withdraw the claim, even if a claim with a later effective date would result in a higher weekly benefit amount.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "illinois.pdf",
+      "parent_id": "a4a80397966c9d59dfa5dd96018cae41"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8aee23df77ab32efd8c3f5b90dedb442",
+    "text": "Benefits Paid for Weeks",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "illinois.pdf",
+      "parent_id": "a4a80397966c9d59dfa5dd96018cae41"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "91d713acc781df34eacb04b73e189159",
+    "text": "Benefits are paid bi-weekly (every other week) for two calendar weeks of unemployment. A calendar week begins on Sunday and ends on Saturday. Benefits are paid after the end of the weeks. Your assigned call day, certification day or appointment is always on a date after these weeks of unemployment. You cannot receive benefits until you have certified for the weeks by telephone or online, as directed, and have met all the eligibility requirements during those weeks.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "illinois.pdf",
+      "parent_id": "8aee23df77ab32efd8c3f5b90dedb442"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "261826c5ef1ce704ed4e0c576a7f0c2c",
+    "text": "Receiving Payments via Paper Check or Direct Deposit",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "illinois.pdf",
+      "parent_id": "a4a80397966c9d59dfa5dd96018cae41"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f22bacdf5fb2d2c5cb07796d17bb09a0",
+    "text": "You can receive benefits via paper check or direct deposit. You are strongly encouraged to choose direct deposit. You can enroll in direct deposit when you file your claim. If you do not sign up for direct deposit, you will receive your benefit payments via paper check. If you need help setting up direct deposit, see the step-by-step guide on the IDES website. The IDES website also has information about affordable and convenient bank account options.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "illinois.pdf",
+      "parent_id": "261826c5ef1ce704ed4e0c576a7f0c2c"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "469dd14e3e34513daf7b488ebd4174d2",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 12",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "316a5b86f21491f50725e926b047c672",
+    "text": "After certifying, please allow for 8 days before receiving your payment via check, or 2-3 days for direct deposit. Certify for Benefits After filing your claim you will receive a UI Finding, which includes, among other things, your base period wages, your weekly benefit amount and your bi-weekly certification day. You must certify every two weeks for the weeks just ended. IDES permits you to file bi-weekly certifications online or by Tele-Serve. Instructions for certifying are detailed in two publications:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "illinois.pdf",
+      "parent_id": "469dd14e3e34513daf7b488ebd4174d2"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b7645a3744fe2c327725c7e8ea39cbd8",
+    "text": "• I Filed My Claim What Happens Now, and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "illinois.pdf",
+      "parent_id": "469dd14e3e34513daf7b488ebd4174d2"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e36c8233d7590c3c924af94b70a0fd11",
+    "text": "• Tele-Serve",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "illinois.pdf",
+      "parent_id": "469dd14e3e34513daf7b488ebd4174d2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ed268814958ecfe519182824b52d1411",
+    "text": "Both pamphlets can be found online at IDES.Illinois.gov. Print copies are also available at IDES offices.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "IDES . Illinois . gov .",
+          "url": "https://ides.illinois.gov/",
+          "start_index": 38
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "illinois.pdf",
+      "parent_id": "469dd14e3e34513daf7b488ebd4174d2"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2e0b1ef64efcb1e4ba2ccab0469cd8c8",
+    "text": "Scheduled Appointments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "illinois.pdf",
+      "parent_id": "469dd14e3e34513daf7b488ebd4174d2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "60009df47311fc356e51f48ae46459bf",
+    "text": "After filing your claim, you may be scheduled for a telephone interview. An interview can be triggered by your claim application, your answers to certification questions, or by an employer protest. In some cases, you may only be required to complete and return a questionnaire. Under rare circumstances you may be required to report in person to an IDES office. When scheduled, remember to do the following:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "illinois.pdf",
+      "parent_id": "2e0b1ef64efcb1e4ba2ccab0469cd8c8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b5ca8c63f681b0cdfa96f60ecacb7049",
+    "text": "1. If you are scheduled for a telephone interview, always make yourself available to accept the phone call at the telephone number you have provided. During the interview, you should be in an environment where you can hear well, take notes, and not be distracted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "illinois.pdf",
+      "parent_id": "2e0b1ef64efcb1e4ba2ccab0469cd8c8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f6410aedf5a586c4848ca9f9ee772fc9",
+    "text": "• If you are not available for your appointment, return the Request for Change of Interview Date that was attached to your Notice of Interview.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "illinois.pdf",
+      "parent_id": "2e0b1ef64efcb1e4ba2ccab0469cd8c8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0614956e2be7e1ff385977cf2773bfa6",
+    "text": "• If you are not available for your appointment, you may also call IDES Claimant Services or report to an IDES office as soon as possible to explain why you were unavailable.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "illinois.pdf",
+      "parent_id": "2e0b1ef64efcb1e4ba2ccab0469cd8c8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7b117e5aa8a3e0d4d6d0c927722ca33f",
+    "text": "• If you do not have good cause for not being available, you may lose benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "illinois.pdf",
+      "parent_id": "2e0b1ef64efcb1e4ba2ccab0469cd8c8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5462d38d6bcac858a6f23540566d70fc",
+    "text": "• If the telephone number on the Notice of Interview is incorrect, you must call Claimant Services at (800) 244-5631 as soon as possible and prior to the interview date to correct it.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "illinois.pdf",
+      "parent_id": "2e0b1ef64efcb1e4ba2ccab0469cd8c8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ab4e892fa6a1fbc314fbb3c50157f512",
+    "text": "2. If your appointment is scheduled in person, bring all other completed forms or documents you were instructed to bring.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "illinois.pdf",
+      "parent_id": "2e0b1ef64efcb1e4ba2ccab0469cd8c8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d1da1e7df495b3328df5a39740680c72",
+    "text": "3. At your interview, be prepared to tell the IDES representative:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "illinois.pdf",
+      "parent_id": "2e0b1ef64efcb1e4ba2ccab0469cd8c8"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "ff95939bca881cfa550f87da54ca7ec7",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 13",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1d7bdacdc66607126bc6785814cc7edd",
+    "text": "• About any work you performed since you last certified.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "illinois.pdf",
+      "parent_id": "ff95939bca881cfa550f87da54ca7ec7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "71d704c1e3a4e918d767998359a705e0",
+    "text": "• About any vacation pay, holiday pay or other income you have received since you last certified.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "illinois.pdf",
+      "parent_id": "ff95939bca881cfa550f87da54ca7ec7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f1dd5b5691c9a22567d095b088c89a68",
+    "text": "• If you were sick or otherwise unable to work or not ready to take a job for any reason since you last certified.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "illinois.pdf",
+      "parent_id": "ff95939bca881cfa550f87da54ca7ec7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5fe3f4d1d48a07a115fbcafbb6a4925f",
+    "text": "• If you quit, refused, or were discharged from a job.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "illinois.pdf",
+      "parent_id": "ff95939bca881cfa550f87da54ca7ec7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a2ba2cf45aed80ffdeca9b13c99a0ee3",
+    "text": "• If you were out of work since you last certified because of a labor dispute.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "illinois.pdf",
+      "parent_id": "ff95939bca881cfa550f87da54ca7ec7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f9dd763f94ae8bd5fea04c4f299011af",
+    "text": "• If you received or applied for unemployment benefits from a state other than Illinois since you last certified.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "illinois.pdf",
+      "parent_id": "ff95939bca881cfa550f87da54ca7ec7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f68eb97b1198a109e805b1484fbbe18a",
+    "text": "• Where you looked for work since you last certified. Keep a separate record of all work search efforts; you may be required to provide this information later.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "illinois.pdf",
+      "parent_id": "ff95939bca881cfa550f87da54ca7ec7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3ef4619567a2505c9062a977bb14d47b",
+    "text": "• If you had earnings since you last certified. Report the gross wages for any work performed, full or part-time. Gross means before taxes or other deductions, not your take-home pay. Earnings in the form of lodging, meals, merchandise or in any other form should be included.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "illinois.pdf",
+      "parent_id": "ff95939bca881cfa550f87da54ca7ec7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "31e78a655d0db2e911dbee05ff5cd556",
+    "text": "Remember, wages must be reported for the week when you earn them, not when you actually receive them. If your gross wages earned in any week are less than your weekly benefit amount, you still may be eligible to receive a full or partial benefit payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "illinois.pdf",
+      "parent_id": "ff95939bca881cfa550f87da54ca7ec7"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1da4c51e36b589189b90adb94310d338",
+    "text": "If You Are Unable to Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "illinois.pdf",
+      "parent_id": "ff95939bca881cfa550f87da54ca7ec7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9ed6d582110604cee4db65eea921b80e",
+    "text": "For each workday you are sick or otherwise unable to work, your benefit payment for that week will be reduced by one-fifth of your weekly benefit amount. If you are unable to work for five workdays in a week, you will not receive any benefits for that week. If you become ill for an indefinite period, notify IDES Claimant Services as soon as you are able to work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "illinois.pdf",
+      "parent_id": "1da4c51e36b589189b90adb94310d338"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8b68334fc054ff1e3058158fb2f57299",
+    "text": "If You Move",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "illinois.pdf",
+      "parent_id": "ff95939bca881cfa550f87da54ca7ec7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "31a24db1ef40ff8bc2f83ed6ded7938c",
+    "text": "Notify IDES Claimant Services of your new address and file a change-of-address notice with the U.S. Postal Service. Even if you stop claiming benefits, you should still notify IDES if you move because issues could arise after you have stopped filing for benefits or tax documents may need to be mailed to you.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "illinois.pdf",
+      "parent_id": "8b68334fc054ff1e3058158fb2f57299"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "de009b8ebcde30cafd18bd4378a86e52",
+    "text": "When You Return to Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "illinois.pdf",
+      "parent_id": "ff95939bca881cfa550f87da54ca7ec7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "85b19d5ff17f50b3b1aaf6d85dc3b079",
+    "text": "When you certify, you will be asked if you worked. If the answer is yes, you must enter your gross wages for the week. If the amount entered is greater than your weekly benefit amount, your claim will automatically suspend. If you are continuing to work and earning more than your benefit amount, no further action is required – your claim will remain suspended until you need to file again.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "illinois.pdf",
+      "parent_id": "de009b8ebcde30cafd18bd4378a86e52"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2a35c560e5d4167c69b4a4ac6402a915",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 14",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "illinois.pdf",
+      "parent_id": "de009b8ebcde30cafd18bd4378a86e52"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0aec65ff25ed0e1b3a6ceefef179a59e",
+    "text": "If you later become unemployed again, you may file the additional claim online at IDES.Illinois.gov or by calling Claimant Services at 800-244-5631. If you are certifying online, and only worked one or both of the weeks you are certifying for, and are out of work again, you will be prompted to enter the additional claim information at the end of your certification, so you should be prepared with the name of the most recent employer, dates of employment, and the reason you are no longer working at the time you certify. If you are certifying by telephone, do not have internet access, and this situation applies to you, you must call Claimant Services to file the new claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "IDES . Illinois . gov",
+          "url": "https://ides.illinois.gov/",
+          "start_index": 82
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "illinois.pdf",
+      "parent_id": "de009b8ebcde30cafd18bd4378a86e52"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "44975e1931ff5ed84751ca38090196ce",
+    "text": "If You Are Overpaid",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "illinois.pdf",
+      "parent_id": "ff95939bca881cfa550f87da54ca7ec7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4da90d8eb0ec106932974dbd631d7dad",
+    "text": "If you are overpaid, the amount may be recouped from benefits payable to you. If the overpayment is due to reasons other than fraud, i.e., knowingly giving false or misleading information, the amount recouped may not be more than 25 percent of your weekly benefit amount for each week you are eligible for benefits. The overpayment could result in a comptroller’s offset of state payments (such as state income tax refunds and lottery winnings). If an overpayment is not your fault and you can show financial hardship, you may request that the overpayment not be recouped temporarily from any benefits you are entitled to receive. You must be prepared to provide documentation of the hardship. Even if recoupment is waived temporarily, you still are responsible for the amount of benefits overpaid to you. More information on overpayment waivers can be found on our website.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "illinois.pdf",
+      "parent_id": "44975e1931ff5ed84751ca38090196ce"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "718091b8d37c9ed15bd4553c16f1028e",
+    "text": "False or Misleading Information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "illinois.pdf",
+      "parent_id": "ff95939bca881cfa550f87da54ca7ec7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d4799af72f2b82a4f202133d7a92c9ad",
+    "text": "Giving false or misleading information, or holding back any information to draw benefits to which you are not entitled is punishable under Illinois law. You may be subject to a fine, incarceration and comptroller’s offset of state and/or federal tax returns. In addition to possible criminal penalties, you may not draw benefits again until you have served a number of penalty weeks (or two years have elapsed from the time your ineligibility began) and you have repaid the amount of benefits received through fraud or that amount has been recovered from benefits otherwise payable to you. Each employer for whom you work files with the state of Illinois a record of wages paid to you and the quarter the wages were paid. Your claim is checked against these wage records.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "illinois.pdf",
+      "parent_id": "718091b8d37c9ed15bd4553c16f1028e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "35161dbb980f94803eeafd513694401d",
+    "text": "When you file a claim, all the information you provide is checked by investigators. Your last employer and, in some cases, other former employers are notified of your claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "illinois.pdf",
+      "parent_id": "718091b8d37c9ed15bd4553c16f1028e"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e0f586d467b335ec233348a18b8d397e",
+    "text": "If Your Claim Is Contested",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "illinois.pdf",
+      "parent_id": "ff95939bca881cfa550f87da54ca7ec7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9b38d00e1061bb35fbf1c4911ad613c5",
+    "text": "You will be given an opportunity to present the facts to an IDES claims adjudicator. If witnesses are required to help present your case, you must arrange for them to attend the interview. Benefits will be paid promptly if the claims adjudicator determines that you are eligible for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "illinois.pdf",
+      "parent_id": "e0f586d467b335ec233348a18b8d397e"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "25c5d75e4835da0e37e74d5caaab60f4",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 15",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9cdcb6ac91cad5f2f5d502afe6527a6a",
+    "text": "If Your Claim Is Denied at Any Time – Your Appeal Rights",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "illinois.pdf",
+      "parent_id": "25c5d75e4835da0e37e74d5caaab60f4"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "31313b221515e73323cb9e4ab510f1d6",
+    "text": "1. You may appeal any determination that denies you benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "illinois.pdf",
+      "parent_id": "9cdcb6ac91cad5f2f5d502afe6527a6a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "12230ed13fa908012cbbadbd939daad8",
+    "text": "2. Review the document “Preparing for Your Appeal Hearing”, which is available online at IDES.Illinois.gov. You may also call Claimant Services for information about the appeal process.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "illinois.pdf",
+      "parent_id": "9cdcb6ac91cad5f2f5d502afe6527a6a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "015af1d6fa07af57ff6bae1fa7511915",
+    "text": "3. By law you must file your appeal within 30 days after a letter of denial has been mailed to you.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "illinois.pdf",
+      "parent_id": "9cdcb6ac91cad5f2f5d502afe6527a6a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "067d5637bb2559856549423c0bda7202",
+    "text": "4. File the request by mail or fax at the address or fax number listed in the determination letter. If the last day for filing your appeal is Saturday or Sunday or any other day that IDES offices are closed, the appeal may be filed on the next day IDES offices are open. Any request submitted by mail must bear a postmark date within the applicable time limit for filing.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "illinois.pdf",
+      "parent_id": "9cdcb6ac91cad5f2f5d502afe6527a6a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b383675efc1ee18cb134219f74fcae19",
+    "text": "5. Continue to certify every two weeks if your appeal is pending but only if you remain unemployed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "illinois.pdf",
+      "parent_id": "9cdcb6ac91cad5f2f5d502afe6527a6a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cad6bb8fe9321cb394a6fb977b667b36",
+    "text": "What Happens to Your Appeal?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "illinois.pdf",
+      "parent_id": "25c5d75e4835da0e37e74d5caaab60f4"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1fb337c76abd36d358820d08b9d080c4",
+    "text": "1. Your appeal will be assigned to an impartial Administrative Law Judge (referee) for a hearing. You will be notified of the date and time of the hearing.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "illinois.pdf",
+      "parent_id": "cad6bb8fe9321cb394a6fb977b667b36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "981519e29e6e679aaebb2fe71a747f71",
+    "text": "2. At the hearing you will be given every opportunity to present your case. Facts in support of your claim should be presented at this time. If witnesses are required to help present your case, you must arrange for them to attend.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "illinois.pdf",
+      "parent_id": "cad6bb8fe9321cb394a6fb977b667b36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "703f70b9c06cb2d05f2b88a79e478841",
+    "text": "3. In the hearing you have the right to have a representative – an attorney or any other person you choose – to help you. The state contracts with law firms to provide limited free legal services at IDES appeal hearings to claimants and certain small employers. Representation at your hearing is not automatic and depends on the facts of your case. Even if you do not qualify for representation, an attorney will speak with you about your case. If you are interested in this service, call (800) 884-6591. To obtain this service you must call right away after receiving a ruling against you or notice of an appeal. Any delay in calling could result in your not being able to obtain this service.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "illinois.pdf",
+      "parent_id": "cad6bb8fe9321cb394a6fb977b667b36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f83380d4e8bdf695d3def07d24cc2207",
+    "text": "4. If the referee decides against you, you have the right to appeal to the Board of Review, an independent five- person body appointed by the governor. You have 30 days from the date of the referee’s decision to file this appeal. You may fax your appeal to the designated fax number on your Administrative Law Judge’s Decision or file your appeal at an IDES office.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "illinois.pdf",
+      "parent_id": "cad6bb8fe9321cb394a6fb977b667b36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "efe67bff2973a1a4765b3521f1062bbb",
+    "text": "5. If you disagree with the decision of the Board of Review, you may file an appeal in the Circuit Court of the county in which you live if you live in Illinois or in the Circuit Court of Cook County if you live in another state. You will not be required to pay court costs. However, you may have to pay for the service of a summons and for a transcript of the record.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "illinois.pdf",
+      "parent_id": "cad6bb8fe9321cb394a6fb977b667b36"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dab4dd154d46c43959d359f01e869184",
+    "text": "Continue to certify every two weeks if your appeal is pending and as long as you remain unemployed. If the final decision is in your favor, you can be paid benefits only for those weeks you certified for and met all eligibility requirements.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "illinois.pdf",
+      "parent_id": "cad6bb8fe9321cb394a6fb977b667b36"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b13ce25e35b3b45ecce45a5f218821be",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 16",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "64f4f428e47e542dc14b555fc6ca1a8a",
+    "text": "Employer Appeal Rights",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d7e6246d1c0bbf794c046813f9864a69",
+    "text": "When you file your first claim for benefits, your last employer and, in some instances, other former employers are notified. They have the right to submit information to IDES on your eligibility for benefits. If this information is provided within the specified time period, an employer has the right under Illinois law to appeal the decision that allowed your benefits. Benefits will be paid to you on the determination that allowed your benefits even though the employer has appealed. If the employer wins the appeal, and a referee holds that the benefits should not have been paid to you, action will be taken to recover those benefits. Since you will be asked to repay any benefits received in error, it is important that you participate in the referee hearing on the employer’s appeal to present your side of the case. If an employer has appealed, you will be notified of the date and time of the hearing.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "illinois.pdf",
+      "parent_id": "64f4f428e47e542dc14b555fc6ca1a8a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "44e3b67a571e2bc0d10d2dbb8747d734",
+    "text": "How Your Benefits Are Determined",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c71304ec4839fd5a6757a3d3e85302e8",
+    "text": "The effective date of your first valid claim starts your benefit year. This is usually the Sunday of the week in which you first file your claim. Your benefit year is the full year that begins on that date. For example, if the date of your valid claim is March 15th, your benefit year will continue through March 14th of the following year. Your weekly benefits and the total amount of benefits that can be paid to you during your benefit year depend on the amount of wages for insured work paid to you during your base period.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "illinois.pdf",
+      "parent_id": "44e3b67a571e2bc0d10d2dbb8747d734"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6b6793baf3a0272f4f2cc3a67c511d2b",
+    "text": "Your Base Period",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f91b083bc9eac8a683f5bc2cf6c2dd73",
+    "text": "The standard or regular base period consists of the first four of the last five completed calendar quarters immediately preceding the beginning of your benefit year. There are four calendar quarters: January–March, April–June, July–September, and October–December.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "illinois.pdf",
+      "parent_id": "6b6793baf3a0272f4f2cc3a67c511d2b"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "51bd6f5bbadf377f8f5e477b772e0c4e",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 17",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "2a46e3022b90b3ab21ce98039ae34da5",
+    "text": "If Your Benefit Year Your Alternate Base Period ns: Your Base Period Will Be: will be: This Year Between: Last Year Between: Jan. 1 and Sept. 30 and the year Last year between: Jan. 1 and March 31 Jan. 1 and Dec. 31 before between Oct. 1 and Dec. 31 This Year Between: Last Year Between: Last year between: April 1 and June 30 Jan. 1 and Dec. 31 April 1 and Dec. 31 and this year between Jan. 1 and March 31 This Year Between Last Year Between: Last year between: April 1 and Dec. 31 and this year July 1 and Dec. 31 and this year July 1 and Sept. 30 between Jan. 1 and March 31 between Jan. 1 and June 30 This Year Between: Last Year Between: Last year between: July 1 and Dec. 31 and this year Oct. 1 and Dec. 31 and this year Oct. 1 and Dec. 31 between Jan. 1 and June 30 between Jan. 1 and Sept. 30",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><thead><tr><th>If Your Benefit Year :</th><th>Your Base Period Will Be:</th><th>Your Alternate Base Period will be:</th></tr></thead><tbody><tr><td>‘This Year Between: Jan. 1 and March 31</td><td>Last Year Between: Jan. 1 and Sept. 30 and the year before between Oct. 1 and Dec. 31</td><td>Last year between: Jan. 1 and Dec. 31</td></tr><tr><td>This Year Between: April 1 and June 30</td><td>Last Year Between: Jan. 1 and Dec. 31</td><td>Last year between: April 1 and Dec. 31 and this year between Jan. 1 and March 31</td></tr><tr><td>‘This Year Between: July 1 and Sept. 30</td><td>Last Year Between: April 1 and Dec. 31 and this year between Jan. 1 and March 31</td><td>Last year between: July 1 and Dec. 31 and this year between Jan. 1 and June 30</td></tr><tr><td>This Year Between: Oct. 1 and Dec. 31</td><td>Last Year Between: July 1 and Dec. 31 and this year between Jan. 1 and June 30</td><td>Last year between: Oct. 1 and Dec. 31 and this year between Jan. 1 and Sept. 30</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "illinois.pdf",
+      "parent_id": "51bd6f5bbadf377f8f5e477b772e0c4e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7e5d867e78bf4c66fba9ef8430e44cc2",
+    "text": "Using the table above: If your benefit year begins in December of 2020, your base period is the four calendar quarters from July 1, 2019, through June 30, 2020. You can file a valid claim and start your benefit year in December only if, during your base period of July 1 through June 30, you were paid wages of at least $1,600 for insured work, and outside your highest quarter of earnings you were paid at least $440 for insured work. If you meet these base period wage requirements and start your benefit year in December, your weekly benefits and the total amount of benefits that can be paid to you during your benefit year depend on the amount of wages for insured work paid to you during your base period (July 1, 2019 through June 30, 2020). If you have been awarded temporary total disability under a workers’ compensation act or other similar acts, your base period may be determined differently.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "illinois.pdf",
+      "parent_id": "51bd6f5bbadf377f8f5e477b772e0c4e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5b4678385bb0ee3915767487a5ead9e4",
+    "text": "Unemployed individuals who lack sufficient wages to qualify for benefits using the standard base period may be eligible under an alternate base period. The alternate base period is the four most recent completed quarters. It is important to note that the alternate base period can only be used if you are not monetarily eligible under the standard base period and not to increase your weekly benefit amount. Contact IDES Claimant Services at (800) 244-5631 for more information.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "illinois.pdf",
+      "parent_id": "51bd6f5bbadf377f8f5e477b772e0c4e"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "03faf4c031b7fb4182bd1b5eced95dbf",
+    "text": "Total Weekly Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "illinois.pdf",
+      "parent_id": "51bd6f5bbadf377f8f5e477b772e0c4e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0c4ad5f888c0208dd18f2b25f2222d34",
+    "text": "Your weekly benefit amount is the amount of benefits you will be paid for any week in your benefit year if you are unemployed and meet all of the eligibility requirements (unless you have already exhausted all your benefits). The size of your weekly benefit amount depends on the amount of wages for insured work paid to you during the two calendar quarters of your base period in which your wages were highest.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "illinois.pdf",
+      "parent_id": "03faf4c031b7fb4182bd1b5eced95dbf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2014c752b8ee1abef139fd9c32230284",
+    "text": "In addition to your weekly benefit amount, if you have a dependent child or nonworking spouse you will receive an additional allowance for the dependent. A dependent allowance, if any, plus your weekly benefit amount equal the total amount payable for the week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "illinois.pdf",
+      "parent_id": "03faf4c031b7fb4182bd1b5eced95dbf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "7f2b601d1c1b5b651be3dc039039e2fa",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "dfee4cae7c7b060996e2625581961cca",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 18",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "efab5e6623b65b8cf941cf59c06d1bd0",
+    "text": "Regardless of how much you were paid in your two highest quarters, the total amount payable to you for a week cannot exceed a legislatively set maximum amount.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "illinois.pdf",
+      "parent_id": "dfee4cae7c7b060996e2625581961cca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8a8cc03882e7c662a59c43154debf7fa",
+    "text": "To confirm the calculation of your benefits, go to IDES.Illinois.gov and search for “WBA table”.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "illinois.pdf",
+      "parent_id": "dfee4cae7c7b060996e2625581961cca"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "484e7fe7bd61dddf97b4c41d04cb19a0",
+    "text": "Total Yearly Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "illinois.pdf",
+      "parent_id": "dfee4cae7c7b060996e2625581961cca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "22568e23d01a39b624a40f37f9082760",
+    "text": "The total amount of benefits that can be paid to you during your benefit year is 26 times your weekly benefit amount plus an allowance for dependents if applicable.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "illinois.pdf",
+      "parent_id": "484e7fe7bd61dddf97b4c41d04cb19a0"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d49090a5603103fc329efc28b62b3d06",
+    "text": "Partial Benefits–Part-Time Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "illinois.pdf",
+      "parent_id": "dfee4cae7c7b060996e2625581961cca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e401377de36bc246ebbc832de433190e",
+    "text": "You may claim some benefits for a week if you work less than full-time because of lack of work. Your earnings for the week must be less than the weekly benefit amount (not including the dependent allowance) you would receive if you were totally unemployed for the week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "illinois.pdf",
+      "parent_id": "d49090a5603103fc329efc28b62b3d06"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e6d5ce8b173a5589bfdc5fbb4ea6e363",
+    "text": "You must report all your earnings from part-time work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "illinois.pdf",
+      "parent_id": "d49090a5603103fc329efc28b62b3d06"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "325ddaa509751a07422257efe7c0f5dc",
+    "text": "Figuring Partial Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "illinois.pdf",
+      "parent_id": "dfee4cae7c7b060996e2625581961cca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5619846e628942e17c3c8b1e17f0c089",
+    "text": "Partial benefits equal the difference between the part of your earnings that exceed 50 percent of your weekly benefit amount and your weekly benefit amount for total unemployment. If the partial benefit amount does not come to an even dollar, it is raised to the next higher dollar, provided it does not exceed your weekly benefit amount.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "illinois.pdf",
+      "parent_id": "325ddaa509751a07422257efe7c0f5dc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fbb2d3bde21a20a503410c14f289c086",
+    "text": "For example:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "illinois.pdf",
+      "parent_id": "325ddaa509751a07422257efe7c0f5dc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "e1e67c6e0e8f863fe1ea29d7e97ef00d",
+    "text": "If your weekly benefit amount (not including dependency allowance) is — $110.00 50% of that amount is.......cc $55.00 If your earnings are $76.50 The amount that exceeds 50% of your weekly benefit amount is $21.50 The difference between your weekly benefit amount $110.00 And the amount of your earnings that exceeds 50% of your weekly benefit amount $21.50 Gives you a partial benefit amount of $88.50 Raised to the next highest dollar $89.00",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><tbody><tr><td>. $110.00</td></tr><tr><td>$55.00</td></tr><tr><td>$76.50</td></tr><tr><td>. $21.50</td></tr><tr><td>n $110.00</td></tr><tr><td>$21.50</td></tr><tr><td>$88.50</td></tr><tr><td>$89.00</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "illinois.pdf",
+      "parent_id": "325ddaa509751a07422257efe7c0f5dc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5a3b10af117964c2074cfa729d46e9e6",
+    "text": "Note: The full amount of holiday or vacation pay will be deducted from your weekly benefit amount. Also, remember that any spouse or dependent child allowance will be added to your WBA after the earnings deductions.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "illinois.pdf",
+      "parent_id": "325ddaa509751a07422257efe7c0f5dc"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "eae4ab7c66cab61a45502a96d3860ddd",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 19",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "illinois.pdf",
+      "parent_id": "325ddaa509751a07422257efe7c0f5dc"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "869d8458aba05d50e04c3865657963d2",
+    "text": "Interstate Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "illinois.pdf",
+      "parent_id": "dfee4cae7c7b060996e2625581961cca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bb044e659156e93ac8ccde055e838788",
+    "text": "If you lived and worked in Illinois, but now reside elsewhere, you can still file a claim for benefits against Illinois. You may file from any other state, from the District of Columbia, Puerto Rico, the Virgin Islands or Canada. File your claim online at IDES.Illinois.gov. If you need assistance, call IDES Claimant Services at (800) 244-5631. When you file your claim against Illinois, Illinois will determine what benefits you will receive if you are eligible. Correspondence concerning your claim will be sent to you by mail. You must meet all the requirements of Illinois law no matter where you file your claim, and the final decision on your claim will be made by Illinois. You must register for work in the state in which you reside. Refer to that state’s website for registration requirements.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "illinois.pdf",
+      "parent_id": "869d8458aba05d50e04c3865657963d2"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a113efad0b3cfb70e7f88c2d3e00fa84",
+    "text": "Combined Wage Claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "illinois.pdf",
+      "parent_id": "dfee4cae7c7b060996e2625581961cca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ab26cb697fd18d60fe0eab56b3acb66c",
+    "text": "A nationwide arrangement exists that allows you, under certain circumstances, to combine the wages you have earned in more than one state either to qualify you for benefits or to increase your benefits. If you have worked in other states during the past two years, you will need to provide ALL of your employment information, including addresses, phone numbers, start dates and last day worked when filing your claim in order to determine what type of claim is best for you.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "illinois.pdf",
+      "parent_id": "a113efad0b3cfb70e7f88c2d3e00fa84"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c1cfad28f61d7da8f5112f7cde3eb16d",
+    "text": "United States Government Employees",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "illinois.pdf",
+      "parent_id": "dfee4cae7c7b060996e2625581961cca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e965c6f499b542fd702ea76aea72720d",
+    "text": "If you have worked as a civilian employee of the federal government during the last two years, you may be eligible for unemployment insurance benefits based on government wages you were paid. File your claim and register for work online at IDES.Illinois.gov. If you need assistance, call IDES Claimant Services at (800) 244-5631 or visit an IDES office. You will need to submit copies of your Standard Form 8 and Personnel Action Form 50 or other documents that prove that you worked for the federal government. Documentation should be faxed to the IDES Document Processing Unit at (217) 557-4913, or it may be delivered to an IDES office. Wages paid to you by the federal government as a civilian employee qualify you for benefits under the state unemployment insurance act just as if the wages were paid by a private employer that contributes to the unemployment insurance fund of that state. Federal civilian service and wages are assigned to the state in which your last official duty station was located. However, if you had covered employment (i.e., employment for which your employer contributed to the unemployment insurance fund) with a non-federal employer in a state other than the state in which your last official duty station was located, your federal civilian service and wages will be assigned to the state in which you worked in non-federal employment after leaving federal service. The service and wages are assigned to the state whenever you, following your separation from federal civilian service, establish an unemployment insurance",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "illinois.pdf",
+      "parent_id": "c1cfad28f61d7da8f5112f7cde3eb16d"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bdd673ef74fad02a75bab894f230333a",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 20",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "illinois.pdf",
+      "parent_id": "c1cfad28f61d7da8f5112f7cde3eb16d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "849afbbf1070c4dfdc5d2df9cd552342",
+    "text": "claim on which benefits may be paid. That state then has control over all of your federal civilian service and wages. All state laws provide the right of appeal to a claimant who is denied benefits for any reason. In most matters your appeal rights are the same as those of any other claimant in the state. However, federal law provides that determinations of federal service and duty station given by the federal agency shall be conclusive. If you believe that the information reported by your federal agency is incorrect, you have the right to request a review by that agency. Appeals or requests for reconsideration should be sent by fax to (217) 557-4913 or made at the nearest IDES office.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "illinois.pdf",
+      "parent_id": "c1cfad28f61d7da8f5112f7cde3eb16d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "83bcf2e6f73dc977565cb9395ec617fe",
+    "text": "U.S. Military Veterans",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "illinois.pdf",
+      "parent_id": "dfee4cae7c7b060996e2625581961cca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6e3aa549ad84316c5caa01e39e84ace4",
+    "text": "As an ex-serviceman or woman, you have potential reemployment rights with your pre-service employer. Applications for reemployment, however, must be filed within a certain time period after completion of military service. If you need further assistance concerning protection of these rights, contact the Veterans Employment and Training Service of the U.S. Department of Labor at (312) 793-3433. If you had active federal service in the armed forces, you may be able to receive unemployment insurance benefits based upon the pay and allowances applicable to your pay grade at the time of separation from active military service. To qualify for unemployment insurance benefits, you must have been discharged or released from the armed forces under honorable conditions and, if an officer, you must not have resigned for the good of the service. File your claim and register for work online at IDES.Illinois.gov. If you need assistance, call IDES Claimant Services at (800) 244-5631 or visit the nearest IDES office. You will need to submit a copy of your DD Form 214. Required documentation should be faxed to the IDES Document Processing Unit at (217) 557-4913, or it may be delivered to an IDES office. You will need to report all civilian employment, if any, during the last two years. Federal law requires that military service and wages be assigned to the state where you first file a claim for unemployment insurance benefits following separation from active military service. Once assigned, all federal military service and wages remain assigned to that state. The assignment of your military service and wages is by the Federal Claims Control Center, operated by Lockheed Martin Information Technology, to avoid any duplication of assignment by some other state. A duplication of assignment of your service and wages will result in a delay of payment to you. Therefore, if you have filed a claim (regardless of whether or not you received any benefit payments) in another state since your separation from the armed forces, be sure to respond correctly to the question about filing in another state when filing your claim online. Your benefit payments are based on your military wages, which are determined by a schedule of remuneration established by the U.S. Secretary of Labor. This schedule contains the dollar equivalent broken down to daily,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "illinois.pdf",
+      "parent_id": "83bcf2e6f73dc977565cb9395ec617fe"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b6727376be8ea9a7b99d296448f4d04b",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 21",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aef00284faae74dcb4c587227af5b716",
+    "text": "weekly, and monthly rates for each pay grade in the armed forces. Your pay grade at the time of separation from active duty will determine your benefit amount. Your benefit rights will be determined by the law of the state in which you first file a claim for unemployment insurance and establish a benefit year after your last separation from active military service. To establish a benefit year, you must have had a certain amount of active service in the armed forces within the base period applicable to that benefit year (see page 14). If your first claim establishing a benefit year is filed in Illinois, you must comply with all the requirements of Illinois law. In addition, federal law provides that your benefits cannot begin during a period for which you are receiving federal subsistence allowances under the Vocational Rehabilitation Act or educational assistance under the War Orphans’ and Widows’ Educational Assistance Act. All state unemployment insurance laws provide the right of appeal to a person who is denied benefits for any reason. In most matters, your appeal rights are the same as those of any other claimant in your state. However, federal law provides that the appropriate federal agency’s determination of your active military service, your pay grade at the time of discharge or release from active military service and the type of discharge or release you received from such service shall be final and conclusive. If you believe that the information on your separation document is incorrect, you may ask for a review by the appropriate federal agency. Appeals or requests for reconsideration may be faxed to the designated fax number on your Determination or Decision or filed at the nearest IDES office.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4520439475dde58241868e102cc6c19f",
+    "text": "Trade Assistance Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e0a2c34521d25091d6426953eff286a6",
+    "text": "Workers who lose their jobs or who experience reduced work hours and wages as a result of increased imports or the shifting of their jobs abroad may qualify for additional benefits under the Trade Adjustment Assistance Act of 2002, 2009, 2011, 2015, or 2021. (The worker group must be certified as eligible by the federal Department of Labor.) The benefits administered by IDES include income support, the Health Coverage Tax Credit, Alternate Trade Assistance and Reemployment Trade Adjustment Assistance. Individuals should contact the IDES Trade Unit at (217) 785-5792 for more information.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "illinois.pdf",
+      "parent_id": "4520439475dde58241868e102cc6c19f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "dbc0acf45b5a3e2113b975363e2e76c9",
+    "text": "Profiling and Referral to Reemployment Services",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9a42146838740e829eaaced3c5f6e66f",
+    "text": "In accordance with federal law, all unemployment insurance claimants are profiled, based on various work- related characteristics, to determine the likelihood that they will exhaust their benefits and may need extra help in finding work. These individuals may then be referred for more intensive reemployment services. These services include a personal assessment of your needs and recommended activities to enhance your job search, such as resume writing, interviewing tips and referral to available training or local job clubs. If you are referred to reemployment services and you refuse to participate without good reason, you can be denied benefits until you agree to participate.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "illinois.pdf",
+      "parent_id": "dbc0acf45b5a3e2113b975363e2e76c9"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "88468f9440942de9383d9e59b71bf4fe",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 22",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "illinois.pdf",
+      "parent_id": "dbc0acf45b5a3e2113b975363e2e76c9"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "536aef3583f1707028ba5dcd515e9005",
+    "text": "Report Your Return to Work IMMEDIATELY!",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d9aef31defc2a32b88e8106fdee65438",
+    "text": "Employers are required to report all new hires to IDES. These reports are used to identify individuals who are collecting unemployment insurance benefits after they have returned to work. Failure to report your return to work or all gross wages earned during weeks covered by your certification will result in an overpayment of benefits, and potentially a determination of fraud that entails penalty weeks, comptroller’s offset of state payments (such as state income tax refunds and lottery winnings) and prosecution for state benefits fraud.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "illinois.pdf",
+      "parent_id": "536aef3583f1707028ba5dcd515e9005"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3ba13f7a1c20636a554b16f85f402d61",
+    "text": "Final Tips for Filing",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "65e1c1471d2cb5364beebc3bf9efb01d",
+    "text": "Remember to do the following to ensure that your unemployment insurance application is processed smoothly.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "illinois.pdf",
+      "parent_id": "3ba13f7a1c20636a554b16f85f402d61"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2cc7fb281795d90c30543294614c303c",
+    "text": "1. Always provide your name, address and Social Security number or Claimant ID whenever you communicate with IDES staff.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "illinois.pdf",
+      "parent_id": "3ba13f7a1c20636a554b16f85f402d61"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fe696d92bbc181534b839dab98125bff",
+    "text": "2. Certify on your assigned day.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "illinois.pdf",
+      "parent_id": "3ba13f7a1c20636a554b16f85f402d61"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ab2c3a702263b43f543488bc4fc8248d",
+    "text": "3. Continue to certify even if an eligibility interview or appeal hearing is being conducted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "illinois.pdf",
+      "parent_id": "3ba13f7a1c20636a554b16f85f402d61"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9ea6b79c0113f0d880d092746363267f",
+    "text": "4. Be available at the time of any scheduled telephone interview.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "illinois.pdf",
+      "parent_id": "3ba13f7a1c20636a554b16f85f402d61"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4ce2a090d432ead6339f9c0f12c1d015",
+    "text": "5. Be patient awaiting your first benefit payment. IDES pays benefits in a timely manner. After that, benefit payments should occur every two weeks, as long as you remember to certify your claim on your assigned day.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "illinois.pdf",
+      "parent_id": "3ba13f7a1c20636a554b16f85f402d61"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a1853a08cc5f1b32c5bcd1e65399109f",
+    "text": "Benefits May Be Taxable",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "33239e57650998be335aed509262e6fe",
+    "text": "Your unemployment insurance benefits may be fully taxable on your state and federal income tax returns. The Tax Reform Act of 1986 amended the law to make unemployment insurance benefits taxable if you are required to file a state or federal tax return. You may elect to have federal and/or State of Illinois income taxes deducted and withheld from your unemployment insurance benefit payments. Deductions are made at predetermined levels: 10% for federal income tax and 4.95% for state income tax. If you do not elect to have federal and/or State of Illinois income taxes deducted and withheld from your unemployment insurance benefit payments, you may be required to make estimated tax payments using Internal Revenue Service Form 1040ES and the Illinois Department of Revenue form, IL 1040ES. IDES will provide you with IRS Form 1099-G, a statement of benefits paid to you at the end of each calendar year. If you elect to have federal and/or State of Illinois income taxes deducted and withheld from your unemployment insurance benefit payments, the Form 1099-G will reflect the total amount deducted and withheld for that calendar year. The Internal Revenue Service and Illinois Revenue Department will be given the same information.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "illinois.pdf",
+      "parent_id": "a1853a08cc5f1b32c5bcd1e65399109f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7a7a9b1baa47e7970dc870ea14c9186c",
+    "text": "UNEMPLOYMENT INSURANCE BENEFITS 23",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf",
+      "parent_id": "a1853a08cc5f1b32c5bcd1e65399109f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9553191d59491ca374ac256639459d12",
+    "text": "Your Social Security Number Is Required",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf",
+      "parent_id": "a1853a08cc5f1b32c5bcd1e65399109f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "75c80eb18dfba31c5293026b6b07902a",
+    "text": "You will be asked to furnish your Social Security number when filing your claim online or over the phone. Your Social Security number is solicited under the authority of the Internal Revenue Code of 1986 [26 U.S.C. 85, 6011(a), 6050B and 6109(a)]. Disclosure of your Social Security number for this purpose is mandatory, and it must be entered on the online forms you submit to claim unemployment insurance benefits. The validity of the Social Security number you provide will be verified with the Social Security Administration.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf",
+      "parent_id": "a1853a08cc5f1b32c5bcd1e65399109f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9d17589d260590a1510aed3a667f0268",
+    "text": "Your Social Security number will be used to report your unemployment insurance benefits to the Internal",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf",
+      "parent_id": "a1853a08cc5f1b32c5bcd1e65399109f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "828938916141d199fee8b0205886e92f",
+    "text": "Revenue Service as income that is potentially taxable. It will also be used as a record index for processing your",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf",
+      "parent_id": "a1853a08cc5f1b32c5bcd1e65399109f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "001faa8120ad327174dcf92d8c765a03",
+    "text": "claim for statistical purposes and to verify your eligibility for unemployment insurance and other public",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf",
+      "parent_id": "a1853a08cc5f1b32c5bcd1e65399109f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "06b230ddbc8cd1ba1b6001e094be5685",
+    "text": "assistance benefits. Should you decline to disclose your Social Security number, your claim for unemployment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf",
+      "parent_id": "a1853a08cc5f1b32c5bcd1e65399109f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "976c80cd68a58ef2e4b764b80d688e1a",
+    "text": "insurance will not be processed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf",
+      "parent_id": "a1853a08cc5f1b32c5bcd1e65399109f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e010dfa5c4059e8c866d73c5fe4a07bf",
+    "text": "Nondiscrimination",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf",
+      "parent_id": "a1853a08cc5f1b32c5bcd1e65399109f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f1f16a9ac773421fbbe898b6c2ff2689",
+    "text": "IDES is an equal opportunity employer and complies with all state and federal nondiscrimination laws in the administration of its programs. Auxiliary aids and services are available upon request to individuals with disabilities. Contact your IDES office manager or the IDES Equal Opportunity Officer at (312) 793-9290 or TTY (888) 340-1007.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf",
+      "parent_id": "a1853a08cc5f1b32c5bcd1e65399109f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5d547359c205f15360f919bb2480e786",
+    "text": "Claimant Services:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "a78ea200c457b0c53b5f1a25641faa8b",
+    "text": "TTY: (866) 488-4016 Voice: (800) 244-5631",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "02cf74c39e567441e74447759ca7a66f",
+    "text": "Tele-Serve:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9290dfd0b085280d14dae9ffdd94500b",
+    "text": "Voice:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf",
+      "parent_id": "02cf74c39e567441e74447759ca7a66f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "29f3f343766d25d700e3cb2c5eddfc60",
+    "text": "Voice: (312) 338-4337",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf",
+      "parent_id": "02cf74c39e567441e74447759ca7a66f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9d758f0d04762849cd2574eb35e7dc4c",
+    "text": "Illinois Relay Service:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "f6b5eddef571bc1d1a3d425cd0e0b36a",
+    "text": "TTY: (800) 526-0844 or 711 Voice: (800) 526-0857 or 711",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8f12ddc5f9f57bf746a5fe31152d05f6",
+    "text": "Printed by the Authority of the State of Illinois Rev. 5/22",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "illinois.pdf"
+    }
+  }
+]

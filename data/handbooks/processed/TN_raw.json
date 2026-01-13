@@ -1,0 +1,1459 @@
+[
+  {
+    "type": "Title",
+    "element_id": "dab239fd8264371e3aafe0f3138cdeec",
+    "text": "Do I Qualify?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "82ac6acbc09d795e50be0255d47281c4",
+    "text": "Information on UI Beneﬁts Qualifying | Tennessee Department of Labor and Workforce Development | Unemployment Insurance Division",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "276b40499e7d016f33bee7ef62af19e8",
+    "text": "Unemployed Through No Fault of Your Own",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "tennessee.pdf",
+      "parent_id": "82ac6acbc09d795e50be0255d47281c4"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3bdbffa9b37c833aec40dbd722ced8ef",
+    "text": "The Unemployment Insurance program provides beneﬁts to workers who are unemployed through no fault of their own and who are able, available, and looking for work. You may ﬁle a claim for beneﬁts the ﬁrst day after becoming separated from employment or after your employer has signiﬁcantly reduced your work hours. Information will be gathered from you as well as your separating employer and an agency determination will be based on whether you meet the eligibility requirements under state law. You must have earned an average of $780.01 in each of 2 quarters of a time frame called the Base Period, and the wages outside of the highest quarter are greater than or equal to the lesser of either $900 or 6 times the weekly beneﬁt amount. The total base period wages must be more than forty (40) times the weekly beneﬁt amount. If you’ve earned suﬃcient wages during this time frame, the wages earned will then be used to calculate your weekly beneﬁt amount and the number of weeks you may receive beneﬁts. The Base Period is the ﬁrst four of the last ﬁve completed calendar quarters prior to the quarter in which your initial claim is ﬁled. A calendar quarter is three months of either January through March, April through June, July through September, or October through December.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "tennessee.pdf",
+      "parent_id": "82ac6acbc09d795e50be0255d47281c4"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "b148bc842742e8ceaec850d03011c156",
+    "text": "A",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1e2530d6878c4044601f3331272f5cd7",
+    "text": "You Must Be Able to Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d2246822b0180cdb62692f1ed99a26d2",
+    "text": "You must be physically able to work at the time you ﬁle your claim for beneﬁts. Special provisions are available for individuals who become ill or disabled after ﬁling an initial claim. You Must Be Available For Work You are required to complete a minimum combination of four job searches and/or re-employment activities (interviews, job fairs, etc.) each week and report this information on your weekly certiﬁcation. You may also fulﬁll this requirement by accessing services at an American Job Center. There are exceptions to this requirement for workers who: Have a deﬁnite return to work date and will be returning to their employer in the near future Accept work exclusively through a union hiring hall Are enrolled in agency approved training",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9da6a8ad7041575c3aa32ed34bf70da2",
+    "text": "Disqualifications",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "67faed2463be0359d720a67c08cb58a4",
+    "text": "The following examples are the most common reasons why applicants do not qualify or are denied unemployment beneﬁts. Voluntarily quit without good work-related cause Discharged for work-related misconduct Participation in a labor dispute other than a lockout that is in active progress Failure to seek or accept suitable work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "tennessee.pdf",
+      "parent_id": "9da6a8ad7041575c3aa32ed34bf70da2"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "84857b46bf38b446217d0f393abe06ad",
+    "text": "nformation We Need From You",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c48976d61bccf4d2822a8a4992c13718",
+    "text": "Information Needed to Apply for UI Beneﬁts | Tennessee Department of Labor and Workforce Development | Employment Security Division",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "8c4f90ae0294cbe862415067fdea08ec",
+    "text": "A",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "18a394e8267dd342f49fa87e10ade0b7",
+    "text": "Entering accurate information is crucial for us to process your application. If you stop in the middle of the online application process because you don’t have the required information, this could cause unnecessary delays or lock you out of your claim. With this in mind, it’s best to have all of your information ready before you start.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9a1bd7deead69ee06af7382313b1c1d0",
+    "text": "Before you ﬁle, make sure you have the following:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e53157b07cd2913c98dc4c96aa2cecc1",
+    "text": "Your Personal Info",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fed14c7f0ecd27303aae2de62388cbd9",
+    "text": "Social Security number Driver’s license number Address Telephone number Valid email address",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8ffc59238a4d8f917a2e3a5fba62fc66",
+    "text": "Alien Registration Card and Number Tennessee Unemployment Insurance claimants receive their beneﬁts via the Tennessee Way2Go debit card or direct deposit. To receive beneﬁts by direct deposit, you’ll need to provide your bank routing number and account number. DD 214 Member 4 if you served in the military in the past 18 months",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "56a405fecec29804c9760ca49f7c4522",
+    "text": "Your Employment Info",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2749b7dd73000ccc30813d97fc9de6c3",
+    "text": "Last 18 months of employment Last day worked Reason for separation (e.g., quit, ﬁred, lack of work, laid oﬀ or job eliminated, etc.)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0ead0d893b76634e3606ce9b31757ef6",
+    "text": "Employer Info",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "278273b8d1efde59f9b0ee6120a9ce39",
+    "text": "Separating employer's name Separating employer's address Separating employer's telephone number",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "tennessee.pdf",
+      "parent_id": "0ead0d893b76634e3606ce9b31757ef6"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d27d859779445c7b9d369cf749a0c689",
+    "text": "What to Expect After You File",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fe507d13a5b79a9fa296c0783c2571cb",
+    "text": "After You Complete the Application:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "864fc69be9842f80eff2516fc6d86b18",
+    "text": "Receive your Monetary Determination letter detailing what amounts you may qualify for if approved. This letter will be delivered electronically to your Jobs4TN.gov Unemployment Claimant e-Services account within one business day of completing your claim. Complete your follow-up fact-ﬁnding questionnaire(s). Questionnaire(s) will be sent to your Unemployment Claimant e-Services account immediately after ﬁling. You may locate any/all questionnaires requiring your attention on either your Summary screen or Action Center. These must be completed by the due date speciﬁed on the questionnaire. Start looking for employment/completing your 4 weekly work search activities. Log in to your Unemployment Claimant e-Services account each week to complete your Weekly Certiﬁcation– this is where you’ll report your 4 work search activities completed the prior week. Receive your Non-monetary Determination detailing the ﬁndings of your claims (that is, whether you are approved for beneﬁts or denied). Please note you may receive multiple Non-monetary Determination letters on your claim if other factors such as deductible pay or able and available status are applicable per your application answers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "tennessee.pdf",
+      "parent_id": "fe507d13a5b79a9fa296c0783c2571cb"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "675d659b0ad6d70be983ffc0964994ca",
+    "text": "Progress of Your Unemployment Claim",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "tennessee.pdf",
+      "parent_id": "fe507d13a5b79a9fa296c0783c2571cb"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a75e57d5ae676963e9a8cf4f16a077c6",
+    "text": "You may easily track the status of your unemployment claim by reviewing the Beneﬁt Details panel on the Summary screen of your Jobs4TN.gov Unemployment Claimant e-Services account.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "tennessee.pdf",
+      "parent_id": "fe507d13a5b79a9fa296c0783c2571cb"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "4316457c08069a403c1c6410d75cdead",
+    "text": "A",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6045ea44403b57d1500d30b7744620f2",
+    "text": "Complete Your Fact-Finding Questionnaire(s)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "68cce5fc4e45d64081195ef7cfba8b2b",
+    "text": "To ensure the agency has all the information it needs to make an accurate decision on your claim, questionnaire(s) will be sent to your Unemployment Claimant e-Services account immediately after ﬁling. You may locate any/all questionnaires requiring your attention on either your Summary screen or Action Center. These must be completed by the due date speciﬁed on the questionnaire (i.e., within 7 days of ﬁling).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "tennessee.pdf",
+      "parent_id": "6045ea44403b57d1500d30b7744620f2"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "c892c85aeac4951aa87c8f0d9ff9718e",
+    "text": "A",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7cc1aa72b423cfed13f0ec95b0083d0a",
+    "text": "Start Your Weekly Certification",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7532c60558f13ce12a1b6bdf030ebe0a",
+    "text": "Log in to your Jobs4TN.gov Unemployment Claimant e-Services account each week to complete your Weekly Certiﬁcation – this is where you’ll report your 4 work search activities completed the prior week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "tennessee.pdf",
+      "parent_id": "7cc1aa72b423cfed13f0ec95b0083d0a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7a423a1815287ba2729c7070ebeec253",
+    "text": "Each Sunday a new certiﬁcation for the prior week will be made available on your e-Services account; the link to ﬁle your certiﬁcation will be located on your Summary screen and within your Action Center.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c1faced7c6dba736162c667c84482ffc",
+    "text": "Please note that if you wait more than 3 weeks to ﬁle your certiﬁcation, your claim will be closed, and you will need to reﬁle to begin certifying again. Any missed certiﬁcations will no longer be available for ﬁling/compensation – this is why it’s important that you ﬁle timely each week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7839610ce437798908d36e4304f06a3b",
+    "text": "Waiting Week",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2de687712449ea86dc42103c0953d9dd",
+    "text": "If your claim is approved, the ﬁrst week you certiﬁed for will serve as a waiting week. This Agency does not pay you for this week unless you certify for, and are eligible for four consecutive weeks. On the fourth consecutive week, you will receive a double payment; it will be a combination of your waiting week and fourth week of beneﬁts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "tennessee.pdf",
+      "parent_id": "7839610ce437798908d36e4304f06a3b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7df0d090ca46ba0aa3931d6090b814f7",
+    "text": "Start your job search immediately and certify the ﬁrst Sunday after your claim was ﬁled. Even if you haven't been approved or denied yet, go ahead and attempt to certify. Keep certifying weekly until you ﬁnd employment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "tennessee.pdf",
+      "parent_id": "7839610ce437798908d36e4304f06a3b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "aac05fbac0cc6b9d7b8cc5311742dbd5",
+    "text": "Monetary Determination",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "df9e01dcb5d8f5bc065bbd07fecac80a",
+    "text": "This is not an approval, but rather tells you how much you could receive if you are approved. This document tells you how many weeks you will receive unemployment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "tennessee.pdf",
+      "parent_id": "aac05fbac0cc6b9d7b8cc5311742dbd5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cdb67eb275ea4991051b74c2f273c56c",
+    "text": "Do not confuse the “beneﬁt year” with how many weeks you will be eligible. The maximum number of weeks you can draw unemployment in Tennessee is 12 weeks.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "tennessee.pdf",
+      "parent_id": "aac05fbac0cc6b9d7b8cc5311742dbd5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "67173462ebe1f87dde9d175c113e326c",
+    "text": "If you believe that the wages are incorrect or an employer is missing during the past 18 months on your Monetary Determination, you may ﬁle a Wage Protest.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "tennessee.pdf",
+      "parent_id": "aac05fbac0cc6b9d7b8cc5311742dbd5"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "53d51ecc5e5ef3182465ba1f8538a207",
+    "text": "Wage Protest",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2f5984e1125c37016818b5200c2c8f22",
+    "text": "A Wage Protest may be ﬁled online for any missing or incorrect wages paid for work performed in the state of Tennessee during the standard base period. You may ﬁle a Wage Protest by going to Jobs4TN.gov and logging in to your Unemployment Claimant e-Services account. Please contact us toll-free at 844-224-5818.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "tennessee.pdf",
+      "parent_id": "53d51ecc5e5ef3182465ba1f8538a207"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5c9d0b235a77bbabb4359cbd0bb236ac",
+    "text": "Debit Card Delivery",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1eac17c13f52ac1c27c9f725e13dbe5a",
+    "text": "You will receive an empty Way2Go Card® Debit MasterCard by mail within 7-10 days from your application. You may instead receive your beneﬁt by direct deposit if you prefer. For security reasons, we will not take your banking information and change your payment method. If your card is not delivered or you lose your card, please contact Way2Go customer service at 855-462-5887.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "tennessee.pdf",
+      "parent_id": "5c9d0b235a77bbabb4359cbd0bb236ac"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "397af8e89d5f5b4168c6b3103ace7050",
+    "text": "Non-Monetary Determination — Approval or Denial",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8a1be475b0785c83cbcdae69425f9089",
+    "text": "Once the agency has ﬁnished processing your claim, you will receive a Non-monetary Determination letter detailing the ﬁndings of your claims (that is, whether you are approved for beneﬁts, or denied). Please note you may receive multiple Non-monetary Determination letters on your claim if other factors such as deductible pay or able and available status are applicable per your application answers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "tennessee.pdf",
+      "parent_id": "397af8e89d5f5b4168c6b3103ace7050"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4fabc0ed589ca140b3d9cdd786eaba2f",
+    "text": "If you disagree with a decision made on your claim, you may ﬁle an appeal. Instructions on how to ﬁle an appeal are located on your Non-monetary Determination letter.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "tennessee.pdf",
+      "parent_id": "397af8e89d5f5b4168c6b3103ace7050"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8cf5adc359bff9d512b02e5c51f9df86",
+    "text": "Restarting Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f86525bcc1d8e76f3b2f6bec9dec2816",
+    "text": "Restarting Benefits after Temporary Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a4aa462a69b986db656864face1b0e83",
+    "text": "When you take a temporary job and earn more than your weekly beneﬁt amount, your beneﬁts will stop. When your temporary assignment ends, you need to re-ﬁle for unemployment. The same rules for leaving this new employer apply; if you voluntarily quit or you are ﬁred for just cause, you may not be eligible for beneﬁts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "tennessee.pdf",
+      "parent_id": "f86525bcc1d8e76f3b2f6bec9dec2816"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "524e512698276f20ffc93e24a373e954",
+    "text": "Refiling for Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "964e4d9bacd548c3a62f4d3d31b989a7",
+    "text": "When you apply for unemployment beneﬁts, you establish an active unemployment account for 52 weeks. This is referred to as a beneﬁt year. When your beneﬁt year ends and you still require unemployment assistance, your claim will stop and require you to ﬁle a new claim. To be approved for beneﬁts in a new beneﬁt year, you must have earned ﬁve times your weekly beneﬁt amount.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a5b3e39a372f24acf4f3317a46f3bc37",
+    "text": "Example: Sue ﬁled for beneﬁts on January 1, 2014, and stopped in May (5 months). She was laid oﬀ again in the middle of December so she ﬁled a new claim. Since her beneﬁt year ended after 52 weeks, her beneﬁt stopped and she had to apply again. Because Sue’s beneﬁt was $100 a week, she had to have earned at least $500 during the last year to qualify for a new claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c88fb52a1b1b2464dbefbf6b20a5eeb3",
+    "text": "Unemployment Benefit Extensions",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2287882976882ce2f004fce62b1edd3f",
+    "text": "With the new Indexing policy, Tennesseans are only eligible for a maximum currently of 12 weeks of unemployment insurance in a year. If you exhaust your beneﬁts, no extensions are available. To be eligible for unemployment again, you will have to meet several requirements:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "tennessee.pdf",
+      "parent_id": "c88fb52a1b1b2464dbefbf6b20a5eeb3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1ccc32bfa7b22106fc0de1ae287be2e3",
+    "text": "You must have additional earnings from a \"covered employer.\" You must be laid oﬀ by no fault of your own. And, you must apply after your beneﬁt year has ended.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "tennessee.pdf",
+      "parent_id": "c88fb52a1b1b2464dbefbf6b20a5eeb3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e9b3e3df8006a19e5121d0e6fe329a60",
+    "text": "Application Questions",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2c1df9f276a12dbe4b5e8a06b572c98d",
+    "text": "Choices for Separation",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8f2e66177039e595529aafe3ec751de2",
+    "text": "Lack of Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "tennessee.pdf",
+      "parent_id": "2c1df9f276a12dbe4b5e8a06b572c98d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "60ffdc0eb1a48bf90d41b5edee9de92b",
+    "text": "Laid oﬀ, your position was abolished, the business closed, or the plant shut down.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "tennessee.pdf",
+      "parent_id": "2c1df9f276a12dbe4b5e8a06b572c98d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "32693cf846148a7b4147ccba3c11d8cc",
+    "text": "Quit",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "tennessee.pdf",
+      "parent_id": "2c1df9f276a12dbe4b5e8a06b572c98d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6fd2e4db420033d61ce6c368e7ed0581",
+    "text": "Voluntarily leaving suitable work without good cause attributable to the employer.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "tennessee.pdf",
+      "parent_id": "2c1df9f276a12dbe4b5e8a06b572c98d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "30511a21bcac8f9f9ebfd48c14ed283b",
+    "text": "Discharged",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "tennessee.pdf",
+      "parent_id": "2c1df9f276a12dbe4b5e8a06b572c98d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "62001c0a8821fcb8b074761495f41312",
+    "text": "Dismissed for violation of company rules, neglected given job responsibilities, etc.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "tennessee.pdf",
+      "parent_id": "2c1df9f276a12dbe4b5e8a06b572c98d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9e3e0ca1f91bf054da51c733811649dc",
+    "text": "Questions Asked When You File a Claim for Unemployment Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ae0c10afd5d1d6fb5678ef2ab23434f4",
+    "text": "Address, contact, and mail delivery preference",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "tennessee.pdf",
+      "parent_id": "9e3e0ca1f91bf054da51c733811649dc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "000c1c3aa05b03fae784b9deb8cdbf05",
+    "text": "You will be asked to verify/update your mailing address, contact information, and mail delivery preference.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "tennessee.pdf",
+      "parent_id": "9e3e0ca1f91bf054da51c733811649dc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0c631839d0faffef09d986dfdd41c4ba",
+    "text": "Did you ﬁle and/or work out-of-state within the last 18 months?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "tennessee.pdf",
+      "parent_id": "9e3e0ca1f91bf054da51c733811649dc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1595e02ea0584bb8af5970ccafa9167e",
+    "text": "If Yes, you’ll also be asked to list which state(s) you have ﬁled/worked in within the last 18 months.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "tennessee.pdf",
+      "parent_id": "9e3e0ca1f91bf054da51c733811649dc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "92069a8b744d4caebfa265ce89d42f51",
+    "text": "Did you work for the federal government and/or military within the last 18 months?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "tennessee.pdf",
+      "parent_id": "9e3e0ca1f91bf054da51c733811649dc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a5e72500518b8dc2f6f940892d954968",
+    "text": "If Yes, you’ll be asked additional information concerning your employment/service within the last 18 months.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "tennessee.pdf",
+      "parent_id": "9e3e0ca1f91bf054da51c733811649dc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "278d9855446542fad0bb96a898cfe313",
+    "text": "Employment History",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "tennessee.pdf",
+      "parent_id": "9e3e0ca1f91bf054da51c733811649dc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cab24e6009ca9484aaa817065007573a",
+    "text": "Our online system will gather all known employment under your SSN for the prior 18 months. You’ll select each employer entry and complete a short questionnaire concerning your employment there.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "tennessee.pdf",
+      "parent_id": "9e3e0ca1f91bf054da51c733811649dc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "17b6d2005cd0343e3e75a667ae494f56",
+    "text": "Questionnaires include dates of hire/separation, type of employment and pay amount, whether you received deductible post-employment income (i.e., severance package), and your separation reason (i.e., laid oﬀ due to lack of work).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "tennessee.pdf",
+      "parent_id": "9e3e0ca1f91bf054da51c733811649dc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "52a769fe2a469bedb149f98808123a5c",
+    "text": "Are you able and available and seeking work as directed by the department?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "tennessee.pdf",
+      "parent_id": "9e3e0ca1f91bf054da51c733811649dc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a15c99c43d997b212aa128a7d4826cfb",
+    "text": "Are you currently attending school?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "tennessee.pdf",
+      "parent_id": "9e3e0ca1f91bf054da51c733811649dc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "06cefadac6b9059712fc3cdb8bfa96aa",
+    "text": "Are you a paid-up member of a labor union?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "tennessee.pdf",
+      "parent_id": "9e3e0ca1f91bf054da51c733811649dc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f78c1e9e34415d727eddd11416f4f3aa",
+    "text": "Are you currently receiving workers’ compensation?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "tennessee.pdf",
+      "parent_id": "9e3e0ca1f91bf054da51c733811649dc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "84d1d2fa11b35ccd289f5a5ebb0175c2",
+    "text": "Are you a business owner, independent contractor, or self employed worker and only received a 1099 tax form last year?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "tennessee.pdf",
+      "parent_id": "9e3e0ca1f91bf054da51c733811649dc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ca6f64b6f0455a2586ad134dffa5a695",
+    "text": "Do you make or owe child support payments?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "093f1009db1f645fb3d7b0759cf48960",
+    "text": "If Yes, you’ll be asked to provide which state(s) you currently owe child support payments in.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "afd4026a2bba4857d762dd87216a3856",
+    "text": "Payment Preference",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b5281a77f248d3b5fffc60296d5d3737",
+    "text": "You may select to either receive payment via a state-issued Way2Go debit card, or enter a checking or savings account for direct deposit.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "01925c3348a45784e7ece9fbb6850c91",
+    "text": "Tax Withholding",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "95e2ebcf2a8395b49d6eb959fecca1c8",
+    "text": "Unemployment beneﬁts are tax deductible. In Tennessee this is only applicable for federal taxes (10% of your weekly beneﬁt amount). It is up to you if you would like for this federal tax to be withheld each week or not. If you have questions concerning this, please consult with your tax advisor.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c5afad6e5054801a6b93fa978cd1aca4",
+    "text": "Common Issues When Applying Online",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "669a06b6a4994363c99b3877cae85c79",
+    "text": "Timeout",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "04bad4ed2c7830fa8fdf9510ad23224a",
+    "text": "No pressure, but don’t time out. The online system will start over if the Web page sits idle very long (approximately 15 minutes). This might freeze your claim and you would have to start over to ﬁle your claim to continue.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "tennessee.pdf",
+      "parent_id": "669a06b6a4994363c99b3877cae85c79"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4abefc90bb846a64cee82ec6fda989e5",
+    "text": "“Back” Problems",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8729aa2f4ad51e222a2264cc87a362bf",
+    "text": "Using the back button built into the browser will lock your claim so refrain from going back. Instead, please use the “Previous” button near the bottom of the page to go backwards during the online application.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "tennessee.pdf",
+      "parent_id": "4abefc90bb846a64cee82ec6fda989e5"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6c3fa9d40deba77fb3f87d51d51be7ec",
+    "text": "Wages in More than One State",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "312e128cc81561a8a63bf52a573fa08c",
+    "text": "If you worked in Tennessee during the past 18 months but moved to another state, you may, if you are unemployed, ﬁle a claim for beneﬁts on those wages earned in Tennessee. If you worked in another state during the base period but moved to Tennessee, you may ﬁle a claim for beneﬁts from another state. If your background is working for companies in one state other than Tennessee, you may need to refer to the list below. In some cases, your wages from two or more states may be combined to establish an eligible claim for beneﬁts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "tennessee.pdf",
+      "parent_id": "6c3fa9d40deba77fb3f87d51d51be7ec"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6a8d5206516c7f07a52cf001d0f52c6a",
+    "text": "State Unemployment Insurance Offices",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "tennessee.pdf",
+      "parent_id": "6c3fa9d40deba77fb3f87d51d51be7ec"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "25b97492b2c731c51a9d093619578515",
+    "text": "School Employees",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c14fa2ec0e06cf5df30a005b6a2629aa",
+    "text": "School personnel who have enough wages earned in employment other than in an educational institution may be paid beneﬁts during any regularly scheduled break, such as vacation or holiday, even though they have reasonable assurance of reemployment immediately following the vacation or holiday period.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "tennessee.pdf",
+      "parent_id": "25b97492b2c731c51a9d093619578515"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9131390739c1f7ca34dadadbee4c49aa",
+    "text": "School personnel may be eligible for unemployment beneﬁts between terms (during a vacation or other recess) if they do not have reasonable assurance of returning to an educational system following the recess period.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "tennessee.pdf",
+      "parent_id": "25b97492b2c731c51a9d093619578515"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d780d53c55aed64135136c01a457c539",
+    "text": "Those who are not directly employed by the school system, but become unemployed as a result of regularly scheduled breaks can be eligible for unemployment if they meet wage requirements, and have experienced fewer hours, but still have an expectation of returning to full-time work when school is back in session (ex. Bus drivers or janitors who are employees of a contracted employer).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "tennessee.pdf",
+      "parent_id": "25b97492b2c731c51a9d093619578515"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c32b4f603876eb9e11af1ca095c39cdd",
+    "text": "Avoiding Unemployment Fraud",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "tennessee.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6b98b19b4455623f73400900aa750434",
+    "text": "An overpayment of beneﬁts can be intentional such as someone who gives an intentional false statement, misrepresentation, or concealment of material information to obtain the beneﬁts. It’s more common that claimants collect beneﬁts at the same time they are earning money at a new job. It’s important that you stop certifying or report your income during certiﬁcation while you earned it, and not wait until you get your ﬁrst paycheck.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "tennessee.pdf",
+      "parent_id": "c32b4f603876eb9e11af1ca095c39cdd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "750792b93fc36f1d7a38598c1fda4600",
+    "text": "The department cross matches employee wages with unemployment beneﬁt payments, and once fraudulent payments are determined, asks claimants to pay back these beneﬁts. If these beneﬁts aren’t paid back voluntarily, then the department can be repaid through IRS tax refunds due to the individual.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "tennessee.pdf",
+      "parent_id": "c32b4f603876eb9e11af1ca095c39cdd"
+    }
+  }
+]

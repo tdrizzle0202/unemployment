@@ -1,0 +1,2873 @@
+[
+  {
+    "type": "Title",
+    "element_id": "9d21e60ef3572116a6c3f6dc909ad2e4",
+    "text": "About the UI Program",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b43ba584d22f467ae0afb5763c11d05",
+    "text": "Unemployment Insurance (UI) is a program designed to provide temporary income to workers who lost their job through no fault of their own and who meet the eligibility requirements set forth by the law. These benefit payments help job seekers focus on the path to reemployment and lessen the negative impact of unemployment on the economy. Benefits are not available to all workers. For example, workers who were fired from their job for misconduct cannot receive UI benefits. Funding for the UI Program The Colorado UI program is funded through premiums paid by employers. No money is deducted from your paycheck to pay for UI benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Colorado.pdf",
+      "parent_id": "9d21e60ef3572116a6c3f6dc909ad2e4"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d0a19f5b3d5a972d9bb97c6befa36eea",
+    "text": "We are Here to Help You",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4284af70ad75bdf90b0032afd6089f82",
+    "text": "The Colorado Department of Labor and Employment is here to assist you through your time of unemployment. To make sure you are paid benefits in a timely manner, please help us by:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Colorado.pdf",
+      "parent_id": "d0a19f5b3d5a972d9bb97c6befa36eea"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "de238ee8de604eb00e0bab3bedd3e8b4",
+    "text": "● Providing accurate information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Colorado.pdf",
+      "parent_id": "d0a19f5b3d5a972d9bb97c6befa36eea"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ce55da6314f03069330dbe72178159dc",
+    "text": "● Responding to requests for information quickly and accurately",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Colorado.pdf",
+      "parent_id": "d0a19f5b3d5a972d9bb97c6befa36eea"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a1b6d4b410f6a2b232585885b93d9d13",
+    "text": "● Completing all requirements to maintain UI eligibility, as outlined in this guide",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Colorado.pdf",
+      "parent_id": "d0a19f5b3d5a972d9bb97c6befa36eea"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f8ac318e6711e0637c3e25f2e2fb2dc4",
+    "text": "● Keeping your contact information up-to-date",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Colorado.pdf",
+      "parent_id": "d0a19f5b3d5a972d9bb97c6befa36eea"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f27bb85f00668ab6628e219bac0fd618",
+    "text": "Change of Address or Phone Number If you move or change your phone number, let us know as soon as possible. Failure to notify our agency of your current contact information may result",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Colorado.pdf",
+      "parent_id": "d0a19f5b3d5a972d9bb97c6befa36eea"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bc7242fe915a6583278914eee372ef1b",
+    "text": "in a delay in payment of benefits. The easiest way to update your address or phone number is on MyUI+ (opens in new window) . For the Fastest Service, Go Online Go to MyUI+ and set up an online account. In MyUI+, you can open a claim, check the status of your claim, request information, and more through our safe and secure portal. You can also access MyUI+ anytime on your mobile device. If you need help setting up your account in the new MyUI+ system, requesting weekly benefits, or for help with a program integrity issue on your claim, please call us.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Colorado.pdf",
+      "parent_id": "d0a19f5b3d5a972d9bb97c6befa36eea"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2012e5337347c4b699f348a046c4ae22",
+    "text": "Anyone can file for unemployment, however, there are criteria you have to meet to qualify for benefits. If you received $2,500 or more in wages on a W-2 from any employer where taxes were withheld during the last 18 months, you may qualify for unemployment benefits. Before you file a claim, gather your income-related information, such as pay stubs. Be prepared to provide information about work you have performed in the last 18 months, including the legal name and address of the business, dates you worked, and rate of pay. When you are ready to file a claim, go to MyUI+. You will need to create an account and follow the instructions to start a new claim. MyUI+",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Colorado.pdf",
+      "parent_id": "d0a19f5b3d5a972d9bb97c6befa36eea"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f58108c8a8a96e052174b5d51ca8b22e",
+    "text": "You can file and manage your claim online with MyUI+, you can open a claim, check the status of your claim, request weekly payment, request information, and more through our safe and secure portal. You can also access MyUI+ anytime on your mobile device. Once you register, your account will be valid for any future claims so remember your password and check often to ensure your account information is up to date, even after your claim ends.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Colorado.pdf",
+      "parent_id": "d0a19f5b3d5a972d9bb97c6befa36eea"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "46a9b536bae9a90f1a22805bbba25ef2",
+    "text": "If you need help setting up your account in the MyUI+ system, requesting weekly benefits, or help with a program integrity issue on your claim, please contact us.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Colorado.pdf",
+      "parent_id": "d0a19f5b3d5a972d9bb97c6befa36eea"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2bbba45ad9a4990a4bb67a875adc0a65",
+    "text": "NOTE: You may cancel your claim within 12 calendar days of filing it. You must call and notify us of your wish to cancel. If you do not cancel within 12 calendar days of filing, your claim will remain on file for the duration of the claim year whether or not you keep it active.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Colorado.pdf",
+      "parent_id": "d0a19f5b3d5a972d9bb97c6befa36eea"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "75c251053cb6e188c991e0ab9a0a31b4",
+    "text": "Personal Identification Number You will receive a personal identification number (PIN), which you must use if you plan to request benefit payments by phone or want to access your claim on our Virtual Agent. It is your responsibility to keep your PIN in a safe and secure place. Do not share this PIN with anyone. If your PIN is used without your authorization, you may be held responsible. Verifying Your Identity Any time you start an unemployment claim, or reopen a claim, we will ask you to verify your identity. Please make sure you complete all identity verification tasks as soon as possible so that you can file your claim in a timely manner. You will be asked to",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Colorado.pdf",
+      "parent_id": "d0a19f5b3d5a972d9bb97c6befa36eea"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "13023c2818c2d1a5a7bbc5111a1f2994",
+    "text": "upload a picture of your ID and take a selfie; or visit a USPS location to verify in person.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Colorado.pdf",
+      "parent_id": "d0a19f5b3d5a972d9bb97c6befa36eea"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "49add7c0e76af055ecf5f174d2789aeb",
+    "text": "What Happens After You File A Claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cd5f0e0ee56aab49992589276b2187f3",
+    "text": "After you submit your application for unemployment insurance benefits, the Division of Unemployment Insurance conducts a thorough review of your claim. Processing your claim will typically take 4-6 weeks, but could take longer, depending upon the circumstances of your separation, your qualifying wages, or other factors that could make your claim more complex. When we review your claim, we examine the information you submitted and contact all the employers you worked for in the past 18 months. We do this to learn more about the circumstances related to your job separations. We also review your claim information to help determine your eligibility. Please review the Eligibility for UI Benefits page to understand whether or not you may be eligible for benefits, and how to maintain your eligibility if your claim is approved.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Colorado.pdf",
+      "parent_id": "49add7c0e76af055ecf5f174d2789aeb"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "752fe8f2efc37431fb9c1f844b193487",
+    "text": "Keep Your Claim Moving Forward",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "abf5964f681d46272ad6576323109de5",
+    "text": "1. Make Good Use of Your MyUI+ Account You may have used MyUI+ to complete your application for unemployment. You can also use your MyUI+ account to answer follow-up questions we may have about your application or job separations, to request benefits online and to check the status of payments. 2. Verifying Your Identity",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d5b6d41dbdd257c02c5977a6545f3f14",
+    "text": "You will be asked to verify your identity when you complete your unemployment application and when you make some changes to your account information. You may be asked to verify your identity more than once. Please note that your benefit payment will not be released until you have verified your identity.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5582202c542fc4995b0aa0f82868382b",
+    "text": "3. Request Payment EVERY WEEK",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e22223816a611719dc972d42ba52fe16",
+    "text": "You will need to request payment/certify your unemployment status every week, even if your claim has not yet been approved/denied. If you fail to request payments within the specified timeframe, the system will assume that you are back to work and no longer need benefits. This will close your claim and prevent your ability to request payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5c526f2c0228aea0a2378ef2b4ed0a70",
+    "text": "4. Quickly Return Any Follow-Up Documentation We Send You",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "452874d62a1788b73b66bc4b2baa7309",
+    "text": "After applying for unemployment insurance benefits, you will",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "30662de22c02656b38272bb5bb9fa4c1",
+    "text": "receive several important documents. These documents will",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1a796ae98f22b16b3fb139cd6ef7b3d6",
+    "text": "either be delivered to your MyUI+ account or via the U.S. mail.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d2709f5af19d3a098b270f31adb599da",
+    "text": "We recommend selecting electronic delivery, as it will",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c295c87f5128dcf5071ed2ec3e1696a3",
+    "text": "expedite any claim-related documents and may result in a",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "63d0aa3d167d65caa8b9a9314d5a28bd",
+    "text": "faster decision on your claim. Make sure that you read and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b0219b6bb48a76def58bc4fd13d89bb6",
+    "text": "respond to any requests for information as soon as possible to",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0f3a0bbc1f8b05b9025ef3ef177d044b",
+    "text": "avoid any delays in processing.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d19b8a070a6dca411f48f34f25f2d946",
+    "text": "Here are a few tips to ensure your documents are processed as",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5f19bf0735a7c59120adf99e08bf0ecc",
+    "text": "quickly as possible:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "24971f53555fd89fd7f3bdb756699a60",
+    "text": "DO:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a32830f6ad992a9c5d1dc85ddec6d790",
+    "text": "● Use MyUI+ to respond to questionnaires, file an appeal, or upload supporting documentation (as one complete document when possible), rather than faxing or mailing. Mailing/Faxing will extend processing times.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f7e1a48109a93f751a4bc2d486f9106d",
+    "text": "● Return the barcoded CDLE form with any supporting documentation, and put that form on the top!",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "76e8dd569a8e316008748a6ef9c77166",
+    "text": "● Include your name, Claimant ID number on any pages which are not a barcoded CDLE form.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "afed2855a3953afbccd6fcede124ee37",
+    "text": "● When returning multiple forms, make sure all pages are in the proper order with the CDLE barcoded form being on top of any supporting documentation for each form.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "eb3e36ae19783b24f37043debd7a8c13",
+    "text": "● If you are unable to return the form, include the Document ID on all pages. This can be found at the bottom left corner of the form.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9141af44186adf6d7ccdef4c0ca6e3b5",
+    "text": "● If sending via fax, you must use the correct fax number as listed on the form. Sending documents to the wrong number can result in significant delays in processing.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e2988b97928954f20c48b361bc3f99c9",
+    "text": "2",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "822afee665f7bf4552dc3c1aadd3c198",
+    "text": "● When submitting documents by fax, don’t include a cover page other than the CDLE barcoded form.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "68c143024c94ae883818b2adb661a35f",
+    "text": "● Do not upload one page at a time for multiple page documents (submit as one complete document when possible).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "afa0b00d43df34647529d25305695859",
+    "text": "● Do not send the same documentation multiple times. ● Do not send the same documentation both electronically and by",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "132afd734750f21c73e3cc281a80f851",
+    "text": "mail or fax.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Colorado.pdf",
+      "parent_id": "752fe8f2efc37431fb9c1f844b193487"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "346418941fa2385c221cb2e94a685238",
+    "text": "Qualifying for Unemployment Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a3bb9b5d9a8570939837f94ee142fb5f",
+    "text": "Our agency will review your claim to determine if you qualify for benefits. We look at these three criteria:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Colorado.pdf",
+      "parent_id": "346418941fa2385c221cb2e94a685238"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c26799e4f4b1984fa9482c3818acf600",
+    "text": "1. How much did you work in the 18 months before filing",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Colorado.pdf",
+      "parent_id": "346418941fa2385c221cb2e94a685238"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f3265ef030764c6e096e9b1059169589",
+    "text": "a claim?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Colorado.pdf",
+      "parent_id": "346418941fa2385c221cb2e94a685238"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0ac93dcd878e785f9e2e5d0e882f53c9",
+    "text": "You must have earned at least $2,500 in wages during your “base period.” The base period (opens in new window) is four of the last five calendar quarters before the start date of your claim. A calendar quarter is equal to 3-month segments of the year, beginning in January. For example, if you file your claim in October 2025, the last five completed calendar quarters are:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Colorado.pdf",
+      "parent_id": "346418941fa2385c221cb2e94a685238"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f18b92aa132b0b119e4089df33b2bb82",
+    "text": "[2024 - Q3] [2024 - Q4] [ 2025 - Q1] [2025 - Q2] [2025 - Q3]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f1e80ac00e6c43f7ba77ac942be3c052",
+    "text": "This does not include the current quarter filed your claim because it has not yet been completed (October is at the beginning of the fourth quarter). The base period would be the third quarter of 2024 through the second quarter of 2025. We will send a form called Notice of Wages and Possible Benefits that shows how much you earned in the base period and how much you may receive in benefits. If you did not earn at least $2,500 during the standard base period, you may be eligible to use an alternate base period if you earned wages during this period (the most recent four completed calendar quarters). Some additional factors we consider while processing your claim include work in other states, federal civilian wages, and military wages.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Colorado.pdf",
+      "parent_id": "f18b92aa132b0b119e4089df33b2bb82"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6371cc9141f3797560641fb2d53086da",
+    "text": "Work in Other States",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "14359f40e7148e65a1b2eff8ee3ee179",
+    "text": "If you worked in or have wages in more than one state, you may choose to use these wages on your Colorado unemployment claim. In order to use the out-of-state wages on your claim, you must also have wages in Colorado during the base period. We will contact your previous employer(s) and that state to determine whether or not they are included in your claim based on Colorado’s law. If you have not already told us about your employment in another state, call the Customer Service Center at 303-318-9000 (Denver metro area) or 1-800-388-5515 (outside Denver-metro area) to add an employer to your claim. You may have overlapping claims in more than one state.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Colorado.pdf",
+      "parent_id": "6371cc9141f3797560641fb2d53086da"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c3127e1e8bc77f9d073d1e20a401d94d",
+    "text": "Federal Civilian Wages",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "46ffec1e6c052278eaced5a608fd66a9",
+    "text": "The federal government does not report your wages to us, so we request your federal wages after you file for unemployment. Those wages are added to your claim after they are verified by the federal agency for which you worked, which means they may not appear on your first Notice of Wages and Possible Benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Colorado.pdf",
+      "parent_id": "c3127e1e8bc77f9d073d1e20a401d94d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ce444f5ffac77281043d6bd602bd66ef",
+    "text": "You must sign and return the Claimant’s Affidavit of Federal Civilian Service, Wages, and Reason for Separation and the Unemployment Compensation for Federal Employees forms. Also, include the following forms when you provide the information above: SF-8 and SF-50. These forms should have been provided to you when you separated from the Federal Employer. If these forms are not provided to the division, this could delay the processing of your claim. When the federal wages are added, you will receive a new Notice of Wages and Possible Benefits. If you have not already told us about your federal employment, call the Customer Service Center at 303-318-9000 or 1-800-388-5515 (outside Denver-metro area) to add this employer to your claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Colorado.pdf",
+      "parent_id": "c3127e1e8bc77f9d073d1e20a401d94d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "27f5dafe258fdca3d90b77f68a4c0d27",
+    "text": "Military Wages",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1f6f9f0ca07c967cf39ed1b3a9882e97",
+    "text": "Your branch of service does not report your wages to us, which means those wages may not be reported on your first Notice of Wages and Possible Benefits. In order for the division to add wage information to your claim and prevent delays in processing, you must mail or fax a copy of your DD Form 214, Member 4 (this form does not need to be notarized). You can request a copy of your DD Form 214 online.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Colorado.pdf",
+      "parent_id": "27f5dafe258fdca3d90b77f68a4c0d27"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2faa688d1a8c1a8d0f9ef4a4f07fff73",
+    "text": "2. Why are you no longer working for your past",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Colorado.pdf",
+      "parent_id": "27f5dafe258fdca3d90b77f68a4c0d27"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bade6f9883b21375b83769b6f97a960f",
+    "text": "employer?",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Colorado.pdf",
+      "parent_id": "27f5dafe258fdca3d90b77f68a4c0d27"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5364619a68abbf2d30804ab27f39a274",
+    "text": "The reason you are no longer employed helps determine whether you can receive UI benefits. In order to qualify for benefits, you must have lost your job through no fault of your own (for example, a layoff, reduction in hours, or reduction in pay not related to performance). We will contact your previous employer(s). Here are some examples of separation reasons that may qualify or disqualify you from receiving benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Colorado.pdf",
+      "parent_id": "27f5dafe258fdca3d90b77f68a4c0d27"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cffb5e7f5e5bf342698e3e9c27a27e04",
+    "text": "You may receive benefits if you:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Colorado.pdf",
+      "parent_id": "27f5dafe258fdca3d90b77f68a4c0d27"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cfc36f8c2a2c549609183b2a8ff51796",
+    "text": "● Were laid off or your hours were reduced because your",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "27f5dafe258fdca3d90b77f68a4c0d27"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7df8d71b360cb3646e5020f299cb79b0",
+    "text": "employer did not have enough work for you.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "27f5dafe258fdca3d90b77f68a4c0d27"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "84ff90d3dccefb903c1877d931adbe68",
+    "text": "● Left your last job and can show it was for a good cause",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "27f5dafe258fdca3d90b77f68a4c0d27"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "af51476ffc5e160e0c5102a67fa921a5",
+    "text": "related to the job (such as unsafe working conditions).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "27f5dafe258fdca3d90b77f68a4c0d27"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8afd67b038681244b7507bd478a065e0",
+    "text": "● Are unemployed because you or your child were a victim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "27f5dafe258fdca3d90b77f68a4c0d27"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "fa454cb58a7a22bdc725198da135dabb",
+    "text": "of domestic violence, stalking, or sexual assault.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "27f5dafe258fdca3d90b77f68a4c0d27"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e2ff7597d4cba0f873eb6529324a7da9",
+    "text": "You may not receive benefits if you:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "74248789e624df045ebe019621f73ce5",
+    "text": "● Left your job for personal reasons unrelated to work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "e2ff7597d4cba0f873eb6529324a7da9"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3bee680c1584d669817ce864234d54b9",
+    "text": "● Were fired for misconduct.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "e2ff7597d4cba0f873eb6529324a7da9"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "69604c1b7b1e6eba5a2dce124878f9ff",
+    "text": "● Are not legally authorized to work in the United States.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "e2ff7597d4cba0f873eb6529324a7da9"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "82e2924b14c8aa06ed96e1fca267ec40",
+    "text": "● Are self-employed full-time.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "e2ff7597d4cba0f873eb6529324a7da9"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8c56ca23e82b14219dad6b75ffc02173",
+    "text": "● Are currently receiving workers’ compensation for an",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "e2ff7597d4cba0f873eb6529324a7da9"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3c73ca996a776516b87bcc32362b2b90",
+    "text": "on-the-job injury.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "e2ff7597d4cba0f873eb6529324a7da9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e329d6b02b370d68d2b28a4bc24c1085",
+    "text": "3. Are you able and available to work?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "e2ff7597d4cba0f873eb6529324a7da9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0f3e38ce83334eccdfed6a24256011d8",
+    "text": "In order to qualify for UI benefits you must be:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "e2ff7597d4cba0f873eb6529324a7da9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bc6c38b17b8920277ce7ba73aec4fddd",
+    "text": "● Actively looking for work (unless you are job or union-attached—see more info in the glossary page)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "e2ff7597d4cba0f873eb6529324a7da9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "803b30f41f1ac3f32829217e23888e12",
+    "text": "● Mentally and physically able to work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "e2ff7597d4cba0f873eb6529324a7da9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5d7b42602d3c75cc54d9eacc669e2ab6",
+    "text": "● Legally authorized to work in the United States",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "e2ff7597d4cba0f873eb6529324a7da9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3120213d8b4564dae9e0d0f4d0a1794d",
+    "text": "● Available to accept new work (for example, you do not have personal responsibilities that would prevent you from working)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Colorado.pdf",
+      "parent_id": "e2ff7597d4cba0f873eb6529324a7da9"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "28a9ec8b8f80cfb292d24c33503c7db4",
+    "text": "Options for Receiving Payment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8578dd9c2c60755dc7a2524a8214465f",
+    "text": "If you are eligible for UI benefits, you may receive your payment by:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Colorado.pdf",
+      "parent_id": "28a9ec8b8f80cfb292d24c33503c7db4"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "758862e361dfdb7757b01f8db0b78f1e",
+    "text": "● Direct Deposit – This option puts money directly into your checking account.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Colorado.pdf",
+      "parent_id": "28a9ec8b8f80cfb292d24c33503c7db4"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "355118e000d8e92195e09a5aa7cd0316",
+    "text": "● Prepaid Debit Card – This option provides you with a prepaid debit card from U.S. Bank called ReliaCard. You can make purchases, get cash, and pay bills everywhere Visa® debit is accepted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Colorado.pdf",
+      "parent_id": "28a9ec8b8f80cfb292d24c33503c7db4"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "468ec090fc681268d9c07536feef1270",
+    "text": "Visit the Payment page",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Colorado.pdf",
+      "parent_id": "28a9ec8b8f80cfb292d24c33503c7db4"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "314bcc6229482bb5f6355fa2b43fe5d4",
+    "text": "(opens in new window) for more information about these payment options. To get paid you must maintain your eligibility. In order to remain eligible and continue to receive benefit payments, you must: Request payment every week starting Sundays from the effective date of your claim. Respond truthfully when requesting payment of benefits. Actively seek work and keep track of your work-search activities. Be physically and mentally able to work. Be willing to accept suitable work. Be available to begin work immediately if a job is offered. Report all hours you worked and gross wages you earned each time you request payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Colorado.pdf",
+      "parent_id": "28a9ec8b8f80cfb292d24c33503c7db4"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "366e13524161e616cdbf415e47a4c064",
+    "text": "Register with your local workforce center or at Connecting Colorado within one week of filing your claim. Please schedule a RESEA meeting within MyUI+ if you receive a notice to participate in the RESEA program. You must comply with each of the tasks listed above in order to avoid possible overpayments or a fraud investigation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "Colorado.pdf",
+      "parent_id": "28a9ec8b8f80cfb292d24c33503c7db4"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8960037faaae337777c670e20e090222",
+    "text": "Searching for Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "863ff7f6d0476b938513b58648d66d33",
+    "text": "You are required to actively search for work every week you receive UI benefits by completing work search activities. We recommend that you complete at least five work search activities per week. If you are union or job-attached, you may not need to search for work. Examples of work-search activities include:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "Colorado.pdf",
+      "parent_id": "8960037faaae337777c670e20e090222"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3525600ca2fabc520be1cee98da46b70",
+    "text": "● Applying or interviewing for a job for which you are qualified.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "Colorado.pdf",
+      "parent_id": "8960037faaae337777c670e20e090222"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "59b32ad96c2df110c60b8133cffe25c6",
+    "text": "● Taking an exam as part of an application process for a job for which you are qualified.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "Colorado.pdf",
+      "parent_id": "8960037faaae337777c670e20e090222"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "75b79af9360ed3be82256bec620dda08",
+    "text": "● Participating in reemployment services at a state workforce center or other location where similar services are provided, including resumé building.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "Colorado.pdf",
+      "parent_id": "8960037faaae337777c670e20e090222"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "15bad9ab9e94aafb0972b71b2cb0dcf0",
+    "text": "We regularly audit unemployment insurance claims. If you are audited, you will need to provide proof of your work search efforts. Failure to complete work-search activities each week and document those activities with information that can be confirmed",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "Colorado.pdf",
+      "parent_id": "8960037faaae337777c670e20e090222"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "de7f64f449c784d3e0994498c83ec8f7",
+    "text": "may cause the denial of benefits and may result in an overpayment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "Colorado.pdf",
+      "parent_id": "8960037faaae337777c670e20e090222"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b101bc26edd1a2460dc4996c61398830",
+    "text": "Requesting Weekly Payment & Reporting Earnings",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "977ce1d4124bd2d5060d07d0309a9312",
+    "text": "● You must request payment every week",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "Colorado.pdf",
+      "parent_id": "b101bc26edd1a2460dc4996c61398830"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "39aaa158655101c3668916fe39812432",
+    "text": "● Request your payments online through MyUI+",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "Colorado.pdf",
+      "parent_id": "b101bc26edd1a2460dc4996c61398830"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2c0180cebf4de885794ea966ef35a782",
+    "text": "● (opens in new window)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "Colorado.pdf",
+      "parent_id": "b101bc26edd1a2460dc4996c61398830"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "687f28fdcc108b5ccc477501f7eae686",
+    "text": "● every week. If you do not have access to MyUI, you may call our customer service center at 303-318-9000 or toll-free at 1-800-388-5515.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "Colorado.pdf",
+      "parent_id": "b101bc26edd1a2460dc4996c61398830"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a6330a63f0094c398bc8b23a02d6a564",
+    "text": "● Payments will be made by direct deposit to your bank account or to your UI debit card",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "Colorado.pdf",
+      "parent_id": "b101bc26edd1a2460dc4996c61398830"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8e3f110e6dd60d7b02802a7950b91aa9",
+    "text": "● Request payment only for any weeks you are unemployed or worked fewer than 32 hours.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "Colorado.pdf",
+      "parent_id": "b101bc26edd1a2460dc4996c61398830"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3b211d24819c786024c3d4b603d0c2c9",
+    "text": "● If you are working while claiming UI benefits, you must report how much money you made. The amount you must report is your gross earnings, not your net earnings.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "Colorado.pdf",
+      "parent_id": "b101bc26edd1a2460dc4996c61398830"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a45641318d67bb7cca724cfe4dbb56dd",
+    "text": "What Earnings to Report When you have an open unemployment claim but are still getting some hours of work, you may be awarded part of your weekly benefits, but you must have earned less than your weekly benefit amount and worked fewer than 32 hours that week. The law states that you can earn up to 50 percent of your weekly benefit amount and still be paid your full benefit payment. After that, we must reduce your benefit payment by one dollar for each dollar you earn. We require that you report the time",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "Colorado.pdf",
+      "parent_id": "b101bc26edd1a2460dc4996c61398830"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "110532366c6a91b7c446c77826516b0e",
+    "text": "and gross earnings the week they were earned (not the week they are paid). Any money received in exchange for work or services MUST be reported as earnings on your claim, even if it’s just one hour worked or one dollar earned. Tips must be reported as wages. Be sure you are reporting for the week you worked, not when you get paid. Payments you must report as earnings or wages include: any payments for work, including Full-Time, Temporary Work, Self-Employment, Military Employment, Federal Employment, Commission, Paid Training, 1099, Contract Jobs, Cash Jobs, and/or Paid Time Off when work was available. If you make a mistake when reporting your earnings, you may correct this information in MyUI+ or by calling the Benefits Payment Center at 303-318-9035. Failing to accurately report wages, earnings, or other types of payment may be considered fraud and could result in penalties or denial of benefits. How and When to Report Earnings When requesting payment of benefits, you must report your hours worked and gross earnings (i.e., earnings before tax withholdings, child support, etc.) for each week that you request payment, so it is important that you keep a record of all of your hours and earnings.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "03daaf60df9380d3eded0dde6bacfc73",
+    "text": "● You can report your hours in MyUI+ online or by calling our automated system at 303-813-2800 (Toll-Free 1-888-550-2800).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7e4d7ef4b0a745cb0b779784eca6e6b1",
+    "text": "● Report hours and earnings for each week. Weeks are always Sunday through Saturday.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8e81b0fa6943153d033d9ebd8a1fc280",
+    "text": "● Report hours and earnings for the week that the hours were worked, not when you were paid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "639f71d6930ef5dfc1273bc048ee0d30",
+    "text": "● Report the total amount that you earned, not your hourly wage.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dc969398e6dcfc38d0e31a9313ff6d6c",
+    "text": "● Report hours and earnings before any withholdings or deductions.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "22f94fa1eb8fa1c35ef493f7af35a02d",
+    "text": "● Report all your earnings from any type of work you did, including tips, commission, paid orientation/training, self-employment, temporary work, seasonal work, day labor, and any other part-time work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "570578d3f334f2f16b0b28220cb5a8e8",
+    "text": "NOTE: If you do not correctly report your hours and earnings it could result in an overpayment, which you must pay back, in addition to penalties. Self Employment Self-employment is considered work. You will need to report your hours worked and profits or gross earnings for the hours worked each week when you request payment (not when you get paid), so be sure to keep track of all of your hours and earnings. You must also maintain your eligibility by meeting all the requirements in order to be paid benefits. Commission Earnings Commissions are considered earnings. You will need to report your hours worked and estimate your commissions earned for each week you request payment, so be sure to keep track of all your hours and earned commissions. Instead of waiting until you are paid, we require that you report the estimated commissions as they are earned (when you request payment).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4df10d0fb2836c8a9209b607abaa1265",
+    "text": "How to Calculate Gross Earnings You will need to report your hours worked and gross earnings (pay before any withholdings, e.g., taxes or child support) information for each week when you request payment, so be sure to keep track of all your hours and earnings.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d9dfcd7b14dfa5c9ec710b8cc654a088",
+    "text": "Number of Hours Worked during Week x Rate of Pay = Gross Earnings",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cb4deba669d51b1e94e8245488bcfaf3",
+    "text": "For instance, if you worked 30 hours in a week at $20 per hour, you would report $600 in gross earnings for the week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "Colorado.pdf",
+      "parent_id": "d9dfcd7b14dfa5c9ec710b8cc654a088"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "25af6aa61294239e618145f26a6c18db",
+    "text": "Processing Your Claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "823652511917006e2fdd691c0f00f200",
+    "text": "Processing your claim usually takes four to six weeks to complete. After you file your claim, we request separation information from your previous employer(s), evaluate your previous wages, and review any additional income. When processing is complete, you will begin to receive your requested payment(s) if you qualify. You may also receive a Notice of Decision explaining why you will or will not receive a payment. You may appeal any decision you disagree with through an appeal process (opens in new window) . While Your Claim is Processing",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "Colorado.pdf",
+      "parent_id": "25af6aa61294239e618145f26a6c18db"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "244e2bedaea13972f2769518e4376290",
+    "text": "During the processing time frame, you may be sent notices regarding your claim. Communications will be based on your identified preference of either email or mail. The Division highly recommends email as it is recognized as the most timely delivery of documents. Check your email and/or mail, and respond to any requests for information by the due date. You must request payment every week and meet all eligibility requirements even while you wait for your claim to be processed. Your first request for payment will be on the Sunday immediately following the first week of your claim. Reopening Your Claim If you stopped requesting payment and need to reopen your claim, please do so in MyUI+. To avoid delays on your claim, you should reopen your claim as soon as you stop working or when you begin meeting all the eligibility requirements. If you have tried to reopen your claim online but need additional assistance, you may contact the Customer Service Center at 303-318-9000 or 1-800-388-5515 (outside Denver-metro area) during the hours of operation for claim-filing services. Overpayments An overpayment occurs when unemployment benefits are paid, and it is later determined that benefits should not have been paid (not eligible or entitled). You are required to repay these benefits no matter what caused the overpayment. Some of the common causes of overpayments include:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "Colorado.pdf",
+      "parent_id": "25af6aa61294239e618145f26a6c18db"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "492a1f3f598fc4b534410343967469af",
+    "text": "● A hearing officer's decision reverses a previous award of benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "Colorado.pdf",
+      "parent_id": "25af6aa61294239e618145f26a6c18db"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a7553bf8ca4b93b9bbfdce4ea0600fb1",
+    "text": "● You incorrectly report information when requesting payment and the information is corrected later.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "Colorado.pdf",
+      "parent_id": "25af6aa61294239e618145f26a6c18db"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2c61eefc1501a3ebfd7e5e44339e0e66",
+    "text": "● Your base period wages were incorrectly reported by your employer, and the wages are corrected later.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "Colorado.pdf",
+      "parent_id": "25af6aa61294239e618145f26a6c18db"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "07a608493935e107e39f891a7e31d10d",
+    "text": "● Your claim is incorrectly processed, and it is corrected later.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "Colorado.pdf",
+      "parent_id": "25af6aa61294239e618145f26a6c18db"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ca50b49e693e3bc410d5c9531f9bf0f1",
+    "text": "If you cannot repay the entire amount immediately, contact us to ask if you can setup a repayment plan at 303-318-9035 (Denver-metro area) or 1-877-464-4622 (outside Denver-metro area).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "Colorado.pdf",
+      "parent_id": "25af6aa61294239e618145f26a6c18db"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c370cdaff363d83b5ff7c403ce927572",
+    "text": "Mandatory Job Search Registration",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "72d22f53f8a80d3e0edeaeb116d4e882",
+    "text": "To receive UI benefits, you must either register in person at your local workforce center or online at Connecting Colorado (opens in new window) within one week of filing your claim for UI benefits. Report to a workforce center if you've received a notice to do so. If you are attached to a job or union hiring hall or meet other specific criteria, we will notify you of your exemption to register. Upon registering, review your contact information, skill sets, occupational goals, and other information to help the workforce center match you to job openings. Once you are prepared to apply for jobs, let us help you update your résumé and improve your interview skills.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "Colorado.pdf",
+      "parent_id": "c370cdaff363d83b5ff7c403ce927572"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d735260979da414428d9ba4cfc6fb58a",
+    "text": "Reemployment Services",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f8088ee875e4003242b968c645a40efa",
+    "text": "In addition to job search assistance, Connecting Colorado can assist you with resume writing, interviewing skills, labor market",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "Colorado.pdf",
+      "parent_id": "d735260979da414428d9ba4cfc6fb58a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4c77160a18ea5925ec5e45e58ad90410",
+    "text": "information, and more. Visit our website to find your local workforce center. Your local workforce center offers a variety of no-cost programs and services — including job leads and career resources — to help you get back to work faster. Additional Services to Assist You",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "Colorado.pdf",
+      "parent_id": "d735260979da414428d9ba4cfc6fb58a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d32b9d65b84e396426ab8f1dceb1f007",
+    "text": "● Training Programs - You may be eligible for training or education programs to help you upgrade your skills or complete a degree program. Visit the Jobs & Training page",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "Colorado.pdf",
+      "parent_id": "d735260979da414428d9ba4cfc6fb58a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8196ebfc99f837826f90318d75d940e6",
+    "text": "● (opens in new window)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "Colorado.pdf",
+      "parent_id": "d735260979da414428d9ba4cfc6fb58a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4baf23fbc242d56abfc1a60b50d719ff",
+    "text": "● to learn more about whether you might qualify.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "Colorado.pdf",
+      "parent_id": "d735260979da414428d9ba4cfc6fb58a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "521676e392c7147dbc668d37ab826b25",
+    "text": "● Veterans’ Assistance – We have employment assistance programs specifically designed for veterans. If you are a veteran, visit the Veterans page",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "Colorado.pdf",
+      "parent_id": "d735260979da414428d9ba4cfc6fb58a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "82691bb2b035dd4c471ac15c78d11850",
+    "text": "● (opens in new window)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "Colorado.pdf",
+      "parent_id": "d735260979da414428d9ba4cfc6fb58a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8c9407ccf64d842de950b6d4733fba7c",
+    "text": "● to get started.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "Colorado.pdf",
+      "parent_id": "d735260979da414428d9ba4cfc6fb58a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "82de785937a6b7bcbcda6411dbd7c4f7",
+    "text": "● Research - As a next step, evaluate your current industry and career path by checking labor market information on the Labor Market Information page",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "Colorado.pdf",
+      "parent_id": "d735260979da414428d9ba4cfc6fb58a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cb299ceb08d443eaae576214beb9e1b0",
+    "text": "● (opens in new window)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "Colorado.pdf",
+      "parent_id": "d735260979da414428d9ba4cfc6fb58a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "11a182d264f9211af2c4d48fbd6b8286",
+    "text": "● . Your local workforce center representatives can help you access career and salary trends in your area.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "Colorado.pdf",
+      "parent_id": "d735260979da414428d9ba4cfc6fb58a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5bb0fbe9ab91a4b0b3be5459c657a2cc",
+    "text": "When You Find a New Job",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c28e542f6c1e80868dd4163260277785",
+    "text": "After you start a new full-time job, you do not need to notify our office that you found work. Simply stop submitting the weekly claim certification to request UI benefit payments when you start your new job (even if you will not be paid for a week or more).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "Colorado.pdf",
+      "parent_id": "5bb0fbe9ab91a4b0b3be5459c657a2cc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0a2611e8518809ca9d68a83c5ce61943",
+    "text": "Should you start the new job in the middle of the week, be sure to report your earnings on your weekly claim. Do not request payment while you are working full-time, even if you have not been paid yet. Request payment only for any weeks you are unemployed or worked fewer than 32 hours. If you do work part of a week, report all hours and earnings before taxes (including any tips) in the week they were earned, not in the week they were paid. If you or your employer disagree with a decision regarding your UI claim, you each have the right to appeal. Appeals must be submitted within 20 days from the date the determination letter was mailed. If the 20th calendar day is a Saturday, Sunday, or legal holiday, the due date of the appeal becomes the next business day.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "52396fc2e03815110e43685f80cad0d4",
+    "text": "How to Submit an Appeal",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "154949a043dad84731c424c1ec2b6122",
+    "text": "You can submit your appeal through your MyUI+ account by going to \"View and Maintain Account Information,\" and then \"Issues and Determinations,\" and find the issue you want to appeal. We recommend submitting your appeal through MyUI+, as the appeal will be received and processed faster when you appeal directly in your MyUI+ account. All you need to provide initially is a detailed description of the reasons you disagree with the decision. You can provide additional documents or records (evidence) prior to your hearing.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "Colorado.pdf",
+      "parent_id": "52396fc2e03815110e43685f80cad0d4"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f8e5cfe501de9a3e2abe564cbe041edf",
+    "text": "You must continue to request payment every week and continue to meet all eligibility requirements",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "Colorado.pdf",
+      "parent_id": "52396fc2e03815110e43685f80cad0d4"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3136ecf8828dd0184fc4468eafad2693",
+    "text": "even while you wait for your appeal to be processed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5c70fae2e6f5d04eb53d372d940932f4",
+    "text": "If you are unable to file your appeal through MyUI+, you can complete the form on the back of the determination and mail or fax it to us. If you need more room to provide specific details, attach additional pages to the form or upload documents on our website. If you fax your appeal, the date on the fax will be used to determine if your appeal was received on time.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "Colorado.pdf",
+      "parent_id": "3136ecf8828dd0184fc4468eafad2693"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e9078f0b73e9856b90b89d3b1c3aa8cd",
+    "text": "You May Appeal",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "Colorado.pdf",
+      "parent_id": "3136ecf8828dd0184fc4468eafad2693"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e62cb537202ee47a13e0c0fc0a2c0a1e",
+    "text": "Web",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4bd58a5a9ec237fea6867a4975c33eb5",
+    "text": "You can submit your appeal online through MyUI+ (opens in new window)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "Colorado.pdf",
+      "parent_id": "e62cb537202ee47a13e0c0fc0a2c0a1e"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f1525f43623d8534b0b8e33effba33e8",
+    "text": "Mail",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "453f8c1cceb2960c451d1b4bc549febc",
+    "text": "Unemployment Appeals Section PO BOX 8988 Denver, CO 80201-8988",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "Colorado.pdf",
+      "parent_id": "f1525f43623d8534b0b8e33effba33e8"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e9dad14fd0fd0fe92f71e757856a727f",
+    "text": "Fax",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "079029bf429c2a04ffc79be01fa79bf3",
+    "text": "303-318-9014",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "Colorado.pdf",
+      "parent_id": "e9dad14fd0fd0fe92f71e757856a727f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2c6f0e6da957b1137093b6e075cb71cf",
+    "text": "Make sure to include the front and back of the determination.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "Colorado.pdf",
+      "parent_id": "e9dad14fd0fd0fe92f71e757856a727f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ebe3d60d53c3861ecfc2a499795d9bd1",
+    "text": "The Appeal Process",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "Colorado.pdf",
+      "parent_id": "e9dad14fd0fd0fe92f71e757856a727f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1a8529dd155baa0cf5d0ac136c92248b",
+    "text": "After your appeal is received, you will be sent a Notice of Hearing in the mail which will also be in your MyUI+ account in the Correspondences section. It will inform you of the date and time of your appeal hearing. You will be required to check in for your",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "Colorado.pdf",
+      "parent_id": "e9dad14fd0fd0fe92f71e757856a727f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fdf7a1d84bbe9ccf0c7fcfa6c9dcaf0c",
+    "text": "hearing no later than 2:00 p.m. the day before your scheduled hearing. If you do not check-in for the hearing, it will be dismissed. Instructions for this are included in the Notice of Hearing. You must participate in your hearing to protect your benefit rights. An impartial hearing officer is responsible for the appeal hearing. The hearing officer will issue a written decision that is available in your MyUI+ account in the Correspondences section and is mailed after the hearing to you and any other interested parties, such as your employer. If you disagree with a hearing officer's decision, you may appeal that decision to the Industrial Claim Appeals Office. Visit the Hearings page (opens in new window) for more information about appeals. More information about the hearing process, including what to do before the hearing and how to check in for your hearing, is available on the Appeals page (opens in new window) . Late Appeals Any written appeal received after the 20-calendar-day deadline is considered late. If you file your appeal late, send in a detailed reason for your late appeal before your scheduled hearing. The Appeals Unit will send you a hearing notice with a date and time for a hearing. At the beginning of the hearing, the other party may object to the late appeal. During the hearing, you must",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "Colorado.pdf",
+      "parent_id": "e9dad14fd0fd0fe92f71e757856a727f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "92ea54850e1ecc7cf472c1edb8be52ce",
+    "text": "explain in detail the reasons you filed the appeal late (this is called “showing good cause”). If the hearing officer determines that you do not have good cause for the late appeal, the hearing will be dismissed, and the deputy’s original decision will become final. In the event that your appeal is received more than 180 days late, a hearing will not be scheduled, the appeal will be dismissed, and the deputy’s decision will become final.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "Colorado.pdf",
+      "parent_id": "e9dad14fd0fd0fe92f71e757856a727f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cc08410c888ffebc9ac4ac13397e3833",
+    "text": "Remaining Eligible During Your Appeal",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "43c037aa191416926ca21335815a53ed",
+    "text": "To maintain your UI eligibility, continue to search for work, complete the weekly claim certification, and report any money you earned during the claim week while your appeal is pending. If the appeal is decided in your favor, you will only be paid for the weeks for which you met these requirements. Fraud is a serious crime. Detecting and preventing unemployment insurance fraud is a priority for our agency. Claims are audited regularly to ensure benefits are paid according to state and federal law.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "Colorado.pdf",
+      "parent_id": "cc08410c888ffebc9ac4ac13397e3833"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5674ab07a98b146fc5255b0f27a3fc35",
+    "text": "Examples of UI Fraud",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "57c9d6e5b47fc176092066b542969839",
+    "text": "There are different types of fraud, and can be committed by you or someone else, like a hacker.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2aced61d73980ef24d3f53c2ed1c72c1",
+    "text": "Failing to report money earned while collecting benefits. Being dishonest about why you are no longer working for a previous employer.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "Colorado.pdf",
+      "parent_id": "57c9d6e5b47fc176092066b542969839"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "25a2a3481d8f42349eb3cfb5fb9751ea",
+    "text": "Saying you are able and available when you are ill, traveling, or otherwise unable or unavailable to work. Reporting that you looked for work when you did not make valid work search efforts. Someone steals your identity and files a claim on your behalf. How to Avoid Committing Fraud Always tell the truth. If you intentionally make false statements or hide information to gain or maintain UI benefits, you are committing fraud. Report all hours worked and earnings if you work while requesting payment of unemployment benefits. Contact employers for new work and keep accurate records of your efforts. Tell us about any job you are offered but decide to turn down. Tell us right away when you stop working or separate from a job. When you request benefit payments, tell us any time you are unable and/or unavailable to work (for example, if you are ill or injured, out of the area, on vacation, incarcerated, etc.). Do not make false statements or be dishonest in order to receive or increase benefits. Do not use another person’s identity (e.g. name, social security number, address) to work or to file for unemployment benefits. Do not help someone to fraudulently file a UI claim or request payments. If you are confused about what you are supposed to do or report, call or email us for clarification at 303-318-9000 (Denver-metro area) or 1-800-388-5515 (outside Denver-metro area).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "Colorado.pdf",
+      "parent_id": "57c9d6e5b47fc176092066b542969839"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2bada0a197d4880bf33b66625cc81cf3",
+    "text": "How to Avoid Identity Theft",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "Colorado.pdf",
+      "parent_id": "57c9d6e5b47fc176092066b542969839"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2d7cd62628e42c7193d0ae3ebe05a87e",
+    "text": "Alongside the rise in unemployment insurance claims associated with COVID-19, states saw a corresponding rise in unemployment fraud, identity theft, phishing attacks, hijacked claims, and other scams targeting unemployment claimants. Below, you’ll find tips on how to protect yourself, as well as options to report suspected fraud, identity theft, or a compromised MyUI+ account. Here are some steps you can take to protect yourself against attempts to compromise your MyUI+ account and unemployment claim: Be careful about requests by phone, text, or email to share personally identifiable information such as your Social Security number, bank account numbers, PIN numbers, or account passwords. Scammers try to obtain personal information in order to file fraudulent claims or hijack your existing claim. Avoid clicking links in emails and text messages. CDLE will never send you a text message with a link to log into your MyUI+ account. If you click the link and/or communicate with the hacker, they can hijack your account, change your payment method, and steal your money. If you have filed an unemployment claim, verify that your address, phone number, email, and payment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "Colorado.pdf",
+      "parent_id": "57c9d6e5b47fc176092066b542969839"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "2531fa57a40b3ed22cc1ed1b7e7072bd",
+    "text": "method are correct and have not been altered before completing each weekly certification. Do not share your MyUI+ password with anyone. It is always a good idea to monitor your MyUI+ account and make sure your contact and bank information is correct.",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><thead><tr><th>method are correct and have not been altered before completing each weekly certification.</th></tr></thead><tbody><tr><td>not share your MyUl+ password with anyone. It is</td></tr><tr><td>always a good idea to monitor your MyUl+ account</td></tr><tr><td>and make sure your contact and bank information is</td></tr><tr><td>correct.</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3aef8c0f9d4e5a125e8bb8e60c026688",
+    "text": "How to Report Suspected Fraud/Identity Theft",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b203d64098cf6c26f87a880a8a7a2bce",
+    "text": "Please report suspected cases of fraud and identity theft on the Report Fraud page",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Report Fraud page",
+          "url": "https://cdle.colorado.gov/unemployment/report-fraud",
+          "start_index": 66
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "Colorado.pdf",
+      "parent_id": "3aef8c0f9d4e5a125e8bb8e60c026688"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0faf80eef6eb57a060ed3d126c5b1a02",
+    "text": "(opens in new window)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "Colorado.pdf",
+      "parent_id": "3aef8c0f9d4e5a125e8bb8e60c026688"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "534927896079a72b9fce6d206ff8a742",
+    "text": ".",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "Colorado.pdf",
+      "parent_id": "3aef8c0f9d4e5a125e8bb8e60c026688"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e09f656caa41c7cea039bd0bd5647468",
+    "text": "Additionally, there are several recommended steps to follow:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7e11ab895df61f0940e3dbb7f41ff2e0",
+    "text": "● If you use the debit card for unemployment payments, follow the instructions on the US Bank ReliaCard page",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "US Bank ReliaCard page",
+          "url": "https://www.usbankreliacard.com/web/usbankreliacard/login",
+          "start_index": 88
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "Colorado.pdf",
+      "parent_id": "e09f656caa41c7cea039bd0bd5647468"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4e2a413b9c8a6d57317baea11e36fc7d",
+    "text": "● (opens in new window)",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "( opens in new window )",
+          "url": "https://www.usbankreliacard.com/web/usbankreliacard/login",
+          "start_index": 3
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "Colorado.pdf",
+      "parent_id": "e09f656caa41c7cea039bd0bd5647468"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c7905b8da858186eae28ae6fcdf00e1a",
+    "text": "● or contact U.S. Bank immediately at 1-855-282-6161. Tell them that a fraudulent unemployment claim was filed using your information, and ask them to deactivate the card.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "Colorado.pdf",
+      "parent_id": "e09f656caa41c7cea039bd0bd5647468"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e8bf7c5a0a2cf6d49338ebe7accc4312",
+    "text": "● Contact the three consumer credit bureaus and put a fraud alert on your name and Social Security number (SSN). It may be an automated system, so you may not talk to a live person and you will have to enter your SSN and date of birth.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "Colorado.pdf",
+      "parent_id": "e09f656caa41c7cea039bd0bd5647468"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "77c6dbfd661559e88c5ed36eadbdeecb",
+    "text": "Credit Bureau Contact Info:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "20af980e15a6a32dede9e2d1976bcfcd",
+    "text": "Equifax: 1-800-525-6285 Experian: 1-888-397-3742 TransUnion: 1-800-680-7289",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6c9c6f1a430a928528674e10ba52b0e9",
+    "text": "Penalties for UI Fraud",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0107794671fb851bf35b687bb56cb73e",
+    "text": "Penalties for fraud can include:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "Colorado.pdf",
+      "parent_id": "6c9c6f1a430a928528674e10ba52b0e9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7864fa6aee0dafc4f990bb84438f344a",
+    "text": "Repayment of all UI benefits that you were not eligible to receive.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "Colorado.pdf",
+      "parent_id": "6c9c6f1a430a928528674e10ba52b0e9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e8332ab310c07af733f1a5b6cbc13102",
+    "text": "A 65% monetary penalty fee and interest on top of the benefits you should not have received.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "Colorado.pdf",
+      "parent_id": "6c9c6f1a430a928528674e10ba52b0e9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5e9da694966d6f33ef4b56cc6e7b6e3b",
+    "text": "Disqualification from receiving future benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "Colorado.pdf",
+      "parent_id": "6c9c6f1a430a928528674e10ba52b0e9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "285ced91c5385d444f12f492135d8967",
+    "text": "Being convicted of a crime in state and/or federal court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "Colorado.pdf",
+      "parent_id": "6c9c6f1a430a928528674e10ba52b0e9"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "682a5b86655b81228f2b1659f1584c63",
+    "text": "What We Do to Stop UI Fraud",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "Colorado.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ec311e066dfd1a68b708a6a635483a2a",
+    "text": "These are just some of the ways we identify people who are committing fraud:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "Colorado.pdf",
+      "parent_id": "682a5b86655b81228f2b1659f1584c63"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a490c2f565820e569c9c7111e81b5732",
+    "text": "Enhanced security measures, including identity verification for all new claims, reopened claims and some claim information changes.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "Colorado.pdf",
+      "parent_id": "682a5b86655b81228f2b1659f1584c63"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "595ed259e0f68e1028a18ebadf805e61",
+    "text": "Comparing earnings reported by workers and their employers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "Colorado.pdf",
+      "parent_id": "682a5b86655b81228f2b1659f1584c63"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "39f2ac5020f018f6775eede8f1e6d343",
+    "text": "Auditing claims.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "Colorado.pdf",
+      "parent_id": "682a5b86655b81228f2b1659f1584c63"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "816540fe3010a947718b2366b3e7919d",
+    "text": "Checking state and national databases of recently hired individuals to make sure people are not collecting UI benefits after they start working again.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "Colorado.pdf",
+      "parent_id": "682a5b86655b81228f2b1659f1584c63"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "24a0dbd2bd520a481bc52c443db90d7a",
+    "text": "Verifying job search contacts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "Colorado.pdf",
+      "parent_id": "682a5b86655b81228f2b1659f1584c63"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0c157797674613797b3430bf76ae717b",
+    "text": "Reviewing union attached status.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "Colorado.pdf",
+      "parent_id": "682a5b86655b81228f2b1659f1584c63"
+    }
+  }
+]

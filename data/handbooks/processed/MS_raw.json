@@ -1,0 +1,662 @@
+[
+  {
+    "type": "Title",
+    "element_id": "17a09964956ff549e225b0e3e3736e9e",
+    "text": "UI Claimant Handbook",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bc0bc7cafabd6c229804a8c0f1affa86",
+    "text": "Identification",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0518be7fc8faf92e3db057c923fb8934",
+    "text": "Identification is required when filing a claim. Examples include: Driver’s License, State Issued picture ID, Social Security Card, Military ID, Birth Certificate or any unexpired forms of ID Verification acceptable for E-Verify.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missipipi.pdf",
+      "parent_id": "bc0bc7cafabd6c229804a8c0f1affa86"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "09c2a1edbc165f31d4a44f9eae8b8853",
+    "text": "Privacy Act Statement",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e9a20b27f791b0254cb470391ddfe58d",
+    "text": "The Privacy Act of 1974 requires that you be furnished this statement because you are being asked to furnish your Social Security account number for claims purposes. Your Social Security number is solicited under the authority of the Internal Revenue Code of 1954 [26 U.S.C. 85, 6011(a), 6050B, and 6109(a)]. Disclosure of your Social Security number for this purpose is mandatory, and must be entered on all state, interstate, and Federal UI claim forms. Your Social Security number will be used to report your unemployment insurance to the Internal Revenue Service as income that is taxable. Your Social Security number will also be used as a record index for processing your claim, for statistical purposes, and to verify your eligibility for unemployment insurance and other public assistance benefits. Information concerning your claim may be requested and utilized by other agencies to verify income and eligibility pursuant to “Income and Eligibility Verification System” of the Deficit Reduction Act of 1984, Public Law 98-369.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missipipi.pdf",
+      "parent_id": "09c2a1edbc165f31d4a44f9eae8b8853"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0129d43d680963cc4709ffa2db960bfb",
+    "text": "Unemployment Insurance Statement",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9a9f411e6d56a33da0b1d1ee656114e9",
+    "text": "In Mississippi, the EMPLOYER pays the cost of Unemployment Insurance. The worker pays no part of it. Unemployment Insurance is not Old Age Insurance, Welfare, Relief, Sick or Disability Insurance, or Vacation Pay. Unemployment Insurance is a program designed to provide income to those unemployed due to no fault of their own.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missipipi.pdf",
+      "parent_id": "0129d43d680963cc4709ffa2db960bfb"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d5d15bb925fca7b46449150492186580",
+    "text": "The amount of your unemployment insurance is determined by the amount of wages in your base period. The base period is the first four of the last five completed calendar quarters prior to the effective date of your claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missipipi.pdf",
+      "parent_id": "0129d43d680963cc4709ffa2db960bfb"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "85a6c94ae1047da5a619df795a4e1cf6",
+    "text": "TO QUALIFY MONETARILY; YOU",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "435d731b00f49ac7302789430f160921",
+    "text": "1Must have worked in at least two quarters of your base period, 2Must have earned at least $780 in the highest quarter, and 3Must have earned forty times your weekly benefit amount in your base period.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missipipi.pdf",
+      "parent_id": "85a6c94ae1047da5a619df795a4e1cf6"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "070c303384308889b9763e7c02fd2e8a",
+    "text": "YOU MUST REPORT: All work Any offer of work Illness or disability Change of address Receipt of pension or retirement pay All earnings during the week worked, even if you have not been paid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missipipi.pdf",
+      "parent_id": "85a6c94ae1047da5a619df795a4e1cf6"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "727980e18830d537b2c1c793c08da275",
+    "text": "NOTE: You must also file a weekly claim, and certify weekly as to your eligibility. If you are working for an employer less than full time because of lack of work and your earnings are less than your weekly benefit amount plus $40.00, you may be eligible for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c324c227f98c649714d3fb06466157fb",
+    "text": "II. While filing weekly claims for benefits, you will periodically be scheduled to report to your local WIN Job Center for reemployment services appointments. You should report to all appointments as scheduled unless you have returned to full time work. Failure to report for scheduled reemployment services appointments could result in a delay or denial of your benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "WIN Job Center",
+          "url": "https://mdes.ms.gov/win-job-centers/",
+          "start_index": 11
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "30826d9b2eae8bfd8c66a5eb2959ef9f",
+    "text": "III. Make an active search for work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7ad8b35dca27a45d4f95c9e081b25d30",
+    "text": "IV. Notify the call center if you change your address.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1a44febe8f5ec51945c88389c716c157",
+    "text": "DISQUALIFICATIONS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d553a3641d56c7b9bbece12d67697580",
+    "text": "Although you may meet all of the requirements that have been outlined, your benefits may be delayed or denied if:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missipipi.pdf",
+      "parent_id": "1a44febe8f5ec51945c88389c716c157"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "db8d17aac06e2e150c56f2def8368723",
+    "text": "You left work without good cause under the Law .",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missipipi.pdf",
+      "parent_id": "1a44febe8f5ec51945c88389c716c157"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "471fb5e1ce0310c9c08037f23abc7d9d",
+    "text": "You are discharged for misconduct connected with your work. The definition of misconduct' as held by the Mississippi Supreme Court is shown below:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missipipi.pdf",
+      "parent_id": "1a44febe8f5ec51945c88389c716c157"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c52032addec515c8f82e72513a07029f",
+    "text": "\"The meaning of the term 'misconduct', as used in the unemployment compensation statute, is conduct evidencing such willful and wanton disregard of the employer's interest as is found in deliberate violations or disregard of the standards of behavior which the employer has the right to expect from his employees. Also, carelessness and negligence of such degree, or recurrence thereof, as to manifest culpability, wrongful intent or evil design, and showing an intentional or substantial disregard of the employer's interest or of the employee's duties and obligations to his employer, came within the term. Mere inefficiency, unsatisfactory conduct, failure in good performance as the result of inability or incapacity, or inadvertencies and ordinary negligence in isolated incidents, and good faith errors in judgment or discretion were not considered 'misconduct' within the meaning of the statute.\"",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missipipi.pdf",
+      "parent_id": "1a44febe8f5ec51945c88389c716c157"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eb6e81099534ef33604542f4abfcba2b",
+    "text": "An employee shall not be found guilty of misconduct for the violation of a rule unless:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missipipi.pdf",
+      "parent_id": "1a44febe8f5ec51945c88389c716c157"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ec2bff56f2ee107937bebcb6a4592936",
+    "text": "1The employee knew or should have known of the rule. 2The rule was lawful and reasonably related to the job environment and job performance. 3The rule is fairly and consistently enforced.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missipipi.pdf",
+      "parent_id": "1a44febe8f5ec51945c88389c716c157"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b806c2136674fa05bc5e91557ed4b975",
+    "text": "An individual who was discharged for misconduct connected with his work is disqualified until he has been reemployed and earned eight times his weekly benefit amount in covered employment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missipipi.pdf",
+      "parent_id": "1a44febe8f5ec51945c88389c716c157"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c07c1a9df1d3de4fae27f25412f7d0f6",
+    "text": "Individuals may also see their benefit payment reduced or denied for the following reasons:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "58a17b109e5cb6ca34e69af0bac6d774",
+    "text": "● You fail to apply for or accept suitable employment,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b0955174cbe1a7617ea47338b180da46",
+    "text": "● You are unemployed because of a labor dispute,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7d158eb4faf8d58dc1f842bc34089aad",
+    "text": "● You are receiving a pension toward which a base period employer contributed, or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "00171f6d318879c19dfc1cc5060c314f",
+    "text": "● You are receiving or seeking unemployment benefits from another State.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1ba90f5fd8e47e1a3770d072eebd1aed",
+    "text": "RIGHT TO APPEAL:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d526c8b3a89a6c435870dadb6bb37c1a",
+    "text": "A claimant or an employer affected by a decision of the agency can appeal the denial of benefits, or the award of benefits. The adversely affected party can appeal an initial determination, or an amended determination. Your appeal must be filed within fourteen (14) calendar days of the mail date on the decision. You may file an appeal by contacting the MDES Call Center, or mail in a written request to MDES, Appeals Department, P.O. Box 1699, Jackson, MS 39215-1699.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Missipipi.pdf",
+      "parent_id": "1ba90f5fd8e47e1a3770d072eebd1aed"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1ead54c65f0c042fe09c89c16dc64ba2",
+    "text": "FRAUDULENT CLAIM",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "050f71d0dfb09b268ff11fbae34803eb",
+    "text": "Anyone making a false statement or withholding facts to increase or obtain benefits to which he is not entitled is guilty of a misdemeanor punishable by fine or imprisonment, or both. If you receive benefits to which you are not entitled, you will be liable for repayment of such amount. Any overpayment of benefits, if not repaid, will be recorded and any future benefits you are entitled to receive will be used to offset this overpayment. The overpayment amount to be repaid will be the gross amount prior to deductions (e.g. income tax, child support, etc.). A disqualification of up to 52 weeks could be assessed",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Missipipi.pdf",
+      "parent_id": "1ead54c65f0c042fe09c89c16dc64ba2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b9d5f3a734ee801971864afef1134981",
+    "text": "for filing fraudulent claims. Also, the issuance of a collection warrant and garnishment of future wages may be done in order to recover overpayments.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Missipipi.pdf",
+      "parent_id": "1ead54c65f0c042fe09c89c16dc64ba2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5c2716fd886fda6c9a3a134c259842a4",
+    "text": "A computerized cross match of both benefits paid and employer wage records is made each quarter to determine if work is done and earnings are reported. This includes wages earned outside the State of Mississippi.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Missipipi.pdf",
+      "parent_id": "1ead54c65f0c042fe09c89c16dc64ba2"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d71f4327b2dc0f3e207bff60eaede2ab",
+    "text": "Trade Readjustment Allowances (TRA)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ec4c00d6c2ede1ee21a4967e6a989d69",
+    "text": "Trade Readjustment Allowances (TRA) is a provision under the Trade Act of 1974, Trade Adjustment Assistance (TAA) program. This program provides for compensation and/or training to persons unemployed or underemployed due to increased activity of foreign imports. Recipients of TRA benefits may be required to participate in training. If you feel you may be eligible for benefits and services offered by the TRADE ACT OF 1974, you may obtain a petition from the nearest WIN Job Center. Services offered, and time limitation under, the Trade Act of 1974 include:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Missipipi.pdf",
+      "parent_id": "d71f4327b2dc0f3e207bff60eaede2ab"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "541bac65799f46c1836771d098a016d4",
+    "text": "1. TRAINING: Workers must enroll in training within 16 weeks after separation from adversely affected employment or within 8 weeks after the date of certification. To receive additional TRA benefits the worker must apply for training within 210 days after the date of certification or after the date of the worker's total or partial separation from the affected employer.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Missipipi.pdf",
+      "parent_id": "d71f4327b2dc0f3e207bff60eaede2ab"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "963abcab0dbae2906022d31d3259f391",
+    "text": "2. RELOCATION ALLOWANCE: (a) Must be submitted within 425 days of the certification or the individual's last separation or (b) before the 182nd day after the concluding training.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Missipipi.pdf",
+      "parent_id": "d71f4327b2dc0f3e207bff60eaede2ab"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7a5fd1864d54165ca7f1248d638f4564",
+    "text": "3. RELOCATION MOVE: Shall expire 182 days after the date of application for a Relocation Allowance or 182 days after the conclusion of training approved under the Trade Act.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Missipipi.pdf",
+      "parent_id": "d71f4327b2dc0f3e207bff60eaede2ab"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a261fc2383ee652948183cfea3bfc8d5",
+    "text": "4. JOB SEARCH ALLOWANCE: May be approved only if submitted before the 365th day after the date of certification, or the 365th day after the worker's last total separation (whichever is later) or the 182nd day after the conclusion of training approved under the Trade Act.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Missipipi.pdf",
+      "parent_id": "d71f4327b2dc0f3e207bff60eaede2ab"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dd5604c5165f299d0e6f29de7f04bed2",
+    "text": "5. HEALTH COVERAGE TAX CREDIT: You must be eligible to receive TRA or ATAA benefits and be enrolled in a qualified health plan to receive an advance tax credit to help pay for monthly health plan premiums as they become due, or to receive a lump sum tax credit when filing your federal tax return.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1281bf5737a13df5452a815dc7d4ad65",
+    "text": "6. ALTERNATIVE TRADE ADJUSTMENT ASSISTANCE (ATAA): Certified workers who meet certain age and other requirements and for whom retraining may not be appropriate may be eligible for a wage subsidy to bridge the gap between their old and new employment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5a5efd3c2d03f705243f1e79159357c4",
+    "text": "TAX INFORMATION –",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d759a7dbe1a210b6e0c7c2f94b3035be",
+    "text": "YOUR UNEMPLOYMENT INSURANCE BENEFITS ARE TAXABLE",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Missipipi.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3085e3f59d44f9d608b0f4f695c01a96",
+    "text": "The Tax Reform Act of 1986 has made Unemployment Insurance benefits fully taxable. You will be furnished a statement, Form 1099-G or the equivalent, at the end of the year of benefits paid to you. The Internal Revenue Service will be given the same information. Please keep MDES informed of your correct address even after your benefits are exhausted. The law requires you to pay 90% of your tax for the year through withholding or quarterly estimated tax payments. Effective January 1, 1997, you may choose to have 10% of your unemployment payment withheld for Federal Income Tax. The tax will be deducted after other required deductions are made (earnings, overpayments, pensions, child support payments). You will be permitted to change a previously selected option by reporting to your Unemployment Insurance office.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Missipipi.pdf",
+      "parent_id": "d759a7dbe1a210b6e0c7c2f94b3035be"
+    }
+  }
+]

@@ -1,0 +1,905 @@
+[
+  {
+    "section_id": "OR-0",
+    "content": "__________",
+    "metadata": {
+      "page_number": 1
+    }
+  },
+  {
+    "section_id": "OR-1",
+    "content": "- —_ —\nA guide to your benefits\nof O p ont Department",
+    "metadata": {
+      "section_title": "UNEMPLOYMENT INSURANCE CLAIMANT HANDBOOK",
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "OR-2",
+    "content": "About the Unemployment Insurance Claimant Handbook .......................................................................... 1 Purpose of the handbook ................................................................................................................. 1 Contact information .......................................................................................................................... 1 Language assistance ....................................................................................................................... 1 Overview of benefits ................................................................................................................................... 2 Benefits from the Unemployment Insurance Program ..................................................................... 2 Funding benefits from the Unemployment Insurance Program ....................................................... 2 We are here to help you ................................................................................................................... 2 For fastest service, use Frances Online at frances.oregon.gov ............................................. 3 Eligibility for benefits ................................................................................................................................... 6 Qualifying for benefits ...................................................................................................................... 6 Identity verification ................................................................................................................. 7 Reporting separations from work............................................................................................ 8 Adjudication ............................................................................................................................ 9 Amount of benefits .................................................................................................................................... 10 Options for receiving unemployment benefit payments ................................................................. 10 After you have filed a claim .............................................................................................................11 Deductions ......................................................................................................................................11 Retirement income ................................................................................................................11 Child support .........................................................................................................................11 Other earnings ...................................................................................................................... 12 Money owed ......................................................................................................................... 12 Taxes .................................................................................................................................... 12 Maintaining your eligibility for benefits ...................................................................................................... 13 Seeking work ................................................................................................................................. 13 Qualifying work-search activities .......................................................................................... 13 Invalid work-search activities ................................................................................................ 13 Reporting your search for work ...................................................................................................... 14 Completing a weekly claim for benefits ................................................................................ 15 When to file your weekly claim for benefits .......................................................................... 16 How to file your weekly claim for benefits online .................................................................. 16 By phone through our interactive voice response (IVR) system........................................... 16 Weekly claim for benefits questions ............................................................................................... 17 Reporting earnings ........................................................................................................................ 19 When to report earnings ....................................................................................................... 19",
+    "metadata": {
+      "section_title": "Table of Contents",
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "OR-3",
+    "content": "................................................................................................ 19\nWhat earnings to report ........................................................................................................ 20 How to calculate gross earnings........................................................................................... 20 Denial of benefits .................................................................................................................. 20 Getting you back to work .......................................................................................................................... 23 Mandatory job search registration and reemployment services..................................................... 24 Additional services ............................................................................................................... 24 When you find a new job ............................................................................................................... 25 Unemployment benefit fraud .................................................................................................................... 26 Examples of unemployment benefit fraud...................................................................................... 26 To avoid committing fraud .............................................................................................................. 26 Penalties for unemployment benefit fraud ..................................................................................... 26 What the Oregon Employment Department does to stop unemployment benefit fraud ................. 26 Appeal rights ............................................................................................................................................. 28 Request a hearing ......................................................................................................................... 28 Necessary information ................................................................................................................... 29 Appendix ............................................................................................................................................. 30 Appendix A - Legal disclosures ...................................................................................................... 30 Equal opportunity information ............................................................................................... 30 What to do if you experience discrimination ......................................................................... 30 Accommodations for individuals with disabilities .................................................................. 31 Your privacy matters ............................................................................................................. 31 Appendix B – Glossary .................................................................................................................. 32 Appendix C – Sample work-search log .......................................................................................... 39 Appendix D – Sample work-search plan ........................................................................................ 40",
+    "metadata": {
+      "section_title": "Table of Contents",
+      "page_number": 3
+    }
+  },
+  {
+    "section_id": "OR-4",
+    "content": "You must verify your identity to receive benefits from the Unemployment Insurance Program. We may require identity verification at several points during your claim.\nWe have multiple ways to verify your identity to make sure that only you have access to your information and benefits. We use several tools to protect your information and your benefits while also preventing fraud. Learn more at unemployment.oregon.gov/verify-identity.",
+    "metadata": {
+      "section_title": "Identity verification",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "OR-5",
+    "content": "This information is vital. The Oregon Employment Department (OED) is an equal opportunity agency. OED provides free help so you can use our services. Some examples are sign language and spoken-language interpreters, written materials in other languages, large print, audio, and other formats. To get help, please go to unemployment.oregon.gov and click on Contact Us or call us at 877-345-3484. TTY users call 711.",
+    "metadata": {
+      "section_title": "Need help?",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "OR-6",
+    "content": "Esta información es vital. El Departamento de Empleo de Oregon (OED) es una agencia de igualdad de oportunidades. El OED proporciona ayuda gratuita para que usted pueda utilizar nuestros servicios. Algunos ejemplos son intérpretes de lengua de señas e idiomas hablados, materiales escritos en otros idiomas, letra grande, audio y otros formatos. Para obtener ayuda, vaya a unemployment.oregon.gov/es y haga clic en Contacto o llámenos al 877-345-3484. Usuarios de TTY pueden llamar al 711.",
+    "metadata": {
+      "section_title": "¿Necesita ayuda?",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "OR-7",
+    "content": "Далее приведена чрезвычайно важная информация. Управление занятости штата Орегон (OED) является агентством по обеспечению равных возможностей. Управление занятости штата Орегон (OED) оказывает бесплатную помощь, чтобы вы могли воспользоваться нашими услугами. В качестве примера можно привести услуги сурдо- и устных переводчиков, предоставление письменных материалов на других языках, материалов с использованием крупного шрифта, а также материалов в аудио- и других форматах. Чтобы получить помощь, перейдите на веб- сайтunemployment.oregon.gov/ru и нажмите Связаться с нами или позвоните нам по телефону 877-345-3484. Пользователи телетайпа могут позвонить по номеру 711.",
+    "metadata": {
+      "section_title": "Нужна помощь?",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "OR-8",
+    "content": "Thông tin này rất quan trọng. Cơ quan Việc làm của Tiểu bang Oregon (Oregon Employment Department, OED) là một cơ quan cung cấp cơ hội công bằng. OED cung cấp trợ giúp miễn phí để quý vị có thể sử dụng các dịch vụ của chúng tôi. Trong đó bao gồm thông dịch viên ngôn ngữ ký hiệu và ngôn ngữ nói, các tài liệu bằng văn bản với các ngôn ngữ khác, bản in khổ lớn, âm thanh và các định dạng khác. Để được trợ giúp, vui lòng truy cập unemployment.oregon.gov/vi và nhấp vào Liên hệ chúng tôi hoặc gọi cho chúng tôi theo số 877-345-3484. Người dùng TTY xin gọi 711.",
+    "metadata": {
+      "section_title": "Cần trợ giúp?",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "OR-9",
+    "content": "这条信息至关重要。“Oregon州就业部 (OED)”是一个提供均等机 会的机构。OED提供免费帮助，便于您使用我们的服务。服务内容 示例包括手语和口语翻译、其他语种的书面材料、大字体、音频以 及其他格式文档。如需帮助，请访问\nunemployment.oregon.gov/zh，并点击 联系我们或者致电877-345- 3484。TTY用户请拨打711。",
+    "metadata": {
+      "section_title": "需要帮助？",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "OR-10",
+    "content": "這條消息至關重要。「Oregon州就業部 (OED)」是壹個提供均等機 會的機構。OED提供免費幫助，便於您使用我們的服務。服務內容 示例包括手語和口語翻譯、其他語種的書面材料、大字體、音頻和 其他格式文檔。如需幫助，請訪問 unemployment.oregon.gov/tw， 並點擊 聯繫我們，或者致電877-345-3484聯繫我們。TTY用戶請撥 打711。",
+    "metadata": {
+      "section_title": "需要幫助？",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "OR-11",
+    "content": "نوغيروأ ةيلاو فيظوت ةرادإ .ةيرورض تامولعملا هذه OED مدقت .صرفلا ةئفاكتم ةلاكو ) Oregon Employment Department (OED) ( ةغلل نييروف نيمجرتم ةلثملأا ضعب لمشت .انتامدخ مادختسا كنكمي ثيحب ةيناجم ةدعاسم ةيتوص تافلمو طخلا ةريبك تاعوبطمو ىرخأ تاغلب ةبوتكم داومو ةقوطنملا تاغللاو ةراشلإا ىلإ باهذلا ىجرُي ،ةدعاسم ىلع لوصحلل .ىرخأ غيصو -877 مقرلا ىلع انب لصتا وأ انب لصتا قوف رقنلاو unemployment.oregon.gov/ar 711 . مقرلا ىلع يصنلا فتاهلا ومدختسم لصتي . -345 3484",
+    "metadata": {
+      "section_title": "؟ةدعاسملا ىلإ جاتحت له",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "OR-12",
+    "content": "이 정보는 필수적입니다. 오레곤 주 고용부(OED)는 기회균등 기관입니다. OED는 서비스를 이용할 수 있도록 무료로 도움을 제공합니다. 일부 예시로는 수화, 통역 서비스, 다른 언어 번역 서비스, 큰 활자, 오디오 및 기타 형식의 자료 제공 서비스 등이 있습니다. 도움이 필요하시면, unemployment.oregon.gov/ko에 접속해 연락 취하기를 클릭하거나 877-345-3484로 연락주시기 바랍니다. TTY 사용자는 711로 연락주십시오.",
+    "metadata": {
+      "section_title": "도움이 필요하시나요?",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "OR-13",
+    "content": "ໍ້ ສ ຳຄັ ນຫຼ ຳຍ. ກົ ມຈັ ດງງານແຫ່ງລັ ດອໍ ຣີ ກອນ (OED) ໍ້ ມູນນ ຂ ຄື ໜ່ວຍງານໃຫ້ໂອກາດຢ່າງເທົ ່ າທຽມກັ ນ. OED ຈັ ດໃຫ້ມີ ການຊ່ວຍເຫ ່ ບໍ ່ ເສຍຄ່າ ື ອທີ ່ ອວ່າທ່ານຈະສາມາດໃຊ້ບໍ ລິ ການຂອງພວກເຮົ າ. ເພື ບາງຕົ ວຢ່າງແມ່ນລ່າມແປພາສາມື ແລະ ພາສາເວົ ້ າ, ້ ອຫາລາຍລັ ກອັ ກສອນເປັ ນພາສາອື ເນື ່ ນໆ, ແບບພິ ມໃຫຍ່, ສຽງ ແລະ ຮູບແບບອື ່ ນໆ. ເພື ່ ອຮັ ບການຊ່ວຍເຫ ື ອ, ກະລຸນາເຂົ ້ າເບິ ່ ງ unemployment.oregon.gov/lo ແລະ ຄລິ ກໃສ່ ຕິ ດຕໍ ່ ພວກເຮົ າ ຫ ື ໂທຫາພວກເຮົ າທີ ່ ໝາຍເລກ 877-345-3484. ຜູ ້ໃຊ້ TTY ໂທ 711.",
+    "metadata": {
+      "section_title": "ຕ້ອງການຊ່ວຍເຫ ຼື ອບໍ ?",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "OR-14",
+    "content": "ይህ መረጃ አስፈላጊ ነው። የኦሬጎን የቅጥር መምሪያ (The Oregon Employment Department, OED) የእኩል እድል ኤጀንሲ ነው። አገልግሎቶቻችንን መጠቀም እንዲችሉ OED ነፃ እገዛን ይሰጣል። አንዳንድ ምሳሌዎች የምልክት ቋንቋ እና የንግግር ቋንቋ አስተርጓሚዎች፣ በሌሎች ቋንቋዎች የተጻፉ ጽሑፎች፣ ትልቅ ህትመት፣ ኦዲዮ እና ሌሎች ቅርጸቶች ናቸው። እገዛ ለማግኘት፣ እባክዎ ወደ unemployment.oregon.gov/am ይሂዱ እና ያግኙን ቅጽ የሚለውን ጠቅ ያድርጉ ወይም በ 877-345-3484 ይደውሉልን። የTTY ተጠቃሚዎች 711 ይደውላሉ።\nي ؟د ني زا راد یي امنهار و کمک هب\nی مادختسا ربارب ی اه تصرف اب سناژآ ک ي ،ناگروا راک هرادا نيا .تسا یرورض تاعلاطا هدافتسا ام تامدخ زا ي د ناوتب ات دهد ی م هئارا ناگ ي ار کمک امش هب ،ناگروا راک هرادا ۰ تسا بلاطم و تا ي رشن ، فلتخم ی اهنابز ی ارب مجرتم و هراشا نابز : لاثم ناونع هب نکي د۰ اهبلاق ی دويرگ توص تروص هب ، تشرد فورح اب پاچ ،رگ اه ی دي نابز هب ی راتشون اب سامت ی « ور و ي د ورب ی ذي ل تنرتن ي ت اي اس هب کمک تفا ی ردي ارب ًافطل ۰ ی فلتخم اهتمرفو اونش مک ي ا اونشان دارفا . يري د گب سامت ۳۴۵ ۸۷۷ ۳۴۸۴ نفلت هرامش اب ام» لک يک نکي د۰ ،ي ا دنر۰ ي گب سامت ۷۱۱ هرامش اب دنناوت مي\nunemployment.oregon.gov/fa",
+    "metadata": {
+      "section_title": "እርዳታ ይፈልጋሉ?",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "OR-15",
+    "content": "Macluumaadkani waa mid aad u muhiim ah. Waaxda Shaqaalaynta ee Oregon (The Oregon Employment Department, OED) waa wakaalad leh fursad loo siman yahay. OED waxay ku siineysaa caawimo bilaash ah si aad u isticmaasho adeegyadeena. Tusaalooyinka qaarkood waa luqadda dhegoolaha iyo tarjumaannada luuqada lagu hadlo, agab ku qoran afaf kale, far waaweyn, maqal iyo qaabab kale. Si aad caawimo u hesho, fadlan ku dhufo unemployment.oregon.gov/so oo guji Nala Soo xiriir ama naga soo wac 877-345-3484. Isticmaalayaasha TTY waca 711.",
+    "metadata": {
+      "section_title": "Ma u baahan tahay caawimaad?",
+      "page_number": 5
+    }
+  },
+  {
+    "section_id": "OR-16",
+    "content": "This handbook provides important information about benefits from the Unemployment Insurance Program. You must read and understand the information in this document. If you do not understand or you have questions, please contact our agency for help.",
+    "metadata": {
+      "section_title": "Purpose of the handbook",
+      "page_number": 5
+    }
+  },
+  {
+    "section_id": "OR-17",
+    "content": "There are many ways to contact the UI Contact Center:",
+    "metadata": {
+      "section_title": "Contact information",
+      "page_number": 5
+    }
+  },
+  {
+    "section_id": "OR-18",
+    "content": "Log into Frances Online at frances.oregon.gov and use “Send a Message” for the fastest response.\n@\nS",
+    "metadata": {
+      "section_title": "Use Frances Online…",
+      "page_number": 5
+    }
+  },
+  {
+    "section_id": "OR-19",
+    "content": "Visit unemployment.oregon.gov and click the “Contact Us” button in the upper right hand corner or go to unemployment.oregon.gov/contact.",
+    "metadata": {
+      "section_title": "Go to our website...",
+      "page_number": 5
+    }
+  },
+  {
+    "section_id": "OR-20",
+    "content": "Toll free: 877-345-3484 or 877-File-4-UI",
+    "metadata": {
+      "section_title": "Call us...",
+      "page_number": 5
+    }
+  },
+  {
+    "section_id": "OR-21",
+    "content": "Free services are available to assist you if you do not speak English. We have bilingual staff who speak Spanish, Russian, and Vietnamese. If another language is needed, call and ask for an interpreter.\nYou may also email us at language@employ.oregon.gov. Please give your name, phone number and preferred language. We will call you back with an interpreter. DO NOT provide your Social Security Number (SSN) in the email.\nTTY Relay Service – 711 or TMobileIPRelay.com\nYou can listen to an audio version of the handbook on YouTube.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 1 of 40",
+    "metadata": {
+      "section_title": "Language assistance",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "OR-22",
+    "content": "States administer federal benefits from the Unemployment Insurance Program for workers who become unemployed through no fault of their own. Through the program, workers receive temporary income. They must meet all other weekly eligibility requirements.\nBenefits are not available to all workers. Workers who quit or were fired from their job for misconduct may or may not qualify for benefits. We review claims on a case-by-case basis.",
+    "metadata": {
+      "section_title": "Benefits from the Unemployment Insurance Program",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "OR-23",
+    "content": "Employer contributions fund Oregon’s benefits from the Unemployment Insurance Program. No money is deducted from your paycheck to pay these benefits in the state of Oregon.",
+    "metadata": {
+      "section_title": "Funding benefits from the Unemployment Insurance Program",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "OR-24",
+    "content": "The Oregon Employment Department (OED) is here to assist you through your time of unemployment. To make sure you are paid benefits in a timely manner, please help us by:\n• Sending us accurate information\n• Responding to requests for information right away\n• Completing all requirements to maintain unemployment benefit eligibility as outlined in this handbook\n• Keeping your contact information up to date",
+    "metadata": {
+      "section_title": "We are here to help you",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "OR-25",
+    "content": "If you move or change your phone number, let us know as soon as possible. If you don’t notify us of your current contact information, your payment may be delayed and your benefits denied.\nChange your address or phone number in Frances Online or call us at 877-345-3484.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 2 of 40",
+    "metadata": {
+      "section_title": "Change of address or phone number",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "OR-26",
+    "content": "You can apply for benefits, make a weekly claim for benefits, restart your claim, and more through our safe and secure website. Frances Online is available seven days a week.\nCreate a Frances Online account to use these features. It is fast, secure, and always available. You can use it on a computer, tablet, or smartphone. Create your account now at frances.oregon.gov. Need help or tips about Frances Online? Get more information at unemployment.oregon.gov/ frances. The following are options available after you log into Frances Online:\nAction Center: Check the Action Center regularly for messages from us and tasks that you need to complete.\nApply for benefits: In the Home screen, select “File an Unemployment Insurance claim” to start your initial claim. Initial claims are available for one year, typically from the week you file.",
+    "metadata": {
+      "section_title": "For fastest service, use Frances Online at frances.oregon.gov",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "OR-27",
+    "content": "art your initial claim. Initial claims are available for one year, typically from the week you file. After you apply, you must file a weekly claim for each week you want to receive benefits.\nFile a weekly claim: After you complete your initial claim, you will see a section on the Home screen that says “Current Unemployment Insurance Benefits.” Look for a status message that says “Ready to File.” When that appears, you can select “File Now” to apply for benefits for that week. You are able to file for a week after the week is over. If you filed your initial claim this week, you need to wait until Sunday to file your first weekly claim. A weekly claim will help us determine your eligibility for benefits each week. To keep getting benefits, if eligible, you need to file a separate weekly claim every week.\nBenefit details: This home screen panel will have details about your claim.\n• Select “View Week History” to view details of each weekly claim, including the date paid, your weekly benefit, deductions, and withholding.",
+    "metadata": {
+      "section_title": "For fastest service, use Frances Online at frances.oregon.gov",
+      "page_number": 8
+    }
+  },
+  {
+    "section_id": "OR-28",
+    "content": "ils of each weekly claim, including the date paid, your weekly benefit, deductions, and withholding. Each week also has a link to any decisions about that week.\n• Select “View or Change Benefit Details” and then “Monetary” to view details about when your claim started, the number of weeks remaining, your maximum benefit, and your remaining benefit amount.\n• Select “Update Benefit Payment Method” to change how you receive your money.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 3 of 40\nWeekly claims: The Home screen will have details for weeks that you recently claimed. If there is an issue, there may be a link to a questionnaire you need to complete. Select the “Respond to Questionnaire” link to get started.\nRestart your claim: If you have not filed a weekly claim for a week or more, you need to restart your claim if you want to file a weekly claim.",
+    "metadata": {
+      "section_title": "For fastest service, use Frances Online at frances.oregon.gov",
+      "page_number": 8
+    }
+  },
+  {
+    "section_id": "OR-29",
+    "content": "weekly claim for a week or more, you need to restart your claim if you want to file a weekly claim. Select the “Reopen or File an Additional Claim” in the “Restart My Claim” panel. Restart your claim by selecting the “Reopen or File an Additional Claim” in the “Restart My Claim” panel. Use this option if you already have an open unemployment claim and you:\n• Missed a week or more of filing weekly claims, or\n• Are now unemployed after a period of additional work.\nChange your address: We will mail important information to this address, including tax forms and decisions about your benefits. You can choose to have most documents sent electronically, but we are required to send some documents by U.S mail, so check your mailbox often.\nTo update your address after logging into Frances Online:\n• Select “I Want To…”\n• In the “Names, Addresses, and Contacts” panel, select “Manage Names and Addresses.”\n• On the next screen, select “Addresses”\n• Select your physical or mailing address, then select “Change this address.”\n• After you update the information, verify the address by selecting “Click here to verify your address.”\n• Select “Next” to go to the next screen and then select “Submit.”\nBenefit payment method: You can sign up to get your benefits paid through either direct deposit or a prepaid debit card.",
+    "metadata": {
+      "section_title": "For fastest service, use Frances Online at frances.oregon.gov",
+      "page_number": 8
+    }
+  },
+  {
+    "section_id": "OR-30",
+    "content": "You can update your choice by selecting “Update Benefit Payment Method” in the Benefit Details panel.\nCreate or change a PIN: Create a PIN (Personal Identification Number) to use the Weekly Claim Line on the “I Want To…” screen. Select “Change My PIN for the Weekly Claim Line” in the “PINs for Weekly Claim Phone System” panel.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 4 of 40\nNeed help after you have filed a claim? We want to help, and the fastest way to reach us is by using the “Send a Message” option in Frances Online. Log in and go to the “I Want To…” screen to select “Send a Message” in the “Messages” panel. If you can’t log into Frances Online, use our online “Contact Us” form at unemployment.oregon.gov/contact. While some issues can take up to two weeks to resolve, we are able to resolve some issues within a day of the request.\nImportant! If you have received a determination from us and you disagree with the decision — such as being denied benefits or being overpaid benefits you must pay back — you can file an appeal and request a hearing. Follow the instructions included with the decision or check the Appeal Rights section of this handbook for more information.",
+    "metadata": {
+      "section_title": "For fastest service, use Frances Online at frances.oregon.gov",
+      "page_number": 9
+    }
+  },
+  {
+    "section_id": "OR-31",
+    "content": "• Log into Frances Online at frances.oregon.gov to send us a message.\n• If you cannot log into Frances Online, use the Contact Us form at unemployment.oregon.gov/contact.\n• You can also call the UI Contact Center at 877-345-3484.\nLearn more at unemployment.oregon.gov/contact-us\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 5 of 40",
+    "metadata": {
+      "section_title": "Ways to contact us",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "OR-32",
+    "content": "The Oregon Employment Department will review your claim to determine if you qualify for benefits. We look at these three criteria:\n1. How much work you did in the 12 to 18 months before filing a claim.\nYou must have earned sufficient usable wages in the 12 to 18 months prior to filing a claim. If you did not earn enough wages, you will not be eligible for benefits.\n2. Why you are no longer working for your past employer.\nThe reason you are no longer employed helps us determine whether you can receive benefits. Below are some examples of reasons that may qualify or disqualify you from receiving benefits. Each claim is determined on a case-by-case basis.\nYou MAY receive benefits if you: You MAY NOT receive benefits if you: Were laid off or your hours were reduced Left your job without good cause because your employer did not have enough work for you Were suspended or fired for misconduct Left your last job and can show it was for a Are not legally authorized to work in the good cause United States Were suspended or fired but not for misconduct Are not able, available, or actively Are unemployed because you or your child seeking work were a victim of domestic violence, stalking, or sexual assault\n3\nIf you are able and available to work.",
+    "metadata": {
+      "section_title": "Qualifying for benefits",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "OR-33",
+    "content": "In order to qualify for benefits you must be:\n• Actively looking for work\n• Mentally and physically able to work\n• Legally authorized to work in the United States\n• Available to accept new work (typically full-time, part-time, and temporary work)\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 6 of 40\nHow do I know my claim application was received? We will mail you a Wage and Potential Benefit Report after we receive and review your complete claim application. This report includes the wages reported by your base year employer and the weekly benefit amount you may receive if you are eligible.\nCarefully review the wages and employers reported on the Wage and Potential Benefit Report. If the wages are missing or incorrect, follow the instructions on the form. If your benefit amount is based on any wages that are not yours, you will be responsible for repaying the money paid to you.\nSome wages do not automatically show on your Wage and Potential Benefit Report such as:\n• Work in another state\n• Work for the federal government\n• Active duty military service\nWe will request these wages from you so we can add them to your claim.",
+    "metadata": {
+      "section_title": "Qualifying for benefits",
+      "page_number": 11
+    }
+  },
+  {
+    "section_id": "OR-34",
+    "content": "You must verify your identity to receive benefits from the Unemployment Insurance Program. We may require identity verification at several points during your claim.\nWe have multiple ways to verify your identity to make sure that only you have access to your information and benefits. We use several tools to protect your information and your benefits while also preventing fraud.\nWhen you create a Frances Online account, we use a variety of tools to confirm your information. You may have to request a Frances Access Letter to help confirm your account.\nAfter completing your initial claim for benefits from the Unemployment Insurance Program, you may be asked to verify your identity. We will mail you a letter with a special one-time passcode or a request for additional information if you need to do that. Do not lose this letter.\nSome people who receive benefits may need to meet with WorkSource Oregon agents in person or online to verify their identity. We will mail you a letter with more information if you need to do that. If you make changes to your account, we may need to verify your identity again.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 7 of 40",
+    "metadata": {
+      "section_title": "Identity verification",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "OR-35",
+    "content": "• Make sure you give us a mailing address that you check often.\n• Update your mailing address if you move.\n• Log into your Frances Online account and check your Action Center for updates.\n• You can respond to these letters in Frances Online to quickly complete tasks.\n• A list of acceptable identity documents is at unemployment.oregon.gov/id.",
+    "metadata": {
+      "section_title": "Tips:",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "OR-36",
+    "content": "Being fired or quitting work does not automatically make you ineligible for benefits. Please give us accurate and detailed information. We review claims on a case-by-case basis.\nOregon law requires that you are out of work due to no fault of your own in order to be eligible for benefits. Below are descriptions of work separations.\nLack of work – You were laid off from your employer or had your hours reduced because the employer did not have enough work for you to perform. This could be a business closure, reduction in staff, holiday, a temporary or maintenance shutdown, or a cut in hours.\nStill working – You are still working for your employer but they have reduced your work hours because they do not have enough work for you to perform.\nLeave of absence – You are on a leave of absence if your employer allowed you time away from work.",
+    "metadata": {
+      "section_title": "Reporting separations from work",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "OR-37",
+    "content": "This can include maternity leave, medical leave, or leave for other personal reasons. If you are on a leave of absence with your employer, your work separation is NOT a lack of work.\nVoluntarily leaving work – You have voluntarily left work if the employer had continuing work available for you but you chose to stop working (quit). If you quit one job for another job, you have voluntarily left work.\nDischarged or terminated – You were discharged if the employer had continuing work available but would not allow you to continue working for them (fired, let go, terminated). You must also report if you have been suspended by your employer.\nSuspension – You were suspended if the employer had work available but told you not to work because of an investigation, disciplinary action, or an administrative decision.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 8 of 40\nReporting the wrong type of separation from work may cause delays, overpayments, penalties, and may be considered fraud.",
+    "metadata": {
+      "section_title": "Reporting separations from work",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "OR-38",
+    "content": "When there is a question about someone’s eligibility, we are legally required to look into it. While many issues can be resolved with quick follow-up questions, many times it requires a more thor- ough investigation through an adjudication process. During the adjudication process, we may re- quest information from you, your employer, and any other source that is appropriate before making a decision on your claim. Some common benefit eligibility issues that require adjudication:\n• Quitting a job\n• Being fired from a job\n• Not accepting work that is offered\n• Educational employees between school years or terms\n• Not being able to work, available for work\n• Not meeting the minimum requirements for actively seeking work\nR \\ id\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 9 of 40",
+    "metadata": {
+      "section_title": "Adjudication",
+      "page_number": 14
+    }
+  },
+  {
+    "section_id": "OR-39",
+    "content": "After you file a claim for benefits, we will send you a Wage and Potential Benefit Report, which is a formal decision also called a “monetary determination” that explains:\n• The amount of benefits you could be eligible to receive and how that amount was calculated\n• How to appeal or request a reconsideration if you disagree with the formal decision or determination\nThe weekly benefit amount is 1.25% of your total base period wages. Oregon law sets the minimum and maximum amounts you can receive. You can use our benefit estimator to calculate your estimated benefits.\nYour benefit year is a 52-week period that begins the first week you file a claim. You may receive up to 26 times of your weekly benefit amount during this time. You cannot file a new Oregon claim until your benefit year is up, even if you have received all of your benefits. New claims are effective the week you file your claim application. Once you have completed your application, start filing for weekly benefits the following Sunday.",
+    "metadata": {
+      "section_title": "Amount of benefits",
+      "page_number": 14
+    }
+  },
+  {
+    "section_id": "OR-40",
+    "content": "If you are eligible for benefits, you may receive your payment:\n• Through direct deposit – this option puts money directly into your checking or savings account\n• On a prepaid debit card (US Bank ReliaCard Visa®) – this option provides you with a prepaid debit card from US Bank. You can make purchases, get cash, and pay bills everywhere VISA debit is accepted.\nIf you do not apply for direct deposit before we issue your first payment on your claim, we will automatically mail you a prepaid US Bank ReliaCard® for your benefit payment. You can change your payment method or bank account at any time. For fastest service, use Frances Online at frances.oregon.gov.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 10 of 40\nMonth  Sun    Mon   Tues   Wed   Thurs   Fri     Sat  X  Waiting Week  $  $  $  $  $  $  $",
+    "metadata": {
+      "section_title": "Options for receiving unemployment benefit payments",
+      "page_number": 15
+    }
+  },
+  {
+    "section_id": "OR-41",
+    "content": "The first week you are eligible for benefits is your waiting week. You do not get paid for your waiting week. Even though you won’t receive a payment, you must meet the eligibility requirements for benefits and file a weekly claim to receive credit for your waiting week. You will begin receiving payment the next week you meet all of the eligibility requirements.\nFor example, John lost his job on the first Monday of the month and filed an initial application for benefits on the same day. Although John files a certification for the first week of benefits, he will not be paid for this waiting week.\nThe next week, if John fulfills all eligibility requirements, he will be eligible to receive payment. See the Maintaining your eligibility for benefits section for more details on the continuing eligibility requirements.",
+    "metadata": {
+      "section_title": "After you have filed a claim",
+      "page_number": 15
+    }
+  },
+  {
+    "section_id": "OR-42",
+    "content": "We may reduce your benefits under the following circumstances:",
+    "metadata": {
+      "section_title": "Deductions",
+      "page_number": 15
+    }
+  },
+  {
+    "section_id": "OR-43",
+    "content": "We may reduce your benefits each week if you receive retirement income. If you receive any type of retirement pay (except Social Security) during the life of your claim, you must report it on your initial claim application or to the UI Center. If you fail to report retirement pay, we could issue you an overpayment and you would have to pay it back with penalties. Social Security payments do not reduce the amount of benefits you receive and you do not need to report it as retirement pay on an initial claim or income in a weekly claim.\nIf you receive retroactive retirement pay for weeks you claimed benefits, you must report this to the UI Center and repay any overpayments.",
+    "metadata": {
+      "section_title": "Retirement income",
+      "page_number": 15
+    }
+  },
+  {
+    "section_id": "OR-44",
+    "content": "If we receive an income withholding order from the Oregon Child Support Program requiring a benefit deduction, we will reduce your benefit each week until they notify us to stop. If you have questions about child support deductions, contact the Oregon Child Support Program.\n• Phone: 800-850-0228\n• Email: ChildSupportCustomerService@doj.oregon.gov\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 11 of 40",
+    "metadata": {
+      "section_title": "Child support",
+      "page_number": 16
+    }
+  },
+  {
+    "section_id": "OR-45",
+    "content": "If you are working part time, you may still be eligible for partial benefits. Be sure to report any hours and earnings from part-time work. See the Reporting Earnings section for more information.\nYou must report any holiday or vacation pay in the week of the holiday or time away from work. Bonus pay may also affect your benefits. Contact the UI Center at 877-345-3484 or use “Send a Message” in Frances Online to report any bonus pay.",
+    "metadata": {
+      "section_title": "Other earnings",
+      "page_number": 16
+    }
+  },
+  {
+    "section_id": "OR-46",
+    "content": "We may reduce some or all of your benefits if you:\n• Owe court-ordered child support\n• Previously received benefits that you were not entitled to, and you did not repay the overpayment\nWe will notify you if we will apply your benefits to any of these types of debts.",
+    "metadata": {
+      "section_title": "Money owed",
+      "page_number": 16
+    }
+  },
+  {
+    "section_id": "OR-47",
+    "content": "Your benefits are taxable by the federal and state\nPlease note we cannot return any benefits previously withheld for taxes.\nIf you elect not to have taxes withheld, you will be responsible for the full taxable amount at the end of the year. You can direct your questions about taxes on unemployment benefit payments to the Internal Revenue Service (IRS) or your tax professional.\nBy the end of January each year, we will provide you with IRS form 1099-G. This form shows the amount of benefits we paid you during the previous year and the amount of income tax withheld, if you selected that option.\nYou can access 1099-G tax forms in Frances Online. 1099-G forms are posted in early February of the following year.\ngovernments. You may choose if you want to have Oregon state taxes, federal taxes, both, or none withheld from your weekly payment. You will choose your withholding preferences when you file your initial application. You may change your withholding preferences at any time in Frances Online. Or you can go to\nunemployment.oregon.gov/forms to download and sign the Authorization for Tax Withholding form and either mail it to us or send it through the Contact Us form. Your original withholding preferences will remain in effect for several days until we can complete the change process.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 12 of 40",
+    "metadata": {
+      "section_title": "Taxes",
+      "page_number": 17
+    }
+  },
+  {
+    "section_id": "OR-48",
+    "content": "Every week you want benefits, you must complete three tasks to remain eligible:\n1. Be able and available to work and actively seeking work\n2. File a weekly claim\n3. Report hours and earnings (any hours worked and money earned during the week)\nIf you fail to complete any of these actions, we may deny you benefits.",
+    "metadata": {
+      "section_title": "Maintaining your eligibility for benefits",
+      "page_number": 17
+    }
+  },
+  {
+    "section_id": "OR-49",
+    "content": "You are required to seek work every week you receive benefits by completing at least five work-search activities. You must make direct contact with employers in at least two of the five work-seeking activities. Below are examples of work-search activities that meet this requirement along with activities that we do not consider valid or acceptable.\nQualifying work-search activities Invalid work-search activities Apply for a job that fits your skills and Applying for a job that you are unqualified for. qualifications. Failing to apply for a job the way the employer Interview for a job. wants. For example, you mailed an Report to a union hiring hall if you are a application instead of sending it online registered member of that union. as the employer requested. Participate in reemployment services at your Talking to friends or family about what jobs or state workforce center. types of work you would like to apply for.",
+    "metadata": {
+      "section_title": "Seeking work",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "OR-50",
+    "content": "Networking or updating your resume. Reviewing job placement websites or newspapers.\nMaking direct contact with employers means inquiring about work or applying for jobs in the way they want. It can be in person, by phone, by mail, or electronically – however they ask you to inquire or apply.\nIf you are a member in good standing with a closed union, you are required to maintain contact with your union instead of otherwise seeking work.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 13 of 40\nIf your employer reduced your hours or laid you off from work and you will be returning to full-time work within four weeks of the week you became unemployed, you must maintain contact with your employer instead of otherwise seeking work. You are “temporarily unemployed” if the following are all true:\n• At the time of layoff, you and your employer expect you to return to work.\n• The work you are returning to is full time or pays at least the same as your weekly benefit amount.\n• There won’t be more than four weeks between the week you became unemployed and the week you return to work.\nYou may be asked for the date you expect to return to work.",
+    "metadata": {
+      "section_title": "Seeking work",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "OR-51",
+    "content": "Each week you must keep track of your work-search efforts. When you file a claim for a week of benefits, you will be required to provide details on your weekly claim about what you did to find work that week.\nWhen you file for weekly benefits, you must report the work-search activities you completed and your direct contact with employers.",
+    "metadata": {
+      "section_title": "Reporting your search for work",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "OR-52",
+    "content": "• Date of contact\n• Company name, phone number, and address, or online job posting ID number\n• Person contacted (if applicable)\n• Type of work or position applied for\n• How you made contact (phone, resume, online application, email, etc.)\n• Results of your contact (hired, not hired, interview, no response, etc.)",
+    "metadata": {
+      "section_title": "Your report of direct contact with employers must include:",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "OR-53",
+    "content": "• Date you completed the activity\n• Description of the activity completed\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 14 of 40\nIf you need help keeping track of your work-search activities, use our Employment Search Record form. You are not required to use this form, but you are required to keep records of your weekly work-search efforts and report those activities when making weekly claims.\nIf you are using Frances Online, enter your work-search details there.\nIf you file your weekly claim by phone on the weekly claim line, you will verbally report your work- search information after answering the weekly claim questions. See the details on what you must provide on the previous page.\n4\nPlease note we may request more details about your work search at any time or verify your employer contacts with the business listed. Your benefits will stop if you do NOT provide your work-search activities when filing for weekly benefits, which may result in overpayments and penalties.",
+    "metadata": {
+      "section_title": "When reporting work-search activities that are not direct employer contacts, you must include:",
+      "page_number": 19
+    }
+  },
+  {
+    "section_id": "OR-54",
+    "content": "To request unemployment benefit payments, you will need to file a claim every week to tell the Oregon Employment Department you are still unemployed or underemployed. The claim includes a series of questions that help determine if you are eligible for benefits. For example, we may ask you the following:\n• Were you able and available to accept work?\n• Did you look for work and have details of your work-search efforts?\n• Did you refuse any jobs or offers of work?\n• Did you work, and if so, how much money did you earn for that work?\n• Were you separated from any employers or did you quit a job?\nUnder penalty of law, you are required to answer the questions truthfully for each week you claim benefits. If you made a mistake answering any claim questions, contact the UI Center immediately.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 15 of 40",
+    "metadata": {
+      "section_title": "Completing a weekly claim for benefits",
+      "page_number": 20
+    }
+  },
+  {
+    "section_id": "OR-55",
+    "content": "A week for unemployment claims runs from Sunday through Saturday. You may claim a week as soon as it ends, beginning Sunday morning. You have all week to claim the prior week, but you must complete it before midnight the following Saturday or it will be late.\nFor example, if you lost your job on Monday, June 3, you could file an initial claim for benefits on the same day or on any other day that week (from June 3 to June 8).\nJune  Sun    Mon   Tues   Wed   Thurs   Fri     Sat  2  3  4  5  6  7  8  9 10  11 12 13 14 15  16 17 18 19 \nThen you could file a weekly claim for your first week of benefits starting Sunday, June 9. During the week of June 9 to 15, you would be claiming benefits for June 2 to 8.\nIf you fail to file your weekly claim before midnight Saturday, June 15, your benefit payment would be denied or delayed that week.\nHow to file your weekly claim for benefits online For fastest service, use Frances Online at frances.oregon.gov\n) 7/ =y <\nBy phone through our interactive voice response (IVR) system: 800-982-8920 IVR is available 24 hours per day, seven days per week.",
+    "metadata": {
+      "section_title": "When to file your weekly claim for benefits",
+      "page_number": 20
+    }
+  },
+  {
+    "section_id": "OR-56",
+    "content": "WorkSource Oregon centers offer free help to people looking for a job. They can help you create a resume and connect you with employers who are hiring. There is no charge for computer access at your local WorkSource Oregon office.\nFor more information on WorkSource Oregon, visit: worksourceoregon.org. WorkSource Oregon provides help in many languages. Call the WorkSource Oregon Language Access Line at 833-685-0845.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 16 of 40",
+    "metadata": {
+      "section_title": "Need help with your job search?",
+      "page_number": 21
+    }
+  },
+  {
+    "section_id": "OR-57",
+    "content": "If any of these situations are true, answer yes:\n• You turned down a paying job during the week you are claiming.\n- It does not matter if the offer was for full-time, part-time, permanent, or temporary work.\n- The work could have been for a former, current, or new employer.\n• You turned down a job referral from the Oregon Employment Department.\n• You accepted a job referral from the Oregon Employment Department, but you did not contact the employer.",
+    "metadata": {
+      "section_title": "Did you fail to accept an offer of work last week?",
+      "page_number": 21
+    }
+  },
+  {
+    "section_id": "OR-58",
+    "content": "If any of these situations is true, answer yes:\n• You stopped working for one employer to start working for another.\n• You told your employer that you did not want to work there anymore.\n• You stopped showing up for work.",
+    "metadata": {
+      "section_title": "Did you quit a job last week?",
+      "page_number": 21
+    }
+  },
+  {
+    "section_id": "OR-59",
+    "content": "If either of these situations are true, answer yes:\n• You were fired if your employer let you go for ANY reason other than a lack of work (layoff).\n• There was continuing work available, but the employer was not willing to let you continue working.\nA lack of work (layoff) is when the employer does not have enough work available to keep you working.",
+    "metadata": {
+      "section_title": "Were you fired from a job last week?",
+      "page_number": 21
+    }
+  },
+  {
+    "section_id": "OR-60",
+    "content": "If either of these situations are true, answer yes:\n• Your employer told you to stay home while they investigated.\n• Your employer told you to stay home as a disciplinary action.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 17 of 40",
+    "metadata": {
+      "section_title": "Were you suspended from a job last week?",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "OR-61",
+    "content": "If you were away from your permanent residence for more than three days during a week claimed, answer “yes” to this question. A week consists of all days of the week: Sunday through Saturday.\nWere you both physically and mentally able to perform the work that you sought last week?\nIf you were NOT able to do the type of work you were seeking, answer no.",
+    "metadata": {
+      "section_title": "Were you away from your permanent residence for more than three days last week?",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "OR-62",
+    "content": "If any of these situations are true, answer no:\n• You restricted the days and hours you were willing to work.\n• You did not have transportation to get to work.\n• You did not have childcare.\n• You were incarcerated.\n• You were attending school and did not report it to the department.\n• You were pursuing self-employment and did not report it to the department.\n• You missed ANY work.",
+    "metadata": {
+      "section_title": "Each day last week, were you willing to work and capable of accepting and reporting for full-time, part-time, and temporary work?",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "OR-63",
+    "content": "If any of these situations are true, answer no:\n• You did not make at least two direct employer contacts during the week.\n• You did not complete at least three work-seeking activities during the week. or\n• You did not comply with a written work-search advisory provided by the department.\n• You are a member of a dispatching union that only allows you to seek union work, and you’re\n- Not in good standing with the union, or\n- Not available for dispatch\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 18 of 40",
+    "metadata": {
+      "section_title": "Did you actively look for work last week?",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "OR-64",
+    "content": "If any of these situations are true, answer yes:\n• You performed services for any employer and expect to receive payment, credit, or room and board in return.\n• You were self-employed and earned money.\n• You will receive holiday or vacation pay.\n• You will receive sick pay from your employer.\nIf you received bonus pay, contact the UI Center.\nIf you received retirement pay, other than Social Security, that you have not yet reported, contact the UI Center.\nIf you made a mistake answering any claim questions, contact the UI Center immediately.\nREPORT WEEKLY DURING THE PAY PERIOD, NOT WHEN YOU GET THE CHECK PAY DATE PAYSLIP C 20XX. INCOE RATE HOURS CURRENT PAY 100720007 | 10/5200 | REGULAR $20 STATUTORY DEDUCTIONS OVERTIME $30 FICA-MEDICARE $8.71 $130.65 BONUS FICA SOCIAL SECURITY $3770 $565.5 FEDERAL TAX $40.15 $602.25 STATE TAX $26.05 $390.75 YTD GROSS YTD DEDUCTIONS YTD NET PAY DEDUCTIONS PAY 1689.15 7324 95 112.61 pr 33 REPORT GROSS PAY EACH WEEK",
+    "metadata": {
+      "section_title": "Did you work last week, or did you receive or will you receive vacation or holiday pay for the week?",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "OR-65",
+    "content": "If you are working while claiming benefits, you must report how much money you made. The amount you must report is your gross earnings, not your net earnings. You report your earnings during the week you earned them, not when you are paid.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 19 of 40",
+    "metadata": {
+      "section_title": "Reporting earnings",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "OR-66",
+    "content": "You must report your earnings each week when claiming benefits for the Unemployment Insurance Program for the previous week (Sunday through Saturday), even if you have not yet been paid. You are reporting your earnings the week you earned them, not when you were paid for them.",
+    "metadata": {
+      "section_title": "When to report earnings",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "OR-67",
+    "content": "You must report any money you earned for work. Common income sources include full-time or part- time employment, temporary or odd jobs, and self-employment. This includes all of the following:\n• Gross earnings\n• Cash\n• Non-cash payments such as room and board\n• Tips\n• Bonuses\n• Standby pay\n• Sick pay\n• Commission pay\n• Vacation and holiday pay",
+    "metadata": {
+      "section_title": "What earnings to report",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "OR-68",
+    "content": "Number of Hours Worked during Week x Rate of Pay = Gross Earnings\nFor instance, if you worked 30 hours in a week at $20 per hour, you would report $600 in gross earnings for the week. Remember to add your tips.",
+    "metadata": {
+      "section_title": "How to calculate gross earnings",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "OR-69",
+    "content": "Some situations require the Oregon Employment Department to examine claims, determine eligibility, or issue formal administrative decisions. They include the following:\n• Quitting a job\n• Being fired or suspended from a job\n• Being unable to work\n• Being away from your permanent residence\n• Attending school or training\n• Being self-employed\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 20 of 40\n• Being in jail\n• Missing any work\n• Turning down an offer of work\n• Failing to actively seek work\n• Receiving retirement pay (except Social Security)\n• Failing to participate in a Reemployment Services and Eligibility Assessment (RESEA) interview\n• Turning down a referral for work from WorkSource Oregon\n• Failing to complete enrollment activities through your local WorkSource Oregon center\n• Filing for weekly benefits during the summer, winter, or spring break periods or between terms when you’re an instructional or non-instructional educational employee\n• Failing to verify your identity when required\nThese issues will cause a stop on your claim until we make a decision to pay or deny benefits.",
+    "metadata": {
+      "section_title": "Denial of benefits",
+      "page_number": 25
+    }
+  },
+  {
+    "section_id": "OR-70",
+    "content": "uired\nThese issues will cause a stop on your claim until we make a decision to pay or deny benefits. Continue to claim weekly benefits during the investigation. This ensures you are able to receive payment for those weeks if the investigation results in a decision to pay benefits.\nAn adjudicator will complete an investigation. If the adjudicator needs more information, they will contact you. Be sure to respond to requests with complete information. If you fail to respond, we will make a decision based on the information available to us, which may result in a denial of benefits. Withholding information or reporting false information to the Oregon Employment Department is fraud and has serious consequences.\nIf you are denied benefits, you will receive a formal administrative decision giving the details of the denial; this includes the dates of denial, the reason for denial, and any penalties related to a disqualification.",
+    "metadata": {
+      "section_title": "Denial of benefits",
+      "page_number": 26
+    }
+  },
+  {
+    "section_id": "OR-71",
+    "content": "ncludes the dates of denial, the reason for denial, and any penalties related to a disqualification. Read your decision carefully and contact the department with any questions you have about the content of the decision.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 21 of 40\nIf we deny your benefits because you separated from your employer, failed to apply for a job referral or refused a job, we will:\n• Deny your benefits until you work and receive payment of at least four times your weekly benefit amount in subject employment (work the employer paid UI taxes on). You must have worked after the week you were fired, suspended, quit, or failed to accept or apply for work.\nWe may deny your benefits for attending school, missing work, incarceration, hospitalization, or similar reasons. In these situations, the denial lasts until the conditions that caused the denial no longer exist.",
+    "metadata": {
+      "section_title": "Denial of benefits",
+      "page_number": 26
+    }
+  },
+  {
+    "section_id": "OR-72",
+    "content": "If we paid benefits to you for any week you were denied benefits, you have an overpayment. You will receive instructions on how to pay the overpaid benefit money back. It is your responsibility to repay any overpaid amount, which may include penalties, fees, and interest.\nIf you receive a formal administrative decision that includes information about an overpayment, you may appeal the decision and have other options regarding the overpayment. Please use Frances Online to file an appeal and request a hearing. You can also contact Benefit Payment Control at 503-947-1710 for assistance.\nv M Al [ 7\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 22 of 40",
+    "metadata": {
+      "section_title": "Denial of benefits",
+      "page_number": 27
+    }
+  },
+  {
+    "section_id": "OR-73",
+    "content": "WorkSource Oregon is a proud partner of the American Job Center network. This partnership creates a one-stop career center for free training, education, and employment services. Whether you have been laid off, want a career change, or are looking for your first job, we have the resources to help you find the career path that is right for you. You can work one-on-one with WorkSource Oregon staff to develop your pathway to achieve your employment goals.\nWorkSource Oregon staff are there to provide you with any of the following:\n• One-on-one job search support, connection to job fairs and hiring events, skills development workshops, and assistance with training or certification programs.\n• Career exploration and career mapping to find training and employment opportunities that match your skills or interests.\n• Job search assistance and interview preparation to connect to jobs and employers that meet your needs or match your interests, previous experiences, or employment goals.\n• Resume and cover letter guidance and tips to make sure your resume stands out among the competition.",
+    "metadata": {
+      "section_title": "Getting you back to work",
+      "page_number": 27
+    }
+  },
+  {
+    "section_id": "OR-74",
+    "content": "Resume and cover letter guidance and tips to make sure your resume stands out among the competition. We can help you make sure your resume is well-formatted; highlights your skills, strengths, and previous experiences; uses attention-grabbing language; and can be easily read by both people and automated resume readers.\n• Job fairs and networking to help you engage with employers through career fairs and net working events. This includes industry-specific events (like healthcare hiring events) and general industry hiring events.\n• Career coaching to help you make the most of WorkSource Oregon services including training and education programs that result in a degree or professional credential.\n• Adult basic education courses and English language training for basic math, reading, writing, and technology skills. This includes registration and preparation for the Graduate Equivalent Diploma (GED) for people without a high school diploma.\n• Computers, internet access, phones, fax machines, copiers, and printers to use in WorkSource Oregon centers around the state.\n• Resources for housing, transportation, childcare, food, internet access, tuition, textbooks, school fees, identification, work clothes, tools, and more.",
+    "metadata": {
+      "section_title": "Getting you back to work",
+      "page_number": 28
+    }
+  },
+  {
+    "section_id": "OR-75",
+    "content": "Learn more about WorkSource Oregon at worksourceoregon.org.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 23 of 40\nWorkSource Oregon is a statewide network of public and private partners that work together to ensure businesses have a supply of trained workers available when needed. We connect Oregon’s unemployed and underemployed with the employers that need workers by aligning the skills of the workers with the needs of the employer.",
+    "metadata": {
+      "section_title": "Getting you back to work",
+      "page_number": 28
+    }
+  },
+  {
+    "section_id": "OR-76",
+    "content": "To receive benefits, you must sign up and register in iMatchSkills®, or your state’s labor exchange system, for job search and reemployment activities within 14 days of filing your claim for benefits. If you are a member of a union or meet other specific criteria that exempts you from Oregon employment laws, we will notify you of your exemption to register in iMatchSkills.\nIf you live in Oregon or regularly commute to Oregon for work, you must register in iMatchSkills and attend an orientation with WorkSource Oregon staff. Use the following steps to get started in iMatchSkills.\n• Complete or update your account in iMatchSkills. When we process your claim, it creates a partial registration in iMatchSkills if you did not already have a prior registration.\n• Meet with WorkSource Oregon staff at any location. You can find locations and phone numbers to make an appointment. Online appointments are also available.\n• In addition to job search assistance, WorkSource Oregon can help with resume writing and interviewing, provide labor market information, and more. Visit WorkSource Oregon centers to find your local American Job Center (AJC).\nIf you live outside of Oregon, you must register for job searches in your home state’s labor exchange system. Your notice to register will provide instructions for how to provide your proof of registration or exemption to us.",
+    "metadata": {
+      "section_title": "Mandatory job search registration and reemployment services",
+      "page_number": 28
+    }
+  },
+  {
+    "section_id": "OR-77",
+    "content": "• Training Unemployment Insurance (TUI)\nThe Training Unemployment Insurance (TUI) program helps dislocated workers, or people who are unlikely to return to their previous industry, support themselves and their families while acquiring new skills to advance their careers. Under the TUI program, dislocated workers can get training or attend school while unemployed and receiving benefits. It waives the requirement to look for, or be available for, work while attending school full time. WorkSource Oregon staff determine your dislocated worker eligibility at registration. Visit Training Unemployment Insurance for more information.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 24 of 40\n• Veterans’ assistance The Oregon Employment Department has employment assistance programs specifically designed for veterans. If you are a veteran, visit Veterans Services to get started.\n• Free or low-cost health coverage As an unemployed worker, you and your family may qualify for free or low-cost health coverage. To see if you are eligible or to learn how to apply, visit OregonHealthCare.gov.",
+    "metadata": {
+      "section_title": "Additional services",
+      "page_number": 29
+    }
+  },
+  {
+    "section_id": "OR-78",
+    "content": "After you start a new full-time job, you do not need to notify our office that you found work. Simply stop filing your weekly claim when you start your new job (even if you will not be paid for a week or more). If you start a new job in the middle of the week, be sure to report your gross earnings on your weekly claim.",
+    "metadata": {
+      "section_title": "Full-time work",
+      "page_number": 29
+    }
+  },
+  {
+    "section_id": "OR-79",
+    "content": "If you find part-time work, you may still be eligible for partial unemployment benefit payments. Be sure to report any gross earnings from part-time work. See the Reporting Earnings section for more information.\n= ] Wl - A N\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 25 of 40",
+    "metadata": {
+      "section_title": "Part-time work",
+      "page_number": 30
+    }
+  },
+  {
+    "section_id": "OR-80",
+    "content": "Our agency prioritizes detecting and preventing unemployment benefit fraud as it is a serious crime. We audit claims regularly to ensure benefits were paid according to state and federal law.",
+    "metadata": {
+      "section_title": "Unemployment benefit fraud",
+      "page_number": 30
+    }
+  },
+  {
+    "section_id": "OR-81",
+    "content": "Some examples of fraud include:\n• Failing to report money earned while collecting benefits\n• Being dishonest about why you are no longer working for a previous employer\n• Saying you are able and available when you are ill, traveling, or otherwise unable or unavailable to work\n• Reporting that you looked for work when you did not make valid work-search efforts",
+    "metadata": {
+      "section_title": "Examples of unemployment benefit fraud",
+      "page_number": 30
+    }
+  },
+  {
+    "section_id": "OR-82",
+    "content": "The most important thing is to be honest. If you intentionally make false statements or hide information to gain or maintain benefits, you are committing fraud. If you are confused about what we are asking you to do, call 877-345-3484 for clarification or use Frances Online’s “Send a Message” option. We are here to help!",
+    "metadata": {
+      "section_title": "To avoid committing fraud",
+      "page_number": 30
+    }
+  },
+  {
+    "section_id": "OR-83",
+    "content": "Penalties for unemployment benefit fraud can include:\n• Repayment of all benefits that you were not eligible to receive\n• A 15% to 30% monetary penalty\n• Disqualification from receiving future benefits for up to 52 weeks\n• Being convicted of a crime in a state or federal court",
+    "metadata": {
+      "section_title": "Penalties for unemployment benefit fraud",
+      "page_number": 30
+    }
+  },
+  {
+    "section_id": "OR-84",
+    "content": "These are just some of the ways that we identify people who are committing fraud:\n• Comparing earnings reported by workers and their employers\n• Auditing claims, which is a systematic and detailed review of claims and related records\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 26 of 40\n• Checking state and national databases of recently hired individuals to make sure people are not collecting benefits after they start working again\n• Verifying job search contacts\n• Reviewing union attached status",
+    "metadata": {
+      "section_title": "What the Oregon Employment Department does to stop unemployment benefit fraud",
+      "page_number": 31
+    }
+  },
+  {
+    "section_id": "OR-85",
+    "content": "You can report unemployment benefit fraud online on our Fraud Referral Form or through our Fraud Hotline at 877-668-3204 (toll-free). Our fraud team of investigators pursues tips about possible fraud.\n4 ¥ < 4 | y y W 3 & S — p. g\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 27 of 40",
+    "metadata": {
+      "section_title": "Report suspected unemployment benefit fraud",
+      "page_number": 32
+    }
+  },
+  {
+    "section_id": "OR-86",
+    "content": "Any time we reduce or deny your benefits, we will send you an administrative decision. If you don’t agree with the administrative decision, you have the right to request a hearing. The Office of Administrative Hearings (OAH) will review the decision through the appeals process. Your employer has the same right to appeal a decision and request a hearing in some situations.\nDuring a hearing, an administrative law judge from the Office of Administrative Hearings will hear testimony from the people involved and make a ruling. Employers can attend and give testimony. Hearings are usually conducted over the phone. We will provide you with language assistance and other accommodations at no cost.\nIf you appeal an administrative decision, continue to file for benefits each week. If the appeal is decided in your favor, you will be paid only for those weeks you claimed on time and met all other eligibility requirements.",
+    "metadata": {
+      "section_title": "Appeal rights",
+      "page_number": 32
+    }
+  },
+  {
+    "section_id": "OR-87",
+    "content": "To have a decision reviewed by the Office of Administrative Hearings, you will need to file an appeal and request a hearing before it becomes final. Decisions become final at different times, so carefully read the information with each decision to understand it, how to appeal, and the due date to appeal. If you appeal a decision after it is final, the hearing request will be considered late and you may not get a hearing.\n• Administrative decisions become final 20 calendar days after we mail them. You can appeal the decision if you do not agree with it.\n• Monetary decisions become final 10 calendar days after we mail them. You can appeal if you do not agree with the weekly benefit amount, maximum benefit amount, and wages used to set your base year claim.\nThe letter with the decision will have instructions on how to file an appeal. The date we mailed the letter is the “date issued.” It can be found on the top, right corner of the first page.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 28 of 40",
+    "metadata": {
+      "section_title": "Request a hearing",
+      "page_number": 33
+    }
+  },
+  {
+    "section_id": "OR-88",
+    "content": "Please include the following information when you file an appeal and request a hearing:\n• Your Social Security Number (SSN) or Customer Identification Number (CID).\n• The administrative decision number or the Letter ID. This number is on the letter we sent you.\n• The date of the decision you are appealing. This is the “date issued.”\n• Information that will help us understand why you disagree or believe the decision is wrong.\n• Specific dates or times you will not be available for a hearing.\nYou can file an appeal and request a hearing several different ways:\n4\n@\n)\nD 7 (\n• Frances Online: If you received the decision in Frances Online, log in and select “View or Change Benefit Details” and then “File an Appeal.” Follow the prompts and submit your request.\n• Contact Us: If you cannot log into Frances Online, use this Contact Us form. It can also be found on the Frances Online for Claimants landing page under Contact Us.\n• Call 503-947-3149 and leave a message with all the required information.\n• Complete Form 2602 and send it to us:\n- By fax at 503-947-1335 or\n- By mail to: Unemployment Insurance – Hearings, P.O. Box 14135, Salem, OR 97309.\n. - \\ N i 7 & g > '8 A N\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 29 of 40",
+    "metadata": {
+      "section_title": "Necessary information",
+      "page_number": 34
+    }
+  },
+  {
+    "section_id": "OR-89",
+    "content": "It is against the law for this agency to discriminate against any individual on the basis of race, color, religion, sex, national origin, age, disability, or political affiliation or belief, or against any beneficiary of, applicant to, or participant in programs financially assisted under Title I of the Workforce Innovation and Opportunity Act (WIOA), on the basis of the individual’s citizenship status or participation in any WIOA Title I-financially assisted program or activity.\nThe Oregon Employment Department (OED) is an equal opportunity agency. OED provides free help so you can use our services. Some examples are sign language and spoken-language interpreters, written materials in other languages, large print, audio, and other formats. To get help, please go to unemployment.oregon.gov and click on Contact Us or call us at 877-345-3484. TTY users call 711.",
+    "metadata": {
+      "section_title": "Equal opportunity information",
+      "page_number": 34
+    }
+  },
+  {
+    "section_id": "OR-90",
+    "content": "If you think that you have been subjected to discrimination under a WIOA Title I-financially assisted program or activity, you may file a complaint within 180 days from the date of the alleged violation.\n     \n     \nTo file a complaint online\nVisit: dol.gov/oasam/programs/crc/complaint.htm\nTo file a complaint by mail\nSend information about your complaint to: The Director - Civil Rights Center U.S. Department of Labor 200 Constitution Avenue, NW, Room N-4123 Washington, DC 20210\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 30 of 40",
+    "metadata": {
+      "section_title": "What to do if you experience discrimination",
+      "page_number": 35
+    }
+  },
+  {
+    "section_id": "OR-91",
+    "content": "The Oregon Employment Department will make accommodations to allow your participation in all unemployment benefit programs, activities, and services. To request an accommodation for a disability, please call us at 800-237-3710.",
+    "metadata": {
+      "section_title": "Accommodations for individuals with disabilities",
+      "page_number": 35
+    }
+  },
+  {
+    "section_id": "OR-92",
+    "content": "We follow all state and federal laws that protect your private information. To help connect you with programs that get you back to work, we share some of your information with our partners, such as WorkSource Oregon. They are not allowed to share that information with anyone else. We give them your:\n• Contact information\n• Employment and job search history\n• Demographics (such as age or gender)\nYour previous employers and other state or local government agencies may give your information to our agency. We use that information, including your Social Security Number (SSN), to properly administer your claim. We also use your SSN to report the amount of benefits you receive to the Internal Revenue Service (IRS) as taxable income.\nOther agencies may request and use your confidential unemployment compensation information for other governmental purposes. This includes verification of eligibility for other government programs.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 31 of 40",
+    "metadata": {
+      "section_title": "Your privacy matters",
+      "page_number": 36
+    }
+  },
+  {
+    "section_id": "OR-93",
+    "content": "This section defines commonly used terms and acronyms.",
+    "metadata": {
+      "section_title": "Appendix B — Glossary",
+      "page_number": 36
+    }
+  },
+  {
+    "section_id": "OR-94",
+    "content": "You are mentally and physically able to work.\nActively looking for work: You must complete at least five work-search activities each week and at least two of the five work-seeking activities must be direct contact with employers. Examples of activities that show you are seeking work include looking at job announcements, using job search tools online, attending a career fair, or taking a class to further your interview skills.\nAdjudication: This is an additional review process that’s required in certain cases to determine if someone is eligible for benefits. When we become aware of issues that call into question whether someone can receive benefits, we are legally required to look into it. While many issues can be resolved with quick follow-up questions, some require a more thorough review through an adjudication process.",
+    "metadata": {
+      "section_title": "Able to work:",
+      "page_number": 36
+    }
+  },
+  {
+    "section_id": "OR-95",
+    "content": "Learn more at unemployment.oregon.gov.\nAppeal: A process for requesting a hearing for a formal review of a prior benefits decision.\nAvailable to work: You are willing and ready to work without restrictions that would prevent you from accepting work (for example: transportation issues, illness, vacations, or lack of childcare).\nBase Year: Your base year is the first four of the last five completed calendar quarters before the week you file your initial claim for unemployment insurance benefits.\nBenefit week: A seven-day period during which you have an active claim. The unemployment benefit week begins on Sunday and ends at midnight the following Saturday.\nBenefit year: Your benefit year is a 52-week period that begins the first week you file your initial claim for unemployment insurance benefits.",
+    "metadata": {
+      "section_title": "Able to work:",
+      "page_number": 36
+    }
+  },
+  {
+    "section_id": "OR-96",
+    "content": "The money or credit given to eligible people.\nBenefits from the Unemployment Insurance Program: States administer federal benefits for workers who become unemployed through no fault of their own. Benefits replace part of your lost income when you become unemployed. It is not public assistance. Employers fund these benefits – contributions are not withheld from employee paychecks.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 32 of 40\nClaim effective date: The Sunday of the week in which you file your initial claim for benefits.\nClaim end date: Also referred to as a benefit year end (BYE), this is the last Saturday of a Benefit Year. This falls 52 weeks after the claim effective date.\nExhausted claim: Your claim is exhausted when you’ve reached a zero balance and no more funds are available for you from that benefit program.",
+    "metadata": {
+      "section_title": "Benefits: The money or credit given to eligible people.",
+      "page_number": 37
+    }
+  },
+  {
+    "section_id": "OR-97",
+    "content": "hen you’ve reached a zero balance and no more funds are available for you from that benefit program.\nExpired claim: Regular unemployment claims expire after 52 weeks. That means you cannot claim any more weeks of benefits after your claim has expired, even if there is a positive balance in your account. You will need to file a new claim.\nFrances Online: Frances Online is the best way to file your initial application for benefits and to check on a claim you have filed. This system also allows you to update your address, sign up for direct deposit, and more. Frances Online is available in Spanish and English\nFraud: Unemployment benefit fraud occurs when someone provides wrong information or withholds facts on purpose so they can get benefits. If you hide or report wrong information on purpose, that is fraud. Fraud is a crime and can result in penalties up to and including criminal prosecution.",
+    "metadata": {
+      "section_title": "Benefits: The money or credit given to eligible people.",
+      "page_number": 37
+    }
+  },
+  {
+    "section_id": "OR-98",
+    "content": "hat is fraud. Fraud is a crime and can result in penalties up to and including criminal prosecution. Learn more at unemployment.oregon.gov.\nFull-time work: Working 40 or more hours per week.\nGross earnings: The amount of money you get for work before taxes and deductions are taken out. Gross earnings should be higher than net earnings.\nHearing: A meeting to consider an unemployment benefit appeal. Each party (you and the employer, in most cases) can tell an impartial hearing officer what they believe are the relevant facts. You may have witnesses testify. You may ask questions of the other party. All testimony is given under oath.\nIdentity verification: You must verify your identity to receive benefits from the Unemployment Insurance Program. We may require identity verification at several points during your claim. We have multiple ways to verify your identity to make sure that only you have access to your information and benefits.",
+    "metadata": {
+      "section_title": "Benefits: The money or credit given to eligible people.",
+      "page_number": 38
+    }
+  },
+  {
+    "section_id": "OR-99",
+    "content": "ays to verify your identity to make sure that only you have access to your information and benefits. We use several tools to protect your information and your benefits while also preventing fraud.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 33 of 40\niMatchSkills: This is the Oregon Employment Department’s online job-matching tool. It uses your skills and work history to find potential work. The more details you supply, the better iMatchSkills can help you.\nInitial claim: An application for benefits establishes a benefit year. To find out if you qualify for benefits, you need to fill out an application. This is called filing an initial claim. You only file an initial claim once per benefit year.\nLeave of absence: You are on a leave of absence if your employer allowed you time away from work. This can include maternity leave, medical leave, or leave for other personal reasons.",
+    "metadata": {
+      "section_title": "Benefits: The money or credit given to eligible people.",
+      "page_number": 38
+    }
+  },
+  {
+    "section_id": "OR-100",
+    "content": "way from work. This can include maternity leave, medical leave, or leave for other personal reasons. If you are on a leave of absence with your employer, your work separation is NOT a lack of work.\nMaximum benefit amount (MBA): The maximum amount of benefits you may receive during a benefit year. This amount is based on the wages earned in the Base Period of a claim multiplied by the number of benefit weeks you are eligible for within the Claim Year. Your Monetary Determination notice lists this amount.\nMisconduct: Careless or deliberate behavior that results in a person being fired or suspended from their job. Examples include dishonesty related to employment, or violation of a company policy.\nMonetary determination: A form mailed to you after you file an initial claim for benefits. It explains if you are eligible for benefits, how much your payment will be each week, the maximum benefit amount, and other details for that Claim Year.",
+    "metadata": {
+      "section_title": "Benefits: The money or credit given to eligible people.",
+      "page_number": 38
+    }
+  },
+  {
+    "section_id": "OR-101",
+    "content": "h your payment will be each week, the maximum benefit amount, and other details for that Claim Year. This form lists all employers you worked for during the base period and the wages each employer reported each quarter. Be sure to check it for accuracy and notify Oregon Employment Department of any errors at 1-877-345-3484.\nNet earnings: Your take-home pay, after taxes and deductions are taken out.\nOregon Employment Department (OED): The Oregon Employment Department (OED) is a state workforce agency. We promote employment of Oregonians through developing a diversified, multi-skilled workforce, and provide support during periods of unemployment. Learn more at employment.oregon.gov.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 34 of 40\nOverpayment: An overpayment happens when you were paid benefits that you were not eligible for. Some overpayments happen when people give us inaccurate or partial information.",
+    "metadata": {
+      "section_title": "Benefits: The money or credit given to eligible people.",
+      "page_number": 39
+    }
+  },
+  {
+    "section_id": "OR-102",
+    "content": "re not eligible for. Some overpayments happen when people give us inaccurate or partial information. Agency errors also cause overpayments. Others may be caused when a decision we made is changed on appeal after we receive new information.\nWhen there are overpayments, we have a legal obligation to try to recover them. If you did not cause the overpayment, we normally “offset” that debt by deducting the amount of money owed from any future benefits you are eligible for.\nPartial benefits: The amount of benefits you may receive while working reduced hours (less than your typical work hours).\nReasonable assurance: For educators, you may be eligible to get benefits during a school recess period if you have not been given “reasonable assurance” that you will return after the break. Generally, reasonable assurance means you have an offer of work in the same or similar capacity with the same rate of pay (or within 90%).",
+    "metadata": {
+      "section_title": "Benefits: The money or credit given to eligible people.",
+      "page_number": 39
+    }
+  },
+  {
+    "section_id": "OR-103",
+    "content": "you have an offer of work in the same or similar capacity with the same rate of pay (or within 90%). The offer can be in writing, verbal, or implied. However, we must review your claim to make that determination. Read our school FAQs to learn more.\nSelf-employed: If you are working for yourself rather than an employer, you are self-employed.\nSeparation: When you or your employer end the working relationship. This can be due to quitting, discharge, or layoff.\nSeverance pay: An amount paid to an employee upon dismissal or discharge from employment.\nSuspension: An employer may tell an employee to temporarily stop working for a reason that is not a lack of work. This may be because of an investigation, disciplinary action, or for another administrative reason\nTraining Unemployment Insurance (TUI): This program lets eligible dislocated workers attend school and receive regular benefits at the same time so they can continue to care for their families and obtain employment.",
+    "metadata": {
+      "section_title": "Benefits: The money or credit given to eligible people.",
+      "page_number": 40
+    }
+  },
+  {
+    "section_id": "OR-104",
+    "content": "lar benefits at the same time so they can continue to care for their families and obtain employment. The program does not pay for the training itself, but instead removes the work-search requirements from your weekly claims while you attend school full-time. Learn more at unemployment.oregon.gov.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 35 of 40\nTemporarily unemployed: You may be temporarily unemployed if you have been laid off or had your hours reduced and expect to return to your employer. You must be returning to full-time work or work that pays more than your weekly benefit amount. There must not be more than four weeks between the week you became temporarily unemployed and the week you are returning to work. You are actively seeking work by staying in contact with your employer. If your return-to-work date changes and is beyond four weeks, you must begin actively seeking work at once.",
+    "metadata": {
+      "section_title": "Benefits: The money or credit given to eligible people.",
+      "page_number": 40
+    }
+  },
+  {
+    "section_id": "OR-105",
+    "content": "return-to-work date changes and is beyond four weeks, you must begin actively seeking work at once.\nUnemployed: Generally, you’re considered unemployed any week you work fewer than 40 hours and earn less than your weekly benefit amount.\nUnion attached: An active union member who gets work through a union hiring hall. If you are on the out-of-work list for dispatch, as verified by your union, you may be eligible for benefits by remaining available for work through your union.\nU.S. Bank ReliaCard®: The Employment Department pays benefits electronically either by a U.S. Bank ReliaCard Visa® debit card or direct deposit. If you don’t apply for direct deposit, you will be sent a ReliaCard.\nWaiting week: The waiting week is the first week you file a weekly claim and meet all eligibility requirements. Before you can start receiving benefits, Oregon law requires one waiting week per claim. You won’t be paid any money for the week, but claiming the week is required to receive credit for it as a waiting week.",
+    "metadata": {
+      "section_title": "Benefits: The money or credit given to eligible people.",
+      "page_number": 40
+    }
+  },
+  {
+    "section_id": "OR-106",
+    "content": "ny money for the week, but claiming the week is required to receive credit for it as a waiting week.\nWeekly benefit amount (WBA): Your weekly benefit amount (WBA) is 1.25% of your total base year gross earnings. Under Oregon law, it will not be less than the minimum or more than the maximum amounts you can receive. For example, a worker who earned $20 per hour, working 40 hours per week for the past year would get $520 per week in benefits. $20 x 40= $800 per week x 52 weeks = $41,600. $41,600 x 1.25% =$520.\nWeekly claim: A weekly certification in which you answer questions about your eligibility and earnings from work. To start getting benefits, you need to file a weekly claim. This is different from the initial claim. You have to file both to get your money. A weekly claim is how we figure out how much money to send you for that week.\nTo keep getting benefits, you need to file a weekly claim every week.",
+    "metadata": {
+      "section_title": "Benefits: The money or credit given to eligible people.",
+      "page_number": 41
+    }
+  },
+  {
+    "section_id": "OR-107",
+    "content": "Claimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 36 of 40\nWork Share: The Work Share program gives employers an alternative to laying off your workforce. It lets employers keep skilled employees during slow times by reducing work hours. Eligible staff whose hours are reduced get a portion of regular benefits to make up for the lost wages. Learn more about Work Share at unemployment.oregon.gov.\nWorkSource Oregon: WorkSource Oregon connects job seekers with thousands of available jobs and training opportunities and connects employers with qualified candidates. Services are free. WorkSource Oregon offers the following services:\n• Job referrals\n• Workshops covering subjects such as interview preparation, resume writing, and basic computer knowledge\n• Career planning\n• Education and training opportunities with scholarship help\n1099-G: A 1099-G is a tax form sent to people who got benefits. You use it when you are filing federal and state income taxes with the Internal Revenue Service (IRS) and Oregon Department of Revenue. You can download yours in Frances Online.",
+    "metadata": {
+      "section_title": "Benefits: The money or credit given to eligible people.",
+      "page_number": 41
+    }
+  },
+  {
+    "section_id": "OR-108",
+    "content": "You must wait until Sunday to claim benefits for the previous week. There are two ways you can file your weekly claim:\n• Frances Online\n• Go to: frances.oregon.gov\n• Available in English or Spanish\n• Weekly Claim Line\n• Call 800-982-8920\n• Available in English, Spanish, Russian, Vietnamese, and Cantonese\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 37 of 40",
+    "metadata": {
+      "section_title": "How do I file every week?",
+      "page_number": 42
+    }
+  },
+  {
+    "section_id": "OR-109",
+    "content": "Use a log such as the one shown below to keep track of the work-search activities you complete each week. Be sure to document the details of each action (what, when, where, and with whom). If possible, save a screenshot, email confirmation, or other evidence of your work-search action.\nState of Oregor mployment Department €",
+    "metadata": {
+      "section_title": "Appendix C – Sample work-search log",
+      "page_number": 42
+    }
+  },
+  {
+    "section_id": "OR-110",
+    "content": "Work Search Activities for the week beginning (Sunday Date) ______________________ ending on (Saturday Date) _____________________ Direct Contacts: Making direct contact with an employer. This could be in person, over the phone, submitting an online application or resume. Date Company Name Location Contact Method Type of Work Sought Results Additional Work Seeking Activities: Attending job placement meetings or workshops, networking, updating a resume, reviewing job placement websites or newspapers without responding to a job posting. Date Activity The Oregon Employment Department is an equal opportunity program/employer. The following services are available free of cost upon request: Auxiliary aids or services and alternate formats to individuals with disabilities and language assistance to individuals with limited English proficiency. Ask one of our staff for more information.\nOregon Employment Department • Oregon.gov/employ\nFORM 2554 (0120)",
+    "metadata": {
+      "section_title": "Record of Weekly Work Seeking Activities",
+      "page_number": 42
+    }
+  },
+  {
+    "section_id": "OR-111",
+    "content": "Store your documentation in a single location, such as one folder on your computer.\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 38 of 40",
+    "metadata": {
+      "section_title": "Tip for documenting work-search activities:",
+      "page_number": 43
+    }
+  },
+  {
+    "section_id": "OR-112",
+    "content": "You should take time each week to make a work-search plan. Thinking about what work-search actions you plan to do will help you stay on track with your work-search efforts.\nWrite down your plans below. For example, “I will send a job application to ABC Company on Friday morning.” As you complete your work-search actions, track your progress using the checkboxes below.\n1 My first Work Search Action will be: _____________________________ I will complete it on this date: ______________________ q Completed q Documented 2 My first Work Search Action will be: _____________________________ I will complete it on this date: ______________________ q Completed q Documented 3 My first Work Search Action will be: _____________________________ I will complete it on this date: ______________________ q Completed q Documented 4 My first Work Search Action will be: _____________________________ I will complete it on this date: ______________________ q Completed q Documented 5 My first Work Search Action will be: _____________________________ I will complete it on this date: ______________________ q Completed q Documented\nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 39 of 40\nUIPUB350 English (0126)  unemployment.oregon.gov \nClaimant Handbook | Unemployment Insurance Program | Oregon Employment Department | Page 40 of 40",
+    "metadata": {
+      "section_title": "Appendix D – Sample work-search plan",
+      "page_number": 44
+    }
+  }
+]

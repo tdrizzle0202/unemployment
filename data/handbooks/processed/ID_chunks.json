@@ -1,0 +1,865 @@
+[
+  {
+    "section_id": "ID-0",
+    "content": "JAHO DEPARTMENT OF LABOR",
+    "metadata": {
+      "page_number": 1
+    }
+  },
+  {
+    "section_id": "ID-1",
+    "content": "A Claimant’s Guide to the Requirements of the Idaho Employment Security Law",
+    "metadata": {
+      "section_title": "Claimant Handbook",
+      "page_number": 1
+    }
+  },
+  {
+    "section_id": "ID-2",
+    "content": "Read this book carefully or have someone read it to you. Remember, you must read and understand this handbook. A Spanish version of this handbook is available upon request.",
+    "metadata": {
+      "section_title": "IMPORTANT",
+      "page_number": 1
+    }
+  },
+  {
+    "section_id": "ID-3",
+    "content": "Lea este manual con cuidado o consiga alguien quien se lo lea o interprete. Recuerde, que usted debe leer y entender este manual. Una versión en español de este manual está disponible.\nThis handbook is for quick reference and should not be used as an official document. The official citation of the Employment Security Law is found in Title 72, Chapter 13 of the Idaho Code.\nNote: This handbook is intended for guidance only and should not be a substitute for specific legal advice. If legal advice is required, an attorney should be consulted.",
+    "metadata": {
+      "section_title": "¡IMPORTANTE!",
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "ID-4",
+    "content": "5 — ———",
+    "metadata": {
+      "section_title": "THERE’S A NEW GAME IN TOWN!",
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "ID-5",
+    "content": "Effective July 1, individuals who defraud Idaho’s unemployment insurance system will repay the entire amount in addition to penalties ranging from 25 percent for first-time offenders to 100 percent for third-time offenders, and they will have to wait a minimum of 52 weeks and repay fraudulently received benefits in full before obtaining future benefits.",
+    "metadata": {
+      "section_title": "Idaho Plays Hardball with Unemployment Insurance Fraud People who defraud Idaho’s unemployment insurance system will now face stiffer penalties!",
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "ID-6",
+    "content": "• Accurately represent your ability, availability and work search efforts while receiving benefits.\n• Fully and accurately report any weekly earnings you receive while drawing benefits.\n• Always report quitting, losing or refusing any job.\n• Discontinue applying to receive benefits after returning to full- time work.\n• Don’t use someone else’s identity to receive benefits.\n• Don’t try to collect benefits while on vacation.\n• Don’t help someone else file a fraudulent claim.",
+    "metadata": {
+      "section_title": "Avoid the penalties and potential criminal prosecution.",
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "ID-7",
+    "content": "2 June 2008\nThe Unemployment Insurance Handbook - Contents\nYour Unemployment Insurance Handbook is divided into sections. Each section answers questions or provides information about the Unemployment Insurance program. The types of questions answered or information provided in each section are listed below:\nPage Section Questions 5 General Information What is unemployment insurance? Who pays for it? What can I do if I feel there has been discrimination? Will my claim be audited? 6-7 Questions and Answers Do I really have to know and understand the information in this book? Was unemployment insurance taken out of my paycheck? Are my benefits taxable? Can I withhold taxes? Can child support payments be deducted from my payment? If I am disqualified, which wages can be used to requalify? Can I cancel my claim? Do I have to report my earnings if I work in another state? If I am traveling, how do I report? Do I have to look for work while traveling? What if I run out of money before my claim year is up? Do I have to seek work if I’m returning to my regular job? Can Idaho Department of Labor give out information on my claim? Can you help me find a job? Can I use a calling card to call the Tel-A-Claim system? What is a waiting week? 8 Eligibility Requirements What are the personal eligibility requirements? What is a base period? How much will I get and for how long? What if my monetary determination is wrong? 9 Denial and Requalification What can cause problems? What are the penalties? 10-15 Weekly Filing for Benefits Using The Tel-A-Claim and Internet processes.",
+    "metadata": {
+      "section_title": "For more information, see pages 19-21.",
+      "page_number": 3
+    }
+  },
+  {
+    "section_id": "ID-8",
+    "content": "at are the penalties? 10-15 Weekly Filing for Benefits Using The Tel-A-Claim and Internet processes. Tel-A-Claim or the Internet Where, when and how do I call? What if I make a mistake? Keep your PIN secret! What if I forget to file one week? Other information you can obtain. 16 Using the Idaho Continued Claim Filling out your claim form. Report Form When to return your claim form. 17-18 Earnings and Other Income What if I work while on unemployment? How much is taken from my benefit payment if I work? How do I report my earnings? What if I earn money on the side?\n3 June 2008\nThe Unemployment Insurance Handbook - Contents\n18-19 Payments and Messages How do I get a payment? What if my payment hasn’t come yet? What if my check is lost or stolen? What does the informational area on the check mean? 20-22 Overpayments and Fraud What is an overpayment? How will I know if I am overpaid? Do I have to pay the money back or can it be waived? How do you know when a claimant is cheating? What are the penalties for fraud? 23 Protests and Appeals What if I disagree with the decision? How long do I have to file a protest? Should I continue to file my reports? Who will make the decisions on my eligibility? Will I have to hire an attorney? 23 Restarting your Claim, Moving How do I get my claim going again? Changing Address What if I move out of state? Why and how do I tell you I moved? 24 Miscellaneous Information What is worker profiling? How do I get my 1099-G form for taxes? What is TAA/TRA? Reemployment and retraining for dislocated workers. 25-26 Work Search Record Document work search. 27 Addresses and Phone Numbers If you need to mail or call, the information is here.",
+    "metadata": {
+      "section_title": "For more information, see pages 19-21.",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "ID-9",
+    "content": "nt work search. 27 Addresses and Phone Numbers If you need to mail or call, the information is here. TDD phone number for Tel-A-Claim inquires. We’re on the Internet at labor.idaho.gov/iw.\nTo file for a week of benefits, open a new claim or reopen an existing claim\nvia the Internet, go to: labor.idaho.gov/iw\nThe TEL-A-CLAIM phone number is: 1 (208) 334-4700\nIn the Boise dialing area call: 334-4700\nOutside the Boise dialing area, call your local office and enter:\nOption 7\n4 June 2008\nGeneral Information\nUnemployment insurance provides financial assistance to workers unemployed through no fault of their own. In Idaho, workers do not pay any part of the cost of unemployment insurance. Unemployment insurance benefits are funded through a tax on employers, which is collected by Idaho Department of Labor and placed in a federal trust fund. Money from that fund can be used for unemployment benefits and for no other purpose.",
+    "metadata": {
+      "section_title": "For more information, see pages 19-21.",
+      "page_number": 5
+    }
+  },
+  {
+    "section_id": "ID-10",
+    "content": "ral trust fund. Money from that fund can be used for unemployment benefits and for no other purpose. Idaho Department of Labor is an equal opportunity employer. Auxiliary aids are available for any of the programs offered and are available upon request. If you feel you have been discriminated against in any agency policy or practice, you may file a complaint with the local office manager or the state’s Equal Opportunity Officer at Idaho Department of Labor, 317 W. Main St., Boise, Idaho, 83735; or the U.S. Department of Labor, Directorate of Civil Rights, 200 Constitution Avenue NW, Washington, DC 20210. All complaints must be filed within 180 days of the alleged discrimination. The information you and your employer provide to Idaho Department of Labor may be requested and utilized by other government agencies with which we have information disclosure agreements. Precautions will be taken by such agencies to protect the confidentiality of the information.",
+    "metadata": {
+      "section_title": "For more information, see pages 19-21.",
+      "page_number": 5
+    }
+  },
+  {
+    "section_id": "ID-11",
+    "content": "Each claim is subject to review by unemployment insurance claim auditors. This is an in-depth audit covering wages earned during your base period, the circumstances of your separation, your work search and earnings on claim reports. Routine audits of claims are conducted to ensure that the information reported is accurate.\nProtect your benefit rights.\nBe sure to follow all instructions.\nRead this information carefully and completely.\nIf there is anything you do not understand, ask your local representative.\nLet us know about any circumstances which would keep you from working or looking for work.\nKeep an accurate record of your work search activities.\nFraudulently claiming benefits may result in criminal prosecution and a loss of benefits.\n5 June 2008\nQuestions and Answers",
+    "metadata": {
+      "section_title": "For more information, see pages 19-21.",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "ID-12",
+    "content": "Yes. Failing to understand this information does not protect you from a possible denial. If you do not understand something or have a question about any of the information in this handbook, contact your local office. Your neighbors and friends may not have the right answers.",
+    "metadata": {
+      "section_title": "Do I really have to know and understand the information in this book?",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "ID-13",
+    "content": "No. Nothing comes out of your paycheck to support unemployment insurance. Your employer pays for the entire program.",
+    "metadata": {
+      "section_title": "Was unemployment insurance taken out of my paycheck?",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "ID-14",
+    "content": "Yes. Benefits are fully taxable income. You may elect to have federal taxes withheld at the rate of 10 percent from your unemployment insurance benefits. Idaho state taxes are not withheld. We will mail a statement (Form 1099-G) to your last known address showing the total amount of benefits you were paid the previous year. The statement is mailed to you and to the Internal Revenue Service by the end of January each year. You may also obtain this information online at labor.idaho.gov/iw. If you do not receive your statement by the second week of February and do not have Internet access, contact your local office. Benefits paid on Interstate claims will be reported by the paying state. If you have questions about your taxes, contact the IRS or a tax consultant.",
+    "metadata": {
+      "section_title": "Are my unemployment insurance benefits taxable?",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "ID-15",
+    "content": "Yes. If you owe child support payments, Health and Welfare has the right (through court order or agreement with you) to deduct a percentage from your benefit payment. (See page 24 for additional information.)",
+    "metadata": {
+      "section_title": "Can money be deducted from my benefit payment for child support payments?",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "ID-16",
+    "content": "You may cancel your claim at anytime by submitting a written request provided: 1) you did not misrepresent or fail to report a material fact in making the claim and 2) you agree to repay any benefits received. Ask us if you have questions about cancellations. Your claim is not canceled when you stop reporting.",
+    "metadata": {
+      "section_title": "Can I cancel my claim?",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "ID-17",
+    "content": "Yes. No matter where you are working, you MUST report your gross earnings while claiming benefits. We compare our records with employer records. We check Idaho payroll tax records as well as payroll tax records from other states.",
+    "metadata": {
+      "section_title": "Do I have to report earnings if I am working in another state while claiming against Idaho?",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "ID-18",
+    "content": "You may still call Tel-A-Claim or file your weekly claim online at labor.idaho.gov/iw. You should remember that if you are not in your local labor market area, you must answer question 4a: “Were you away from the area where you normally look for work?” or question 4b: “Were you away from the area where you normally work?” as “YES.” No payment for this week will be made until you provide additional information on your being out of the area. If you are using the Continued Claim Report form, mail it to your local office. Addresses are listed on page 27. If you do not have a Continued Claim Report form, contact a local office for assistance.",
+    "metadata": {
+      "section_title": "If I am traveling, how do I report?",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "ID-19",
+    "content": "If you are seeking work out of town, you must keep track of where you looked for work. You may be asked to provide the names and addresses of where you looked for work while you were out of town. We may also contact these employers to verify your work search. We cannot pay you for any week you are on vacation. Remember, if you leave town, even if you are on a temporary layoff, the primary purpose of your trip must be to look for work. You must be willing to accept a job in these other areas.\n6 June 2008\nQuestions and Answers (cont.)",
+    "metadata": {
+      "section_title": "Do I have to look for work while I am traveling?",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "ID-20",
+    "content": "Once you have qualified for benefits, you have a year, 52 weeks, to collect them. Unfortunately, you cannot file another Idaho claim until that existing benefit year is over. If you have worked in another state during the past two years, you may qualify for benefits from the other state. Your local office can help you. Sometimes when unemployment is very high, extended benefits may be available. You will be notified if extended benefits become available.",
+    "metadata": {
+      "section_title": "What if I run out of money before my claim year is up?",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "ID-21",
+    "content": "It depends on how long you expect to be laid off, how long you have worked for that employer and how many jobs are open in your area. You must look for work unless you are instructed not to.",
+    "metadata": {
+      "section_title": "Do I have to look for work if I am going back to my regular job?",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "ID-22",
+    "content": "We have very strict rules about releasing information. Certain state and federal agencies can get information but only what they need to do their job. The department may be required by law to share all claim information with each interested party. Former employers may be an interested party. We will not give information to your friends, family or anyone else unless you give us written permission to do so.",
+    "metadata": {
+      "section_title": "Can Idaho Department of Labor give out information about my claim?",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "ID-23",
+    "content": "Yes. Every local Idaho Department of Labor office has a job placement service to help you find a job in your area. They also have a listing of jobs throughout the state and nation. Ask your local Idaho Department of Labor consultant about job skill testing, how to look for work, how to write a resume and available training programs. You may check available jobs by going online at labor.idaho.gov/iw.",
+    "metadata": {
+      "section_title": "Can you help me find a job?",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "ID-24",
+    "content": "Yes, however, we have found that some calling cards do not work with Tel-A-Claim. This is because the phone call goes over the network of the company through which the calling card was purchased, and sometimes that system uses the # key to denote end of call, start of another call and other options. So, when you depress the # key after entering wages, the calling card network intercepts this signal first and disconnects the Tel-A-Claim call in progress. Before purchasing a calling card for use with Tel-A-Claim, please check with the company to make sure that the # key will work as expected during a Tel-A-Claim call. The preferred method for filing your weekly claim is via the Internet through our Web site: labor.idaho.gov/iw.",
+    "metadata": {
+      "section_title": "Can I use a calling card to call the Tel-A-Claim system?",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "ID-25",
+    "content": "After you establish your claim for unemployment insurance benefits, the first week you file a weekly report and meet all the eligibility requirements will be considered your WAITING WEEK. You will not be paid for the waiting week, but you must file a weekly report to get credit for the waiting week. If you earn more than 1 ½ times your weekly benefit amount in any week, then that week does not qualify as a waiting week, nor does it qualify for a benefit payment. If this happens, the next week reported on your claim that meets all eligibility requirements will be counted as your waiting week. You serve only one waiting week per benefit year.",
+    "metadata": {
+      "section_title": "What is a waiting week?",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "ID-26",
+    "content": "Yes. Although you will not receive payment for weeks claimed until your eligibility has been established, you must make a timely report for each week for which you are requesting payment. If you are found eligible, you will be paid for the weeks claimed after the eligibility determination has been processed.",
+    "metadata": {
+      "section_title": "Do I need to make a weekly report while I am waiting for a determination of eligibility?",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "ID-27",
+    "content": "If you lose your job and unemployment benefits are denied because you were separated for cause or because you refused another job, you must build a new earnings record to qualify for benefits in the future, and usually self-employment can be used to requalify. You must provide proof of the income earned from self-employment. During Extended Benefits, the wages used to requalify from a benefit denial must be earned in an employer-employee relationship. 7 June 2008\nEligibility Requirements\nLike other types of insurance, the unemployment insurance program requires that you meet certain conditions before qualifying to receive payment. To qualify, you must meet both personal and monetary eligibility requirements.",
+    "metadata": {
+      "section_title": "I was denied benefits for a job separation. Can I use earnings from self-employment to satisfy that disqualification and requalify for benefits in the future?",
+      "page_number": 8
+    }
+  },
+  {
+    "section_id": "ID-28",
+    "content": "Each week you claim, you must do certain things to receive a payment. You must be ready, willing and able to take any offer of suitable work. To be eligible, you must be:\nABLE TO WORK: You must be physically able to work full-time. Tell your local office if you cannot work because of illness, injury or some other physical or mental condition. Most health problems will not affect your claim as long as you are looking for the type of full-time work you can do. You may be disqualified if you have to refuse work due to illness.\nAVAILABLE FOR WORK: You must be ready to go to work. You cannot place unrealistic personal restrictions on such things as the hours you will work, the pay you will accept, locations you prefer to work and jobs you will take. You must be willing and able to accept both full-time and part-time work in jobs you can do during all the usual hours and days these jobs are done.",
+    "metadata": {
+      "section_title": "Personal Eligibility",
+      "page_number": 8
+    }
+  },
+  {
+    "section_id": "ID-29",
+    "content": "-time and part-time work in jobs you can do during all the usual hours and days these jobs are done. Limiting shifts, days or distance you will travel to work can make you ineligible. Availability for work is VERY IMPORTANT. For example, you must have childcare arranged, a way to get to work and no other personal commitments that prevent you from accepting a job.\nACTIVELY SEEKING WORK: You must try to find full-time work each week in accordance with the work-seeking requirements you received when you filed your claim. This applies even if you are working part time. You must be willing to accept part-time work while waiting for full-time work to become available. Actively seeking work means you must personally contact employers who hire people with your job skills. If you cannot find your normal kind of work, you must look for any other kind of work you can do. You must expand your work search and avoid re- contacting the same employer every week.",
+    "metadata": {
+      "section_title": "Personal Eligibility",
+      "page_number": 8
+    }
+  },
+  {
+    "section_id": "ID-30",
+    "content": "As your period of unemployment lengthens you may be required to look for another kind of work, accept a lower pay or search in other locations for a job. The local office can help you find work. Ask us how or go online at labor.idaho.gov and click on “Find Jobs”. You MUST keep a personal record of your job contacts. This must include the employer name, address, phone number, person contacted, date of contact and the results of the job contact. We may ask you to provide your work search record (in person or online) to verify your contacts. Keep looking for work as long as you are unemployed. If Idaho Department of Labor offers you a job referral to suitable work, you may be denied benefits if you refuse to accept the referral or fail to make contact with the employer. If you are job attached, you must maintain contact with your employer and return as soon as work becomes available. If you have not been required to make work search contacts because you have a date to return to work or you obtain work through a union, you must notify your local office if these conditions no longer apply.\nOUT OF WORK THROUGH NO FAULT OF YOUR OWN: You must have been laid off due to lack of work, voluntarily quit with good cause connected with the employment or been discharged but not for misconduct. If your reason for separation is other than lack of work, a written determination regarding your eligibility will be issued to you.",
+    "metadata": {
+      "section_title": "Personal Eligibility",
+      "page_number": 8
+    }
+  },
+  {
+    "section_id": "ID-31",
+    "content": "Shortly after your new claim is filed, you will receive a statement in the mail called a Monetary Determination. This statement shows:\nBASE PERIOD: The wages paid to you by employers who have contributed to the unemployment insurance fund during your base period (the first four of the last five completed quarters before the beginning of your claim) and the total amount you were paid in each quarter. If these wages qualify you for benefits, that statement will also show your weekly benefit amount and your total benefit amount. Your WEEKLY BENEFIT AMOUNT is the full amount you may receive for one week of unemployment. Your TOTAL BENEFIT AMOUNT is the maximum amount you may collect during the 52 weeks of your claim. If you are eligible for benefits, your first payment should arrive by mail three to four weeks after you have filed your claim.\nIF YOUR MONETARY DETERMINATION IS INCORRECT: You should immediately notify your local office if any of your wages are not shown, are not shown in the right quarter or if wages are listed which you did not earn. Gather your check stubs, W-2 statements, pay slips or other documentation and ask for a MONETARY REDETERMINATION. Important Note: Continue to file on your claim while waiting for your monetary redetermination. Any benefits you receive based on an incorrect monetary determination are subject to repayment.\n8 June 2008",
+    "metadata": {
+      "section_title": "Monetary Eligibility",
+      "page_number": 9
+    }
+  },
+  {
+    "section_id": "ID-32",
+    "content": "A denial may be imposed if:\nRequalification may occur if:\nYou left work without good cause connected with your employment, were discharged for work-related misconduct or refused suitable work or a referral to suitable work. You return to work and earn at least 14 times your weekly benefit amount and become unemployed again through no fault of your own. You are not able to work, are not available for You are able to be easily reached for referral to jobs, and you are work or are not actively seeking full-time work. willing to work part-time while you continue to look for full-time work. You must have adequate transportation, and have personal circumstances arranged so nothing will prevent your accepting suitable work. You must not place undue restrictions on your availability for work, such as demanding higher pay than is normal for the area.",
+    "metadata": {
+      "section_title": "Denial and Requalifications",
+      "page_number": 9
+    }
+  },
+  {
+    "section_id": "ID-33",
+    "content": "estrictions on your availability for work, such as demanding higher pay than is normal for the area. This is a week-to-week denial. It ends when you notify Idaho Department of Labor staff you are again able to work, available for work and actively seeking work. You are self-employed as your principal occupation. Your principal occupation is no longer self-employment. You are unemployed due to a strike in which you are actively involved. Your unemployment is no longer due to a strike. You may also be denied if: For the following categories, there is no requalification, because: You fail to contact an Idaho Department of Labor You are denied for each week you fail to contact the office. You office when directed to do so. may requalify for subsequent weeks if you contact the office and take care of the issues causing the denial. You fail to participate in claimant profiling or re- You are denied for each week you fail to participate in a planned employment assistance as required. profiling or re-employment event.",
+    "metadata": {
+      "section_title": "Denial and Requalifications",
+      "page_number": 9
+    }
+  },
+  {
+    "section_id": "ID-34",
+    "content": "ail to participate in a planned employment assistance as required. profiling or re-employment event. You may requalify for subsequent weeks if you report as directed. You make false statements or withhold information in order to obtain benefits. You must repay any overpayment, and you will be disqualified from benefits for 52 weeks and until the resulting overpayment, penalty and interest are completely repaid to Idaho Department of Labor. You are denied benefits for each week you fail to meet your work You fail to look for work or fail to provide us seeking requirements or fail to provide us with your work search with a record of your work search when record. You may requalify for subsequent weeks by resuming a requested to do so. legitimate work search or providing the requested work search record. You are employed by an educational institution and are between terms, school years or during Wages earned as a school employee cannot be used if you have holiday breaks. reasonable assurance of returning to work when school resumes.",
+    "metadata": {
+      "section_title": "Denial and Requalifications",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "ID-35",
+    "content": "t be used if you have holiday breaks. reasonable assurance of returning to work when school resumes. You are an alien and are not legally permitted to work in the United States. You cannot be paid benefits if you do not have legal authorization to work in the United States, or wages in your base period were earned when you were not legally authorized to work in the United States.\n9\nJune 2008\nWeekly Filing Using Tel-A-Claim or the Internet\nThree methods exist to file and receive benefits. The preferred and quicker method is the Internet Continued Claims system (labor.idaho.gov/iw). You file weekly using your computer or by coming into a Department of Labor office and use one of our lobby machines. This easy, fast and convenient system uses no paper, and you get paid once a week. No postage is involved. You will have to pay long-distance charges if you reside outside the Boise calling area and choose the telephone reporting method.",
+    "metadata": {
+      "section_title": "Denial and Requalifications",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "ID-36",
+    "content": "ance charges if you reside outside the Boise calling area and choose the telephone reporting method. Calls can be made during the “off hours” and only last a few minutes. The other filing method, the continued claim report system is described on page 16.\nESTABLISHING A PIN: If you already established a PIN for IdahoWorks, you will enter that same PIN for the Internet Continued Claims or the Tel-A-Claim systems.\nIf you have received services in the past and are in IdahoWorks, but have not established a PIN for using IdahoWorks, you must create a PIN in order to access the Internet Continued Claims or Tel-A-Claim systems. To establish a PIN, you must enter the month and year of your birth as your temporary PIN. For example, if you were born on 4-6-1958, your PIN would be 0458. Next, you will be instructed to enter the temporary PIN again and then to select a permanent four-digit PIN that you will enter twice.",
+    "metadata": {
+      "section_title": "Denial and Requalifications",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "ID-37",
+    "content": "ter the temporary PIN again and then to select a permanent four-digit PIN that you will enter twice. You will then use the permanent PIN you have created each time you access the Internet Continued Claim or Tel-A-Claim systems. Your PIN serves as your signature. You are responsible for all transactions using your PIN. DO NOT SHARE YOUR PIN OR KEEP IT WRITTEN WHERE OTHERS MAY FIND IT! You will be held responsible for benefits fraudulently claimed under your PIN. If you forget your PIN, contact your local office where a consultant will reset your PIN. Office telephone numbers are listed on page 27. IMPORTANT NOTE: Remember your PIN. No one at Idaho Department of Labor will know your permanent PIN.\nINTERNET CONTINUED CLAIMS FILING: To use the Internet Continued Claims system, you will need access to a computer and the internet. Before using the Internet Continued Claims system, you should carefully read and understand how to file a claim using the Tel-A-Claim system.",
+    "metadata": {
+      "section_title": "Denial and Requalifications",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "ID-38",
+    "content": "s system, you should carefully read and understand how to file a claim using the Tel-A-Claim system. The questions you will answer on the Internet Continued Claims system will be the same questions that are asked on the Tel-A-Claim system. To access Internet Continued Claims, log on to: labor.idaho.gov/iw and follow the step-by-step instructions for filing an Internet Continued Claim. When responding to the questions on the Internet Continued Claims system, you may change any responses given before submitting your claim. Once you have submitted your claim, your responses cannot be changed. If you need to change a response after submitting your Internet Continued Claims report, you must contact your local office. If you have questions regarding the Internet Continued Claims system, please contact your local office. The phone number is on page 27.\nTEL-A-CLAIM FILING: To use Tel-A-Claim, you need to use a touch-tone phone.",
+    "metadata": {
+      "section_title": "Denial and Requalifications",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "ID-39",
+    "content": "Rotary and pulse-dial phones will not work. Many phones are equipped with a switch that changes the phone function from pulse-dial to touch-tone. Cell phones will work with the Tel-A-Claim system.\nWHERE DO I CALL? Call Tel-A-Claim at 1 (208) 334-4700. If you live outside the Boise dialing area, call your local office and select option 7 from the automated menu. Local office numbers are listed on page 27 of this handbook. If you live in the Boise dialing area, call 334-4700. TTY claimants may call Idaho Relay Service by dialing 711 and then providing the phone number to Tel-A-Claim.\nWHEN DO I CALL? A benefit week begins at 12:01 a.m. on Sunday, and ends at 12:00 midnight the following Saturday. You have seven full days following the Saturday week ending date to make your call to Tel-A-Claim or to file online.\n10 June 2008",
+    "metadata": {
+      "section_title": "Denial and Requalifications",
+      "page_number": 11
+    }
+  },
+  {
+    "section_id": "ID-40",
+    "content": "Example: Sunday Monday Tuesday Wednesday Thursday Friday Saturday 1 (Start of 2 3 4 5 6 7 week) (Weekending date.) 8 (Call 9 10 11 12 13 14 between …midnight of 12:01 a.m. this day. Mtn Mtn. time Time.) this day and\nFor example, let’s say your first week runs from the 1st through the 7th. You would call Tel-A-Claim or file online during the week of the 8th through the 14th. The earlier you file, the earlier your claim is processed. In order to have your claim processed on the same business day you call, you must complete the Tel-A-Claim or online process before 6 p.m. Mountain Time. If you call or file after that time, your claim will be processed the next day. Claims made on weekends are processed the first working day of the following week.\nWHAT’S MY PIN? To use the Tel-A-Claim system for payment or inquiry, you must use a Personal Identification Number or PIN.",
+    "metadata": {
+      "section_title": "Weekly Filing Using Tel-A-Claim or the Internet (cont.)",
+      "page_number": 11
+    }
+  },
+  {
+    "section_id": "ID-41",
+    "content": "the Tel-A-Claim system for payment or inquiry, you must use a Personal Identification Number or PIN.\nHOW DO I CALL? Tel-A-Claim is available in English and Spanish, and it will ask you first to choose which language you want. The system will present you with menu choices. To file for a week, choose option 1. Next, Tel-A-Claim will ask for your social security number. You enter the number using the numbers on your telephone keypad. The system will repeat the number back to you and ask you to verify your entry. Tel-A- Claim will then ask for your PIN. After entering your PIN, the system will repeat it and then ask you to verify it. The system will now tell you that you are filing for a specific week and give you the week ending date.\nTel-A-Claim now gives you this message: “By using this system, you agree to have your answers become part of your claim record. You are certifying that your answers are true and accurate to the best of your knowledge.",
+    "metadata": {
+      "section_title": "Weekly Filing Using Tel-A-Claim or the Internet (cont.)",
+      "page_number": 11
+    }
+  },
+  {
+    "section_id": "ID-42",
+    "content": "Under Idaho law, you could be penalized for giving false answers or for withholding information.” Please stay on the line until all questions are answered and verified. If you hang up before the system tells you that your report is complete, your answers will not be recorded, no week will be claimed and you will have to call again. Please wait for the system to tell you good-bye before you hang up.\nTel-A-Claim now asks you the eligibility questions that you must answer for each week. To answer the questions, press 1 for YES, 9 for NO or 0 to REPEAT the question. A short explanation of each question or set of questions is given here to help you understand the eligibility requirements for receiving unemployment insurance benefits. Questions 1-6 ask if you were able to work, available for work and actively seeking work, as required. To be eligible for benefits, a claimant must be able to work, available for work and actively seeking work. The number of job contacts you must make each week was given to you at the time you filed for your benefits. If you are not sure of the number of job contacts you must make per week, contact the local office where you filed. The telephone numbers are listed on page 27.\n11 June 2008\nWeekly Filing Using Tel-A-Claim or the Internet (cont.)",
+    "metadata": {
+      "section_title": "Weekly Filing Using Tel-A-Claim or the Internet (cont.)",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "ID-43",
+    "content": "If you were not able to work, you must answer “No” to this question. If you answer “No” to this question, we will require you to give us additional information so a decision can be made on your eligibility for this week. At the end of the Tel-A-Claim process, you will be instructed to contact your local office to provide additional information.",
+    "metadata": {
+      "section_title": "1) During the week claimed, were you physically able to work each day?",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "ID-44",
+    "content": "If you are not available for work, you must answer “No” to this question. If you answer “No” to this question, we will require you to give us additional information so a decision can be made on your eligibility for this week. At the end of the Tel-A-Claim process, you will be instructed to contact your local office to provide additional information.",
+    "metadata": {
+      "section_title": "2) Were you available for work each day?",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "ID-45",
+    "content": "You must seek work as you were instructed to by your local office. If you did not make the required number of job contacts, you must answer “No” to this question, and additional information will be needed to make a decision on your eligibility for benefits for this week.\nIf you are employer-attached or union-attached. your work-seeking question will be:",
+    "metadata": {
+      "section_title": "3a) Did you look for work as agreed in your work-seeking plan?",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "ID-46",
+    "content": "A job-attached claimant must remain in contact with his or her employer and be available for suitable work for each week that he or she files. A union-attached claimant must remain in contact with his or her union. If you are no longer employer-attached or union-attached, contact your local office to update your work-seeking requirements.",
+    "metadata": {
+      "section_title": "3b) Did you maintain contact as required with your employer or union?",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "ID-47",
+    "content": "See 4c. Or if you are job-attached, the question will be:",
+    "metadata": {
+      "section_title": "4a) Were you away from the area where you normally look for work?",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "ID-48",
+    "content": "See 4c. Interstate claimants will be asked:",
+    "metadata": {
+      "section_title": "4b) Were you away from the area where you normally work?",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "ID-49",
+    "content": "You must remain fully available for work. If you were away from the area where you normally look for work, or the area you normally work in or live in, during any part of the week for which you are filing, you must answer “Yes” to this question. If you answer “Yes” at the end of the Tel-A-Claim process, you will be instructed to contact your local office to provide additional information.",
+    "metadata": {
+      "section_title": "4c) Were you away from the local area where you are now living?",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "ID-50",
+    "content": "If you were offered a job and had to turn it down, or if you were scheduled to work and for some reason did not work, you must answer “Yes” to this question. If you answer “Yes” at the end of the Tel-A-Claim process, you will be instructed to contact your local office to provide additional information.",
+    "metadata": {
+      "section_title": "5) Did you refuse or miss available work?",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "ID-51",
+    "content": "Any week that you attend schooling or training, you must answer “Yes” to this question. If you are attending school or training and have not previously reported it, you will be advised to contact your local office to provide additional information. If you have already reported the schooling to your local office, you will not need to provide any additional information. Tel-A-Claim will let you know if additional information is needed.\nThe system will now repeat your answers to questions 1-6, in order to confirm that your answers are recorded accurately. If they are all correct, you will press 1. If there is an error, press 9 and the questions will be repeated. If you repeat the questions, you must answer all the questions as they are repeated.\n12 June 2008",
+    "metadata": {
+      "section_title": "6) Did you attend school or training?",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "ID-52",
+    "content": "Question 7 asks you to report any earnings from regular employment and any separations that may have occurred from this employment. Income from employment must be reported in the week it is earned. Please refer to page 17 to review how to report earnings. Report all earnings. Include all gross wages for any work you perform during any week you claim benefits. This can include cash payment, commission sales, tips and gratuities, working to pay off bills, National Guard or Reserve drill pay and reasonable cash value of room and board, groceries, clothes or any other valuable consideration.\nIf you are not able to determine the exact amount you earned, you must estimate weekly earnings as closely as possible. If you do estimate your earnings, you must contact your local office when you receive the correct earnings information.",
+    "metadata": {
+      "section_title": "Weekly Filing Using Tel-A-Claim or the Internet (cont.)",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "ID-53",
+    "content": "Misreported or under reported earnings will be found in an audit weeks or months later and may result in severe criminal, civil and administrative penalties.\nIf you find yourself in a situation where you are working and not receiving pay for the hours worked, contact your local office for instructions on how to report. All hours worked must be reported, even if compensation is not expected. Refer to page 17 for the definition of work.\nIf you make a mistake on the following questions, you will only be able to change the dollar amounts which you enter. If you make an error answering the yes/no part, you will have to contact your local office to make the correction.",
+    "metadata": {
+      "section_title": "Weekly Filing Using Tel-A-Claim or the Internet (cont.)",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "ID-54",
+    "content": "If you answer “Yes,’’ indicating you worked for an employer, the question continues:\n7a) Enter the total amount you earned from all employers, plus tips, before any deductions were made. Enter total dollars and cents you earned during the week, followed by the pound key (#).",
+    "metadata": {
+      "section_title": "7) Did you work for any employers during the week claimed, including National Guard or Reserve?",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "ID-55",
+    "content": "If you earned $188.98 before any deductions, you would enter the following on your telephone key pad:",
+    "metadata": {
+      "section_title": "Example:",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "ID-56",
+    "content": "Example:\nIf you earned $100.00 before any deductions, you would enter the following:",
+    "metadata": {
+      "section_title": "18898#",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "ID-57",
+    "content": "The system speaks back the amount you entered and asks you to confirm it by entering 1 for yes or 9 for no. Remember, your gross earnings must be reported as earned. Please see pages 17-18 for an explanation of how earnings may reduce your weekly benefit amount.",
+    "metadata": {
+      "section_title": "7b) You entered $___________.",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "ID-58",
+    "content": "If you are employed full-time during the week, you will not receive any benefits, regardless of the amount you earned. In general, 40 hours per week is considered full-time employment with a few exceptions. If you have any questions regarding whether your work was full-time, contact your local office.",
+    "metadata": {
+      "section_title": "7c) Did you work full-time hours for the entire week?",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "ID-59",
+    "content": "If you have separated from a job during the week for other than “lack of work,” then you need to answer “Yes” to either question 7d or 7e. Any separation from an employer, except for lack of work, must be investigated to see if you still meet the eligibility requirements for unemployment insurance. If you do answer “Yes” to question 7d or 7e, you must contact your local office. If you have any question in your mind regarding what type of separation occurred from your job, contact the local office.\n13 June 2008\nWeekly Filing Using Tel-A-Claim or the Internet (cont.)\n8) Were you self-employed during any part of the week claimed?\nYou are considered self-employed when you are engaged in an independently established trade or occupation and are not controlled or directed by an employer in the performance of your work. Earnings are considered to be your gross income, unless you provide evidence of expenses which are absolutely required to perform your work and not common to expenses while working for an employer.\nIf you answer “Yes,” indicating that you were self-employed, the message continues as follows:\n8a) Enter the total amount you earned from self-employment, plus tips, before any deductions were made. Enter total dollars and cents you earned during the week followed by the pound key (#).\nExample: If you earned $175.35 in self-employment, press: 17535# Example: If you did not earn any type of pay, press: 0#",
+    "metadata": {
+      "section_title": "7e) Were you fired from any job during the week?",
+      "page_number": 14
+    }
+  },
+  {
+    "section_id": "ID-60",
+    "content": "The system speaks back the amount you entered and asks you to confirm it by entering 1 for yes and 9 for no.",
+    "metadata": {
+      "section_title": "8b) You entered $_________.",
+      "page_number": 14
+    }
+  },
+  {
+    "section_id": "ID-61",
+    "content": "If your self-employment involved working more than 40 hours in the week, you will be considered to be fully employed and not eligible for benefits.\n9) During the week claimed, did you receive any holiday, bonus, severance or vacation pay?\nHoliday: If you received, or are going to receive, holiday pay, enter that amount in the week in which the holiday occurs.\nBonus or Severance Pay: Report the amount of the lump sum payment in the week in which the payment is received. If you are to be paid more than one payment in severance pay from an employer, report an equal portion of the pay for each week claimed during the period covered by the payment. See page 17 for more information.\nVacation: If you received, or are going to receive, vacation pay, enter the amount for the week(s) you are actually on vacation.",
+    "metadata": {
+      "section_title": "8c) Did you work 40 hours or more in self-employment?",
+      "page_number": 14
+    }
+  },
+  {
+    "section_id": "ID-62",
+    "content": "If your employer assigns vacation pay to certain weeks, report your vacation pay during those assigned weeks whether you take your vacation then or not. If you receive a lump- sum payment for unused vacation time, report that amount in the week in which the payment is received.\nIf you answer “Yes” to question 9, Tel-A-Claim continues on:\n9a) Enter the total amount you received before any deductions were made. Enter total dollars and cents followed by the pound key (#).\nExample: If you received $100.45 in other income, press: 10045#\n9b) You entered $__________.\nThe system speaks back the amount you entered and asks you to confirm it by entering 1 for yes or 9 for no. Your unemployment may be reduced if you have other earnings. Please refer to page 17 for an explanation of this reduction.\n14 June 2008",
+    "metadata": {
+      "section_title": "8c) Did you work 40 hours or more in self-employment?",
+      "page_number": 15
+    }
+  },
+  {
+    "section_id": "ID-63",
+    "content": "10) During a prior week, you reported earnings. The following employer information is required. At the tone, speak the name of the employer followed by the pound key (#).\nAt the tone, speak the mailing address for the employer; include street, city, state and zip code, followed by the pound key (#).\nAt the tone, speak the last date worked for the employer; include month, day and year, followed by the pound key (#).",
+    "metadata": {
+      "section_title": "Weekly Filing Using Tel-A-Claim or the Internet (cont.)",
+      "page_number": 15
+    }
+  },
+  {
+    "section_id": "ID-64",
+    "content": "MISTAKES: Remember that questions 1-6 allow you to correct a yes/no mistake. Those questions will be repeated for you and allow you to correct any mistakes. Questions 7-9 only allow you to correct a dollar amount mistake. If you answer questions 7-9 incorrectly, you will have to contact your local office to correct the mistake.\nWHAT IF I FORGET TO FILE ONE WEEK? If you forget to call Tel-A-Claim for one week, and you wish to file for that week, report to your local office for information. The local office will gather information from you to determine if you can be paid for that week. Tel-A-Claim will allow you to skip one week of filing and still keep your claim open. However, if you skip two weeks of filing, your claim will go inactive. You will have to reopen your claim. Refer to instructions on page 23.",
+    "metadata": {
+      "section_title": "11) This completes your report for week ending (date). Thank you for using the Tel-A-Claim system. Good – Bye.",
+      "page_number": 15
+    }
+  },
+  {
+    "section_id": "ID-65",
+    "content": ", your claim will go inactive. You will have to reopen your claim. Refer to instructions on page 23. You will also have to reopen your claim if you report two successive weeks of earnings over 1½ times your weekly benefit amount, in other words you earned too much money to receive unemployment insurance benefits during each of those two weeks. Idaho does NOT allow backdating to any prior week. If you do not submit your weekly claim as instructed, you will be denied benefits for the period you are claiming.\nPAYMENT HISTORY: Claim information may be accessed online at labor.idaho.gov/iw. Click on the “Payment Summary” button. Types of information you can access are: 1) The date when your last payment was issued, 2) The amount of the payment, when it was mailed and deductions from the weekly benefit amount, 3) The balance remaining on your claim, 4) Information on the last week claimed to see if it was a waiting week, whether you had excessive earnings, exhausted benefits or have an eligibility issue pending.\n15 June 2008\nUsing the Continued Claim Report Form\nHOW DO I FILE? If, for some reason, you cannot use the Internet Continued Claim or Tel-A-Claim reporting systems, this section explains how to file using the Continued Claim Report form.",
+    "metadata": {
+      "section_title": "11) This completes your report for week ending (date). Thank you for using the Tel-A-Claim system. Good – Bye.",
+      "page_number": 16
+    }
+  },
+  {
+    "section_id": "ID-66",
+    "content": "-A-Claim reporting systems, this section explains how to file using the Continued Claim Report form. The Continued Claim Report form is a card which must be filled out by hand and either mailed or hand delivered to the local office. This card usually covers a two-week period so you are paid once every two weeks. There is always the chance a card can be lost or destroyed. Please consider these things, and if possible, use the Tel-A-Claim or Internet Continued Claim systems.\nFILLING OUT YOUR CLAIM FORM: Your Continued Claim Report form will usually cover a two-week period. The first eligible week of your claim is the waiting week and not a payable week (see page 7). The first two lines contain pre-printed identification data such as your social security number and telephone number. Please change preprinted information if it is incorrect. The Week Ending Date for Week 1 and Week 2 is preprinted.",
+    "metadata": {
+      "section_title": "11) This completes your report for week ending (date). Thank you for using the Tel-A-Claim system. Good – Bye.",
+      "page_number": 16
+    }
+  },
+  {
+    "section_id": "ID-67",
+    "content": "preprinted information if it is incorrect. The Week Ending Date for Week 1 and Week 2 is preprinted. For unemployment insurance purposes, a report period is one week, and week ending dates are always a Saturday. Each week starts at 12:01 a.m. on Sunday and ends at midnight the following Saturday.\nAnswer the questions for each week you are filing for by checking yes or no. The questions are very similar to the Tel-A-Claim questions explained in this book (pages 10-14). Questions 1-6 are the same as Tel-A-Claim. See explanation on pages 11-12. Explanations about earnings and other income are on pages 17-18. If you do work during the weeks for which you are filing, you must list the employer’s name and address in the section which asks for the “WEEK 1 EMPLOYER” or “WEEK 2 EMPLOYER.” In the part that asks for “Last day worked this week (Mo/Day/Yr),” list the last day you worked during the week for which you are filing.",
+    "metadata": {
+      "section_title": "11) This completes your report for week ending (date). Thank you for using the Tel-A-Claim system. Good – Bye.",
+      "page_number": 16
+    }
+  },
+  {
+    "section_id": "ID-68",
+    "content": "orked this week (Mo/Day/Yr),” list the last day you worked during the week for which you are filing. If you separate from an employer for other than lack of work, check the appropriate box that asks: “If you are no longer working for any of the above employers, for other than lack of work, mark the appropriate box.” Be prepared to report to your local office with additional information on the separation if it has not already been provided.\nWHEN TO RETURN YOUR FORM: You must mail or deliver to your local office a properly completed Continued Claim Report form that asks for payment or waiting week credit, for a specific one-week or two-week period. When you submit a Continued Claim Report form, another blank form is automatically mailed to your last known address. If you do not receive a new claim report in the mail, please contact your local office for another claim report. IF MAILED: Your Continued Claim Report must be postmarked by midnight on the 9th day following the week(s) being claimed (23rd in the example below).",
+    "metadata": {
+      "section_title": "11) This completes your report for week ending (date). Thank you for using the Tel-A-Claim system. Good – Bye.",
+      "page_number": 16
+    }
+  },
+  {
+    "section_id": "ID-69",
+    "content": "IF DELIVERED: Your Continued Claim Report must be placed in a receptacle for that purpose or handed to an authorized representative of Idaho Department of Labor by the 9th day following the last week(s) being claimed (23rd in the example below). A claim report cannot be accepted which has been deposited under or through the doors of your local office.\nExample: S M T W T F S S M T W T F S S M T W T F S S M 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 Week 1 Week 2 Card report would cover Week 1 and Week 2 Card should be delivered during this period.",
+    "metadata": {
+      "section_title": "11) This completes your report for week ending (date). Thank you for using the Tel-A-Claim system. Good – Bye.",
+      "page_number": 16
+    }
+  },
+  {
+    "section_id": "ID-70",
+    "content": "Please allow at least seven days from the date you submit your Continued Claim Report for delivery of any payment. Calling before the seven days have passed will cause further delays in processing all mail. Do not assume benefits have been denied or that something is wrong because your payment does not arrive on the same day each period. If you return to work on a full-time basis or for some other reason you wish to stop filing on your claim, you do not need to take any special action. Just stop sending in your Continued Claim Reports and your claim will automatically be inactivated.\nNOTE: Interstate Claimants ― individuals not living in Idaho ― must always mail Continued Claim Reports directly to the Interstate Unit in Boise. The address is: Interstate Claims, 317 W. Main St., Boise, Idaho 83735. If you do not live in Idaho, you may obtain a Continued Claim Report by calling the Interstate Claims Unit in Boise, Idaho, at (208) 332-3574.\n16 June 2008",
+    "metadata": {
+      "section_title": "If you do not mail or deliver your Continued Claim Report as instructed, you will be denied benefits for the period you are claiming.",
+      "page_number": 17
+    }
+  },
+  {
+    "section_id": "ID-71",
+    "content": "If you work during the time you claim benefits, you may continue to receive some or all of your benefits depending on the number of hours you work and how much you earn. Your gross earnings must be reported in the week earned, not the week paid. The wages you earn during a week for which you claim benefits will affect your payment in one of the following ways:\n1) You can earn up to one half of your weekly benefit amount and still receive the full weekly benefit amount for that week. However, you must still report all amounts earned each week, even if gross earnings are less than half your weekly benefit payment.\nExample: If your weekly benefit amount is $100 and you earn $47 in gross earnings, you will receive a payment for $100.\n2) If you earn more than one half of your weekly benefit amount, you will receive a dollar-for-dollar reduction for every dollar you earn over one half of your weekly benefit amount for that week.",
+    "metadata": {
+      "section_title": "Earnings and Other Income",
+      "page_number": 17
+    }
+  },
+  {
+    "section_id": "ID-72",
+    "content": "Example:\nIf your weekly benefit amount is $100 and you earn $85 in gross earnings, you have earned $35\nover one half of your weekly benefit, and you will receive a payment for $65 ($100-$35).\n3) If you work full-time, or if you earn 1½ times your weekly benefit amount or more in gross earnings in one week, you will not receive a benefit payment for that week. Full-time is generally considered 40 hours per week for most occupations. If you earn over 1½ times your weekly benefit amount for two consecutive weeks, you must reopen your claim during the third week if you wish to claim for that week.\nExample:\npymnt o thatwe\nIf you worked full-time, or earned $150 or more in gross earnings, and your weekly benefit amount\nwas $100, you would not receive a payment for that week.\nNOTE: To qualify for these partial benefits, you must work all the hours available to you. Money reduced from your payment is not “lost” but remains in your account for possible future use on your claim.",
+    "metadata": {
+      "section_title": "Earnings and Other Income",
+      "page_number": 17
+    }
+  },
+  {
+    "section_id": "ID-73",
+    "content": "Earnings must be reported in the week in which you earn them. The information in this section covers the different types of earnings you may have and how to report them. If you have questions regarding how to report income or hours worked while on unemployment, contact your local office. The phone numbers are listed on page 27.\nREGULAR EARNINGS: You must report your gross earnings during the week you earn them. You do not report the earnings in the week they are paid to you. If you work for an employer who uses a delayed payment system, keep track of your hours worked each week and multiply this by your hourly wage rate. This amount must be reported as earned during the week in question. If you have claimed and reported earnings over 1½ times your weekly benefit and no unemployment insurance benefits were due you for two consecutive weeks, you will not be able to claim another week unless you have reopened your claim during that week.",
+    "metadata": {
+      "section_title": "HOW TO REPORT EARNINGS",
+      "page_number": 17
+    }
+  },
+  {
+    "section_id": "ID-74",
+    "content": "SELF-EMPLOYMENT: You must report all earnings regardless of their source. This includes earnings from self- employment as well as those earned in an employer-employee relationship. If you are involved in a self- employment venture, you should contact your local office for assistance in determining how to compute and report your earnings. See page 13, question #8a for more information.\nHOLIDAY, BONUS OR SEVERANCE PAY: Holiday pay is reportable for the week in which the holiday occurs. For bonus or severance pay, report the amount of the lump sum payment in the week in which the payment is received. If you are to receive more than one payment for severance pay from an employer, report an equal portion of pay for each week claimed during the period covered by the payment. For example, the total amount of your severance payment divided by the number of weeks in the period covered by that payment equals the amount you should report for each week you claim benefits.\nWORK: Time spent in all services performed for an employer, commission work, self-employment and volunteer work.\n17 June 2008",
+    "metadata": {
+      "section_title": "HOW TO REPORT EARNINGS",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "ID-75",
+    "content": "PENSION, ANNUITY OR RETIREMENT PAY: If you contributed toward a retirement plan, the pension, annuity or retirement pay is not reportable income and is not deducted from your unemployment insurance benefits. Social Security retirement benefits are not deductible from unemployment insurance benefits because you contribute to that fund. Retirement income will be deducted from your weekly benefit amount if: 1) The payment is from a base period employer, and 2) the employer made 100 percent of the contributions to the retirement plan. Payments will be prorated on a weekly basis. For every $1 of your deductible weekly pension amount, your weekly benefit amount will be reduced by $1.",
+    "metadata": {
+      "section_title": "Earnings and Other Income (cont.)",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "ID-76",
+    "content": "If you use the Internet Continued Claim or Tel-A-Claim system, your unemployment insurance payment is issued weekly. If you are using the Continued Claim Reporting system, see page 16 regarding payments.\nPayments are issued as a result of your answers to the Internet Continued Claim, Tel-A-Claim system or the answers on your Continued Claim Report. If there are no problems on your claim, the payment will be issued within three to four business days of the time you submit your weekly report\nPlease allow up to a week to receive your payment. If you do not receive a payment within a week of your report, contact your local office listed on page 27.\nPayments that have not been received in the mail will not be reissued until 14 days from the date of the original mailing. If you have received your check but it is now lost or stolen, contact your local office immediately.",
+    "metadata": {
+      "section_title": "Payments and Messages",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "ID-77",
+    "content": "Your local office will assist you in filling out the forms for replacing lost checks.\nREMINDER: The first week of a new claim is a waiting week. You must meet all eligibility requirements and report for the waiting week to receive waiting week credit, but you will not receive payment for this week.\nTWO WAYS TO RECEIVE PAYMENTS: Payments may be made either as a check mailed to your address of record or as direct deposit to your checking account. The following questions and answers describe some of the features of direct deposit with some of the advantages over paper checks.\nWhat is Direct Deposit? Direct Deposit is the electronic transfer of your Unemployment Insurance (UI) benefit payment to the checking account of your bank, credit union, or other financial institution. Direct Deposit is a safe, quick and easy way to receive your UI benefits. It removes the risk of mail delays and lost or stolen checks. It also eliminates the time required for you to cash or deposit your check. When you enroll in the service, you are authorizing the Idaho Department of Labor to credit your bank account each time you file for and are entitled to receive benefits.",
+    "metadata": {
+      "section_title": "Payments and Messages",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "ID-78",
+    "content": "• A valid email address\n• Your financial institution's nine (9) digit routing number\n• Your checking account number (up to 17 digits)\n• (Your account number and routing number are on your checks OR you can contact your financial institution to verify the account information)\nHow long does it take for services to begin? Before deposit of your weekly benefit payments can begin, the Department must verify the information you provide. This generally takes up to 2 days. If there is a problem with the information you have provided you will be notified immediately. If you are due a benefit payment, a paper check will be issued.",
+    "metadata": {
+      "section_title": "What information do I need to enroll?",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "ID-79",
+    "content": "18 June 2008\nto four business days after you submit your weekly claim. Once you have filed your weekly claim for benefits and all eligibility requirements are met, the automated system will transfer payment to the financial institution you have specified. Payments will not be transmitted on State, Federal or Banking holidays or on weekends.\nWhat if a deposit of benefits is not posted to my account? Access our website, http://labor.idaho.gov/iw and click on the \"Payment Summary\" link to confirm that a valid claim was processed and no issues exist.\nIf payment was issued by the Department but does not appear in your account, you will need to contact your financial institution to find out when the payment will be posted to your account. If your financial institution has no record of the transfer within four days of the time you filed your weekly claim and you have NOT received any notification from this Department that an issue exists that is prohibiting payment (check http://labor.idaho.gov/iw to verify payment was made), you will need to contact your financial institution.",
+    "metadata": {
+      "section_title": "When can I expect my payment to be deposited into my account? Payment will generally be available three",
+      "page_number": 19
+    }
+  },
+  {
+    "section_id": "ID-80",
+    "content": "labor.idaho.gov/iw to verify payment was made), you will need to contact your financial institution.\nWhat record of my UI benefit deposit will I receive? Your financial institution will provide a record of deposits made to your account on your monthly statements. The on-line \"Payment Summary\" link at www.labor.idaho.gov/iw can tell you when payment for a particular week was issued.\nCan I participate in Direct Deposit if I have a joint account? Yes. However, the Department IS NOT able to release UI payment information to other holders on the account. The Department WILL NOT involve itself in disputes regarding use of funds deposited to a joint account. The Department WILL NOT ALLOW any deposit of benefit payments to a 3rd Party account (an account on which the claimant is not a legal holder/signer.)\nMust my bank be located in Idaho? No. The Department can deposit to most financial institutions.",
+    "metadata": {
+      "section_title": "When can I expect my payment to be deposited into my account? Payment will generally be available three",
+      "page_number": 19
+    }
+  },
+  {
+    "section_id": "ID-81",
+    "content": "r.)\nMust my bank be located in Idaho? No. The Department can deposit to most financial institutions. Before enrolling, you should confirm that your financial institution accepts direct deposits.\nCan I deposit only a portion of my benefit payments to an account? No. If you elect to enroll in Direct Deposit services, the full amount of the payment will be made to a single account of your choice. If child support payments are being collected, they will be withdrawn first and the remaining benefit amount will be deposited in your account.\nCan I still have Federal Taxes withheld when using Direct Deposit? Yes. If you requested to have Federal taxes deducted from your weekly benefits when you filed your initial claim, this will continue for the duration of your benefit year unless you change your withholding.\nI'm not good with a computer. Can Department of Labor staff help me enter my account and routing information? No.",
+    "metadata": {
+      "section_title": "When can I expect my payment to be deposited into my account? Payment will generally be available three",
+      "page_number": 20
+    }
+  },
+  {
+    "section_id": "ID-82",
+    "content": "with a computer. Can Department of Labor staff help me enter my account and routing information? No. To protect you and the Department, staff will not be allowed to assist claimants when they enter their direct deposit information.\n19 June 2008\nOverpayments and Fraud\nOVERPAYMENTS: Benefits are paid to you based on the eligibility information available at the time you phone in your Tel-A-Claim report, submit your Internet Continued Claim report or turn in your Continued Claim report. An overpayment may occur if the Department receives additional or contradictory information relating to your eligibility after benefits have been paid to you. If, based on new information, the Department determines that you were ineligible for benefits you already received; you will be notified that an overpayment has been established on your claim. You will be required to pay back the overpayment in full with interest at the rate of 1½ times the statutory rate.",
+    "metadata": {
+      "section_title": "When can I expect my payment to be deposited into my account? Payment will generally be available three",
+      "page_number": 20
+    }
+  },
+  {
+    "section_id": "ID-83",
+    "content": "quired to pay back the overpayment in full with interest at the rate of 1½ times the statutory rate. A repayment plan may be arranged for large overpayments. If you have an existing overpayment balance when you are again eligible and file for benefits, your entire weekly entitlement will be retained by the Department each week and will be applied against your overpayment balance. Offsetting future benefits is only one of many methods used to recover current and past due overpayments. If overpayments are not promptly repaid, aggressive collection action may be taken. Overpayments due to fraud are not eligible for offset.\nWAIVER OF REPAYMENT: If you have been overpaid benefits, you may request that the Department issue a Determination of Waiver. The request must be in writing and made within 14 days of the date of mailing of the Determination of Overpayment. Repayment of the overpayment may be waived if you can show that you meet both criteria in example 1 OR both criteria in example 2.",
+    "metadata": {
+      "section_title": "When can I expect my payment to be deposited into my account? Payment will generally be available three",
+      "page_number": 20
+    }
+  },
+  {
+    "section_id": "ID-84",
+    "content": "ay be waived if you can show that you meet both criteria in example 1 OR both criteria in example 2. Example 1: The overpayment must have been caused solely by Department error or inadvertence, AND made to a claimant who could not reasonably have been expected to recognize the error. Example 2: The overpayment was a result of an employer misreporting wages earned in a claimant’s base period, AND the claimant could not reasonably have been expected to recognize an error in the wages reported. Instructions for requesting a Determination of Waiver are listed on the Determination of Overpayment that you will receive whenever an overpayment is established on your claim.\nFRAUD: Engaging in any of the following acts is a felony crime in Idaho:\n1) Making false statements while being interviewed regarding your claim.\n2) Knowingly making a false statement on any of the forms or pages you fill out in relation to your claim such as misstating the reason for separation from your employer.\n3) Failing to properly report any material fact or making a false statement when filing weekly via Tel-A- Claim, Internet Continued Claim or bi-weekly using the Continued Claim Report form;\n4) Failing to notify the Department when you quit or are discharged from work or when you refuse work.\n5) Failing to look for work when required to do so, but telling Idaho Department of Labor you did look.",
+    "metadata": {
+      "section_title": "When can I expect my payment to be deposited into my account? Payment will generally be available three",
+      "page_number": 20
+    }
+  },
+  {
+    "section_id": "ID-85",
+    "content": "Audits are routinely conducted to verify the information you provide Idaho Department of Labor while filing for unemployment insurance benefits. It is critical that you promptly respond to these audit requests. Failure to do so or failure to explain adequately any discrepancies noted could result in an unemployment insurance fraud decision and an overpayment. If such a decision is issued, you will be required to repay the overpayment along with a penalty and interest. You will also be disqualified from receiving unemployment benefits for the longer of one year or until you have repaid the overpayment, penalty and interest in full. You may also be criminally prosecuted.\n20 June 2008\nOverpayments and Fraud",
+    "metadata": {
+      "section_title": "When can I expect my payment to be deposited into my account? Payment will generally be available three",
+      "page_number": 21
+    }
+  },
+  {
+    "section_id": "ID-86",
+    "content": "Unemployment insurance fraud is a growing problem. In 2004 more than $4 million in unemployment insurance payments were paid to claimants who were defrauding Idaho’s system. A new tracking system is in place to identify and catch individuals who commit fraud. Stiffer penalties take effect starting July 1, 2005. Avoid these penalties, interest, and potential prosecution by knowing what activities are considered fraud.\n• Misrepresenting work search efforts while receiving benefits. You must actively look for work and report your efforts each week. Actively seeking work means you must contact employers who hire people with your jobs skills. If you can’t find a position with those skills you must expand your search and look for other work you can do. You must also be willing to accept part-time work while waiting for full-time work.\n• Not accurately reporting weekly earnings while drawing benefits.",
+    "metadata": {
+      "section_title": "Avoid the Pitfalls that Lead to Fraud",
+      "page_number": 21
+    }
+  },
+  {
+    "section_id": "ID-87",
+    "content": "while waiting for full-time work.\n• Not accurately reporting weekly earnings while drawing benefits. If you obtain temporary or part- time employment while accepting unemployment insurance benefits you must report the wages earned each week so your unemployment insurance benefits can be adjusted accordingly.\n• Continuing to receive benefits after returning to full time work. Once you return to work full-time you are no longer eligible to collect benefits. Continuing to collect benefits could lead to monetary penalties and criminal prosecution.\n• Misrepresenting ability and availability while receiving benefits. You must be willing and able to accept both full and part-time work in your field of expertise. Putting limits on the shifts, days or distance you will travel for work can make you ineligible for benefits. If you cannot work because of an illness, injury or some other physical or mental conditions, contact your local Department of Labor office.\n• Stealing someone’s identity to receive benefits.",
+    "metadata": {
+      "section_title": "Avoid the Pitfalls that Lead to Fraud",
+      "page_number": 21
+    }
+  },
+  {
+    "section_id": "ID-88",
+    "content": "Stealing someone else’s identity to collect benefits is a felony that will subject you to criminal prosecution.\n• Collecting benefits while on vacation. A weekly benefit payment should not be seen as an easy way to fund a trip you’ve always wanted to take. If you leave the area for a non-vacation reason while collecting benefits you must continue to look for work and report your efforts. If you do take a vacation you must report that on your weekly claim as not being available for that week, and you will not be paid benefits during that time period.\n• Helping someone else file a fraudulent claim. Assisting any individual in defrauding the unemployment insurance system will subject you to the same financial penalties and potential prosecution of the person caught defrauding the system.\n• Failure to notify Idaho Department of Labor when you refuse, quit or are discharged from a job while drawing benefits. You must notify your nearest Idaho Department of Labor office if you refuse a job, quit or are discharged from a job while drawing unemployment insurance benefits so a determination of eligibility can be made.\nREPORT FRAUD: If you know of someone who is defrauding the system you can report it anonymously by calling 1-800-672-5627. Fraud can also be reported on the Department of Labor Web site at labor.idaho.gov by clicking on the unemployment insurance link.\n21 June 2008",
+    "metadata": {
+      "section_title": "Avoid the Pitfalls that Lead to Fraud",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "ID-89",
+    "content": "BOISE: Last year more than 1,700 people tried to work the unemployment system illegally in Idaho. In the recent past two Magic Valley residents were placed on probation after pleading guilty to unemployment insurance benefits. fraudulently collecting And a new law going into effect this summer will help catch more cases of unemployment fraud, a state investigator says. The two Magic Valley residents were sentenced separately on felony charges of “misrepresentation to obtain benefits,” an Idaho Department of Labor news release says. Fraud is defined as willfully withholding information to draw benefits, said the unemployment insurance administrator in Boise. Fraud would occur in the case of a person who was fired or quit a job reports to the state they were laid off or lost the work through no fault of their own.",
+    "metadata": {
+      "section_title": "Overpayments and Fraud – From News Reports",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "ID-90",
+    "content": "To the editor, Jefferson Star: Just lately, I had an encounter with the employment office that wasn’t very pleasant. See I thought that while I was working I would try and collect a few unemployment checks for a little extra income. Don’t get me wrong, I needed the money, but I guess we all do. But, I found out that was not the way to go. Besides getting caught, they took me to court. So, it ended up that I had to pay the money back plus I had a pretty good size fine to pay and I ended up having to write this embarrassing letter to the newspaper. So what I have to say is and what I have learned is that they keep things on record, and if you think you can get away with it, think twice because sooner or later, they will get you.\nAnd you might be put in the same situation or maybe even worse. So the message I give to you is don’t do it. You’re better off.\nA Rigby Claimant",
+    "metadata": {
+      "section_title": "Ill-Gotten Money Not Worth Penalties",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "ID-91",
+    "content": "A Blackfoot man who said when he illegally drew unemployment compensation to the sum of $2,310 he didn’t know it was a crime, was sentenced Monday to two to five years in prison.",
+    "metadata": {
+      "section_title": "The Morning News",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "ID-92",
+    "content": "Man Pleads Guilty to Fraud\nCharges\nA fraud investigation by officials from the Idaho Department of Labor led to a guilty plea by an Emmett man for illegally collecting unemployment insurance benefits from the state. The Emmett resident pled guilty before Idaho Judicial District Court to felony charges of “misrepresentation to obtain benefits.” The individual was found to have concealed weekly earnings while receiving unemployment benefits and failing to report voluntarily quitting a job during the time benefits were being filed. The Emmett resident was sentenced to 180 days in the Gem County jail with 170 days suspended and one-year probation. The individual was required to pay court costs of $500 and to make restitution to the state Department of Labor in the amount of $2,439. Compiled by Statesman staff",
+    "metadata": {
+      "section_title": "PUBLIC SAFETY",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "ID-93",
+    "content": "Wallace: A Kingston man recently pled guilty in First District Court to illegally receiving unemployment insurance benefits. Following an investigation by officials from the Idaho Department of Labor, the Kingston man entered the plea in Wallace. the claimant intentionally failed According to the Department, the same time receiving to report weekly earnings while at unemployment benefits for a The First District Court Judge period of 13 weeks. sentenced the Kingston man to 127 days in jail. In addition, he was ordered to pay court costs and will have to make restitution to the Idaho Department of Labor for the unemployment benefits the man received which totaled $2,904. Department officials said they actively pursue criminal prosecution of individuals who file fraudulent claims for unemployment benefits. They said such claims raise employer tax rates and reduce the funds available for paying benefits in legitimate cases. The state has unemployment insurance investigators who devote their time to investigating fraudulent claims.\n22\nJune 2008",
+    "metadata": {
+      "section_title": "SV Man Pleads Guilty in IDL Case",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "ID-94",
+    "content": "You or a current or previous employer may protest any decision regarding your eligibility to receive unemployment insurance benefits. Your protest must be in writing and be signed. When a protest is filed and a new decision is reached, a written document will be issued telling you the reasons for the new decision. There are four decision-making levels. Decisions made at the first three levels may be protested by you or by an interested party.\nDETERMINATION: The determination is the first decision made regarding your claim and is issued by Idaho Department of Labor, using the facts gathered by the local office.\nAPPEAL: The Appeals Bureau in the Idaho Department of Labor central office in Boise makes this decision. The Appeals Bureau may use some previously submitted information and will gather information, via sworn testimony, at the hearing.",
+    "metadata": {
+      "section_title": "Protests and Appeals",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "ID-95",
+    "content": "Interested parties participate in the hearings via telephone. Failure to participate in the hearing may result in the decision going against you.\nINDUSTRIAL COMMISSION: This is the first appellate stage outside Idaho Department of Labor. Your protest to an Appeals Bureau decision must be in writing and must be mailed directly to the Industrial Commission. The Commission typically issues a decision based on the facts previously submitted.\nIDAHO SUPREME COURT: The last appellate level for protesting unemployment insurance claim decisions takes place before the Idaho Supreme Court. Fees may be charged for filing a protest at this level.\nIf you file a protest or appeal:\nDetermination: A protest must be delivered to your local office or be postmarked no later than 14 days\nafter the decision is mailed.",
+    "metadata": {
+      "section_title": "Protests and Appeals",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "ID-96",
+    "content": "You have 14 days from the date of mailing to file a written protest with the Idaho Industrial\nCommission. The protest must be taken or mailed directly to the Industrial Commission. Protests filed\nwith the Appeals Bureau or a local office will not be accepted by the Commission.",
+    "metadata": {
+      "section_title": "Appeal: You have 14 days from the date of mailing to file a written protest with the Idaho Industrial",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "ID-97",
+    "content": "You have 42 days from the date of the decision to appeal to the Idaho Supreme\nCourt. Contact the Industrial Commission to obtain detailed instructions for appealing their decision.\nAt the first two levels of protest, you may represent yourself or be represented by an attorney or any adult of your choosing. At the Industrial Commission a claimant may represent himself or be represented by an attorney or any duly-authorized agent.\nYou should continue to file through Tel-A-Claim, Internet Continued Claim or your Continued Claim Report forms until you accept a final decision. You can only be paid for weeks for which you have filed a claim and have met all the eligibility requirements if a higher appeal authority determines that you should receive benefits.",
+    "metadata": {
+      "section_title": "Industrial Commission: You have 42 days from the date of the decision to appeal to the Idaho Supreme",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "ID-98",
+    "content": "If you have not claimed benefits for two or more consecutive weeks or have earned over 1½ times your weekly benefit amount for two consecutive weeks, your claim is automatically stopped. To re-open your claim, go to labor.idaho.gov/iw. If you do not have Internet access, please visit the Idaho Department of Labor office nearest you. The list is on page 27. Your claim is open the Sunday of the week in which you reopen your claim. Do not wait until the week is over before reopening your claim. Idaho does not allow backdating the claim effective date. If you have worked since last filing, be sure to have a complete list of accurate addresses of your employers.\nIf you move, please go to labor.idaho.gov/iw on the Internet or visit the local office nearest you to update your mailing address or to reopen your claim.",
+    "metadata": {
+      "section_title": "Restarting Your Claim",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "ID-99",
+    "content": "ternet or visit the local office nearest you to update your mailing address or to reopen your claim. Your work-seeking requirements may change if you move to a different area. If you are living outside Idaho and you move, contact the Interstate Claims Unit at (208) 332- 3574 to update your address if you do not have Internet access.\n23 June 2008\nMiscellaneous Information\nWORKER PROFILING: This process identifies claimants who will be likely to exhaust regular unemployment insurance and will need job-search assistance services to make a successful transition to new employment. If your circumstances are such that you are selected through this “profiling” process, your eligibility for benefits can be affected if you do not follow through with this program. You and a local office representative develop the program. It is designed to help you return to work in the shortest possible time.\nUNEMPLOYMENT INSURANCE TAX LIABILITY: Any unemployment benefits you receive are fully taxable, provided you are required to file a tax return.",
+    "metadata": {
+      "section_title": "Restarting Your Claim",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "ID-100",
+    "content": "unemployment benefits you receive are fully taxable, provided you are required to file a tax return. You can elect to have federal taxes withheld from your unemployment insurance payment. The withholding rate is 10 percent. Idaho state taxes will not be withheld. It may be necessary for you to make estimated tax payments. Form 1099-G, which reports benefits paid, will be mailed at the end of January to your last address on record. The IRS will be given the same information. If you have moved, be sure to update your mailing address.\nCHILD SUPPORT DEDUCTION: Public Law 97-35 requires us to withhold funds from unemployment insurance benefits in cases where a child support enforcement agency is enforcing either a voluntary support agreement or a court order to pay money for child support. The Department of Health and Welfare enters information directly into the unemployment insurance system. Any questions regarding child support enforcement deductions must be directed to the Department of Health and Welfare, Child Support Services, at its toll- free number of 1-800-356-9868.",
+    "metadata": {
+      "section_title": "Restarting Your Claim",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "ID-101",
+    "content": "epartment of Health and Welfare, Child Support Services, at its toll- free number of 1-800-356-9868.\nTRADE ADJUSTMENT ASSISTANCE: Trade Adjustment Assistance is available to workers who lose their jobs, or whose hours of work and wages are reduced because of increased imports. Benefits available to eligible individuals may include: 1) job training, if suitable employment is not available, 2) job search allowances to cover expenses when looking for work outside the area, 3) relocation allowances to help workers and their families move to a new area of employment, plus a lump sum payment and 4) trade readjustment allowance, which becomes payable when all unemployment insurance benefits have been exhausted. Forms and additional information can be obtained from your local office.\nREEMPLOYMENT AND RETRAINING FOR DISLOCATED WORKERS: Workers unemployed due to plant closures, permanent layoffs or other long-term unemployed workers may be eligible for reemployment and retraining services under the Economic Dislocation and Worker Adjustment Assistance Act.",
+    "metadata": {
+      "section_title": "Restarting Your Claim",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "ID-102",
+    "content": "Services may include, but are not limited to: counseling, testing, vocational guidance, placement assistance, on-the-job training, vocational classroom training and relocation assistance. Contact the nearest local office for more information to see if you qualify for these services.\nWORK SEARCH RECORD: You must keep a detailed record of your work search. Idaho Department of Labor may require you to provide this information either in-person or via the Internet. Failure to provide this information when requested will result in your benefits being stopped. The contacts you list will be verified with the employers you show you checked with for available work. Falsifying work search contacts will result in a determination of fraud. Use the forms on pages 24-25 to record your work search activities.\n24 June 2008",
+    "metadata": {
+      "section_title": "Restarting Your Claim",
+      "page_number": 25
+    }
+  },
+  {
+    "section_id": "ID-103",
+    "content": "Social Security\nNumber:",
+    "metadata": {
+      "section_title": "Work Search Record",
+      "page_number": 25
+    }
+  },
+  {
+    "section_id": "ID-104",
+    "content": "Place Contacted (Employer name, address and phone number) 1. g 2. n i d n e k e 3. e W 1. g 2. n i d n e k e 3. e W 1. g 2. n i d n e k e 3. e W 1. g 2. n i d n e k e 3. e W 1. g 2. n i d n e k e 3. e W Type of work sought Date of contact and method of applying Name of person you contacted Possibility of hire\n25 June 2008\nWork Search Record\nClaimant’s Name: Social Security Number:\nPlace Contacted (Employer name, address and phone number) 1. g n i 2. d n e k e 3. e W 1. g n i 2. d n e k e 3. e W 1. g n i 2. d n e k e 3. e W 1. g n i 2. d n e k e 3. e W 1. g n i 2. d n e k e 3. e W 1. g n i 2. d n e k e 3. e W Type of work sought Date of contact and method of applying Name of person you contacted Possibility of hire\n26 June 2008\nIdaho Department of Labor Addresses & Phone Numbers\n(All 208 area codes)\nLocal Office Location Mailing Address Zip Code Office Phone Blackfoot 155 N.",
+    "metadata": {
+      "section_title": "Claimant’s Name:",
+      "page_number": 27
+    }
+  },
+  {
+    "section_id": "ID-105",
+    "content": "rs\n(All 208 area codes)\nLocal Office Location Mailing Address Zip Code Office Phone Blackfoot 155 N. Maple PO Box 9, Blackfoot 83221-0009 236-6713 Blaine County 513 N. Main Street, Ste 1 513 N. Main Street, Ste 1, Hailey 83333-8417 788-3526 Boise 219 W. Main St. 219 W. Main St., Boise 83735-0030 332-3575 Bonners Ferry 6541 Main St. Rt. 4 Box 5745, Bonners Ferry 83805-8521 267-5581 Canyon County 6107 Graye Lane 6107 Graye Lane, Caldwell 83607-8072 364-7781 Coeur d’Alene 1221 W. Ironwood Dr., Ste 200 1221 W. Ironwood Dr., Ste 200, CDA 83814-2668 769-1558 Emmett 2030 S. Washington 2030 S. Washington, Emmett 83617-9450 364-7780 Grangeville 305 N. State St. PO Box 550, Grangeville 83530-0550 983-0440 Idaho Falls 150 Shoup Ave, Ste 13 150 Shoup Ave, Ste 13, Idaho Falls 83402-3653 557-2500 Interstate Claims 317 W. Main St. 317 W. Main St., Boise 83735-0770 332-3574 Lewiston 1158 Idaho St. PO Box 1147, Lewiston 83501-1147 799-5000 Magic Valley 771 N.",
+    "metadata": {
+      "section_title": "Claimant’s Name:",
+      "page_number": 27
+    }
+  },
+  {
+    "section_id": "ID-106",
+    "content": "College Rd. PO Box 5129, Twin Falls 83303-5129 735-2500 McCall 299 S. 3rd St. PO Box 966, McCall 83638-0966 634-7102 Meridian 205 E. Watertower Ln. 205 E. Watertower Ln., Meridian 83642-6282 364-7785 Mini Cassia 127 W. 5th St. North 127 W. 5th St. North, Burley 83318-3457 678-5518 Moscow 1350 Troy Rd. Ste 1 1350 Troy Rd. Ste 1, Moscow 83843-3995 882-7571 Mountain Home 1993 E. 8th N. 1993 E. 8th N., Mtn. Home 83647-2333 364-7788 Orofino 410 Johnson Ave. PO Box 391, Orofino 83544-0391 476-5506 Payette 501 N. 16th St., Ste 107 PO Box 179, Payette 83661-0179 642-9361 Pocatello 430 N. 5th Ave. PO Box 4087, Pocatello 83205-4087 236-6710 Rexburg 1133 Stocks Ave. PO Box 158, Rexburg 83440-0158 557-2501 St. Maries 105 N. 8th 105 N. 8th, St. Maries 83861-1845 245-2518 Salmon 1301 Main St., Unit 1 PO Box 990, Salmon 83467-0990 756-2234 Sandpoint 2101 W. Pine St. 2101 W. Pine St., Sandpoint 83864-9399 263-7544 Silver Valley 35 Wildcat Way, Ste B 35 Wildcat Way, Ste B, Kellogg 83837-2253 783-1202\nClaimants requiring TDD Service call the Idaho Relay Service at: 711 Our Internet claim filing page is at labor.idaho.gov/iw. Use it to open a new claim, reopen your existing claim or file your weekly claim. To check on available jobs, labor market or other helpful information go to labor.idaho.gov.\n27 June 2008\nJDAHO COMMERCE & LABOR",
+    "metadata": {
+      "section_title": "Claimant’s Name:",
+      "page_number": 28
+    }
+  },
+  {
+    "section_id": "ID-107",
+    "content": "I\nState of ldaho Idaho Department of Labor Unemployment Insurance Division 317 Main Street Boi afo 8373-0770 Business Pety for Private Use, $300",
+    "metadata": {
+      "section_title": "- 7 7 - 5 0 6 ( R - 7 - 0 5 )",
+      "page_number": 28
+    }
+  }
+]

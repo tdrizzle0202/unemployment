@@ -1,0 +1,568 @@
+[
+  {
+    "type": "Image",
+    "element_id": "e79c3a39ea30b8542dbd69ba99d24bb6",
+    "text": "RHODE ISLAND",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "40ec75de62020c4dd2bdba1cd536c68d",
+    "text": "Unemployment Insurance",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0636b5e3e42ea8d3fad76864dfd76133",
+    "text": "Benefit Rights and Responsibilities",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "344b31da7af599f3a93285adfe897b83",
+    "text": ".|",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ddb7187969aa3fa687b3fd9f45e4afe6",
+    "text": "These responsibilities are designed to help you stay eligible for benefits while you search for new employment. You are responsible for following all program rules. Not meeting these requirements may cause delays, loss of benefits, or overpayments that you will have to repay.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c97e1a1df68849346a8473e6d31e9d62",
+    "text": "Accurate Claim Information: Provide truthful, complete information on your Unemployment Insurance (UI) application and every weekly payment request. DLT uses various tools to verify your information and may review your submissions at any time. Incorrect or omitted information may lead to overpayment, penalties, or legal action.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c9fe17a539302a2a73bbe7ee28a559bd",
+    "text": "Weekly Payments: Each week you are seeking benefits, you must request payment through UI Online or by calling (401) 415-6772.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "307a862620336d431d79e9259a9ce2ff",
+    "text": "• If you request weekly payments by phone, you must create a PIN during your first week of eligibility. You can't set up a PIN before that. Keep your PIN secure, as you're responsible for any payments made with it. Do not share your PIN with anyone.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9cb5e6759988c77abe33c8d81c3b39d0",
+    "text": "• If you are eligible for past weeks, respond to any mailed payment forms by the deadline indicated.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "58b302b6d80f5495f436b9c6f2ca9659",
+    "text": "• If you are appealing a denial, you must continue to request benefits each week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d59cd12f7a5f84a3c02d614fdb97b0ca",
+    "text": "Work Search Requirement: To continue getting benefits, you must look for work each week and keep a record of what you do. Each week, you must complete three (3) work search activities and keep your work search log for a least one year in case the Department reviews your claim. At a minimum, each week you must:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "21157b5291921db7b150c4d5e2db8dc0",
+    "text": "• Apply for at least one (1) job that matches your skills or experience, and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9f845f2b392448df2b1e6d2423c79b37",
+    "text": "• Do at least two (2) other job search activities, for example, things like meeting with a career counselor, attending a job fair, or attending a job-search workshop.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3fc6cf4e04ab89b5a42aaff49d807445",
+    "text": "For the complete work search requirement, including the full list of acceptable activities, visit the Department’s website at dlt.ri.gov/work-search-requirement.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "dlt . ri . gov / work - search - requirement .",
+          "url": "https://dlt.ri.gov/work-search-requirement",
+          "start_index": 141
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b1f7a299b645266e410eb34546a17d60",
+    "text": "Able to Work: You must be capable of working full-time. If you are sick or unable to work full-time, you must report it. If you are not a U.S. citizen, you must have valid work authorization.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0f7f3d0b4d178a94c720ed9b58e04f6e",
+    "text": "Available for Work: You must be ready and available to work full-time and willing to accept suitable job offers as soon as they are offered.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c1b4ef2dcaaebb1ed8778835612fe3f8",
+    "text": "Report Earnings & Income: When requesting benefits, you must report all gross (before tax) earnings and income. Report your hourly or salaried earnings for the week you worked, even if you haven’t been paid yet. Report your tip, bonus, and commission income for the week you receive the pay.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f07a56cdb973d07cd8e3746fd004e61a",
+    "text": "Pension, Severance, & Dismissal Pay: You must notify DLT if you are receiving (or will receive) pension or severance/dismissal pay from an employer you worked for in the past 18 months. These payments may reduce your UI benefits or period of eligibility.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "699c8e7f8a470e9fc82f6401795d22ea",
+    "text": "Reemployment: You must be registered with reemployment services. If you live in Rhode Island or are commuting to Rhode Island for work, the Department will register you when you file. All other claimants are required to register with their resident state. You may also be selected to participate in the mandatory Reemployment Services & Eligibility Assessment (RESEA) program. If selected, attending this appointment will help ensure your benefits continue uninterrupted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d1b6591891f6a467b6c3dd5afa997843",
+    "text": "Report When Called: You may receive a notice from DLT requiring you to attend an in-person or phone appointment. You must attend when called. If you miss your appointment, your benefits could be delayed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf",
+      "parent_id": "0636b5e3e42ea8d3fad76864dfd76133"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "f301c87e8b64e6808d50079fcf2d1262",
+    "text": "1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fe2534d38ec082efca7a23cc239c8870",
+    "text": "Contact Information: You must keep your address, phone number, email, and other contact information current with DLT. Failure to do so may affect your eligibility or appeal rights. REPORT ANY CHANGES TO YOUR ADDRESS, EMAIL, OR PHONE NUMBER IN UI ONLINE OR BY CALLING THE CALL CENTER AT (401) 415-6772.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "394ba92bec7a219caee3d24dea7b8f3f",
+    "text": ".|",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6fca74fe58fb9b270cdee6f8e419cfbb",
+    "text": "By filing a claim for Unemployment Insurance (UI), you have the following rights.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b1c06b3f2043088a5e5ba4181e8d8de3",
+    "text": "Unemployment Insurance Benefit Amount Decision: This decision will notify you of your monetary eligibility for benefits. It will contain your weekly benefit amount and provide details on how that amount was calculated.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c944ef9be6ae84ed14f73acdfad513f5",
+    "text": "Dependency Allowance: You may be eligible for extra benefits for dependent children (natural, step, adopted, court-appointed). Generally, children under the age of 18 qualify; older children may qualify if they are medically unable to work. If you did not list dependents when you applied, you may call DLT for reconsideration.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "089c13d2260dcbe90e6de218b7519271",
+    "text": "Partial Payment: If your hours were reduced through no fault of your own or your employer is unable to provide you with full-time hours, you may be eligible for partial benefits. You can earn up to 150% of your weekly benefit amount and still qualify for some portion of your benefit amount.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "10bac5cd3df412d98bb1b2c8f00cef74",
+    "text": "Combine Wages Earned in Another State: If you earned wages in another state, you may be able to combine those wages with your Rhode Island wages to increase your benefit amount and duration. Contact each state where you worked to explore your filing options.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bdfa3fe723f3bc730d013e797a9d4f2d",
+    "text": "Training Eligibility: You may be eligible for training programs through DLT Career Centers or other state initiatives. Admission and eligibility for training are determined by the training provider.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1752be4a4055f98cb2269049e6466f41",
+    "text": "Tuition Waiver: Depending on your claim status, you may be eligible for tuition assistance at a state college.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7d6bd07690127b0561146ff43efdcf8b",
+    "text": "Denial & Appeals: If your claim is denied, you will receive a written decision. You have the right to appeal within the deadline provided on your decision. Follow the appeal instructions on your decision. You must request weekly payments while the appeal is pending. If the appeal is successful, you will only receive payment for the weeks you requested.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "dffe09b335d651433eb59a17e140aca4",
+    "text": ".|",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2c3e3e1b45660ccdd9e155f396d169b0",
+    "text": "Finally, the following points include some important information you will want to be aware of.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "17f43c4aa9b49cd4120abcc86b3cb42b",
+    "text": "Taxes: UI benefits are considered taxable income. You will receive a 1099, which you must use when filing your tax return. The IRS will also receive a copy. If you do not withhold taxes from your weekly benefits, you may owe taxes when filing your return. You may adjust your UI benefit tax withholdings at any time while collecting benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6eba3b6b6df890ed90f7bfa986b6d40d",
+    "text": "Claimant Fraud & Overpayments: Providing false or incomplete information for the purpose of obtaining benefits is considered UI Fraud. This may result in overpayment, penalties, criminal prosecution, and a criminal record.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b0efe1378bdda65287586a408a890f78",
+    "text": "ID Theft Fraud & Safety: Be vigilant for phishing scams or fraudulent claims filed in your name. If you believe your identity has been used without your authorization, you should report it to DLT and the relevant authorities. To report to DLT, email us at dlt.uitdifraud@dlt.ri.gov or call 401-462-1522.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4593266b967b3b505b8fa85feef6026e",
+    "text": "Accessibility: The Department will provide language assistance (written translations and interpreters) and auxiliary aids free of charge to individuals with disabilities. If you need assistance or have questions about any of the information provided in this document, you may visit the Department’s website for additional information at dlt.ri.gov/individuals/unemployment-insurance or call the UI Call Center at 401-415-6772.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "7b471694e3c5231b7fc6041b97119fb0",
+    "text": "2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "64e974a466804e955959459792af725c",
+    "text": "Rev. 11/25",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "rhode island.pdf"
+    }
+  }
+]

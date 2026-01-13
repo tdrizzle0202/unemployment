@@ -1,0 +1,770 @@
+[
+  {
+    "section_id": "WI-0",
+    "content": "Chetek, Wisconsin",
+    "metadata": {
+      "section_title": "CLAIMANT HANDBOOK",
+      "page_number": 1
+    }
+  },
+  {
+    "section_id": "WI-1",
+    "content": "A proud partner of the AmericanJobCenternetwork\nUCB-10-P (R. 03/31/2025) Chapter 108, Wisconsin Statutes\nChapter 108, Wisconsin Statutes",
+    "metadata": {
+      "section_title": "A GUIDE TO UNEMPLOYMENT INSURANCE",
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "WI-2",
+    "content": "ABOUT THIS HANDBOOK ............................................................................................................. 4 CONTACT INFORMATION ........................................................................................................... 4 LANGUAGE AND DISABILITY ASSISTANCE ................................................................................. 6 SECTION 1 – OVERVIEW OF UNEMPLOYMENT INSURANCE ...................................................... 6 ABOUT THE UI PROGRAM ......................................................................................................... 6 Funding for the UI Program ................................................................................................. 6 WE ARE HERE TO HELP YOU ..................................................................................................... 6 CHANGE OF ADDRESS OR PHONE NUMBER .......................................................................... 7 WHY WE NEED YOUR SOCIAL SECURITY NUMBER .................................................................. 7 YOUR SECURITY CREDENTIALS ................................................................................................. 7 SECTION 2 – TO APPLY FOR BENEFITS ......................................................................................... 9 WHEN TO APPLY ....................................................................................................................... 9 HOW TO APPLY ....................................................................................................................... 10 Information You Need to Apply ....................................................................................... 10 SECTION 3 – ELIGIBILITY FOR UI ................................................................................................ 12 ELIGIBILITY ISSUES ................................................................................................................... 13 SECTION 4 – PAYMENT OF BENEFITS ......................................................................................... 16 WAITING WEEK ....................................................................................................................... 16 WHEN TO EXPECT YOUR PAYMENTS ..................................................................................... 16 OPTIONS FOR RECEIVING PAYMENT .................................................................................... 16 Direct Deposit ..................................................................................................................... 17 Visa® Pre-Paid Debit Card ............................................................................................... 17 REDUCTIONS ........................................................................................................................... 17 SECTION 5 – MAINTAINING YOUR UI ELIGIBILITY .................................................................... 18 1.",
+    "metadata": {
+      "section_title": "TABLE OF CONTENTS",
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "WI-3",
+    "content": "INING YOUR UI ELIGIBILITY .................................................................... 18 1. MANDATORY REGISTRATION FOR WORK ......................................................................... 18 2. WORK SEARCH ................................................................................................................... 19 3. FILE A WEEKLY CLAIM CERTIFICATION .............................................................................. 19 When to File Your Weekly Claim Certification ................................................................ 20 To File Your Weekly Claim Certification .......................................................................... 20 4. REPORTING EARNINGS ...................................................................................................... 20 When to Report Earnings ................................................................................................... 20 What Earnings to Report .................................................................................................... 21 How to Calculate Gross Earnings .................................................................................... 21 Verifying Your Earnings ..................................................................................................... 21 SECTION 6 – GETTING YOU BACK TO WORK ........................................................................... 22\n2\nRE-EMPLOYMENT SERVICES ................................................................................................... 22 Help with Finding Employment ......................................................................................... 22 Re-Employment Programs ................................................................................................ 22 WHEN YOU FIND A NEW JOB ................................................................................................ 22 Full-time Work .................................................................................................................... 22 Part-time Work ................................................................................................................... 22 APPENDIX A – LEGAL DISCLOSURES ......................................................................................... 23 Equal Opportunity Information ......................................................................................... 23 What to Do if You Experience Discrimination ................................................................. 23 Accommodations for Individuals with Disabilities ......................................................... 23 Your Privacy Matters to Us ................................................................................................ 23 APPENDIX B – GLOSSARY .......................................................................................................... 24 APPENDIX C – RESOURCES ....................................................................................................... 29",
+    "metadata": {
+      "section_title": "TABLE OF CONTENTS",
+      "page_number": 3
+    }
+  },
+  {
+    "section_id": "WI-4",
+    "content": "3",
+    "metadata": {
+      "section_title": "TABLE OF CONTENTS",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "WI-5",
+    "content": "This Handbook has important information about Unemployment Insurance (UI) and your legal rights, including:\n• How to apply for benefits\n• How your eligibility for benefits is determined\n• What you must do each week to receive a benefit payment\nSee Glossary for definitions of all underlined terms.",
+    "metadata": {
+      "section_title": "Purpose of the Claimant Handbook",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "WI-6",
+    "content": "The information in this Handbook is an overview of UI. It does not cover every topic or answer all questions.\nYou are responsible for the accuracy of the information you give to the Wisconsin Department of Workforce Development (DWD).\nIf you do not understand or have questions, please contact DWD for help.",
+    "metadata": {
+      "section_title": "You must read this Handbook.",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "WI-7",
+    "content": "Call the Help Center for help\n• using your claimant portal,\n• filing a claim for unemployment benefits, or\n• receiving answers to questions about your unemployment benefits claim.\nMail or fax the Wisconsin Unemployment Help Center if you need to send information to support your claim or eligibility for benefits.\nHours: Monday, Tuesday, Wednesday, and Friday: 7:30 AM – 4:30 PM, Thursday: 8:00 AM – 3:15 PM Call: (414) 435-7069 or toll-free (844) 910-3661 Fax: (608) 260-2444 Mail: Wisconsin Unemployment Help Center, P.O. Box 7905, Madison, WI 53707\n4",
+    "metadata": {
+      "section_title": "Unemployment Insurance Help Center",
+      "page_number": 5
+    }
+  },
+  {
+    "section_id": "WI-8",
+    "content": "If you would like to file an appeal, you may file online on your claimant portal or by mail or fax. If you have questions about a pending appeal, call the UI Hearing Office.\nHours: Monday – Friday 7:45 AM – 4:30 PM Call: (608) 266-8010 Fax: (608) 327-6498 Mail: UI Hearing Office, P.O. Box 7975, Madison, WI 53707\nPlease see Appeals and Petitions for more information\n(https://dwd.wisconsin.gov/uiben/appeals-and-petitions.htm).",
+    "metadata": {
+      "section_title": "Unemployment Insurance Hearing Office",
+      "page_number": 5
+    }
+  },
+  {
+    "section_id": "WI-9",
+    "content": "If you have been notified that you were overpaid benefits, you have several options to repay the overpayment:\n• To repay using a bank account, credit card, or debit card, log on to your claimant portal and choose \"Make a Payment\" from the My UI Summary Page.\n• To pay by mail, send a check or money order payable to: Unemployment Insurance Division (include your full social security number with your payment).\nIf you are not able to repay the overpayment in full, call a collection specialist to discuss installment payment plan options that may be available to you.\nHours: Monday – Friday, 8:00 AM – 4:00 PM Call: (608) 266-9701 Mail: Unemployment Insurance Division, P.O. Box 7888, Madison, WI 53707\nPlease see Overpayments for more information\n(https://dwd.wisconsin.gov/uiben/overpayments).",
+    "metadata": {
+      "section_title": "Benefit Collections",
+      "page_number": 5
+    }
+  },
+  {
+    "section_id": "WI-10",
+    "content": "Please contact us if you are aware of someone fraudulently collecting Wisconsin unemployment benefits or if you may be a victim of identity theft (imposter fraud) and have reason to believe someone has used your information and social security number to fraudulently collect unemployment benefits.\nHours: Monday – Friday, 8:00 AM – 4:00 PM Call: (800) 909-9472 Mail: Unemployment Insurance, Program Integrity, P.O. Box 7905, Madison, WI 53707 Web Form: https://dwd.wisconsin.gov/ui/fraud/report.htm\nPlease see UI Fraud For more information (https://dwd.wisconsin.gov/ui/fraud).",
+    "metadata": {
+      "section_title": "Unemployment Fraud",
+      "page_number": 5
+    }
+  },
+  {
+    "section_id": "WI-11",
+    "content": "Call the Job Center of Wisconsin Call Center or visit your local Job Center if you have\nquestions about registering for work with Job Center or need help with registering.\nCall: (888) 258-9966\n5\nDo not contact Job Center Staff with questions about your UI claim. If you have questions about your UI claim, contact the UI Help Center.\nPlease see Getting You Back to Work for more information (https://dwd.wisconsin.gov/uiben/handbook/employment.htm).",
+    "metadata": {
+      "section_title": "Job Center of Wisconsin Call Center",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "WI-12",
+    "content": "(https://dwd.wisconsin.gov/uiben/services.htm).",
+    "metadata": {
+      "section_title": "See Contact Information and Online Services",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "WI-13",
+    "content": "DWD is an equal opportunity employer and service provider. Free services are available to assist to you if you do not speak English. For assistance in a language other than English, please contact the UI Division at (414) 435-7069 or toll-free at (844) 910-3661.\nIf you are deaf, hard of hearing, or have a voice impairment, please dial 7-1-1 for the Wisconsin Relay Service.\nIf you have a disability and need an accommodation or want to request information in an alternate format, please contact the UI Division at (414) 435-7069 or toll-free at (844) 910-3661.",
+    "metadata": {
+      "section_title": "LANGUAGE AND DISABILITY ASSISTANCE",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "WI-14",
+    "content": "UI is a program designed to provide temporary income to eligible workers who lost their job. The UI program provides weekly benefits to eligible unemployed workers.",
+    "metadata": {
+      "section_title": "ABOUT THE UI PROGRAM",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "WI-15",
+    "content": "Wisconsin's UI program is funded through taxes paid by employers. No money is deducted from your paycheck to pay for UI benefits.",
+    "metadata": {
+      "section_title": "Funding for the UI Program",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "WI-16",
+    "content": "DWD's UI Division is here to assist you through your time of unemployment. To make sure you are paid benefits in a timely manner, please help us by:\n• Providing accurate information\n• Responding to requests for information right away\n• Completing all requirements to maintain UI eligibility, as outlined in this Handbook\n• Keeping your contact information up to date\n6",
+    "metadata": {
+      "section_title": "WE ARE HERE TO HELP YOU",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "WI-17",
+    "content": "DWD will send you important information in the mail. We may contact you by phone. If we are unable to leave you a message, or do not receive a response, your UI may be delayed or denied.",
+    "metadata": {
+      "section_title": "Be sure to check your mail and voicemail messages.",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "WI-18",
+    "content": "It is very important that we have your current mailing address and telephone number. We will send you important documents and instructions after you file your claim. If your mail is not delivered to you, your UI benefit payments may be delayed or denied.",
+    "metadata": {
+      "section_title": "CHANGE OF ADDRESS OR PHONE NUMBER",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "WI-19",
+    "content": "Federal and state law require you to give us your social security number (SSN). It will be used to verify your identity, employer, and wages, determine other income and benefit eligibility, keep a record of your UI benefit payments, and to gather statistics. We use a matching program to verify your SSN with the Social Security Administration. You will not be eligible for UI if you do not provide your SSN.\nPersonal information you provide may be used for secondary purposes. In addition to reporting your income from UI to the Internal Revenue Service and the Wisconsin Department of Revenue, we also share information about your claim with other federal and state agencies to help them determine your eligibility or amount of benefits payable under their programs. Some of these programs include General Assistance, FoodShare, Wisconsin Works (W-2), Temporary Assistance for Needy Families, and Medicaid.",
+    "metadata": {
+      "section_title": "WHY WE NEED YOUR SOCIAL SECURITY NUMBER",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "WI-20",
+    "content": "UI benefit payments are taxable income under federal and state law. Each year, we report the UI we pay you to the Internal Revenue Service and the Wisconsin Department of Revenue. You can ask us to withhold state and federal taxes from your UI payments. For more information, see Tax Information and Withholding (https://dwd.wisconsin.gov/uiben/withholding.htm).",
+    "metadata": {
+      "section_title": "Did you know?",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "WI-21",
+    "content": "You must create a username and password before you can access online benefit services. Your username, password, and SSN are your security credentials and will be used to identify you and must be used when accessing your account.\n7\nCreate security credentials that you will remember but are hard for others to guess. We recommend that you use a unique password you do not use for other accounts. Do not give your security credentials to ANYONE. You are responsible for all claims filed and all information given to us using your security credentials.",
+    "metadata": {
+      "section_title": "YOUR SECURITY CREDENTIALS",
+      "page_number": 8
+    }
+  },
+  {
+    "section_id": "WI-22",
+    "content": "Sometimes fraudsters attempt to use UI scams or identity theft to commit fraud. For information about how to avoid scams and combat identity theft, please review UI Identity Theft and Scams (https://dwd.wisconsin.gov/ui/fraud).\nIf you forget your username or password, do not create a new account. Creating a new account will only delay your access to online services. Change your username or password immediately by following instructions online at my.unemployment.wisconsin.gov. For help using online services or if you are unable to go online, call the Help Center at (414) 435-7069 or toll-free (844) 910-3661 during business hours.",
+    "metadata": {
+      "section_title": "Be Alert!",
+      "page_number": 8
+    }
+  },
+  {
+    "section_id": "WI-23",
+    "content": "If you are having trouble getting the system to authorize you to use online services, make sure the information you entered matches your valid (not expired) driver license or identification card.\nYou can find more information about the identity verification process at https://dwd.wisconsin.gov/uiben/identity.htm.\nIf you continue to have trouble, call the Help Center at (414) 435-7069 or toll-free (844) 910-3661 during business hours. You must provide your username if you call for help, but your password is confidential and should not be shared.",
+    "metadata": {
+      "section_title": "Having trouble getting authorized to use online services?",
+      "page_number": 8
+    }
+  },
+  {
+    "section_id": "WI-24",
+    "content": "If you are having trouble viewing links once you are authorized for online services, you can try to clear your cache and cookies; then restart your computer to view the links. If you are still having trouble, call the Help Center at (414) 435-7069 or toll-free (844) 910-3661 during business hours.\n8",
+    "metadata": {
+      "section_title": "Having trouble viewing a link?",
+      "page_number": 9
+    }
+  },
+  {
+    "section_id": "WI-25",
+    "content": "If you are out of work and you have worked for an employer covered by the UI law in the last 18 months, you can apply for UI. Filing for UI is a two-step process:\nFirst, file an initial claim application. We will review your earnings and decide whether you have earned enough wages to qualify for UI. Filing the initial claim application alone will not start sending out UI benefit payments.\nSecond, file a weekly claim certification for each week you want a UI benefit payment. The weekly claim certification triggers the payment for each week you are eligible.",
+    "metadata": {
+      "section_title": "SECTION 2 – TO APPLY FOR BENEFITS",
+      "page_number": 9
+    }
+  },
+  {
+    "section_id": "WI-26",
+    "content": "Apply for UI for any of these reasons:\n• You are totally unemployed,\n• Your weekly earnings are reduced,\n• You expect to be laid off within the next 13 weeks and would like to start your benefit year early, or\n• You are participating in the Trade Adjustment Assistance (TAA) program. The TAA program helps workers who lose their jobs due to foreign competition, including work being moved outside of the United States. For more information, please visit https://dwd.wisconsin.gov/trade or call (888) 258-9966.\nIf all your work in the last 18 months was done in Wisconsin, file in Wisconsin, even if you now live in another state.\nYou must file an initial claim application within 7 days of the end of the calendar week in which you want to receive a UI benefit payment. If you wait to file your claim, you could lose benefits.",
+    "metadata": {
+      "section_title": "WHEN TO APPLY",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "WI-27",
+    "content": "h you want to receive a UI benefit payment. If you wait to file your claim, you could lose benefits. Each time you stop filing weekly claim certifications and want to start again, you must file an initial claim application.\nFor example, if you lost your job on Monday the 3rd of the month, you could file an initial claim application for UI on the same day or on any other day that week or the following week.\nMonth Sun Mon Tues Wed Thurs Fri Sat 16\nThe last time I filed, I received a determination that denied/suspended benefits. What do I need to do?\nAny time benefits are denied or suspended, we send you a determination explaining:\n• why benefits were denied or suspended,\n• for what period,\n• how to requalify for benefits, and\n• how to appeal if you disagree.\n9\nIf you have met the requalifying requirements, have stopped filing weekly claim certifications, and are again unemployed or working reduced hours, you must file a new initial claim application.",
+    "metadata": {
+      "section_title": "WHEN TO APPLY",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "WI-28",
+    "content": "DWD will confirm you have met the requalifying requirements. We may request more information. Complete the request and return it by the deadline.\nIf you have questions about your requalifying requirements, call the Help Center at (414) 435-7069 or toll-free (844) 910-3661 during business hours.\nDo not attempt to claim UI while you are outside the United States, a United States Territory, or Canada for more than 48 hours. Your claim will be blocked, and your benefits will be held.\nCertifying that you are available for work while you are out of the country or giving your security credentials and/or social security number to another person to file claims on your behalf may lead to penalties including overpayments, loss of benefits, monetary penalties, and criminal prosecution. For more information, please see Overpayments (https://dwd.wisconsin.gov/uiben/overpayments) and Fraud and Quality Control (https://dwd.wisconsin.gov/uiben/fraud-quality-control.htm).",
+    "metadata": {
+      "section_title": "WHEN TO APPLY",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "WI-29",
+    "content": "• Go to my.unemployment.wisconsin.gov.\n• Read and accept terms and conditions.\n• Create a username and password.\nYou may need to verify your identity as part of this step. If you need to verify your identity, you will not be able to file a claim until your identity is verified.\n• Log on to access your claimant portal.\n• Complete your initial claim application.\nApply online during these times:\n• Sunday, 9:00 AM – Midnight\n• Monday – Friday, Available 24 Hours\n• Saturday, Midnight – 3:00 PM\nIf you are unable to apply online, call the Help Center at (414) 435-7069 or toll-free (844) 910-3661 during business hours.",
+    "metadata": {
+      "section_title": "HOW TO APPLY",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "WI-30",
+    "content": "Applying for UI is easier and faster when you have key information in hand. The information you provide will be used to determine your eligibility for UI.\n10\nAnswer all questions completely and correctly. You could be penalized if you give false information to get benefits. Information you provide may be verified through data matching programs or with your employer(s). Please review Fraud and Quality Control (https://dwd.wisconsin.gov/uiben/fraud-quality-control.htm) to learn more.\nTo make your initial claim application quick and easy, have this information ready:\n• A username and password (for filing online).\n• A valid email address or mobile phone number.\n• Your current address.\n• Your social security number.\n• Your Wisconsin driver license or identification number (if you have one).\n• Your work history for the last 18 months, including:\no Employers' business names.\no Employers' addresses (including zip code).\no Employers' phone number.\no First and last dates of work with each employer.\no Reason for no longer working with each employer.\n• If you are not a U.S. citizen, your alien registration number, document number, and expiration date.\n• If you served in the military in the last 18 months, Form DD-214.**\n• If you are a federal civilian employee, Form SF-50 or SF-8.\n• If you are a union member, the name and local number of your union hall.\n• If you want UI benefit payments by direct deposit, your bank's routing number and your account number.\n** For returning military veterans: The application process for military service veterans coming off active duty is the same as anyone applying for UI.",
+    "metadata": {
+      "section_title": "Information You Need to Apply",
+      "page_number": 11
+    }
+  },
+  {
+    "section_id": "WI-31",
+    "content": "Your claim cannot start earlier than the week of your separation date as it appears on your DD-214.\nAfter you file your initial claim application, you will be asked to submit a copy of your DD-214 for all active-duty terms within the last 18 months. Your claim may be delayed if you are unable to submit a copy of your DD-214. Acceptable copies are Member Copy 2, 3, 4, 5, 6, 7, or 8.\nAdditional resources are available from the Office of Veteran Employment Services.\nAfter you apply, you may be contacted to provide additional information about your eligibility for UI. Respond promptly to any request for information from DWD.",
+    "metadata": {
+      "section_title": "Information You Need to Apply",
+      "page_number": 11
+    }
+  },
+  {
+    "section_id": "WI-32",
+    "content": "You will have the opportunity to review your initial claim application before you submit it. You should review your answers and make any corrections needed before submitting your application. You may want to print a copy of your answers as well.\n11",
+    "metadata": {
+      "section_title": "If you haven't submitted your initial claim application yet:",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "WI-33",
+    "content": "If it is the same day you submitted your initial claim application, you can make changes in your claimant portal. Look for: \"Important Message: We have received your application. Your claim is being processed. To change information on your claim, click here.\"\nIf it has been one day or more since you submitted your initial claim application, call the Help Center at (414) 435-7069 or toll-free (844) 910-3661 during business hours.",
+    "metadata": {
+      "section_title": "If you have already submitted your initial claim application:",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "WI-34",
+    "content": "DWD will review your initial claim application to determine if you are eligible for UI. We look at three criteria:\n1 How much did you work in the 12 to 18 months before you filed your initial claim application?\nYou must have earned sufficient wages in the 12 to 18 months prior to filing an initial claim application. If you did not earn enough wages, you will not be eligible for UI. Please see Qualifying Wages (https://dwd.wisconsin.gov/uiben/qualifying- wages.htm) for more information about the qualifying wage requirements.",
+    "metadata": {
+      "section_title": "SECTION 3 – ELIGIBILITY FOR UI",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "WI-35",
+    "content": "The reason you are no longer employed helps determine whether you can receive UI. Here are some examples of separation reasons that may qualify you or disqualify you from receiving UI. See Eligibility Issues for more information.\nYou may receive UI if you:\n• Were laid off or your work hours were reduced because your employer did not have enough work for you,\n• Left your last job and can show it was for good cause,\no Good cause is a valid, substantial reason for which the employer is responsible, and which left you with no reasonable alternative but to quit. An example is unsafe working conditions. For more information, please review Exceptions to the Standard Quit Disqualification (https://dwd.wisconsin.gov/uiben/quit- exceptions.htm).\nYou may not receive UI if you:\n• Left your job without good cause related to your job,\n• Were fired for misconduct or substantial fault connected to your work,\n• Refused work without good cause, or\n• Work in excluded employment.\n12",
+    "metadata": {
+      "section_title": "2. Why are you no longer working for your past employer(s)?",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "WI-36",
+    "content": "To be eligible for UI you must be:\n• Actively looking for work,\n• Mentally and physically able to work,\n• Legally authorized to work in the United States, and\n• Available to accept new work.\no For example, you do not have personal responsibilities that would prevent you from working.",
+    "metadata": {
+      "section_title": "3. Are you able to and available for work?",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "WI-37",
+    "content": "If DWD needs to investigate your eligibility to receive UI, we will hold your UI benefit payments while we investigate. During this time, you must continue to file your weekly claim certifications.\nYou and your employer will be given the opportunity to present facts before we make a decision about your eligibility. You may get a telephone call, a form to complete and return, or notice of a scheduled interview as a part of our investigation. All investigations are conducted by telephone or letter. Respond to any request for information by the deadline stated on the request. If you do not provide information when directed, or miss a scheduled interview, we will decide if you are eligible for UI using the facts available and benefits may be denied.\nIf you are asked to call an investigator and are unable to reach them when you call their direct line, please leave a voicemail message.",
+    "metadata": {
+      "section_title": "ELIGIBILITY ISSUES",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "WI-38",
+    "content": "The investigator is helping another claimant, and they will return your call as soon as possible. You can help by leaving your name, phone number, and information about your availability for a call in your message.\nIf an interview is scheduled, you will receive a notice in the mail with the date and time of the interview. You should call the phone number on the notice as soon as possible if you need to reschedule the interview. Each interview is scheduled as early as possible. You are not able to request an earlier interview.\nAfter the investigation is completed, we will notify you of the determination in writing. The reverse side of the determination mailed to you will include instructions for filing an appeal. If you disagree with the determination, you should appeal as soon as possible. For more information about appeals, see Appeals and Petitions (https://dwd.wisconsin.gov/uiben/appeals-and-petitions.htm).\nIf you or your employer appeal a determination continue to file your weekly claim certifications while you are unemployed or partially unemployed. If you win an appeal, you can only qualify for UI if you have filed weekly claim certifications. For more information about appealing a determination, please see Appeals and Petitions (https://dwd.wisconsin.gov/uiben/appeals-and-petitions.htm).\n13",
+    "metadata": {
+      "section_title": "ELIGIBILITY ISSUES",
+      "page_number": 14
+    }
+  },
+  {
+    "section_id": "WI-39",
+    "content": "You do not get to choose which employer(s) you are claiming UI from. State law sets a formula for deciding which of your base period employers are charged for your UI, if any. Sometimes an investigation is needed to decide which employers are charged and the amount they are charged.\nWhen you file your initial claim application or weekly claim certification, there are many issues that may affect your eligibility. They must be investigated when they arise.\nFor example, let's say you worked 10 years for XYZ Corporation and were laid off three months ago. XYZ Corporation is not disputing your eligibility for UI based on your separation from them.\nAfter the layoff, you started working for ABC Corporation. ABC Corporation discharged you and you filed a claim for UI. At the time you filed the claim, ABC Corporation is not in your base period, and would not be charged for any UI paid to you.",
+    "metadata": {
+      "section_title": "Why do you have to investigate an eligibility issue for an employer I'm not claiming UI from?",
+      "page_number": 14
+    }
+  },
+  {
+    "section_id": "WI-40",
+    "content": "claim, ABC Corporation is not in your base period, and would not be charged for any UI paid to you.\nHowever, if your discharge from ABC Corporation was for misconduct, you would not be eligible for UI until seven weeks after your discharge and until you earned 14 times your weekly benefit rate in wages from covered employment after your discharge from ABC.\nFurther, if your discharge was determined to be for misconduct, ABC Corporation would not be charged in the future if you qualified for UI and filed again later when ABC Corporation fell within your base period.\nYou will not receive Ul if you:\n• Quit a job without good cause. You will not be eligible for UI until you earn wages equal to six times your weekly benefit rate. For more information, see Exceptions to the Standard Quit Disqualification (https://dwd.wisconsin.gov/uiben/quit- exceptions.htm).\n• Are fired for misconduct. The wages you earned from that employer cannot be used to qualify for UI.",
+    "metadata": {
+      "section_title": "Why do you have to investigate an eligibility issue for an employer I'm not claiming UI from?",
+      "page_number": 14
+    }
+  },
+  {
+    "section_id": "WI-41",
+    "content": "Are fired for misconduct. The wages you earned from that employer cannot be used to qualify for UI. You will not be eligible for UI from other employers for seven weeks from the date of your termination, and until you earn wages equal to 14 times your weekly benefit rate.\n• Are fired for substantial fault. You will not be eligible for benefits for seven weeks from the date of your termination and until you earn wages equal to 14 times your weekly benefit rate.\n• Refuse work without good cause such as personal safety, unreasonable commuting distance, sincere religious beliefs, or other compelling reasons that would make accepting the offer unreasonable. If you refuse work without good cause, you will not be eligible for UI until you earn wages equal to at least six times your weekly benefit rate.\n• Fail to perform valid work searches for any week that they are required.\n14\n• Are employed and miss work available to you during a week.",
+    "metadata": {
+      "section_title": "Why do you have to investigate an eligibility issue for an employer I'm not claiming UI from?",
+      "page_number": 15
+    }
+  },
+  {
+    "section_id": "WI-42",
+    "content": "for any week that they are required.\n14\n• Are employed and miss work available to you during a week. The income you could have earned will be added to what you did earn to calculate the UI due to you. If you miss more than 16 hours of work in a week, you will not receive UI for that week.\n• Have 32 or more hours of any of the following: work, missed work, holiday, vacation, dismissal, termination, or sick pay for that week.\n• Are not able to work in a week or are unavailable for work in a week because your ability to work or availability for work is restricted. Reasons your ability to work or availability for work may be restricted include (but are not limited to) medical restrictions, a limit on the hours you can work, or travel or transportation restrictions.\n• Are outside the United States, a United States Territory, or Canada for more than 48 hours.\n• Are unemployed because of a strike or other labor dispute, other than a lockout.",
+    "metadata": {
+      "section_title": "Why do you have to investigate an eligibility issue for an employer I'm not claiming UI from?",
+      "page_number": 15
+    }
+  },
+  {
+    "section_id": "WI-43",
+    "content": "re than 48 hours.\n• Are unemployed because of a strike or other labor dispute, other than a lockout. Employees who are not participating in the labor dispute, but become unemployed because of it, may also be ineligible. If you work in covered employment after the start of the strike and have qualifying wages based on that employment alone, you may be eligible for UI while the strike is in progress.\n• Work for a school only during the normal school year. You are ineligible for benefits based on school year employment during school vacation periods and between academic terms or years if you have reasonable assurance of returning to similar work after the vacation or at the start of the next term or year. We may pay UI during these periods only if you have qualifying wages for UI based on employment from other employers alone.\n• Are receiving Social Security Disability Insurance (SSDI) benefits.",
+    "metadata": {
+      "section_title": "Why do you have to investigate an eligibility issue for an employer I'm not claiming UI from?",
+      "page_number": 15
+    }
+  },
+  {
+    "section_id": "WI-44",
+    "content": "You cannot receive UI while you are receiving SSDI. You must report your SSDI benefits on your UI claims.\no Note: You are not required to report your Supplemental Security Insurance (SSI) benefits on your UI claim, and you can receive UI if you are receiving SSI benefits.\n• Have base period wages from a corporation that is owned or controlled by you or your immediate family. Your UI may be reduced. This may also apply to a partnership, depending on your relationship to the partners.\nFiling for UI while a student: You must tell us if you are a student while you file claims for UI. An investigation will be conducted to determine whether you are available for work. You may not have to be available for work while attending school if you are enrolled in a course of study that is considered \"approved training.\"\nVerifying employment eligibility: Federal law requires all employers to verify the employment eligibility of new employees. When an employer hires you, the employer will require that you show certain documents to prove your identity and your employment eligibility. If you are unable to present documents to your employer, your employer must end your employment. Your failure to present the documents to your employer or to DWD may affect your eligibility for UI.\n15",
+    "metadata": {
+      "section_title": "Why do you have to investigate an eligibility issue for an employer I'm not claiming UI from?",
+      "page_number": 16
+    }
+  },
+  {
+    "section_id": "WI-45",
+    "content": "After you file your initial claim application for UI, you will receive a benefit computation in the mail. The benefit computation explains:\n• The amount of UI you can receive if your application is approved.\n• How the amount of UI you can receive was calculated.\n• The maximum number of weeks you could receive UI.\n• How to file an objection if you disagree with the benefit computation.\nFor more information about the information provided in the benefit computation, please see Qualifying Wages (https://dwd.wisconsin.gov/uiben/qualifying-wages.htm).",
+    "metadata": {
+      "section_title": "SECTION 4 – PAYMENT OF BENEFITS",
+      "page_number": 16
+    }
+  },
+  {
+    "section_id": "WI-46",
+    "content": "Wisconsin has a waiting week for UI. For every new benefit year, no UI is payable for the first week you would otherwise be eligible for UI. After the waiting week, UI benefit payments for later weeks are made within seven days after a weekly claim certification has been filed unless payment is delayed because the weekly claim certification is incomplete or if DWD needs to investigate an eligibility issue.\nMonth Sun Mon Tues Wed Thurs Fri Sat Waiting Week\nExample: John was laid off from his job on the first Monday of the month and filed an initial claim application for UI that same day. If John fulfills all eligibility requirements, he will receive his UI benefit payment for the next week. See Maintaining Your UI Eligibility for more details about the continuing eligibility requirements.",
+    "metadata": {
+      "section_title": "WAITING WEEK",
+      "page_number": 16
+    }
+  },
+  {
+    "section_id": "WI-47",
+    "content": "Do not expect to receive your UI benefit payments on the same day or within the same amount of time each week.\nIf you do not receive a payment (or an explanation for not receiving a payment) within seven days of filing a weekly claim certification, check the status of your payment on your claimant portal or call the Help Center at (414) 435-7069 or toll-free (844) 910-3661 during business hours.",
+    "metadata": {
+      "section_title": "WHEN TO EXPECT YOUR PAYMENTS",
+      "page_number": 16
+    }
+  },
+  {
+    "section_id": "WI-48",
+    "content": "If eligible, you may receive your UI benefit payments through direct deposit or a prepaid debit card. If you cannot or choose not to enroll in direct deposit, you will automatically receive payments by debit card. You can update your payment method at any time. To view or update your payment method, log on to https://my.unemployment.wisconsin.gov, select \"Profile Settings,\" from the \"My UI Home\" menu, and edit \"Payment Information.\"\n16",
+    "metadata": {
+      "section_title": "OPTIONS FOR RECEIVING PAYMENT",
+      "page_number": 17
+    }
+  },
+  {
+    "section_id": "WI-49",
+    "content": "This option puts your UI benefit payments directly into your banking account. You may enroll:\n• Online by following the instructions above.\n• By mailing DWD a completed Direct Deposit Authorization form: https://dwd.wisconsin.gov/dwd/forms/ui/ucb-9400.htm.\no You must also provide a voided personal check or a document from your financial institution which clearly identifies the bank routing number and your account number to ensure the account number and financial institution’s routing number you provide are correct.\nYour Direct Deposit Information only needs to be submitted once unless your bank information changes. You DO NOT need to resubmit a Direct Deposit Authorization each time you file for unemployment benefits.\nFor more information, please see the Direct Deposit FAQ (https://dwd.wisconsin.gov/uiben/faqs/directdeposit.htm).",
+    "metadata": {
+      "section_title": "Direct Deposit",
+      "page_number": 17
+    }
+  },
+  {
+    "section_id": "WI-50",
+    "content": "If you do not have a bank account or prefer not to use direct deposit, your UI benefit payments will be deposited onto a Visa pre-paid debit card and will be immediately available after deposit. The card can be used anywhere that Visa debit cards are accepted. You can view payment status and your current balance, and even pay bills online. For more information, please see the Visa Pre-Paid Debit Card FAQ (https://dwd.wisconsin.gov/uiben/faqs/debitcard.htm).",
+    "metadata": {
+      "section_title": "Visa® Pre-Paid Debit Card",
+      "page_number": 17
+    }
+  },
+  {
+    "section_id": "WI-51",
+    "content": "Your UI may be reduced under the following circumstances:\n• You are partially unemployed. (You are working a few hours each week.)\n• You are receiving retirement pay.\n• You owe court-ordered child support, have Supplemental Nutrition Assistance Program debt, or previously received UI you were not entitled to and have not yet repaid it.\nFor more information, please review Unemployment Insurance Reductions (https://dwd.wisconsin.gov/uiben/reductions.htm).\n17",
+    "metadata": {
+      "section_title": "REDUCTIONS",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "WI-52",
+    "content": "When you claim UI, you must complete 4 tasks to remain eligible:\n1. Register with the Job Center of Wisconsin.\n2. Perform at least four valid Work Search actions each week.\n3. File a weekly claim certification each week.\n4. Report earnings each week. (Report any money you earned during the claimed week.)\nFailure to complete any of these actions may disqualify you from future UI.",
+    "metadata": {
+      "section_title": "SECTION 5 – MAINTAINING YOUR UI ELIGIBILITY",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "WI-53",
+    "content": "You must register for work with the Job Center of Wisconsin within 14 days of the date you complete your initial claim application for UI to be eligible. This includes completing and activating a résumé. If you fail to register by the deadline, you may be denied benefits for any week before the date you register.\nIf this requirement is waived, you will be notified on your claimant portal.\nRegister for work with the Wisconsin Job Center online at https://JobCenterofWisconsin.com/ui.\nIf you have previously registered for work, you must verify that your registration and résumé have not expired at https://JobCenterofWisconsin.com/ui.\nIf you live out of state, you may be required to report to the public employment office nearest your home, register for work, and submit proof of registration to DWD. Proof can include a screenshot with the date of your completed registration, an email confirmation of registration, or a copy of the completed registration.\nMore information about the registration for work requirement and waivers can be found in the Registration for Work FAQ (https://dwd.wisconsin.gov/uiben/faqs/registration.htm).\nIf you have questions or need help registering, please visit your local Job Center: http://www.wisconsinjobcenter.org/directory or contact the Job Service Call Center toll-free at (888) 258-9966.\n18",
+    "metadata": {
+      "section_title": "1. MANDATORY REGISTRATION FOR WORK",
+      "page_number": 19
+    }
+  },
+  {
+    "section_id": "WI-54",
+    "content": "You must perform at least four actions to search for suitable work each week unless we notify you that the work search requirement is waived. Suitable work is work that is reasonable considering your training, experience, length of unemployment, and availability of jobs.",
+    "metadata": {
+      "section_title": "2. WORK SEARCH",
+      "page_number": 19
+    }
+  },
+  {
+    "section_id": "WI-55",
+    "content": "Unemployed workers who conduct more than the four required work search actions find work faster than those who only complete the minimum each week.\nYou must document your work search actions for each week you claim UI. You will need enough details for us to verify your work searches. We may require proof of your work search actions. Keep proof of your work search actions for one year. For more information about the work search requirements and waivers, please see Work Search Requirements (https://dwd.wisconsin.gov/uiben/worksearch-requirements.htm).\nFalsely reporting information on your work search actions may be fraud, which can result in penalties and the denial of UI.\nFor more information, please see Overpayments\n(https://dwd.wisconsin.gov/uiben/overpayments)\nand Fraud and Quality Control\n(https://dwd.wisconsin.gov/uiben/fraud-quality-control.htm).",
+    "metadata": {
+      "section_title": "Did you know?",
+      "page_number": 19
+    }
+  },
+  {
+    "section_id": "WI-56",
+    "content": "You must file a weekly claim certification for each week that you want to receive UI. When you file a weekly claim certification, you notify us that you are still out of work or are still working reduced hours. We cannot pay UI to you for a week if you do not file a weekly claim certification for that week. The weekly claim certification includes a series of questions that help determine if you are eligible to continue receiving UI benefit payments. For example, you will be asked if you:\n• Were able to work and available to accept work.\n• Looked for work, along with details about your work search efforts.\n• Refused any jobs or offers of work.\n• Worked, and if so, the gross amount you earned for that work and the number of hours worked.\nYou are required to answer the questions truthfully for each week you claim UI. Failure to do so could result in loss of UI or other penalties.\n19",
+    "metadata": {
+      "section_title": "3. FILE A WEEKLY CLAIM CERTIFICATION",
+      "page_number": 20
+    }
+  },
+  {
+    "section_id": "WI-57",
+    "content": "The first day you can submit a weekly claim certification is the Sunday after you file your initial claim application. You must submit your weekly claim certification by 3:00 pm on the Saturday that is 14 days after the end of each week you are claiming benefits.\nFor example, if you lost your job on Monday the 3rd of the month and filed an initial claim application that week, you could submit a weekly claim certification\nMonth Sun Mon Tues Wed Thurs Fri Sat 2 4 n 12 13 14 15 I 16 17\nfor your first week of UI starting on Sunday the 9th and must submit your claim for that week by 3:00 pm on Saturday the 22nd. If you fail to do so, your UI benefit payment may be delayed or denied.",
+    "metadata": {
+      "section_title": "When to File Your Weekly Claim Certification",
+      "page_number": 20
+    }
+  },
+  {
+    "section_id": "WI-58",
+    "content": "1. Go to my.unemployment.wisconsin.gov\n2. Log on to access claimant portal.\n3. File your weekly claim certification.\nFile your weekly claim online during these times:\n• Sunday, 9:00 AM – Midnight\n• Monday – Friday, Available 24 hours\n• Saturday, Midnight – 3:00 PM\nIf you are unable to file your weekly claim certifications online, call the Help Center at (414) 435-7069 or toll-free (844) 910-3661 during business hours.",
+    "metadata": {
+      "section_title": "To File Your Weekly Claim Certification",
+      "page_number": 20
+    }
+  },
+  {
+    "section_id": "WI-59",
+    "content": "If you perform any work during a week that you are claiming UI, you must report how much money you earned. You must report your gross earnings, not your net earnings.\nREPORT WEEKLY DURING THE PAY PERIOD, NOT WHEN YOU GET THE CHECK PAY DATE INCOME PAYSLIP RATE HOURS CURRENT PAY YTDTOTAL 10/15/200 REGUUAR $20 u TOTAL OVERTIME $30 FICA-MEDICARE s87 $13065 BONUS FICA SOCIAL SECURITY $37.70 $565.5 FEDERAL TAX $4015 $602.25 STATE TAX $2605 $39%.75 YTD GROSS YTD DEDUCTIONS YTD NETPAY DEDUCTIONS NET PAY $1689.15 7324.95 $11261 $48833 REPORT GROSS PAY EACH WEEK",
+    "metadata": {
+      "section_title": "4. REPORTING EARNINGS",
+      "page_number": 20
+    }
+  },
+  {
+    "section_id": "WI-60",
+    "content": "You must report your earnings in the week they were earned (the week that you worked), even if you have not yet been paid.\nIt is important that you keep track of all hours that you work and calculate the amount you may be owed by any employer.\nWhile you may use a calendar, notebook, or spreadsheet to track this information, the United States Department of Labor also offers the DOL-Timesheet App (https://www.dol.gov/agencies/whd/timesheet-app) for employees and employers to record work time and calculate pay.\n20",
+    "metadata": {
+      "section_title": "When to Report Earnings",
+      "page_number": 21
+    }
+  },
+  {
+    "section_id": "WI-61",
+    "content": "Any money earned for work done must be reported. Common income sources include full-time or part-time employment, temporary or odd jobs, and tips.\nYou also must report working if you are working for a payment other than money. The value of any kind of remuneration or payment must be reported in the week the payment is earned. Wages are every type of pay for work done, including room and board, cash payments, tips, commissions and \"working off a bill.\"\nYou must report other earnings and benefits, including any bonus pay, sick, holiday, vacation, or PTO pay, termination pay, severance packages, pay in lieu of notice, dismissal pay, pension or 401(k) from a previous employer in your benefit year, a continuation of pay with full benefits from an employer, or any worker's compensation benefits. These payments may affect your UI.\nFor more information, see Reporting Other Types of Income (https://dwd.wisconsin.gov/uiben/other-income.htm).\nIf you have any questions about what earnings to report, please call the Help Center at (414) 435-7069 or toll-free (844) 910-3661 during business hours.",
+    "metadata": {
+      "section_title": "What Earnings to Report",
+      "page_number": 21
+    }
+  },
+  {
+    "section_id": "WI-62",
+    "content": "Number of Hours Worked During the Week x Rate of Pay = Gross Earnings\nFor instance, if you worked 30 hours in a week at $20 per hour, you would report $600 in gross earnings for the week.\nIf you are not sure how many hours you worked during the week or what your rate of pay is, please contact your employer and request that information. Your wages must be reported in the week you worked even if you will not be paid until a later week. You should not wait until you receive a paycheck to report the wages or file your weekly claim certifications.",
+    "metadata": {
+      "section_title": "How to Calculate Gross Earnings",
+      "page_number": 21
+    }
+  },
+  {
+    "section_id": "WI-63",
+    "content": "DWD will verify the wages you report on a weekly claim certification with your employers. Your UI benefit payment is based on the wages you report. If an employer provides a different amount, you will be sent a notice of adjustment. If you disagree with the notice of adjustment, follow the instructions on the reverse side of the notice to file an objection. If you object, DWD will investigate and resolve the discrepancy.\n21",
+    "metadata": {
+      "section_title": "Verifying Your Earnings",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "WI-64",
+    "content": "The Job Center of Wisconsin (JCW) offers many no-cost programs and services – including job leads and career resources – to help you get back to work faster.",
+    "metadata": {
+      "section_title": "SECTION 6 – GETTING YOU BACK TO WORK",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "WI-65",
+    "content": "In addition to job search assistance, Job Center of Wisconsin can assist you with résumé writing, interviewing skills, labor market information, and more.",
+    "metadata": {
+      "section_title": "RE-EMPLOYMENT SERVICES",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "WI-66",
+    "content": "For re-employment services visit https://JobCenterofWisconsin.com or contact your nearest Job Center. To locate the nearest Job Center, call toll-free (888) 258-9966 or search online at https://JobCenterofWisconsin.com/directory. If you reside in another state, contact the nearest public employment office.",
+    "metadata": {
+      "section_title": "Help with Finding Employment",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "WI-67",
+    "content": "If instructed, you must complete an online orientation and assessment after you register for work. When you complete the orientation and assessment, we will inform you whether you are required to participate in additional re-employment services. Participation in re-employment services will help you return to work faster.\nIf you fail to complete the online orientation and assessment or participate in the re- employment services, you may lose your UI. If you cannot participate by the deadline given, contact the Job Center immediately to reschedule.\nParticipation in mandatory re-employment services will satisfy your work search requirement for the week in which you participate. However, attending other employment workshops on your own can only be considered one work search contact, even if the workshop is conducted by a Job Center.",
+    "metadata": {
+      "section_title": "Re-Employment Programs",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "WI-68",
+    "content": "After you start a new full-time job, you do not need to notify our office that you found work. Simply stop submitting weekly claim certifications when you start your new job (even if you will not be paid for a week or more). Should you start the new job in the middle of a week, be sure to report your earnings on your weekly claim certification. Remember: you must report wages in the week they are earned, and you will not be eligible for benefits if you work 32 hours or more in any given week.",
+    "metadata": {
+      "section_title": "Full-time Work",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "WI-69",
+    "content": "If you find part-time work, you may still be eligible for partial UI payments. Be sure to report any earnings from part-time work. See Reporting Earnings and Reductions (https://dwd.wisconsin.gov/uiben/reductions.htm) for more information.\n22",
+    "metadata": {
+      "section_title": "Part-time Work",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "WI-70",
+    "content": "It is against the law for DWD to discriminate against any individual on the basis of race, color, religion, sex, national origin, age, disability, or political affiliation or belief, or against any beneficiary of, applicant to, or participant in programs financially assisted under Title I of the Workforce Innovation and Opportunity Act (WIOA), on the basis of the individual’s citizenship status or participation in any WIOA Title I–financially assisted program or activity.",
+    "metadata": {
+      "section_title": "Equal Opportunity Information",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "WI-71",
+    "content": "If you think that you have been subjected to discrimination under a WIOA Title I– financially assisted program or activity, you may file a complaint within 180 days from the date of the alleged violation.",
+    "metadata": {
+      "section_title": "What to Do if You Experience Discrimination",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "WI-72",
+    "content": "Visit: www.dol.gov/oasam/programs/crc/complaint.htm",
+    "metadata": {
+      "section_title": "To File a Complaint Online",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "WI-73",
+    "content": "Send information about your complaint to: The Director - Civil Rights Center U.S. Department of Labor 200 Constitution Avenue, NW, Room N-4123 Washington, DC 20210",
+    "metadata": {
+      "section_title": "To File a Complaint by Mail",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "WI-74",
+    "content": "If you are deaf, hard of hearing, or have a voice impairment, please dial 7-1-1 for the Wisconsin Relay Service.\nIf you have a disability and need an accommodation or want to request information in an alternate format, please contact the Unemployment Insurance Division at (414) 435- 7069 or toll-free at (844) 910-3661.",
+    "metadata": {
+      "section_title": "Accommodations for Individuals with Disabilities",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "WI-75",
+    "content": "We follow all state and federal laws that protect your private information. To help connect you with programs designed to get you back to work, we share some of your information with our partners such as the Job Center of Wisconsin, and they are not allowed to share it with anyone else. We give them your:\n• Contact information,\n• Employment and job search history, and\n• Demographics (such as age or gender).\nYour previous employers and other state or local government agencies may release to our agency any information, including your social security number, required for the proper administration of your claim. We also use your social security number to report the amount of UI benefits you receive to the Internal Revenue Service (IRS) as taxable income.\n23",
+    "metadata": {
+      "section_title": "Your Privacy Matters to Us",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "WI-76",
+    "content": "Appeal: The process for requesting a formal review of a prior UI determination.\nAppeal Hearing: A legal proceeding to consider a UI appeal. Each party (you and your employer, in most cases) can tell an impartial administrative law judge what the relevant facts are related to the issue on appeal. You may have witnesses testify. You may ask questions of the other party. All testimony is given under oath.\nAdministrative Law Judge: An attorney licensed to practice law in Wisconsin, employed by DWD, who conducts the hearing, makes sure the facts are brought out, and issues a written legal decision on whether or not you are eligible for UI benefit payments. They are state employees whose primary responsibilities involve holding UI appeal hearings and issuing appeal decisions.\nAppellant: The party who requests a hearing.",
+    "metadata": {
+      "section_title": "APPENDIX B – GLOSSARY",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "WI-77",
+    "content": "olding UI appeal hearings and issuing appeal decisions.\nAppellant: The party who requests a hearing. An appellant can be an employee or employer.\nApproved Training: Training through a vocational school or a school offering vocational training that has been approved by DWD. Attendance at a college or university is not normally considered approved training. Some examples of approved training are:\n• Programs administered by the Trade Adjustment Assistance Program\n• Workforce Innovation and Opportunity Act Program\n• DWD Job Service Programs\n• Apprenticeships and\n• Vocational Rehabilitation programs.\nAttorney of Record: A lawyer who has informed the hearing office that they are representing a party at a hearing.\nBase Period: The period of time used to determine UI eligibility. The first four of the last five completed calendar quarters prior to the filing of the initial claim application for UI.",
+    "metadata": {
+      "section_title": "APPENDIX B – GLOSSARY",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "WI-78",
+    "content": "e last five completed calendar quarters prior to the filing of the initial claim application for UI. If you did not earn sufficient wages to qualify for UI during this period of time, an 'alternate base period' will be used. The alternate base period is the four most recently completed calendar quarters prior to the week you filed your initial claim application for UI.\nBase Period Employer: An employer you worked for during your base period.\nBase Period Wages: The wages you earned during your base period. These wages are used to determine your eligibility for UI.\nThey include:\n• Wages paid to you during the base period for work performed for a covered employer,\n• Sick pay paid directly by an employer at your usual rate of pay,\n• Holiday, vacation, dismissal (severance) pay paid during the base period,\n• Average wage that you would have received from an employer had you not been receiving Worker's Compensation (Temporary Total Disability or Temporary\n24\nPartial Disability), Federal Longshoreman's and Harbor Worker's Compensation or other federal worker's compensation,\n• Back pay, and/or\n• Wages an employer was legally obligated to pay but did not pay because of bankruptcy or insolvency.",
+    "metadata": {
+      "section_title": "APPENDIX B – GLOSSARY",
+      "page_number": 25
+    }
+  },
+  {
+    "section_id": "WI-79",
+    "content": "Wages an employer was legally obligated to pay but did not pay because of bankruptcy or insolvency.\nBenefit Computation: A form mailed to you after you file an initial claim application for UI. It explains whether you are eligible for UI, how much your payment will be each week, your maximum benefit amount, and other details about your current benefit year. The form lists all employers you worked for during your current base period and the wages each employer reported you earned each quarter. Be sure to check it for accuracy and call the Help Center at (414) 435-7069 or toll-free (844) 910-3661 during business hours if you notice any errors.\nBenefit Week: A seven-day period during which you have an active claim. The benefit week begins on Sunday and ends at midnight the following Saturday.\nBenefit Year: The 52-week period that begins with the week your initial claim application is filed.",
+    "metadata": {
+      "section_title": "APPENDIX B – GLOSSARY",
+      "page_number": 25
+    }
+  },
+  {
+    "section_id": "WI-80",
+    "content": "Benefit Year: The 52-week period that begins with the week your initial claim application is filed.\nCalendar Quarter:\nCalendar Quarter: There are 4 calendar quarters in a year. They are:\n• January 1 through March 31\n• April 1 through June 30\n• July 1 through September 30\n• October 1 through December 31\nCalendar Week: A calendar week begins on a given Sunday and ends at midnight on the following Saturday. Current UI weekly calendars are available online at https://dwd.wisconsin.gov/uiben/calendars.htm.\nClaim:\nClaim: An application for UI.\nClaim Effective Date: The Sunday of the week in which your initial claim application for UI is filed.\nClaim End Date: Also referred to as a 'benefit year end' (BYE), this is the last week of a benefit year. This falls 52 weeks after the claim effective date.\nConceal: To intentionally mislead DWD about your eligibility for UI and/or wages by withholding or hiding information or making a false statement or misrepresentation.",
+    "metadata": {
+      "section_title": "APPENDIX B – GLOSSARY",
+      "page_number": 26
+    }
+  },
+  {
+    "section_id": "WI-81",
+    "content": "and/or wages by withholding or hiding information or making a false statement or misrepresentation.\nCovered Employment: Work you perform for an employer that is subject to the UI law. Your employer pays contributions (taxes) on your wages, and these wages help you qualify for UI.\nCross-examination: The questioning of a witness by the opposing party.\nDetermination: A first level decision from DWD about an eligibility issue and/or an employer's liability.\n25\nDWD: The Wisconsin Department of Workforce Development.\nEligibility Issue: Information that raises a legal question about whether you should be paid UI. An eligibility issue might result in denial, suspension, or reduction of your UI.\nEvidence: Testimony and exhibits that the administrative law judge officially admits into the hearing record.\nExcluded Employment: Work that is not covered under Wisconsin's UI law. You cannot be paid UI based on that work.",
+    "metadata": {
+      "section_title": "APPENDIX B – GLOSSARY",
+      "page_number": 26
+    }
+  },
+  {
+    "section_id": "WI-82",
+    "content": "oyment: Work that is not covered under Wisconsin's UI law. You cannot be paid UI based on that work.\nExhibits: Documents that relate to your case, which may include payroll or attendance records, check stubs, letters, emails, text messages, warnings, medical excuses, work rules, work schedules, reports; also, photographs, video or audio recordings, charts, etc.\nFirsthand Witness: A person who actually saw, said, or heard what they are testifying to.\nFraud: Failing to report or falsely reporting information relating to eligibility for UI on an initial claim application or a weekly claim certification.\nFull-time Work: Working 32 or more hours each week.\nGross Earnings: The amount of money you get for work (your total income) before taxes and deductions are taken out.\nHearing Record: The evidence presented at a hearing, including the recording of the testimony and any exhibits introduced.\nHearsay: Statements made by a witness who does not have firsthand knowledge of the facts.",
+    "metadata": {
+      "section_title": "APPENDIX B – GLOSSARY",
+      "page_number": 26
+    }
+  },
+  {
+    "section_id": "WI-83",
+    "content": "ntroduced.\nHearsay: Statements made by a witness who does not have firsthand knowledge of the facts.\nHigh Quarter: The base period quarter during which you were paid the highest amount of wages from covered employment.\nInitial Claim Application: An application to start a new UI benefit year or to resume/reopen an existing UI benefit year. This application must be filed within 7 days of the end of the calendar week in which you want to receive a UI benefit payment.\nNet Earnings: Your take-home pay after taxes and deductions are taken out.\nMaximum Benefit Amount (MBA): The total amount of UI you could be paid during your benefit year.\nMedical Report: A written, certified report used in place of a health care professional appearing in person at a hearing. You may use Form UCB-474 for this report. The form is available online here: https://dwd.wisconsin.gov/ui201/pdf/forms/ucb474.pdf.\nMerits (Issues): The reasons why UI may be allowed or denied.\n26\nMisconduct: One or more actions or conduct showing a willful or wanton disregard of the employer's interests as is found in deliberate violations or disregard of standards of behavior which an employer has a right to expect from employees, or carelessness or negligence, or intentional and substantial disregard of an employer's interests or the employee's duties to the employer.",
+    "metadata": {
+      "section_title": "APPENDIX B – GLOSSARY",
+      "page_number": 27
+    }
+  },
+  {
+    "section_id": "WI-84",
+    "content": "Misconduct also includes: a violation of a written policy concerning use to alcohol, controlled substance or analog; theft; conviction of a crime or other offense if the conviction makes it impossible for the employee to perform their duties; threats or acts of harassment, assault or other physical violence; absenteeism or excessive tardiness; falsifying records; violation of standard or regulation of the federal, state or tribal government.\nDWD considers several factors when deciding if a discharge was for misconduct:\n• Was there unacceptable behavior?\n• Was there or could there have been an adverse impact on the employer?\n• Was the employee discharged as a result of the behavior?\n• What efforts were made by the employer and employee to correct the problem?",
+    "metadata": {
+      "section_title": "APPENDIX B – GLOSSARY",
+      "page_number": 27
+    }
+  },
+  {
+    "section_id": "WI-85",
+    "content": "Ul you received but wer\nnot entitled to receive under state law.\nPartial UI Payment: The amount of UI you may receive while working reduced hours (less than your typical hours).\nParties: Those whose rights might be impacted by the outcome of a case. Parties at a hearing include the employee seeking UI and the employer that is or may be charged for UI payments.\nRelevant: Having a direct bearing on the merits of the case.",
+    "metadata": {
+      "section_title": "Overpayment:",
+      "page_number": 27
+    }
+  },
+  {
+    "section_id": "WI-86",
+    "content": "The party who did not request the hearing.\nSeparation: When you or your employer end the working relationship. This can be due to a quit, discharge, leave of absence, suspension, or layoff.\nSubpoena: An order for a person to appear at the hearing or to produce documents at the hearing.\nSubstantial Fault: Acts or omissions of an employee within their control that violate reasonable requirements of the employer. Substantial fault does not include minor work rule violations unless they are repeated after a warning, inadvertent errors, nor failures to perform work because the employee lacks the required skill, ability, or equipment.\nDWD considers several factors when deciding if a discharge was for substantial fault:\n• Did you violate your employer's requirement(s) by your action or inaction?\n• Were you discharged as a result of the violation?\n• Were you aware or should you have been aware of the requirement?\n• Did you have control over the action or inaction?",
+    "metadata": {
+      "section_title": "Respondent: The party who did not request the hearing.",
+      "page_number": 27
+    }
+  },
+  {
+    "section_id": "WI-87",
+    "content": "Testimony: Verbal statements taken under oath at a hearing.\n27\nWages: Every form of compensation payable to you for personal services. This includes salaries, tips, commissions, bonuses, the reasonable value of room and board, payments-in-kind, and any other similar benefit received from an employer.\nWeekly Benefit Rate (WBR): The weekly amount of UI you are paid when you have no wages or other income during the week.\nWeekly Claim Certification: A claim filed to receive a UI benefit payment for a specific calendar week. A weekly claim certification cannot be filed until the week for which a payment is requested has ended. You must wait until the Sunday following the week being claimed to file a weekly claim certification for that week. UI weeks run Sunday through Saturday.\n28",
+    "metadata": {
+      "section_title": "Testimony:",
+      "page_number": 29
+    }
+  },
+  {
+    "section_id": "WI-88",
+    "content": "For more information about the following topics, please visit https://dwd.wisconsin.gov/uiben/handbook/resources.htm or call the Help Center at (414) 435-7069 or toll-free (844) 910-3661 during business hours.\nAppeal Frequently Asked Questions (https://dwd.wisconsin.gov/uibola/faqs)\nAppeals and Petitions (https://dwd.wisconsin.gov/uiben/appeals-and-petitions.htm)\nContact Information (https://dwd.wisconsin.gov/uiben/services.htm)\n(https://dwd.wisconsin.gov/uiben/services.htm)\nOnline Services (https://dwd.wisconsin.gov/uiben/services.htm)\n(hitps://dwd.wisconsin.gov/uiben/services.htm)",
+    "metadata": {
+      "section_title": "APPENDIX C – RESOURCES",
+      "page_number": 29
+    }
+  },
+  {
+    "section_id": "WI-89",
+    "content": "(https://dwd.wisconsin.gov/uiben/handbook/pdf/decimal-hours-to-minutes-chart.pdf)",
+    "metadata": {
+      "section_title": "Decimal Hours to Minutes Time Conversion Chart",
+      "page_number": 29
+    }
+  },
+  {
+    "section_id": "WI-90",
+    "content": "(https://dwd.wisconsin.gov/uiben/faqs/directdeposit.htm)",
+    "metadata": {
+      "section_title": "Direct Deposit Frequently Asked Questions",
+      "page_number": 29
+    }
+  },
+  {
+    "section_id": "WI-91",
+    "content": "(https://dwd.wisconsin.gov/uiben/quit-exceptions.htm)\nFraud and Quality Control (https://dwd.wisconsin.gov/uiben/fraud-quality-control.htm)\nIdentity Theft (https://dwd.wisconsin.gov/ui/fraud/identity.htm)\nIdentity Verification Process\n(https://dwd.wisconsin.gov/uiben/identity.htm)",
+    "metadata": {
+      "section_title": "Exceptions to the Standard Quit Disqualification",
+      "page_number": 29
+    }
+  },
+  {
+    "section_id": "WI-92",
+    "content": "(https://dwd.wisconsin.gov/uiben/handbook/pdf/mwechart.pdf)\nOverpayments (https://dwd.wisconsin.gov/uiben/overpayments)\nQualifying Wages (https://dwd.wisconsin.gov/uiben/qualifying-wages.htm)\nReductions (https://dwd.wisconsin.gov/uiben/reductions.htm)",
+    "metadata": {
+      "section_title": "Maximum Weekly Earnings Chart",
+      "page_number": 29
+    }
+  },
+  {
+    "section_id": "WI-93",
+    "content": "(https://dwd.wisconsin.gov/uiben/faqs/registration.htm)",
+    "metadata": {
+      "section_title": "Registration for Work Frequently Asked Questions",
+      "page_number": 29
+    }
+  },
+  {
+    "section_id": "WI-94",
+    "content": "(https://dwd.wisconsin.gov/uiben/other-income.htm)\nSample Work Search Log (https://dwd.wisconsin.gov/dwd/forms/ui/ucb-12-e.htm)\nScams (https://dwd.wisconsin.gov/ui/fraud/scams.htm)\nTax Information and Withholding (https://dwd.wisconsin.gov/uiben/withholding.htm)",
+    "metadata": {
+      "section_title": "Reporting Other Types of Income",
+      "page_number": 29
+    }
+  },
+  {
+    "section_id": "WI-95",
+    "content": "(https://dwd.wisconsin.gov/uiben/faqs/debitcard.htm)\nWeekly Benefit Rate Chart (https://dwd.wisconsin.gov/uiben/handbook/pdf/wbrchart.pdf)\nWork Search Frequently Asked Questions (https://dwd.wisconsin.gov/ui/worksearch)\nWork Search Plan (https://dwd.wisconsin.gov/uiben/worksearch-plan.htm)\nWork Search Requirements (https://dwd.wisconsin.gov/uiben/worksearch-requirements.htm)\n29",
+    "metadata": {
+      "section_title": "Visa Pre-paid Debit Card Frequently Asked Questions",
+      "page_number": 29
+    }
+  }
+]

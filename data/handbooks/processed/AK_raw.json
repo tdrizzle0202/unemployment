@@ -1,0 +1,3489 @@
+[
+  {
+    "type": "Image",
+    "element_id": "8feae128b877fd1127284ea81a5fdb62",
+    "text": "W - ag: L) = i 1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5d2656aed31ac8dbfd87e08b6f76630d",
+    "text": "labor.alaska.gov/unemployment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "97875b5b7ad906e3f15fd80d72b92ba0",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f126c3377380b29f5987fb26ff586f0c",
+    "text": "TABLE OF CONTENTS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c2fe061cca725199f570d59d56720828",
+    "text": "Introduction ..................................................... 4 Program integrity .............................................4 Fraud ............................................................4 General ......................................................... 5 Benefit year .....................................................5 Amount/duration of benefits ..............................5 Regular base period ..........................................5 Benefits are taxable ..........................................6 Social Security numbers ....................................6 Dependent allowances ......................................6 Eligibility requirements and claimant responsibility ........................ 7 Ready and able to work ....................................7 Registration for work ........................................8 Work search contact requirements .....................8 Reemployment Services ....................................9 Quit, fired, refused work ...................................9 Attending school or training ..............................9 Work, wages, income ....................................... 9 Work ............................................................9 Wages .......................................................... 10 How wages affect your benefits ....................... 10 Excess earnings ............................................. 10 Other deductible income ................................. 11 Travel/relocate ............................................... 11 When to file a new claim or reopen your existing claim ....................... 12 File a new claim immediately if ........................ 12 You must reopen your existing claim immediately if ........................................ 12 Information you need before filing ................ 12",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><tbody><tr><td>ESEEEEE Introduction</td><td></td></tr><tr><td>Program integrity</td><td></td></tr><tr><td>Fraud</td><td></td></tr><tr><td>General EE</td><td></td></tr><tr><td>Benefit year</td><td></td></tr><tr><td>Amount/duration of benefits</td><td></td></tr><tr><td>Regular base period</td><td></td></tr><tr><td>Benefits are taxable</td><td></td></tr><tr><td>Social Security numbers</td><td></td></tr><tr><td>Dependent allowances</td><td></td></tr><tr><td>Eligibility requirements [ and claimant responsibility</td><td></td></tr><tr><td>Ready and able to work</td><td></td></tr><tr><td>Registration for work</td><td></td></tr><tr><td>Work search contact requirements</td><td></td></tr><tr><td>Reemployment Services</td><td></td></tr><tr><td>Quit, fired, refused work</td><td></td></tr><tr><td>Attending school or training</td><td></td></tr><tr><td>Work, wages, income R</td><td></td></tr><tr><td>Work</td><td></td></tr><tr><td>Wages</td><td>10</td></tr><tr><td>How wages affect your benefits</td><td>10</td></tr><tr><td>Excess earnings</td><td>10</td></tr><tr><td>Other deductible income</td><td>11</td></tr><tr><td>Travel/relocate</td><td>11</td></tr><tr><td>When to file a new claim or reopen your existing claim...</td><td>12</td></tr><tr><td>File a new claim immediately if</td><td>12</td></tr><tr><td colspan=\"2\">You must reopen your existing</td></tr><tr><td>claim immediately if</td><td>12</td></tr><tr><td>Information you need before filing T</td><td>P 12</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "alaska.pdf",
+      "parent_id": "f126c3377380b29f5987fb26ff586f0c"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "4801e29eb6c7c858d887b8f6308e1abc",
+    "text": "2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "094f12f0ab17559b26ee54544b2a30e9",
+    "text": "How to file a new claim or reopen your existing claim ....................... 13 myAlaska ....................................................... 13 Filing weekly claims ....................................... 14 Weekly claim questions .................................. 14 How to report hours worked ........................... 15 How to report gross wages ............................. 15 How to report net income when self employed ..... 16 How to report employment status .................... 16 Filing online .................................................... 16 Internet menu ................................................ 17 Helpful information ......................................... 17 Payment methods .......................................... 18 Debit card ...................................................... 18 Direct deposit ................................................ 18 Filing by phone — VICTOR ................................ 19 VICTOR menu ................................................ 19 Appeal rights .................................................. 20 Audits ............................................................. 20 Quality Control audit ....................................... 20 UI Crossmatch ............................................... 21 Overpayment of benefits ................................ 21 Repayment .................................................... 21 Extended Benefits (EB) .................................. 21 Alaska job centers .......................................... 21 Claim center phone numbers ......................... 22 VICTOR phone numbers ................................. 22 Other UI contacts ........................................... 22 Appeals ......................................................... 22 Benefit Payment Control ................................. 23 Internet addresses ......................................... 24",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><tbody><tr><td>How to file a new claim or reopen your existing claim P T T</td><td>13</td></tr><tr><td>myAlaska</td><td>13</td></tr><tr><td>Filing weekly claims</td><td>14</td></tr><tr><td>Weekly claim questions.</td><td>14</td></tr><tr><td>How to report hours worked</td><td>15</td></tr><tr><td>How to report gross wages</td><td>15</td></tr><tr><td>How to report net income when self employed</td><td>16</td></tr><tr><td>How to report employment status</td><td>16</td></tr><tr><td>Filing online EEERRE</td><td>16</td></tr><tr><td>Internet menu</td><td>17</td></tr><tr><td>Helpful information....</td><td>17</td></tr><tr><td>Payment methods E</td><td>18</td></tr><tr><td>Debit card</td><td>18</td></tr><tr><td>Direct deposit ....</td><td>18</td></tr><tr><td>TTI Filing by phone — VICTOR</td><td>19</td></tr><tr><td>VICTOR menu</td><td>19</td></tr><tr><td>Appeal rights ..</td><td>P 20</td></tr><tr><td>Audits ....</td><td>20</td></tr><tr><td>Quality Control audit..</td><td>20</td></tr><tr><td>UI Crossmatch</td><td>21</td></tr><tr><td>Overpayment of benefits</td><td>21</td></tr><tr><td>Repayment</td><td>21</td></tr><tr><td>Extended Benefits (EB) .</td><td>21</td></tr><tr><td>E Alaska job centers</td><td>21</td></tr><tr><td>Claim center phone numbers</td><td>22</td></tr><tr><td>VICTOR phone numbers T T P</td><td>22</td></tr><tr><td>Other UI contacts.</td><td>22</td></tr><tr><td>Appeals</td><td>22</td></tr><tr><td>Benefit Payment Control</td><td>23</td></tr><tr><td>Internet addresses E</td><td>24</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ca9c4a10b05f1b69e73200b38cdfac18",
+    "text": "INTRODUCTION",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c7e3a59e6c9791a7d1300953e7e3c37b",
+    "text": "You are responsible to read and become familiar with this handbook. Many of your Unemployment Insurance (UI) questions are answered here. If your question is not answered here, you will find links for more information and division contacts to help you with your UI questions on our website at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "alaska.pdf",
+      "parent_id": "ca9c4a10b05f1b69e73200b38cdfac18"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "001f179b050d2de71a04d7428f0b7032",
+    "text": "labor.alaska.gov/unemployment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0619c935d77863e88842ec9f9ed8ddb9",
+    "text": "The information in this handbook is based on but does not replace, Alaska Statute (23.20) and Title 8, Chapter 85, (8 AAC 85) of the Alaska Administrative Code.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "alaska.pdf",
+      "parent_id": "001f179b050d2de71a04d7428f0b7032"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ef8399e457a69b50505ef3fc7648ae71",
+    "text": "If English is not your first language and you need answers to questions in your language, please contact your nearest claim center at the phone number on page 22 of this handbook. Telephone interpreter services are provided at no cost to you. Kung hindi Ingles ang iyong unang wika at kailangan mo ng sagot sa iyong mga katanungan, mangyaring tawagan mo lamang ang pinakamalapit na claim center sayo sa numero ng telepono sa pahina 22 ng handbook na ito. Ang mga serbisyo ng interpreter ng telepono ay ibinibigay nang libre para sayo. Si el inglés no es su primer idioma y necesita respuestas en español, comuníquese con su centro de reclamos más cercano al número de teléfono que aparece en la página 22 de este manual. Los servicios de intérprete se proporcionan sin costo alguno para usted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "alaska.pdf",
+      "parent_id": "001f179b050d2de71a04d7428f0b7032"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fe8ddf5235d6602ba733c1f97af7b155",
+    "text": "Program Integrity",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1e03107503cae3788e68250e1b73e6ba",
+    "text": "Program integrity is the number one focus of the UI program. Our goal is to improve program integrity by reducing improper payments. You are required to provide the department with timely, accurate and complete information to determine or reexamine eligibility for any claim or audit conducted by the division or its representatives.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "alaska.pdf",
+      "parent_id": "fe8ddf5235d6602ba733c1f97af7b155"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4a7d3b054ce754ac50d6643c78cf591b",
+    "text": "Fraud",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2509133bf540df84a945ee07dc46c7ba",
+    "text": "Alaska law imposes severe penalties for attempting to collect benefits to which you are not entitled. For UI purposes, fraud is knowingly making a false statement, misrepresenting a material fact, or withholding information to obtain benefits. You will be required to repay the benefits. You also may have to pay a penalty equal to 50% of the benefits that were paid to you as a",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "alaska.pdf",
+      "parent_id": "4a7d3b054ce754ac50d6643c78cf591b"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "24251188c6cd7d92ea3a437949033f38",
+    "text": "4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cf214bcf06a512dae6095eae891692fe",
+    "text": "result of the misrepresentation. Also, current and future benefits may be withheld. All fraud cases are subject to criminal prosecution, fines, and imprisonment. If you suspect that a business or an individual is committing fraud, please contact us: Email: uifraud@alaska.gov Fax: (907) 269-4835 Phone: (907) 269-4880 Toll-free: (877) 272-4635",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "34eb37b2bf0294484f9f86639075e9d1",
+    "text": "GENERAL",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d0f80ee0688135ecdf358749d9b2bee6",
+    "text": "Benefit year",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6cce4533ed99c1bba9d4ba3efaf637c0",
+    "text": "A “benefit year” is typically 52 weeks following the effective date of your claim. The effective date of your claim is Sunday of the week in which you file.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "alaska.pdf",
+      "parent_id": "d0f80ee0688135ecdf358749d9b2bee6"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c8e7f6223b84d3c2a4f06d55858c6e14",
+    "text": "Amount/duration of benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "59952220171c6fec34d89612a3eb2820",
+    "text": "The maximum weekly benefit amount in Alaska is $370. The minimum weekly benefit amount is $56. Your claim is based on wages paid to you in the first four of the last five completed calendar quarters from when you file your claim. (See diagram below.) If you do not qualify for a regular base period claim, you may be eligible for an alternate base period claim. This uses wages earned in the last four completed calendar quarters from when you filed your claim. If you have worked in another state during the benefit year, those wages may be requested to increase your weekly benefit amount, or you may choose to file for benefits with the other state. However, you may not file against more than one state at a time. The duration of benefits is 16 to 26 weeks, depending on the amount and distribution of wages paid in the base period.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "alaska.pdf",
+      "parent_id": "c8e7f6223b84d3c2a4f06d55858c6e14"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fbd6c6351eebbeb3da778f7d00cdd4c0",
+    "text": "Regular base period",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "15bfa636378e0b37b3d2230e94910ed5",
+    "text": "Your base period is the shaded months. oct Jan April July 1f your claim is filed in: Dec No Feb Marc June May. Aug Jan Sept Jan April July oct April Feb May. Aug May f March June Sept Dec June April July oct Jan July May. Aug Nov. Feb Aug June Sept Dec March Sep oct Jan oct Aug July Nov. Feb April May Nov Sept Dec March June Dec Year Prior Last Year Current Year",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "604f4ae835d56234e291d065196c577f",
+    "text": "Benefits are taxable",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9011b792d25dfa0f2aa4e766ec8f21eb",
+    "text": "When you file your federal income tax return, you must report 100% of the benefits paid. We will send you a 1099-G form by Jan. 31. You can print your 1099-G online through myAlaska, when available. Ensure your address is current with us to receive your 1099-G. You may request that 10% of benefits be withheld for taxes. You can start or stop tax withholdings when filing online, or by calling your UI claim center. We cannot refund any money withheld.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "alaska.pdf",
+      "parent_id": "604f4ae835d56234e291d065196c577f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "892e126f5a8f02897b556119a9c2a050",
+    "text": "Social Security numbers",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e5c67f29961272e7777d4ea96fa367d1",
+    "text": "To protect your privacy, Social Security numbers (SSN) are no longer displayed on documents mailed to you. A client ID number is displayed instead. Your SSN will still be used in correspondence with your former employer and shared with other government agencies such as Social Security Administration and U.S. Citizenship and Immigration Services.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "alaska.pdf",
+      "parent_id": "892e126f5a8f02897b556119a9c2a050"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3115356bd0a1567de130da38a7309ead",
+    "text": "Dependent allowances",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5e2156358535abaeec0fd57c9b917e27",
+    "text": "You may be eligible to receive an additional allowance of $24 per week per child, for up to three children. A dependent is your natural child, stepchild (by marriage), legally adopted child or court-appointed legal ward. Your dependent must be unmarried and under the age of 18 unless they have a permanent disability. You may be asked to provide documentation for dependent allowance eligibility. A dependent must reside with you, or you must certify that you have provided more than 50% of the dependent’s support over the past 12 months or since the loss of custody. If you certify that you provided more than 50% support, you may be required to submit proof. You can add a dependent to our claim anytime during your benefit year before exhausting your regular benefits. To add a dependent, call your UI claim center.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "alaska.pdf",
+      "parent_id": "3115356bd0a1567de130da38a7309ead"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "76016646c27fc04dcaa44e8d23ad1bc0",
+    "text": "6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "48d5c27a609719d78d50b8e4a1ebc674",
+    "text": "ELIGIBILITY REQUIREMENTS and CLAIMANT RESPONSIBILITY",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "59edc83dd0163db576c7953fe18a0911",
+    "text": "As a claimant filing for UI benefits, you are responsible for:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "alaska.pdf",
+      "parent_id": "48d5c27a609719d78d50b8e4a1ebc674"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7ad30460d215b03e1a554b0155a19847",
+    "text": "1. Registering for work as directed by your local state workforce agency.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "alaska.pdf",
+      "parent_id": "48d5c27a609719d78d50b8e4a1ebc674"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "47f8405c57577f83a672ad5884088fb5",
+    "text": "2. Actively seeking suitable full-time employment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "alaska.pdf",
+      "parent_id": "48d5c27a609719d78d50b8e4a1ebc674"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a12880129492d0a0ea983f707c2695b7",
+    "text": "3. Reporting weekly employer work search contacts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "alaska.pdf",
+      "parent_id": "48d5c27a609719d78d50b8e4a1ebc674"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8ebef4cc49a83c8350a065f8237ee469",
+    "text": "4. Reporting all work activity and earnings for each week you file.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "alaska.pdf",
+      "parent_id": "48d5c27a609719d78d50b8e4a1ebc674"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "003200d4ca9a87db883ffe0ef9e00580",
+    "text": "IMPORTANT: U.S. Postal Service does not forward UI mail. You are responsible to maintain a current mailing address with our agency. You can update your address online, while filing for benefits, or by calling the UI claim center. Work registration requirements may change.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "alaska.pdf",
+      "parent_id": "48d5c27a609719d78d50b8e4a1ebc674"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f61397343fb325e64a5a60661d605ea8",
+    "text": "Ready and able to work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b5fbd2eea9f56014cadb072f24884e5a",
+    "text": "You must be physically able and available to seek and accept suitable full-time work. If you apply for or become a recipient of Workers’ Compensation or Social Security Disability, you must report this to your claim center as your UI benefits may be affected. Employers and department staff must be able to contact you. You must have transportation (car, bus, walk, etc.) to get to work and childcare options available if you are offered employment. You may not be considered available for full-time work if you are incarcerated or have legal restrictions. Incarceration is being confined in a correctional center, city jail, or community residential center. Legal restrictions include, but are not limited to, electronic monitoring or being subject to third-party custody. Suitable work means work you are suited for by experience or training, that meets the prevailing wage and working conditions for your locality, and is realistic to your labor market. You are expected to be flexible in your work searches and to accept suitable work even if the pay is less than you earned in your last job. Self-employment is not considered suitable work for UI purposes.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "alaska.pdf",
+      "parent_id": "f61397343fb325e64a5a60661d605ea8"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "3364dfd53b4fb3958fbd3a6802464427",
+    "text": "7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f9c86a4a3a7c979916f0ca595a7ac36c",
+    "text": "Registration for work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f737e62219dc8948e1b00b2abb378992",
+    "text": "If you are in Alaska and you are instructed to register for work, you must register for work and post a resume online in AlaskaJobs at alaskajobs.alaska.gov. If you have already posted your resume in AlaskaJobs, you must make sure it is current and accessible online. Your resume must be posted online in AlaskaJobs within seven days of filing your new or reopened claim. It is your responsibility to check your resume often and verify the date your registration will inactivate on the “My Resumes” page in AlaskaJobs. If you are a member of a dispatching union, you must be in good standing and on your union’s out- of-work list. If you are outside of Alaska, you must register with the local state workforce agency office or with the local chapter of a dispatching union. Proof of out-of-state registration may be requested. To register for work in AlaskaJobs go online to alaskajobs.alaska.gov or call your nearest job center.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "alaska.pdf",
+      "parent_id": "f9c86a4a3a7c979916f0ca595a7ac36c"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0f355ea6f7c945b7562d2d5560e06d34",
+    "text": "Work search contact requirements",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a9b8f4a9d0351a0710f2315bac8b2a21",
+    "text": "You may be required to search for work with an employer each week you file for benefits. Work must be suitable based on your skills and capabilities. The work search information you provide may be reviewed and selected for audit, which means the employer you provide will be contacted for verification. It is important to document and save the information while filing for benefits. To be considered valid, you must contact an employer or person with the authority to hire, using a method of contact appropriate for the occupation (e.g., in-person, telephone, fax, mail, email or employer website).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "alaska.pdf",
+      "parent_id": "0f355ea6f7c945b7562d2d5560e06d34"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "51bbc92bcf32e48b90fcba87e3676b5a",
+    "text": "For each work search, you are required to report",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "alaska.pdf",
+      "parent_id": "0f355ea6f7c945b7562d2d5560e06d34"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1c027d8d880ffc959a56f0c9bb96db0b",
+    "text": ". date of contact,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "alaska.pdf",
+      "parent_id": "0f355ea6f7c945b7562d2d5560e06d34"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "12b954028a71184b7096d827077585d7",
+    "text": "• name of employer contacted, and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "alaska.pdf",
+      "parent_id": "0f355ea6f7c945b7562d2d5560e06d34"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c2b9433de99b75b3ffe1d4d4fe638441",
+    "text": "• method of contact.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "alaska.pdf",
+      "parent_id": "0f355ea6f7c945b7562d2d5560e06d34"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a01cb580000679889c6cf906b6957988",
+    "text": "If you do not search for work each week or follow work search requirements, benefits may be denied. Report your work searches when filing. For more information on work searches, visit labor.alaska. gov/unemployment/work_search.htm.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "alaska.pdf",
+      "parent_id": "0f355ea6f7c945b7562d2d5560e06d34"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "ab75acfc62f6634389087bb389d4619e",
+    "text": "8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0a586223b4c6387eebb66f00c5be48c1",
+    "text": "Reemployment Services",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9dca38bde90207ec7f53c00322f90dba",
+    "text": "The Reemployment Services program is for job seekers who need information to rapidly return to suitable work. Employment and training resources are available through the Alaska Job Center Network online, and from Alaska’s statewide job centers. If you are selected to participate in a Reemployment Services program, you must complete all requirements as instructed. Failure to do so may result in denial of your UI benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "alaska.pdf",
+      "parent_id": "0a586223b4c6387eebb66f00c5be48c1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d720c5680e80d56ba6386b28c19456fa",
+    "text": "Quit, fired, refused work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fe961110c119feedc064d35ed5bf3044",
+    "text": "You must report if you quit your job, are fired, or refuse work, so a determination of eligibility can be made. Potential penalties include a six-week disqualification period beginning with the first week you are unemployed, plus a three-week reduction in benefits. You also may be ineligible for Extended Benefits. If you return to work during the six-week disqualification period, contact a UI claim center, as your disqualification may be lifted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "alaska.pdf",
+      "parent_id": "d720c5680e80d56ba6386b28c19456fa"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fb6805f4dcff54d41528364c02c01559",
+    "text": "Attending school or training",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1e595f26d284e3cdaa7dabd7e8c9c499",
+    "text": "You may be eligible to receive benefits while attending approved vocational or academic training. If you are enrolled in or attending school or training, report your school or training when you file your weekly claim or call your UI claim center.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "alaska.pdf",
+      "parent_id": "fb6805f4dcff54d41528364c02c01559"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3b2feff6798ef628a7392c2dd2c6c814",
+    "text": "WORK, WAGES, INCOME",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a40eec10c5f23bc4c26164eb764e6a5a",
+    "text": "We compare what you report with other sources to verify accuracy. Refer to the section on Fraud (Page 4) for information relating to the misrepresentation of work or earnings.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "alaska.pdf",
+      "parent_id": "3b2feff6798ef628a7392c2dd2c6c814"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6c52c8f105c9f09ce9a2addd250c6d7c",
+    "text": "Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "73482d0fabb12906dd16888b3f9b51b5",
+    "text": "Reportable work includes time spent on self- employment, volunteer activities, or anything you do for wages, whether paid or not, during the seven days of the week you claim. Even if you are only working part-time or temporarily, all work and earnings, including tips and commissions, must be reported when you file your weekly certifications.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "alaska.pdf",
+      "parent_id": "6c52c8f105c9f09ce9a2addd250c6d7c"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "82b27e1adccb356e464fa81654a2a608",
+    "text": "9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0b73e314944b8f0f2fe9c56b067bb2a8",
+    "text": "Wages",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3167742631991f6416b9b3df51482439",
+    "text": "Wages are any kind of payment you receive for the work you do, including room and board, goods, barter, tips, commission, stipend, honorarium, per diem, COLA, payment for jury duty, bonuses and back pay. You must report your gross wages earned each week, Sunday through Saturday, whether you were paid or not. Report the amount earned before any deductions (your gross pay). Report the employer’s name and address, dates, and number of hours worked per week, and your employment status. If you are unsure of the number of hours worked or how much you earned, you can file up to seven days after the date you were paid. But, if you wait, you will need to call the UI claim center to file and report these wages, and your payment may be delayed. National Guard members called to active duty must report encampments and wages earned. Do not report weekend drills. If you are currently employed on an alternating or rotating work schedule — such as two weeks on, two weeks off — you may not be considered unemployed during your scheduled time off. Report your work schedule to your UI claim center.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "alaska.pdf",
+      "parent_id": "0b73e314944b8f0f2fe9c56b067bb2a8"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2ecf842860366f80d5ae73a5866c5f9f",
+    "text": "How wages affect your benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1b83d591a18d5587c71eccdf31e5b03c",
+    "text": "You must report all the wages you earned each week. Your benefit payment will be reduced by 75 cents for each dollar you earn over $50. If you do not know how much you earned at the time you report, call the UI claim center within seven days with the correct wage amount. Reporting less than you earned could result in an overpayment of benefits that you will have to repay.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "alaska.pdf",
+      "parent_id": "2ecf842860366f80d5ae73a5866c5f9f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "96ba9985cdfc01df23dbe7daf3be17cb",
+    "text": "Excess earnings",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ee754a13439dcbfaa33da21ff4dbef22",
+    "text": "If you have gross wages equal to or greater than 11/3 times your weekly benefit amount plus $50, you will not receive a benefit payment for that week. To locate your excess earnings amount, use your monetary determination or access it online at my.alaska.gov. Click on “View Your Services,” then “Unemployment Insurance Benefits,” then “Current UI Claim Status” and “Work Search Requirements.”",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "alaska.pdf",
+      "parent_id": "96ba9985cdfc01df23dbe7daf3be17cb"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "07ab2760caaf4f1587976fd6d27b5fa6",
+    "text": "10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3b900fff3ae0c2efe5bf2ad00e674cc2",
+    "text": "Other deductible income",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dad0e9558a33fae564e97c31dd91d2d6",
+    "text": "When you are filing for benefits you must report the gross amount of any of the following payments: vacation, holiday, sick, pension, retirement, severance, commission, bonus, wages in lieu of notice, and back pay awards. Changes in your gross pension amount must be immediately reported to the UI claim center. A deduction may be taken from your weekly benefits if you receive any of these payments. Social Security benefit payments are not deducted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "alaska.pdf",
+      "parent_id": "3b900fff3ae0c2efe5bf2ad00e674cc2"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4e05148945bc29383069754e92433f99",
+    "text": "TRAVEL/RELOCATE",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "33d83e2ab798bceaf228be06ae3929d1",
+    "text": "You must report all travel when filing for benefits. This includes any in-state travel. You are in travel status any time you travel outside the area in which you reside. You may be eligible while traveling if:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "alaska.pdf",
+      "parent_id": "4e05148945bc29383069754e92433f99"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3df42a7c4625414273faae3e2fd40a70",
+    "text": "• You travel in search of work for up to four consecutive weeks. You must be legally eligible to accept work in the area of travel and to actively search for work during each week you travel. Regulations only allow for in-person work searches done while traveling. You can show reasonable efforts to find work by making verifiable in-person contact with an employment service representative (e.g., two in-person employer contacts, in- person prearranged job interview, or in-person registration with the local chapter of your union).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "alaska.pdf",
+      "parent_id": "4e05148945bc29383069754e92433f99"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fa6662caabd8207cccc49f0594170299",
+    "text": "• You travel to accept an offer of work beginning within 14 days of your departure.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "alaska.pdf",
+      "parent_id": "4e05148945bc29383069754e92433f99"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "73b853c7572744ee29e12dc5769d7824",
+    "text": "• You travel to your home following discharge from the armed services.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "alaska.pdf",
+      "parent_id": "4e05148945bc29383069754e92433f99"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cba9be7f3b8b360b91d60e96f21d6d0b",
+    "text": "• You were paid UI benefits the week prior to your travel, did not refuse an offer of work and you travel to:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "alaska.pdf",
+      "parent_id": "4e05148945bc29383069754e92433f99"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d6ffb31dab2f9e481d0b7d90f44d89e3",
+    "text": "• obtain medical services, or accompany a spouse or dependent(s) to obtain medical services not available where you live, on the advice of a healthcare provider.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "alaska.pdf",
+      "parent_id": "4e05148945bc29383069754e92433f99"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c407e71583f951264ed61ccdff3a83cb",
+    "text": "• attend the funeral of an immediate family member for up to seven days.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "alaska.pdf",
+      "parent_id": "4e05148945bc29383069754e92433f99"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "967121abbb7a5105f4dc8e1625ca751e",
+    "text": "If you travel or relocate outside the U.S., Canada, Puerto Rico, or the U.S. Virgin Islands, you are not eligible to collect benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "alaska.pdf",
+      "parent_id": "4e05148945bc29383069754e92433f99"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "218409a7cdce7fc0b5727c442c948da6",
+    "text": "11",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c72bbc6a86dfa911cd0c9739d92dc865",
+    "text": "WHEN TO FILE A NEW CLAIM or REOPEN AN EXISTING CLAIM",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "73461fdccfd727a9f2aa4f74243dd642",
+    "text": "File a new claim immediately if you are:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "513658d83ad55e9174bf7dbba0e683ee",
+    "text": "• Separated (quit, fired, laid off) from work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf",
+      "parent_id": "73461fdccfd727a9f2aa4f74243dd642"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "46e1832f6d8a7e1daa1a1c4e9b2b7b45",
+    "text": "• Working on-call or part-time.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf",
+      "parent_id": "73461fdccfd727a9f2aa4f74243dd642"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b0f6a0acf7326a688e5ccf49d3d0f8fc",
+    "text": "You must reopen your claim immediately if:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c471585f9ed709815a41393e211bcb3a",
+    "text": "• You stop filing weekly claims for any reason and want to start filing again.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf",
+      "parent_id": "b0f6a0acf7326a688e5ccf49d3d0f8fc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4e3768678b9b4f3bce89ceb0d2661478",
+    "text": "• You move out of Alaska, move from one state to another, or move from one area to another within a state.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf",
+      "parent_id": "b0f6a0acf7326a688e5ccf49d3d0f8fc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "82dd9808dc1de216ca31cec4bb2d5c95",
+    "text": "• You travel in search of work for more than four weeks.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf",
+      "parent_id": "b0f6a0acf7326a688e5ccf49d3d0f8fc"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "68504747d3ad6f88560e343fcc2ca89a",
+    "text": "INFO YOU NEED BEFORE FILING",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d43f0ff0f98128954f6599b11c464e5f",
+    "text": "• Your Social Security number",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf",
+      "parent_id": "68504747d3ad6f88560e343fcc2ca89a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "edfdbfdc608631d4aa5d0affd0fac906",
+    "text": "• If not a U.S. citizen, your alien registration number, work permit type, passport number and expiration date",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf",
+      "parent_id": "68504747d3ad6f88560e343fcc2ca89a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3ab8a399d79f53c3dd27fc42289c9b51",
+    "text": "• Name, mailing address, and phone number of your last employer",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf",
+      "parent_id": "68504747d3ad6f88560e343fcc2ca89a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4921b9d062dcaa728374869323caf9b7",
+    "text": "Dates of employment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf",
+      "parent_id": "68504747d3ad6f88560e343fcc2ca89a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "84dc0a15bc58562b117e7d985e26759c",
+    "text": "• Hours and gross wages earned in the last week you worked",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf",
+      "parent_id": "68504747d3ad6f88560e343fcc2ca89a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e5c26b16098eae001e042c3f1b77706e",
+    "text": "• Gross amount of holiday, vacation, severance or bonus received the last week you worked",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf",
+      "parent_id": "68504747d3ad6f88560e343fcc2ca89a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "075128bb65b4c73a0f9b60f34843b325",
+    "text": "• If you worked for the federal government in the past 18 months you will need an SF-8 or SF-50",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf",
+      "parent_id": "68504747d3ad6f88560e343fcc2ca89a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1200ff284c82c57201230b2c9624aaf7",
+    "text": "• If you were active-duty military in the past 18 months you will need copy 4 of your DD-214",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf",
+      "parent_id": "68504747d3ad6f88560e343fcc2ca89a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0dd922a74452985710aaea4aca120694",
+    "text": "• Retirement information if currently receiving retirement payments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf",
+      "parent_id": "68504747d3ad6f88560e343fcc2ca89a"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c326c21554a5546f987eb17eb9311a53",
+    "text": "12",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7d32223fec1c2806d7c0b02892d4265d",
+    "text": "HOW TO FILE A NEW CLAIM or REOPEN AN EXISTING CLAIM",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0b7f67c05ca0ae2ca167967c3d5eaad5",
+    "text": "For the fastest service, apply online. Our online services are available 24 hours a day, seven days a week. You can also call a UI claim center. (For claim center hours and phone numbers, see Page 22.) Claims are effective Sunday of the week in which you open or reopen. To file on the Internet, log in to my.alaska.gov and click “View Your Services,” then “Unemployment Insurance Benefits.”",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "alaska.pdf",
+      "parent_id": "7d32223fec1c2806d7c0b02892d4265d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "421145acbf02f60ecfd75d4fea9c9357",
+    "text": "IMPORTANT: To submit applications online, you must read and certify as instructed, and click “I AGREE” to complete the application process. Keep a copy for your records and comply as instructed, or benefits may be denied. The confirmation page will provide important links such as for AlaskaJobs, direct deposit and work-search log.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "alaska.pdf",
+      "parent_id": "7d32223fec1c2806d7c0b02892d4265d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5c96401bf9e3e470f6f891f6a750861a",
+    "text": "myAlaska",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "95c21bd6f69f9529af7385fa832eb902",
+    "text": "You must use the same myAlaska account each time you access the UI website. If you previously registered with myAlaska to apply for your Alaska Permanent Fund Dividend, or for other reasons, you may use the same account. Please store your myAlaska account information safely for future reference. To ensure your privacy and the security of your information, remember to log out of myAlaska when you finish your session.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "alaska.pdf",
+      "parent_id": "5c96401bf9e3e470f6f891f6a750861a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "44a844449d051741c518639e76f5e358",
+    "text": "IMPORTANT: Whether filing online or by phone, you are responsible for the answers provided and payments made using your username, password, and PIN. These electronic signatures have the same legal authority as your signature on paper. Do NOT share your username, password, or PIN with anyone.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "alaska.pdf",
+      "parent_id": "5c96401bf9e3e470f6f891f6a750861a"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "39e98cbbd9e90be582d5634a061c2bd7",
+    "text": "13",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cb9f331828b00e870446de71810799ad",
+    "text": "FILING WEEKLY CLAIMS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "41f956b800ebbb7ae88b53bb118de3e4",
+    "text": "When you open a new claim or reopen an existing claim, you will be given dates for when to file your weekly claim. You must file every week or two to keep your claim active and to receive benefits. Weeks that are filed late may be disqualified. The first eligible week of a new claim is a “waiting week.” You do not receive payment for this week. You must file to get credit for the week and meet the same requirements as any other week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "alaska.pdf",
+      "parent_id": "cb9f331828b00e870446de71810799ad"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5429be6fc54dbd2f19d72035bd430032",
+    "text": "WEEKLY CLAIM QUESTIONS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7b485e4b202c58bd5cd7430af5701fac",
+    "text": "Each of the questions on the weekly UI benefits application pertains only to the week(s) listed on the form. Depending on your answers, you may be asked additional questions or to complete a questionnaire.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "alaska.pdf",
+      "parent_id": "5429be6fc54dbd2f19d72035bd430032"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3b3f7b21e9d38e0f188d8fefaa8141b2",
+    "text": "• Were you available and physically able to work full time each day?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "alaska.pdf",
+      "parent_id": "5429be6fc54dbd2f19d72035bd430032"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6e4fdaaea6f44232b671ae17d0c4e72d",
+    "text": "• Did you miss work or refuse a job offer or job referral?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "alaska.pdf",
+      "parent_id": "5429be6fc54dbd2f19d72035bd430032"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0ffe697ce74eacfc12040ad5676e1401",
+    "text": "If you turned down work or refused to be scheduled for work by an employer, answer yes.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "alaska.pdf",
+      "parent_id": "5429be6fc54dbd2f19d72035bd430032"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1f4dcf1aeaf9e7fbfcdada95e3898187",
+    "text": "• Were you attending school or a training program?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "alaska.pdf",
+      "parent_id": "5429be6fc54dbd2f19d72035bd430032"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c2cdb4ce6d2ae047d3276aa6ca1bfbc9",
+    "text": "• Did you travel or move to a different town? If you traveled outside the area in which you reside, traveled to accept a definite offer of work, or if you relocated to a new town, answer yes.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "alaska.pdf",
+      "parent_id": "5429be6fc54dbd2f19d72035bd430032"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bae7a600413d317679dddfcb668baffd",
+    "text": "• Did you receive vacation, sick, retirement, bonus, holiday, or severance pay? If you received any of the above payments report the income in the week it was received. Do not report Social Security. If you answer yes but do not report an amount, you will be advised to contact the UI claim center. Failure to contact the claim center as advised may result in the denial or late payment of your benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "alaska.pdf",
+      "parent_id": "5429be6fc54dbd2f19d72035bd430032"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "322ae6ca010439e0dff0499ec587b12d",
+    "text": "14",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fda9816bb7316deaec8d13c84e4c1f4b",
+    "text": "• Did you work for an employer, or were you self-employed?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8ec09b79f29db81bce79b26baa43bc55",
+    "text": "If you worked for an employer — whether it is full-time, part-time, temporary, casual/day labor, etc. — you are required to report the amount you earned, hours you worked, the employer’s name and address, and the last day you worked in the week you are claiming. You must report the wages that you earned in the week that you worked not when you are paid for the work. If you performed self-employment services, you must report the number of hours you spent on your business and your net income.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d14fcf8a9da64266983cc0e35821dce6",
+    "text": "• Did you search for work?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "67f1a8b853d9e523595ab788c510980a",
+    "text": "You are required to provide information on weekly work search contacts. (Please see work search contact requirements.)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fb64c4dabc24e91a81e10bea766ca8df",
+    "text": "How to report hours worked",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b30cb1803d306152f57f03437657b971",
+    "text": "When reporting your hours worked in regular or self-employment, include any partial hours in 15-minute increments (15 minutes=.25, 30 minutes=.50, 45 minutes=.75). For example, if you worked 3 hours and 45 minutes, enter 3.75. If you work 7 hours and 15 minutes, enter 7.25.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "alaska.pdf",
+      "parent_id": "fb64c4dabc24e91a81e10bea766ca8df"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9e6d7bb4edeac063aaa6f136c8d42ff1",
+    "text": "How to report gross wages",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e5182629c6f1acf6210864b6a831d75a",
+    "text": "Your gross wage is the total amount you earned before any deductions. You must report your gross wages earned each week, Sunday through Saturday, whether you were paid or not. Multiply the total number of hours worked by the total hourly wage. Report dollars and cents rounded to the nearest cent. For example: You worked 3 hours and 45 minutes in one week, and you earn $10.25 an hour. Multiply total hours worked (3.75) by hourly wage ($10.25) to obtain gross earnings ($38.4375). Round wages to the nearest cent to report $38.44.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "alaska.pdf",
+      "parent_id": "9e6d7bb4edeac063aaa6f136c8d42ff1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2650790ae641dacfac018275bfc54f74",
+    "text": "IMPORTANT: Factor in any overtime performed, including tips or earnings from commissions.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "38240898b20afeeaada9703f7f5eba79",
+    "text": "15",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bccae4ac448019e980cee3f0cb8c3df8",
+    "text": "How to report net income when self employed",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8db81505702cdd9a11a91d0a73c1020a",
+    "text": "To calculate your net income for the week, take your gross income earned from your self- employment and subtract your business expenses for that week. If you did not and will not receive payment for the self-employment services, you must still report the hours you spent on your business.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "alaska.pdf",
+      "parent_id": "bccae4ac448019e980cee3f0cb8c3df8"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2be5f16f62c5265ab342233bda5dd841",
+    "text": "How to report employment status",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b6120a9f996112cc510202e78eb7bc25",
+    "text": "After reporting that you worked for an employer you will be asked about your employment status. You will be given the following options: laid off, working on call, working part-time, quit, or fired. If you are a part-time or on-call employee and work 40 or more hours in a week, do not report your status as full-time. Misreporting the status of your employment may result in a delay in payment. If you fail to report that you were fired or have quit your job, you may have to repay benefits already paid to you in error, and you may be subject to penalties for fraud.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "alaska.pdf",
+      "parent_id": "2be5f16f62c5265ab342233bda5dd841"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "49d6a21cbb3c87b36b1eb59be531bc4f",
+    "text": "FILING ONLINE",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "952e6cb5d697c835fb1253d573402847",
+    "text": "MyAlaska is a quick and easy full-service site to file for benefits and manage your account. Log in to my.alaska.gov, and click “View Your Services,” then “Unemployment Insurance Benefits.”",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "alaska.pdf",
+      "parent_id": "49d6a21cbb3c87b36b1eb59be531bc4f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b1ddaeac992e5043d93893b20c0133c9",
+    "text": "IMPORTANT: When filing online, additional information may be requested. If you are instructed to contact the claim center on your confirmation page, you must do so, or benefits may be denied.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "alaska.pdf",
+      "parent_id": "49d6a21cbb3c87b36b1eb59be531bc4f"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0bcd8776e92ae4576c91b0355c267a72",
+    "text": "16",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3d72db3d0e59a8641353b323d500e7dc",
+    "text": "Internet menu",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1d049c92326596dd670d89bc607788d7",
+    "text": "(Options may be different based on your claim status)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "alaska.pdf",
+      "parent_id": "3d72db3d0e59a8641353b323d500e7dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "294ee096bcecc3f1b5a1a131b87445d5",
+    "text": "• File a new claim or reopen an existing claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "alaska.pdf",
+      "parent_id": "3d72db3d0e59a8641353b323d500e7dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ca27afd2637608285c063d6ffe21a979",
+    "text": "• File Extended Benefits (if available)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "alaska.pdf",
+      "parent_id": "3d72db3d0e59a8641353b323d500e7dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a3159866a2ebacb17e00e7d686197794",
+    "text": "• File for a week of UI benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "alaska.pdf",
+      "parent_id": "3d72db3d0e59a8641353b323d500e7dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ba23b98c4ec52fb63a6c7a1d1e87303c",
+    "text": "• Current Claim Status and Work Search Requirements — shows last payment, current mailing address, and account status",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "alaska.pdf",
+      "parent_id": "3d72db3d0e59a8641353b323d500e7dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f21d3a03e758e820eaefb21ad95d5140",
+    "text": "• Direct Deposit — start, change, or verify direct deposit account",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "alaska.pdf",
+      "parent_id": "3d72db3d0e59a8641353b323d500e7dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f732634980f514c4ab3b9cbff189020f",
+    "text": "• If you cancel your direct deposit, you will be sent a debit card",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "alaska.pdf",
+      "parent_id": "3d72db3d0e59a8641353b323d500e7dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8517929d65e8912e53f1c3e1ccec9713",
+    "text": "• Debit card enrollment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "alaska.pdf",
+      "parent_id": "3d72db3d0e59a8641353b323d500e7dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "314cb9a1161513ddda81741caa536c86",
+    "text": "• Debit card holder account information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "alaska.pdf",
+      "parent_id": "3d72db3d0e59a8641353b323d500e7dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "911ae713f5a288c0adbd6343aca4cdb3",
+    "text": "• Help finding a job, AlaskaJobs",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "alaska.pdf",
+      "parent_id": "3d72db3d0e59a8641353b323d500e7dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dfeb0643308c61da6511e9c65927d3b9",
+    "text": "• 1099-G tax information (if available)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "alaska.pdf",
+      "parent_id": "3d72db3d0e59a8641353b323d500e7dc"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ffd8cbc99d04880ac3fb6151286c91e8",
+    "text": "Helpful information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4efed8fc91e60a235957a0780e8f35dc",
+    "text": "You can change your mailing and/or physical address online by completing a claim application; your registration requirements may be affected. Help Icon will provide additional instructions and requirements.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "alaska.pdf",
+      "parent_id": "ffd8cbc99d04880ac3fb6151286c91e8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "48a924f63cddea0ced374191769c0cc5",
+    "text": "IMPORTANT: It is your responsibility to read all UI mail, and to contact the UI claim center any time you are instructed to do so. Failure to do so may result in denial of your UI benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "alaska.pdf",
+      "parent_id": "ffd8cbc99d04880ac3fb6151286c91e8"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "4f7484cdd91960e2be725efffa919c43",
+    "text": "17",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6d39346bc25e32c6616d778ba2ca9cca",
+    "text": "PAYMENT METHODS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "af4e5c345c29486a01fefb5141fe6c03",
+    "text": "Payments will be automatically dispensed through a debit card unless you set up direct deposit. Electronic payment is typically deposited within three business days of filing your weekly certifications. You can sign up for direct deposit or a debit card online.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "alaska.pdf",
+      "parent_id": "6d39346bc25e32c6616d778ba2ca9cca"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "039243c2d9dc7ed92bc024b4bb1a84b1",
+    "text": "Debit card",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5706b368a76ddddabfaf64992d620eab",
+    "text": "Unless you establish direct deposit a debit card and information packet will be mailed to you when you file a claim for benefits. The packet includes information on how to activate your card and contact numbers for customer service.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "alaska.pdf",
+      "parent_id": "039243c2d9dc7ed92bc024b4bb1a84b1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cb3479ee4a5bc6d0011cfe127a86b19f",
+    "text": "Direct deposit",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6afc0c8386570733dc4de239a94ceca9",
+    "text": "You can set up, reactivate, or cancel your direct deposit by selecting “Direct Deposit” on our online Benefit Internet Filing (BIF) system. You will need the following information to establish direct deposit:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "alaska.pdf",
+      "parent_id": "cb3479ee4a5bc6d0011cfe127a86b19f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0b27844abc3434f198abf320ff887e94",
+    "text": "1. The routing number is 9 digits surrounded by |:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "alaska.pdf",
+      "parent_id": "cb3479ee4a5bc6d0011cfe127a86b19f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "93305f233cdb14df727afd5ca60946a0",
+    "text": "2. The account number (do not include hyphens or other special characters)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "alaska.pdf",
+      "parent_id": "cb3479ee4a5bc6d0011cfe127a86b19f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f4940e34041f5944b9119c51d3120534",
+    "text": "3. Do not enter the check number",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "alaska.pdf",
+      "parent_id": "cb3479ee4a5bc6d0011cfe127a86b19f"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "99aa86a5fa0d0928da2ce156d5637c10",
+    "text": "       ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "463f6a03d6aba7fb853141bd6b99b41a",
+    "text": "IMPORTANT: Direct deposit is automatically suspended if it has not been used for a year. Your benefits will be issued to your debit card until direct deposit is re-established.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e2f9acc9520f3bfe8491b986b09ba493",
+    "text": "18",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c122bad7596dee48b7e1a0ca47e598a4",
+    "text": "FILING BY PHONE — VICTOR",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7572924492fcb0bc66a77a6254838310",
+    "text": "If you are unable to file online, you can file weekly by phone using the automated filing system VICTOR. VICTOR does not provide full service and has limited hours. Alaska residents more than 55 road miles from an Alaska job center can file 6 a.m.-7 p.m. Wednesday-Saturday, AST. All other VICTOR filers can file 6 a.m.-7 p.m. on Thursdays. For VICTOR phone numbers, see Page 22.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "c122bad7596dee48b7e1a0ca47e598a4"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "26e11bbe908d5238f43fe2ddfe9c350d",
+    "text": "VICTOR menu",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ea37e8de05d44b787d4e343ae85c79ed",
+    "text": "1. To file weekly claims",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7c815ad985ad7f7d90d4184111320f64",
+    "text": "2. For information about your claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "493b060b3f505368b788fea488102d8e",
+    "text": "• Payment status — You will be given information about the last two weeks you claimed",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9164dcc1067c36547aa448a754c34e9a",
+    "text": "• Excess earnings amount",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "699d7d10c76e6689b7215993d16badb9",
+    "text": "• 1099-G amount — the amount of benefits and withholdings reported to the IRS on form 1099-G",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f9d5d2347da47dbf6f7e2e633db676d2",
+    "text": "3. Start, change, or cancel direct deposit",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0f1d1769a28f19676f8e30ab08dacc6a",
+    "text": "• Option to set up, cancel, or confirm direct deposit to your personal bank account",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "51b272c922f17af1e4437d17ed65d68e",
+    "text": "• Status of debit card",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "198f333d41accfd647849002d4cddd37",
+    "text": "• You cannot cancel or request a debit card through VICTOR",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ec3aaf5e2c7cc3e8a989a068be9e1cfe",
+    "text": "4. Current mailing address",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d4ade5af3a0d60678c26c7345d400696",
+    "text": "5. Change your VICTOR PIN",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e8b7e2a480cbf4f0b05c0b808789711f",
+    "text": "• You may change your previously established PIN",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0ad5e862e603a401fbb75b5fd40d5f6c",
+    "text": "• When changing your PIN, choose a four-digit number you have not previously used",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1b44ceaeb3c54a7a39fcc78c46eb1989",
+    "text": "• Once you set up your PIN, it is in effect until you change it",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ce8864137cdb0eec854e7a2241d6d2a4",
+    "text": "• If you do not know your PIN, contact the UI claim center for assistance",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c93e75d9eebae61a2146325caf41cc48",
+    "text": "6. Speak to a claim center representative",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "951a18c2b4db451ca69020ccef5039c3",
+    "text": "IMPORTANT: If you hang up before VICTOR tells you your claim has been accepted, your answers will not be recorded and your claim will not be processed. You will need to call back and file again. If you are instructed by VICTOR to call the UI claim center, you must call within seven days. Your benefits will be denied if you do not contact the UI claim center as instructed. If you report less money than you earned, you will be required to repay the benefit amount and may be subject to penalties for fraud.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf",
+      "parent_id": "26e11bbe908d5238f43fe2ddfe9c350d"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a9a4a70ddbe34c8d4d9b9a0248a850c5",
+    "text": "19",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1a5556c68052a1e5365ea72a4fced425",
+    "text": "APPEAL RIGHTS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "679ba096fc61b20571097ba4abdbe1af",
+    "text": "You may appeal any written determination that denies or restricts your benefits. You must phone, fax, mail, or email your request for an appeal to your UI claim center or the Appeals office within 30 days of the determination. (Include your SSN or claimant ID with the issue you are appealing.) For contact information, see the other UI contacts section of this handbook. Appeals will schedule a hearing and mail a notice to you (contact Appeals if not received within three weeks). After the hearing, you will receive a decision in the mail. If you disagree with the decision, you have the right to further appeal.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "alaska.pdf",
+      "parent_id": "1a5556c68052a1e5365ea72a4fced425"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "355a32da531b96830fe2eda14d3e874a",
+    "text": "• Continue to file your weekly claims throughout the appeal process.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "alaska.pdf",
+      "parent_id": "1a5556c68052a1e5365ea72a4fced425"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f64c4508f1d045c0bcb6dccda58eb700",
+    "text": "• If the decision is in your favor, weeks which were not filed timely cannot be paid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "alaska.pdf",
+      "parent_id": "1a5556c68052a1e5365ea72a4fced425"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a34883420e8cd4858cf22a3de955ba41",
+    "text": "Contact the Appeals office directly with questions, or go to labor.alaska.gov/appeals. Per Alaska Statute 23.20.110(r), appeal hearing decisions are public information and are posted online at appeals.dol.alaska.gov. Select “Appeal Tribunal Decisions.”",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "alaska.pdf",
+      "parent_id": "1a5556c68052a1e5365ea72a4fced425"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b93175d8af418b6f1970489385eaf660",
+    "text": "AUDITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8e31cdb590032de63178db4867a9e2cc",
+    "text": "Quality Control audit",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f393e8fc4f058e0131f89b6aef0d52e2",
+    "text": "Under federal requirements, we may randomly select and audit your claim to ensure that all payments or denials of benefits were properly made. Auditors check all information you provide for accuracy. The reviews are thorough and may involve an interview with you and other interested parties. Failure to respond to a Quality Control audit request for information will result in a denial of benefits. For more information, contact QC: Email: dol.qc@alaska.gov Website: labor.alaska.gov/qc/claimants.htm Juneau: (907) 465-3000 Toll-free: (800) 478-2999 Fax: (907) 465-2247 Toll-free fax: (800) 478-4847",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "alaska.pdf",
+      "parent_id": "8e31cdb590032de63178db4867a9e2cc"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d41f34ff4822d9fb292c85002e4b0bf1",
+    "text": "20",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "312761da47ecf5c07844322868f9fccf",
+    "text": "UI Crossmatch",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0e654be08b0152b504f2bc40fbf09cde",
+    "text": "Crossmatch compares the earnings you reported with your employers’ reports of earnings. This process discovers errors in reported earnings which may have resulted in a mispayment of benefits. This also is done for persons who may have worked in other states. If you fail to report earnings correctly, a 50% penalty may be assessed, and future benefits denied.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "alaska.pdf",
+      "parent_id": "312761da47ecf5c07844322868f9fccf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bba0bce39eb3cdb71bedfdbb543c1f62",
+    "text": "OVERPAYMENT OF BENEFITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "614995199d5e80c6e15c003ef27730f3",
+    "text": "Repayment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "edafd913f61e06cc3ac3810e9b452115",
+    "text": "You are entitled only to benefits for which you are eligible. You must repay all benefits that are overpaid even if you were paid in error. Overpayments are legally enforceable debts. Payment arrangement can be made by contacting a Benefit Payment Control claims technician Monday- Friday, 10 a.m. to 3 p.m. AST, at (888) 810-6789, or (907) 465-2863 in Juneau.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "alaska.pdf",
+      "parent_id": "614995199d5e80c6e15c003ef27730f3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b26bec79ac3dc02c06af1b8106b169bd",
+    "text": "EXTENDED BENEFITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8609e9bb6c432c6ce8ca51cf4b61cdd1",
+    "text": "EB provides additional benefits during times of high unemployment for those who exhaust their regular benefits. These benefits are available only while this program is active. When the program becomes active you will be mailed EB instructions.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "alaska.pdf",
+      "parent_id": "b26bec79ac3dc02c06af1b8106b169bd"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0086897a136ffde51ca9a1bf34f54da7",
+    "text": "ALASKA JOB CENTERS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f1134f83c176ecf44bc33ff29943de06",
+    "text": "If you are interested in seeking work, job training, or advancing in a career, check in with one of the Alaska job centers listed online at:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "alaska.pdf",
+      "parent_id": "0086897a136ffde51ca9a1bf34f54da7"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5a6ef108f1fd37b7a092cbd7d9ace55e",
+    "text": "jobs.alaska.gov/offices or call (877) 724-2539",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "1bd2e50d6177f384fea54c32a252f60e",
+    "text": "21",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fe8d0f12cf4c2d2d102fd129ecff5a4e",
+    "text": "CLAIM CENTER PHONE NUMBERS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "55068e5744138c788b4aa8996e60ea33",
+    "text": "If you need assistance regarding your claim, call the number closest to your community or visit us online at:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "alaska.pdf",
+      "parent_id": "fe8d0f12cf4c2d2d102fd129ecff5a4e"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "82b2f80bfd9aca6ef7ab521ecd8b2c28",
+    "text": "labor.alaska.gov/unemployment/ call-centers.htm",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3af06b8a2ab19fda058a62f122368d42",
+    "text": "Anchorage UI Claim Center: (907) 269-4700 Fairbanks UI Claim Center: (907) 451-2871 Juneau UI Claim Center: (907) 465-5552 Toll-free for remote locations: (888) 252-2557 (888) 25CALLS Fax: (888) 353-2937 (888) 35FAXES Telephone hours are 10 a.m. to 3 p.m. Alaska Standard Time, Monday-Friday (except federal or state holidays). Relay Alaska and tele-interpreter services are available at no cost to you.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "alaska.pdf",
+      "parent_id": "82b2f80bfd9aca6ef7ab521ecd8b2c28"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "16976eca8046ea42eba0727070d7e771",
+    "text": "VICTOR PHONE NUMBERS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "de6ef621e8a4dd1a0026abedaed8919f",
+    "text": "Call the number closest to your community: Anchorage (907) 277-0693 Fairbanks (907) 451-6126 Juneau (907) 586-4650 If you are in a remote location that has been determined to be underserved for broadband internet service, you may still have access to the toll-free number: (888) 222-9989.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "alaska.pdf",
+      "parent_id": "16976eca8046ea42eba0727070d7e771"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8ffcc5010b8f004568a66e2d96d7cb71",
+    "text": "OTHER UI CONTACTS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bff70ca1cd95b341fd9ab27725648c28",
+    "text": "APPEALS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0461dfed5a1ef73fe37205e06286b466",
+    "text": "Email: appeals@alaska.gov Website: labor.alaska.gov/appeals Juneau: P.O. Box 115509 JUNEAU, AK 99811-5509 Fax: (907) 465-3374 Toll-free: (800) 232-4762",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "alaska.pdf",
+      "parent_id": "bff70ca1cd95b341fd9ab27725648c28"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e8e610528748e3f79d4b2c90a5c43ff8",
+    "text": "22",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c8678e54b4315df36330d82d853d9458",
+    "text": "BENEFIT PAYMENT CONTROL",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4cb4a2a40a64981558b522d7b9dd6aec",
+    "text": "Email: uifraud@alaska.gov Website: labor.alaska.gov/ unemployment/bpc.htm",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "alaska.pdf",
+      "parent_id": "c8678e54b4315df36330d82d853d9458"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f99fd233741f5e0bcbe3d32cca3685f6",
+    "text": "Juneau: P.O. Box 115509",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0e41335f47abd2fc246245eb4b3f0324",
+    "text": "JUNEAU, AK 99811-5509 Phone: (907) 465-2863 Fax: (907) 465-6010 Toll-free: (888) 810-6789 (remote locations)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "alaska.pdf",
+      "parent_id": "f99fd233741f5e0bcbe3d32cca3685f6"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1cb84be7181f8bf60d5e3908356642bf",
+    "text": "Anchorage: 3301 Eagle St., #205",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d65acfb948dbcf7fbddea9000ab3be9a",
+    "text": "ANCHORAGE, AK 99503 Phone: (907) 269-4880 Fax: (907) 269-4835 Outside Anchorage: (877) 272-4635",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "alaska.pdf",
+      "parent_id": "1cb84be7181f8bf60d5e3908356642bf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5aa62ad4375b478596c5b9a608acec5f",
+    "text": "Fairbanks: 675 7th Ave., Station L",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "57f57a021497b7626a4eef8957276ff0",
+    "text": "FAIRBANKS, AK 99701 Phone: (907) 451-2952 Fax: (907) 451-2883 Outside Fairbanks: (877) 272-4635",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "alaska.pdf",
+      "parent_id": "5aa62ad4375b478596c5b9a608acec5f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2ad556a3e8d0222c878f2399c76ace1a",
+    "text": "Relay Alaska for the deaf and hard of hearing:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "181a4b3f150bbbb29660eae39d838ef6",
+    "text": "If you need assistance with your unemployment claim, dial 711 from inside Alaska or (800) 770-8255 (toll-free) from outside the state. Alaska Department of Labor and Workforce Development Division of Employment and Training Services P.O. Box 115509, Juneau, AK 99811-5509 Printed for the Alaska DOLWD Division of Employment and Training Services, in Juneau, Alaska, in September 2022, at a cost of $0.15 per copy. We are an equal opportunity employer/program. Auxiliary aids and services are available upon request to individuals with disabilities. Form 210-804",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "alaska.pdf",
+      "parent_id": "2ad556a3e8d0222c878f2399c76ace1a"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8863e68ac7aa2e653b22abbdc891296d",
+    "text": "23",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "be625da7426b9b1536e8049c07ce2925",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b4ddefc2710978a6f7df3cc2c371d189",
+    "text": "ALASKA DEPARTMENT OF LABOR & WORKFORCE DEVELOPMENT",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e591359a12be218b5f891a94967fc484",
+    "text": "VISIT US ON THE INTERNET",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c0deb04ec62880604732c6848a963142",
+    "text": "UI HOME:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "77b94223eeba8f9e374699d83e5f2b38",
+    "text": "labor.alaska.gov/ unemployment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3f91d1a2275c33d7f06faa3ab07e2bb3",
+    "text": "FILE A CLAIM:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a7fcc4a3a4d7f61844e57e9c1ce97dba",
+    "text": "my.alaska.gov",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3e34c699555c34641659c8f7186f7bae",
+    "text": "(Log in and click on the “Services” tab, then “Unemployment Insurance Benefits.”)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "alaska.pdf",
+      "parent_id": "a7fcc4a3a4d7f61844e57e9c1ce97dba"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "301aa01cdcffe0a98e6c21396b383627",
+    "text": "Register for employment (AlaskaJobs):",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2dfcf9603cbd5cbb42c264951971c5c0",
+    "text": "alaskajobs.alaska.gov",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ab87a5ff2ca069d891a0c898ad132818",
+    "text": "ALASKA JOB CENTERS:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0ef7f2f638191b44f74e670726fef7c2",
+    "text": "jobs.alaska.gov/offices",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "alaska.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "defb85e953fb6472c5720784028ac2c8",
+    "text": "24",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "alaska.pdf"
+    }
+  }
+]

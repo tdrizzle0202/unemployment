@@ -1,0 +1,1908 @@
+{
+  "metadata": {
+    "source": "U.S. Department of Labor - Employment and Training Administration",
+    "title": "Significant Provisions of State Unemployment Insurance Laws",
+    "effective_date": "2025-07-01",
+    "version": "2025-07"
+  },
+  "states": {
+    "AL": {
+      "state_code": "AL",
+      "state_name": "Alabama",
+      "monetary_eligibility": {
+        "description": "1.5x HQW",
+        "min_hqw_multiplier": 1.5,
+        "min_base_period_wages": null,
+        "min_hq_wages": null,
+        "wages_in_multiple_quarters": false,
+        "other_requirements": null
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_average",
+        "formula_description": "1/26 avg of 2 highest qtrs",
+        "divisor": 26,
+        "percentage": null,
+        "use_two_highest_quarters": true,
+        "min_wba": 45,
+        "max_wba": 275,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "wba_fraction",
+        "description": "1/3 WBA",
+        "fraction_of_wba": 0.333,
+        "flat_amount": null
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/4 BPW or 14x WBA",
+        "bpw_fraction": 0.25,
+        "wba_multiplier": 14
+      },
+      "duration": {
+        "min_weeks": 14,
+        "max_weeks": 14,
+        "uniform": true,
+        "variable_based_on": null
+      }
+    },
+    "AK": {
+      "state_code": "AK",
+      "state_name": "Alaska",
+      "monetary_eligibility": {
+        "description": "$2,500; wages in 2 qtrs; at least $250 outside HQ",
+        "min_hqw_multiplier": null,
+        "min_base_period_wages": 2500,
+        "min_hq_wages": null,
+        "wages_in_multiple_quarters": true,
+        "min_quarters_with_wages": 2,
+        "min_outside_hq": 250,
+        "other_requirements": null
+      },
+      "weekly_benefit": {
+        "formula_type": "percentage_annual",
+        "formula_description": "0.9-2.2% of annual wages + DA up to $72",
+        "percentage_min": 0.9,
+        "percentage_max": 2.2,
+        "min_wba": 56,
+        "max_wba": 370,
+        "min_wba_with_dependents": 128,
+        "max_wba_with_dependents": 442,
+        "dependents_allowance": {
+          "max_amount": 72
+        }
+      },
+      "earnings_disregard": {
+        "type": "flat_plus_fraction",
+        "description": "$50 and 1/4 wages over $50",
+        "flat_amount": 50,
+        "fraction_over_flat": 0.25
+      },
+      "maximum_benefit": {
+        "formula_description": "Weighted schedule of BPW to HQW for # of weeks x WBA",
+        "type": "weighted_schedule"
+      },
+      "duration": {
+        "min_weeks": 16,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw_to_hqw_ratio"
+      }
+    },
+    "AZ": {
+      "state_code": "AZ",
+      "state_name": "Arizona",
+      "monetary_eligibility": {
+        "description": "1.5x HQW and 390x minimum wage in 1 qtr; or wages in 2 qtrs with wages in 1 qtr sufficient to qualify for maximum WBA and total BPW >= TWB",
+        "min_hqw_multiplier": 1.5,
+        "min_base_period_wages": null,
+        "min_hq_wages": null,
+        "wages_in_multiple_quarters": false,
+        "minimum_wage_multiplier": 390,
+        "state_minimum_wage": 14.70,
+        "other_requirements": "Alternative: wages in 2 qtrs with 1 qtr sufficient for max WBA"
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor",
+        "formula_description": "1/25 HQW",
+        "divisor": 25,
+        "min_wba": 229,
+        "max_wba": 320,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "flat_amount",
+        "description": "$160.49",
+        "flat_amount": 160.49
+      },
+      "maximum_benefit": {
+        "formula_description": "26x WBA or 24x WBA if unemployment rate in prior calendar qtr is less than 5%",
+        "wba_multiplier_high": 26,
+        "wba_multiplier_low": 24,
+        "variable_by_unemployment_rate": true,
+        "unemployment_threshold": 5.0
+      },
+      "duration": {
+        "min_weeks": 8,
+        "max_weeks": 24,
+        "uniform": false,
+        "variable_based_on": "unemployment_rate"
+      }
+    },
+    "AR": {
+      "state_code": "AR",
+      "state_name": "Arkansas",
+      "monetary_eligibility": {
+        "description": "35x WBA; wages in 2 qtrs",
+        "wba_multiplier": 35,
+        "wages_in_multiple_quarters": true,
+        "min_quarters_with_wages": 2
+      },
+      "weekly_benefit": {
+        "formula_type": "base_period_average",
+        "formula_description": "1/26 of the avg of the 4 qtrs in BP",
+        "divisor": 26,
+        "use_all_quarters": true,
+        "min_wba": 81,
+        "max_wba": 451,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "wba_percentage",
+        "description": "40% WBA",
+        "percentage": 40
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/3 BPW or 12x WBA",
+        "bpw_fraction": 0.333,
+        "wba_multiplier": 12
+      },
+      "duration": {
+        "min_weeks": 9,
+        "max_weeks": 12,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "CA": {
+      "state_code": "CA",
+      "state_name": "California",
+      "monetary_eligibility": {
+        "description": "$1,300 in HQ, or $900 in HQ with BPW = 1.25x HQ",
+        "min_hq_wages": 1300,
+        "alternate_min_hq_wages": 900,
+        "alternate_bpw_multiplier": 1.25
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor",
+        "formula_description": "1/23 to 1/26 HQW",
+        "divisor_min": 23,
+        "divisor_max": 26,
+        "min_wba": 40,
+        "max_wba": 450,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "greater_of",
+        "description": "Greater of $25 or 1/4 wages",
+        "flat_amount": 25,
+        "fraction": 0.25
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/2 BPW or 26x WBA",
+        "bpw_fraction": 0.5,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 14,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "CO": {
+      "state_code": "CO",
+      "state_name": "Colorado",
+      "monetary_eligibility": {
+        "description": "40x WBA or $2,500, whichever is greater",
+        "wba_multiplier": 40,
+        "min_base_period_wages": 2500
+      },
+      "weekly_benefit": {
+        "formula_type": "complex",
+        "formula_description": "Higher of 60% of 1/26 of 2 consecutive HQW capped by 50% of State avg weekly earnings OR 50% of 1/52 BP earnings capped by 55% of State avg weekly earnings",
+        "min_wba": 25,
+        "max_wba": 767,
+        "max_wba_alternate": 844,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "wba_fraction",
+        "description": "1/2 WBA",
+        "fraction_of_wba": 0.5
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/3 BPW or 26x WBA",
+        "bpw_fraction": 0.333,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 13,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "CT": {
+      "state_code": "CT",
+      "state_name": "Connecticut",
+      "monetary_eligibility": {
+        "description": "40x WBA",
+        "wba_multiplier": 40
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_average_with_dependents",
+        "formula_description": "1/26 avg of 2 HQs + $15 per dep, up to 5; DA capped at WBA (For construction workers, 1/26 HQ)",
+        "divisor": 26,
+        "use_two_highest_quarters": true,
+        "min_wba": 42,
+        "max_wba": 721,
+        "min_wba_with_dependents": 84,
+        "max_wba_with_dependents": 796,
+        "dependents_allowance": {
+          "per_dependent": 15,
+          "max_dependents": 5,
+          "capped_at_wba": true
+        }
+      },
+      "earnings_disregard": {
+        "type": "fraction",
+        "description": "1/3 wages",
+        "fraction": 0.333
+      },
+      "maximum_benefit": {
+        "formula_description": "N/A - Uniform 26 weeks",
+        "type": "uniform"
+      },
+      "duration": {
+        "min_weeks": 26,
+        "max_weeks": 26,
+        "uniform": true
+      }
+    },
+    "DE": {
+      "state_code": "DE",
+      "state_name": "Delaware",
+      "monetary_eligibility": {
+        "description": "36x WBA",
+        "wba_multiplier": 36
+      },
+      "weekly_benefit": {
+        "formula_type": "two_quarter_total",
+        "formula_description": "1/46 total wages in 2 highest qtrs",
+        "divisor": 46,
+        "use_two_highest_quarters": true,
+        "min_wba": 20,
+        "max_wba": 450,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "greater_of",
+        "description": "Greater of $10 or 50% WBA",
+        "flat_amount": 10,
+        "percentage_of_wba": 50
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/2 BPW or 26x WBA",
+        "bpw_fraction": 0.5,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 24,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "DC": {
+      "state_code": "DC",
+      "state_name": "District of Columbia",
+      "monetary_eligibility": {
+        "description": "1.5x HQW or within $70; not less than $1,950 in 2 qtrs; $1,300 in 1 qtr",
+        "min_hqw_multiplier": 1.5,
+        "min_two_quarter_wages": 1950,
+        "min_one_quarter_wages": 1300
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor",
+        "formula_description": "1/26 HQW",
+        "divisor": 26,
+        "min_wba": 50,
+        "max_wba": 444,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "fraction_plus_flat",
+        "description": "1/3 of wages plus $50",
+        "fraction": 0.333,
+        "flat_amount": 50
+      },
+      "maximum_benefit": {
+        "formula_description": "N/A - Uniform 26 weeks",
+        "type": "uniform"
+      },
+      "duration": {
+        "min_weeks": 26,
+        "max_weeks": 26,
+        "uniform": true
+      }
+    },
+    "FL": {
+      "state_code": "FL",
+      "state_name": "Florida",
+      "monetary_eligibility": {
+        "description": "1.5x HQW; minimum $3,400; wages in 2 qtrs",
+        "min_hqw_multiplier": 1.5,
+        "min_base_period_wages": 3400,
+        "wages_in_multiple_quarters": true,
+        "min_quarters_with_wages": 2
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor",
+        "formula_description": "1/26 HQW",
+        "divisor": 26,
+        "min_wba": 32,
+        "max_wba": 275,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "federal_minimum_wage",
+        "description": "8x Federal hourly minimum wage",
+        "multiplier": 8
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 25% BPW or 12x WBA",
+        "bpw_fraction": 0.25,
+        "wba_multiplier": 12
+      },
+      "duration": {
+        "min_weeks": 9,
+        "max_weeks": 12,
+        "uniform": false,
+        "variable_based_on": "unemployment_rate"
+      }
+    },
+    "GA": {
+      "state_code": "GA",
+      "state_name": "Georgia",
+      "monetary_eligibility": {
+        "description": "Wages in 2 qtrs & 150% x HQW or HQW/21 for WBA w/ total earnings in 2 qtrs totaling at least 40x WBA",
+        "min_hqw_multiplier": 1.5,
+        "wages_in_multiple_quarters": true,
+        "min_quarters_with_wages": 2,
+        "wba_multiplier": 40
+      },
+      "weekly_benefit": {
+        "formula_type": "two_quarter_divisor",
+        "formula_description": "1/42 of wages in highest 2 qtrs or 1/21 HQW",
+        "divisor": 42,
+        "alternate_divisor": 21,
+        "use_two_highest_quarters": true,
+        "min_wba": 55,
+        "max_wba": 365,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "flat_amount",
+        "description": "$50",
+        "flat_amount": 50
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 14x WBA or 1/4 BPW",
+        "bpw_fraction": 0.25,
+        "wba_multiplier": 14
+      },
+      "duration": {
+        "min_weeks": 6,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw_and_unemployment_rate"
+      }
+    },
+    "HI": {
+      "state_code": "HI",
+      "state_name": "Hawaii",
+      "monetary_eligibility": {
+        "description": "26x WBA; wages in 2 qtrs",
+        "wba_multiplier": 26,
+        "wages_in_multiple_quarters": true,
+        "min_quarters_with_wages": 2
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor",
+        "formula_description": "1/21 HQW",
+        "divisor": 21,
+        "min_wba": 5,
+        "max_wba": 835,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "flat_amount",
+        "description": "$150",
+        "flat_amount": 150
+      },
+      "maximum_benefit": {
+        "formula_description": "26x WBA",
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 26,
+        "max_weeks": 26,
+        "uniform": true
+      }
+    },
+    "ID": {
+      "state_code": "ID",
+      "state_name": "Idaho",
+      "monetary_eligibility": {
+        "description": "1.25x HQW; minimum $1,872 in 1 qtr",
+        "min_hqw_multiplier": 1.25,
+        "min_hq_wages": 1872
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor",
+        "formula_description": "1/26 HQW",
+        "divisor": 26,
+        "min_wba": 72,
+        "max_wba": 590,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "wba_fraction",
+        "description": "1/2 WBA",
+        "fraction_of_wba": 0.5
+      },
+      "maximum_benefit": {
+        "formula_description": "Weighted schedule of BPW to HQW for # of weeks x WBA",
+        "type": "weighted_schedule"
+      },
+      "duration": {
+        "min_weeks": 10,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw_to_hqw_ratio"
+      }
+    },
+    "IL": {
+      "state_code": "IL",
+      "state_name": "Illinois",
+      "monetary_eligibility": {
+        "description": "$1,600; $440 outside HQ",
+        "min_base_period_wages": 1600,
+        "min_outside_hq": 440
+      },
+      "weekly_benefit": {
+        "formula_type": "average_weekly_wage",
+        "formula_description": "47% of claimant's AWW in 2 highest qtrs",
+        "percentage": 47,
+        "use_two_highest_quarters": true,
+        "min_wba": 51,
+        "max_wba": 605,
+        "min_wba_with_dependents": 77,
+        "max_wba_with_dependents": 827,
+        "dependents_allowance": {
+          "included_in_formula": true
+        }
+      },
+      "earnings_disregard": {
+        "type": "wba_fraction",
+        "description": "1/2 WBA",
+        "fraction_of_wba": 0.5
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 26x WBA (plus DA) or BP wages",
+        "wba_multiplier": 26,
+        "or_bpw": true
+      },
+      "duration": {
+        "min_weeks": 26,
+        "max_weeks": 26,
+        "uniform": true
+      }
+    },
+    "IN": {
+      "state_code": "IN",
+      "state_name": "Indiana",
+      "monetary_eligibility": {
+        "description": "1.5x HQW totaling at least $2,500 in last 2 qtrs; not less than $4,200 in BP",
+        "min_hqw_multiplier": 1.5,
+        "min_last_two_quarters": 2500,
+        "min_base_period_wages": 4200
+      },
+      "weekly_benefit": {
+        "formula_type": "average_weekly_wage",
+        "formula_description": "47% of AWW in BP",
+        "percentage": 47,
+        "use_full_bp": true,
+        "min_wba": 37,
+        "max_wba": 390,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "flat_amount",
+        "description": "$100",
+        "flat_amount": 100
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 28% BPW or 26x WBA",
+        "bpw_fraction": 0.28,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 26,
+        "max_weeks": 26,
+        "uniform": true
+      }
+    },
+    "IA": {
+      "state_code": "IA",
+      "state_name": "Iowa",
+      "monetary_eligibility": {
+        "description": "1.25x HQW; 3.5% of statewide AAW in HQ; 1/2 HQW in qtr not the HQ",
+        "min_hqw_multiplier": 1.25,
+        "state_aaw_percentage": 3.5,
+        "min_outside_hq_fraction": 0.5,
+        "state_average_annual_wage": 59134.40
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor_with_dependents",
+        "formula_description": "1/23 HQW or 1/19-1/22 HQW for claimants with deps",
+        "divisor": 23,
+        "divisor_with_dependents_min": 19,
+        "divisor_with_dependents_max": 22,
+        "min_wba": 93,
+        "max_wba": 622,
+        "min_wba_with_dependents": 112,
+        "max_wba_with_dependents": 763,
+        "dependents_allowance": {
+          "affects_divisor": true
+        }
+      },
+      "earnings_disregard": {
+        "type": "wba_percentage",
+        "description": "25% WBA",
+        "percentage": 25
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/3 BPW or 16x WBA",
+        "bpw_fraction": 0.333,
+        "wba_multiplier": 16
+      },
+      "duration": {
+        "min_weeks": 9,
+        "max_weeks": 16,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "KS": {
+      "state_code": "KS",
+      "state_name": "Kansas",
+      "monetary_eligibility": {
+        "description": "30x WBA; wages in 2 qtrs",
+        "wba_multiplier": 30,
+        "wages_in_multiple_quarters": true,
+        "min_quarters_with_wages": 2
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_percentage",
+        "formula_description": "4.25% HQW",
+        "percentage": 4.25,
+        "min_wba": 159,
+        "max_wba": 637,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "wba_percentage",
+        "description": "25% WBA",
+        "percentage": 25
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/3 BPW or 26x WBA",
+        "bpw_fraction": 0.333,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 10,
+        "max_weeks": 16,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "KY": {
+      "state_code": "KY",
+      "state_name": "Kentucky",
+      "monetary_eligibility": {
+        "description": "1.5x HQW; 8x WBA in last 2 qtrs; at least $1,500 outside HQ",
+        "min_hqw_multiplier": 1.5,
+        "wba_multiplier_last_two": 8,
+        "min_outside_hq": 1500
+      },
+      "weekly_benefit": {
+        "formula_type": "base_period_percentage",
+        "formula_description": "1.1923% BPW",
+        "percentage": 1.1923,
+        "min_wba": 39,
+        "max_wba": 720,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "fraction",
+        "description": "1/5 wages",
+        "fraction": 0.2
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 16-24x WBA or 1/3 BPW",
+        "bpw_fraction": 0.333,
+        "wba_multiplier_min": 16,
+        "wba_multiplier_max": 24
+      },
+      "duration": {
+        "min_weeks": 16,
+        "max_weeks": 24,
+        "uniform": false,
+        "variable_based_on": "bpw_and_unemployment_rate"
+      }
+    },
+    "LA": {
+      "state_code": "LA",
+      "state_name": "Louisiana",
+      "monetary_eligibility": {
+        "description": "$1,200 total BPW; wages in 2 qtrs; 1.5x HQW",
+        "min_base_period_wages": 1200,
+        "min_hqw_multiplier": 1.5,
+        "wages_in_multiple_quarters": true,
+        "min_quarters_with_wages": 2
+      },
+      "weekly_benefit": {
+        "formula_type": "base_period_average",
+        "formula_description": "1/25 of the avg of wages in 4 qtrs of BP",
+        "divisor": 25,
+        "use_all_quarters": true,
+        "min_wba": 35,
+        "max_wba": 275,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "lesser_of",
+        "description": "Lesser of 1/2 WBA or $50",
+        "fraction_of_wba": 0.5,
+        "flat_amount": 50
+      },
+      "maximum_benefit": {
+        "formula_description": "N/A",
+        "type": "variable"
+      },
+      "duration": {
+        "min_weeks": 12,
+        "max_weeks": 20,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "ME": {
+      "state_code": "ME",
+      "state_name": "Maine",
+      "monetary_eligibility": {
+        "description": "2x AWW in 2 different BP qtrs; total BPW = 6x AWW",
+        "aww_multiplier": 2,
+        "min_quarters_with_wages": 2,
+        "bpw_aww_multiplier": 6,
+        "state_average_annual_wage": 62339.68
+      },
+      "weekly_benefit": {
+        "formula_type": "two_quarter_average_with_dependents",
+        "formula_description": "1/22 avg wages paid in 2 highest qtrs of BP + $25 per dep up to 75% of WBA",
+        "divisor": 22,
+        "use_two_highest_quarters": true,
+        "min_wba": 108,
+        "max_wba": 623,
+        "min_wba_with_dependents": 189,
+        "max_wba_with_dependents": 1090,
+        "dependents_allowance": {
+          "per_dependent": 25,
+          "max_percentage_of_wba": 75
+        }
+      },
+      "earnings_disregard": {
+        "type": "flat_amount",
+        "description": "$123",
+        "flat_amount": 123
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/3 BPW or 26x WBA",
+        "bpw_fraction": 0.333,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 15,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "MD": {
+      "state_code": "MD",
+      "state_name": "Maryland",
+      "monetary_eligibility": {
+        "description": "1.5x HQW; $1,176.01 in HQ; $1,800 in 2 qtrs",
+        "min_hqw_multiplier": 1.5,
+        "min_hq_wages": 1176.01,
+        "min_two_quarter_wages": 1800
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor_with_dependents",
+        "formula_description": "1/24 HQW + $8 per dep up to 5 deps",
+        "divisor": 24,
+        "min_wba": 50,
+        "max_wba": 430,
+        "min_wba_with_dependents": 90,
+        "max_wba_with_dependents": 430,
+        "dependents_allowance": {
+          "per_dependent": 8,
+          "max_dependents": 5
+        }
+      },
+      "earnings_disregard": {
+        "type": "flat_amount",
+        "description": "Less than or equal to $50",
+        "flat_amount": 50
+      },
+      "maximum_benefit": {
+        "formula_description": "N/A - Uniform 26 weeks",
+        "type": "uniform"
+      },
+      "duration": {
+        "min_weeks": 26,
+        "max_weeks": 26,
+        "uniform": true
+      }
+    },
+    "MA": {
+      "state_code": "MA",
+      "state_name": "Massachusetts",
+      "monetary_eligibility": {
+        "description": "30x WBA; $6,300 minimum",
+        "wba_multiplier": 30,
+        "min_base_period_wages": 6300
+      },
+      "weekly_benefit": {
+        "formula_type": "average_weekly_wage_with_dependents",
+        "formula_description": "50% AWW + $25 per dep (no cap on DA)",
+        "percentage": 50,
+        "min_wba": 60,
+        "max_wba": 1051,
+        "dependents_allowance": {
+          "per_dependent": 25,
+          "no_cap": true
+        }
+      },
+      "earnings_disregard": {
+        "type": "wba_fraction",
+        "description": "1/3 WBA",
+        "fraction_of_wba": 0.333
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 36% BPW or 30x WBA",
+        "bpw_fraction": 0.36,
+        "wba_multiplier": 30
+      },
+      "duration": {
+        "min_weeks": 10,
+        "max_weeks": 30,
+        "uniform": false,
+        "variable_based_on": "bpw_and_unemployment_rate"
+      }
+    },
+    "MI": {
+      "state_code": "MI",
+      "state_name": "Michigan",
+      "monetary_eligibility": {
+        "description": "Total BPW = 1.5x HQW; wages in at least 2 BP qtrs; at least $4,097 in HQ; or wages in at least 2 BP qtrs; BPW at least 20x State AWW",
+        "min_hqw_multiplier": 1.5,
+        "min_hq_wages": 4097,
+        "wages_in_multiple_quarters": true,
+        "min_quarters_with_wages": 2,
+        "alternate_bpw_state_aww_multiplier": 20,
+        "state_average_annual_wage": 63440.00
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_percentage_with_dependents",
+        "formula_description": "4.1% HQW + $12.66 for each dep up to 5",
+        "percentage": 4.1,
+        "min_wba": 198,
+        "max_wba": 446,
+        "min_wba_with_dependents": 261,
+        "max_wba_with_dependents": 446,
+        "dependents_allowance": {
+          "per_dependent": 12.66,
+          "max_dependents": 5
+        }
+      },
+      "earnings_disregard": {
+        "type": "complex",
+        "description": "If earnings < 1.5x WBA, reduction is 50 cents per $1 earned; if > 1.5x WBA, reduction is $1 per $1 earned; Total benefits plus earnings cannot exceed 1.5x WBA"
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 43% BPW or 20x WBA",
+        "bpw_fraction": 0.43,
+        "wba_multiplier": 20
+      },
+      "duration": {
+        "min_weeks": 14,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "MN": {
+      "state_code": "MN",
+      "state_name": "Minnesota",
+      "monetary_eligibility": {
+        "description": "5.3% of State AAW",
+        "state_aaw_percentage": 5.3,
+        "state_average_annual_wage": 73996.00
+      },
+      "weekly_benefit": {
+        "formula_type": "higher_of",
+        "formula_description": "Higher of 50% of 1/13 HQW up to 43% of State AWW or 50% of 1/52 BPW up to 66.67% of State AWW",
+        "hq_divisor": 13,
+        "hq_percentage": 50,
+        "hq_cap_state_aww_percentage": 43,
+        "bp_divisor": 52,
+        "bp_percentage": 50,
+        "bp_cap_state_aww_percentage": 66.67,
+        "min_wba": 36,
+        "max_wba": 589,
+        "max_wba_alternate": 914,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "dollar_for_dollar_reduction",
+        "description": "WBA reduced by 50 cents for every $1 earned"
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/3 BPW or 26x WBA",
+        "bpw_fraction": 0.333,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 9,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "MS": {
+      "state_code": "MS",
+      "state_name": "Mississippi",
+      "monetary_eligibility": {
+        "description": "40x WBA; $780 in HQ; wages in 2 qtrs",
+        "wba_multiplier": 40,
+        "min_hq_wages": 780,
+        "wages_in_multiple_quarters": true,
+        "min_quarters_with_wages": 2
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor",
+        "formula_description": "1/26 HQW",
+        "divisor": 26,
+        "min_wba": 30,
+        "max_wba": 235,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "flat_amount",
+        "description": "$40",
+        "flat_amount": 40
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/3 BPW or 26x WBA",
+        "bpw_fraction": 0.333,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 13,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "MO": {
+      "state_code": "MO",
+      "state_name": "Missouri",
+      "monetary_eligibility": {
+        "description": "1.5x HQW; $1,500 in 1 qtr; or wages in 2 qtrs of BP = 1.5x maximum TWB",
+        "min_hqw_multiplier": 1.5,
+        "min_one_quarter_wages": 1500
+      },
+      "weekly_benefit": {
+        "formula_type": "two_quarter_percentage",
+        "formula_description": "4% of the avg of the 2 HQWs",
+        "percentage": 4,
+        "use_two_highest_quarters": true,
+        "min_wba": 35,
+        "max_wba": 320,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "greater_of",
+        "description": "Greater of 20% WBA or $20",
+        "percentage_of_wba": 20,
+        "flat_amount": 20
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/3 BPW or 20x WBA",
+        "bpw_fraction": 0.333,
+        "wba_multiplier": 20
+      },
+      "duration": {
+        "min_weeks": 8,
+        "max_weeks": 20,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "MT": {
+      "state_code": "MT",
+      "state_name": "Montana",
+      "monetary_eligibility": {
+        "description": "BPW > 1.5x HQW and total wages > 7% of AAW or BPW > 50% of AAW",
+        "min_hqw_multiplier": 1.5,
+        "aaw_percentage": 7,
+        "alternate_bpw_aaw_percentage": 50,
+        "state_average_annual_wage": 59106.84
+      },
+      "weekly_benefit": {
+        "formula_type": "complex",
+        "formula_description": "1% BPW or 1.9% wages in 2 HQs",
+        "bp_percentage": 1,
+        "two_hq_percentage": 1.9,
+        "min_wba": 227,
+        "max_wba": 767,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "wba_fraction",
+        "description": "1/4 WBA",
+        "fraction_of_wba": 0.25
+      },
+      "maximum_benefit": {
+        "formula_description": "Weighted schedule of BPW to HQW for # of weeks x WBA",
+        "type": "weighted_schedule"
+      },
+      "duration": {
+        "min_weeks": 8,
+        "max_weeks": 24,
+        "uniform": false,
+        "variable_based_on": "bpw_to_hqw_ratio"
+      }
+    },
+    "NE": {
+      "state_code": "NE",
+      "state_name": "Nebraska",
+      "monetary_eligibility": {
+        "description": "$5,297 in BP; $1,850 in HQW and wages in at least one other quarter of $800",
+        "min_base_period_wages": 5297,
+        "min_hq_wages": 1850,
+        "min_other_quarter_wages": 800
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_aww",
+        "formula_description": "1/2 AWW of High Quarter",
+        "percentage": 50,
+        "min_wba": 70,
+        "max_wba": 564,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "wba_fraction",
+        "description": "1/4 WBA",
+        "fraction_of_wba": 0.25
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/3 BPW or 26x WBA",
+        "bpw_fraction": 0.333,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 10,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "NV": {
+      "state_code": "NV",
+      "state_name": "Nevada",
+      "monetary_eligibility": {
+        "description": "1.5x HQW in BP and $400 in HQ; or wages in 3 of 4 qtrs in BP and $400 in HQ",
+        "min_hqw_multiplier": 1.5,
+        "min_hq_wages": 400,
+        "alternate_quarters_with_wages": 3
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor",
+        "formula_description": "1/25 HQW",
+        "divisor": 25,
+        "min_wba": 16,
+        "max_wba": 631,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "fraction",
+        "description": "1/3 wages",
+        "fraction": 0.333
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/3 BPW or 26x WBA",
+        "bpw_fraction": 0.333,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 8,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "NH": {
+      "state_code": "NH",
+      "state_name": "New Hampshire",
+      "monetary_eligibility": {
+        "description": "$2,800; $1,400 in each of 2 qtrs",
+        "min_base_period_wages": 2800,
+        "min_per_quarter": 1400,
+        "min_quarters_with_wages": 2
+      },
+      "weekly_benefit": {
+        "formula_type": "annual_percentage",
+        "formula_description": "1%-1.1% annual wages",
+        "percentage_min": 1,
+        "percentage_max": 1.1,
+        "min_wba": 32,
+        "max_wba": 427,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "wba_percentage",
+        "description": "30% WBA",
+        "percentage": 30
+      },
+      "maximum_benefit": {
+        "formula_description": "N/A - Uniform 26 weeks",
+        "type": "uniform"
+      },
+      "duration": {
+        "min_weeks": 26,
+        "max_weeks": 26,
+        "uniform": true
+      }
+    },
+    "NJ": {
+      "state_code": "NJ",
+      "state_name": "New Jersey",
+      "monetary_eligibility": {
+        "description": "20 weeks employment at 20x State hourly minimum wage or 1,000x State hourly minimum wage",
+        "weeks_of_employment": 20,
+        "min_wage_multiplier_weekly": 20,
+        "min_wage_multiplier_total": 1000,
+        "state_minimum_wage": 15.49
+      },
+      "weekly_benefit": {
+        "formula_type": "average_weekly_wage_with_dependents",
+        "formula_description": "60% of claimant's AWW + DA",
+        "percentage": 60,
+        "min_wba": 181,
+        "max_wba": 875,
+        "min_wba_with_dependents": 208,
+        "max_wba_with_dependents": 875,
+        "dependents_allowance": {
+          "included_in_formula": true
+        }
+      },
+      "earnings_disregard": {
+        "type": "greater_of",
+        "description": "Greater of 20% WBA or $5",
+        "percentage_of_wba": 20,
+        "flat_amount": 5
+      },
+      "maximum_benefit": {
+        "formula_description": "Number of weeks worked in base year up to 26x WBA",
+        "type": "weeks_worked",
+        "max_wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 20,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "weeks_worked"
+      }
+    },
+    "NM": {
+      "state_code": "NM",
+      "state_name": "New Mexico",
+      "monetary_eligibility": {
+        "description": "$2,698 in HQW and wages in at least 1 other qtr",
+        "min_hq_wages": 2698,
+        "wages_in_multiple_quarters": true
+      },
+      "weekly_benefit": {
+        "formula_type": "average_weekly_wage",
+        "formula_description": "53.5% of AWW paid in BP qtr in which wages were highest",
+        "percentage": 53.5,
+        "use_highest_quarter": true,
+        "min_wba": 111,
+        "max_wba": 598,
+        "min_wba_with_dependents": 161,
+        "max_wba_with_dependents": 648,
+        "dependents_allowance": {
+          "included_in_formula": true
+        }
+      },
+      "earnings_disregard": {
+        "type": "wba_fraction",
+        "description": "1/5 WBA",
+        "fraction_of_wba": 0.2
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 60% BPW or 26x WBA",
+        "bpw_fraction": 0.6,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 14,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "NY": {
+      "state_code": "NY",
+      "state_name": "New York",
+      "monetary_eligibility": {
+        "description": "1.5x HQW; $3,400 in HQ",
+        "min_hqw_multiplier": 1.5,
+        "min_hq_wages": 3400
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor",
+        "formula_description": "1/25 to 1/26 HQW",
+        "divisor_min": 25,
+        "divisor_max": 26,
+        "min_wba": 136,
+        "max_wba": 504,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "hours_based",
+        "description": "Up to 10 hrs of work as long as earnings at or below WBA Max"
+      },
+      "maximum_benefit": {
+        "formula_description": "N/A - Uniform 26 weeks",
+        "type": "uniform"
+      },
+      "duration": {
+        "min_weeks": 26,
+        "max_weeks": 26,
+        "uniform": true
+      }
+    },
+    "NC": {
+      "state_code": "NC",
+      "state_name": "North Carolina",
+      "monetary_eligibility": {
+        "description": "6x AWW; wages in 2 qtrs of BP",
+        "aww_multiplier": 6,
+        "wages_in_multiple_quarters": true,
+        "min_quarters_with_wages": 2,
+        "state_average_annual_wage": 64480.00
+      },
+      "weekly_benefit": {
+        "formula_type": "last_two_quarters",
+        "formula_description": "Last 2 qtrs of BP/52 (must be at least 6x AWW in last two qtrs of BP to establish a WBA)",
+        "divisor": 52,
+        "use_last_two_quarters": true,
+        "min_wba": 15,
+        "max_wba": 350,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "wba_percentage",
+        "description": "20% WBA",
+        "percentage": 20
+      },
+      "maximum_benefit": {
+        "formula_description": "12x WBA",
+        "wba_multiplier": 12
+      },
+      "duration": {
+        "min_weeks": 12,
+        "max_weeks": 20,
+        "uniform": false,
+        "variable_based_on": "unemployment_rate"
+      }
+    },
+    "ND": {
+      "state_code": "ND",
+      "state_name": "North Dakota",
+      "monetary_eligibility": {
+        "description": "1.5x HQW; wages in 2 qtrs",
+        "min_hqw_multiplier": 1.5,
+        "wages_in_multiple_quarters": true,
+        "min_quarters_with_wages": 2
+      },
+      "weekly_benefit": {
+        "formula_type": "complex",
+        "formula_description": "1/65 of wages in 2 HQs + 1/2 wages in 3rd HQ",
+        "two_hq_divisor": 65,
+        "third_hq_fraction": 0.5,
+        "min_wba": 43,
+        "max_wba": 815,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "wba_percentage",
+        "description": "60% WBA",
+        "percentage": 60
+      },
+      "maximum_benefit": {
+        "formula_description": "Weighted schedule of BPW to HQW for # of weeks x WBA",
+        "type": "weighted_schedule"
+      },
+      "duration": {
+        "min_weeks": 12,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw_to_hqw_ratio"
+      }
+    },
+    "OH": {
+      "state_code": "OH",
+      "state_name": "Ohio",
+      "monetary_eligibility": {
+        "description": "20 weeks employment with wages averaging 27.5% of State AWW; wages in 2 qtrs",
+        "weeks_of_employment": 20,
+        "state_aww_percentage": 27.5,
+        "wages_in_multiple_quarters": true,
+        "min_quarters_with_wages": 2,
+        "state_average_annual_wage": 64896.00
+      },
+      "weekly_benefit": {
+        "formula_type": "average_weekly_wage_with_dependents",
+        "formula_description": "1/2 claimant's AWW + DA of $1-$210 based on claimant's AWW and number of dep",
+        "percentage": 50,
+        "min_wba": 169,
+        "max_wba": 600,
+        "min_wba_with_dependents": 169,
+        "max_wba_with_dependents": 810,
+        "dependents_allowance": {
+          "min_amount": 1,
+          "max_amount": 210,
+          "based_on_aww": true
+        }
+      },
+      "earnings_disregard": {
+        "type": "wba_fraction",
+        "description": "1/5 WBA",
+        "fraction_of_wba": 0.2
+      },
+      "maximum_benefit": {
+        "formula_description": "20x WBA + 1x WBA for each qualifying week in excess of 20",
+        "base_wba_multiplier": 20,
+        "additional_per_week": 1
+      },
+      "duration": {
+        "min_weeks": 20,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "qualifying_weeks"
+      }
+    },
+    "OK": {
+      "state_code": "OK",
+      "state_name": "Oklahoma",
+      "monetary_eligibility": {
+        "description": "$1,500 and 1.5x HQW or any taxable wages if total wages equal or exceed TWB for year claim was effective",
+        "min_base_period_wages": 1500,
+        "min_hqw_multiplier": 1.5
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor",
+        "formula_description": "1/23 HQW",
+        "divisor": 23,
+        "min_wba": 16,
+        "max_wba": 541,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "flat_amount",
+        "description": "$100",
+        "flat_amount": 100
+      },
+      "maximum_benefit": {
+        "formula_description": "16x WBA",
+        "wba_multiplier": 16
+      },
+      "duration": {
+        "min_weeks": 16,
+        "max_weeks": 16,
+        "uniform": true
+      }
+    },
+    "OR": {
+      "state_code": "OR",
+      "state_name": "Oregon",
+      "monetary_eligibility": {
+        "description": "BPW > $1,000 and BPW > 1.5x HQW; or 500 hours of employment in BP",
+        "min_base_period_wages": 1000,
+        "min_hqw_multiplier": 1.5,
+        "alternate_hours": 500
+      },
+      "weekly_benefit": {
+        "formula_type": "base_period_percentage",
+        "formula_description": "1.25% BPW",
+        "percentage": 1.25,
+        "min_wba": 204,
+        "max_wba": 872,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "greater_of",
+        "description": "Greater of 1/3 WBA or $163.00",
+        "fraction_of_wba": 0.333,
+        "flat_amount": 163
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/3 BPW or 26x WBA",
+        "bpw_fraction": 0.333,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 1,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "PA": {
+      "state_code": "PA",
+      "state_name": "Pennsylvania",
+      "monetary_eligibility": {
+        "description": "$1,688 in HQ; $2,718 in BP; at least 37% of BPW outside HQ; 18 credit weeks in BP",
+        "min_hq_wages": 1688,
+        "min_base_period_wages": 2718,
+        "min_outside_hq_percentage": 37,
+        "min_credit_weeks": 18
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_percentage_with_dependents",
+        "formula_description": "(4% HQW + 2) x 0.98 + 2 DA; $5 for 1st dep; $3 for 2nd dep",
+        "percentage": 4,
+        "min_wba": 68,
+        "max_wba": 605,
+        "min_wba_with_dependents": 76,
+        "max_wba_with_dependents": 613,
+        "dependents_allowance": {
+          "first_dependent": 5,
+          "second_dependent": 3
+        }
+      },
+      "earnings_disregard": {
+        "type": "greater_of",
+        "description": "Greater of $21 or 30% WBA",
+        "flat_amount": 21,
+        "percentage_of_wba": 30
+      },
+      "maximum_benefit": {
+        "formula_description": "Actual number of credit weeks in BP x WBA",
+        "type": "credit_weeks"
+      },
+      "duration": {
+        "min_weeks": 18,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "credit_weeks"
+      }
+    },
+    "PR": {
+      "state_code": "PR",
+      "state_name": "Puerto Rico",
+      "monetary_eligibility": {
+        "description": "40x WBA; $280 minimum; wages in 2 qtrs",
+        "wba_multiplier": 40,
+        "min_base_period_wages": 280,
+        "wages_in_multiple_quarters": true,
+        "min_quarters_with_wages": 2
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor",
+        "formula_description": "1/11-1/26 HQW",
+        "divisor_min": 11,
+        "divisor_max": 26,
+        "min_wba": 60,
+        "max_wba": 240,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "wba",
+        "description": "WBA",
+        "amount": "full_wba"
+      },
+      "maximum_benefit": {
+        "formula_description": "N/A - Uniform 26 weeks",
+        "type": "uniform"
+      },
+      "duration": {
+        "min_weeks": 26,
+        "max_weeks": 26,
+        "uniform": true
+      }
+    },
+    "RI": {
+      "state_code": "RI",
+      "state_name": "Rhode Island",
+      "monetary_eligibility": {
+        "description": "1.5x HQW; 200x minimum hourly wage in 1 qtr and 400x minimum hourly wage in BP; or 1,200x minimum hourly wage in BP",
+        "min_hqw_multiplier": 1.5,
+        "min_wage_multiplier_one_quarter": 200,
+        "min_wage_multiplier_bp": 400,
+        "alternate_min_wage_multiplier_bp": 1200,
+        "state_minimum_wage": 15.00
+      },
+      "weekly_benefit": {
+        "formula_type": "two_quarter_percentage_with_dependents",
+        "formula_description": "3.85% of avg high 2 qtrs in BP + greater of $15 or 5% of weekly benefit rate per dep, capped at the greater of $50 or 25% of WBA",
+        "percentage": 3.85,
+        "use_two_highest_quarters": true,
+        "min_wba": 77,
+        "max_wba": 745,
+        "min_wba_with_dependents": 127,
+        "max_wba_with_dependents": 931,
+        "dependents_allowance": {
+          "per_dependent_min": 15,
+          "per_dependent_percentage": 5,
+          "cap_min": 50,
+          "cap_percentage": 25
+        }
+      },
+      "earnings_disregard": {
+        "type": "wba_fraction",
+        "description": "1/2 WBA",
+        "fraction_of_wba": 0.5
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 33% BPW or 26x WBA",
+        "bpw_fraction": 0.33,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 17,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "SC": {
+      "state_code": "SC",
+      "state_name": "South Carolina",
+      "monetary_eligibility": {
+        "description": "1.5x HQW; $4,455 minimum; $1,092 in HQ",
+        "min_hqw_multiplier": 1.5,
+        "min_base_period_wages": 4455,
+        "min_hq_wages": 1092
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_aww",
+        "formula_description": "50% of HQ avg weekly wage",
+        "percentage": 50,
+        "min_wba": 42,
+        "max_wba": 350,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "wba_fraction",
+        "description": "1/4 WBA",
+        "fraction_of_wba": 0.25
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/3 BPW or 20x WBA",
+        "bpw_fraction": 0.333,
+        "wba_multiplier": 20
+      },
+      "duration": {
+        "min_weeks": 13,
+        "max_weeks": 20,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "SD": {
+      "state_code": "SD",
+      "state_name": "South Dakota",
+      "monetary_eligibility": {
+        "description": "$728 in HQ; 20x WBA outside HQ",
+        "min_hq_wages": 728,
+        "wba_multiplier_outside_hq": 20
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor",
+        "formula_description": "1/26 HQW",
+        "divisor": 26,
+        "min_wba": 28,
+        "max_wba": 553,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "fraction_over_flat",
+        "description": "1/4 wages over $25",
+        "fraction": 0.25,
+        "flat_threshold": 25
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/3 BPW or 26x WBA",
+        "bpw_fraction": 0.333,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 15,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "TN": {
+      "state_code": "TN",
+      "state_name": "Tennessee",
+      "monetary_eligibility": {
+        "description": "40x WBA; $780.01 avg wages in highest 2 qtrs; BPW outside HQW > the lesser of 6x WBA or $900",
+        "wba_multiplier": 40,
+        "min_two_quarter_avg": 780.01,
+        "min_outside_hq_lesser_of_wba": 6,
+        "min_outside_hq_flat": 900
+      },
+      "weekly_benefit": {
+        "formula_type": "two_quarter_average",
+        "formula_description": "1/26 of avg wages paid in 2 highest qtrs",
+        "divisor": 26,
+        "use_two_highest_quarters": true,
+        "min_wba": 55,
+        "max_wba": 325,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "greater_of",
+        "description": "Greater of $50 or 25% WBA",
+        "flat_amount": 50,
+        "percentage_of_wba": 25
+      },
+      "maximum_benefit": {
+        "formula_description": "12-20 (indexing rate) x WBA",
+        "wba_multiplier_min": 12,
+        "wba_multiplier_max": 20
+      },
+      "duration": {
+        "min_weeks": 12,
+        "max_weeks": 20,
+        "uniform": false,
+        "variable_based_on": "unemployment_rate"
+      }
+    },
+    "TX": {
+      "state_code": "TX",
+      "state_name": "Texas",
+      "monetary_eligibility": {
+        "description": "37x WBA; wages in at least 2 qtrs",
+        "wba_multiplier": 37,
+        "wages_in_multiple_quarters": true,
+        "min_quarters_with_wages": 2
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor",
+        "formula_description": "1/25 HQW Capped at 47.6% of AWW in covered employment in TX, calculated annually",
+        "divisor": 25,
+        "cap_percentage_state_aww": 47.6,
+        "min_wba": 74,
+        "max_wba": 591,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "greater_of",
+        "description": "Greater of $5 or 1/4 WBA",
+        "flat_amount": 5,
+        "fraction_of_wba": 0.25
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 27% BPW or 26x WBA",
+        "bpw_fraction": 0.27,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 10,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "UT": {
+      "state_code": "UT",
+      "state_name": "Utah",
+      "monetary_eligibility": {
+        "description": "$5,300 in BP and 1.5x HQW",
+        "min_base_period_wages": 5300,
+        "min_hqw_multiplier": 1.5
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor_minus",
+        "formula_description": "1/26 HQW minus $5",
+        "divisor": 26,
+        "minus_amount": 5,
+        "min_wba": 45,
+        "max_wba": 777,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "wba_percentage",
+        "description": "30% WBA",
+        "percentage": 30
+      },
+      "maximum_benefit": {
+        "formula_description": "27% BPW",
+        "bpw_fraction": 0.27
+      },
+      "duration": {
+        "min_weeks": 10,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "VT": {
+      "state_code": "VT",
+      "state_name": "Vermont",
+      "monetary_eligibility": {
+        "description": "1.4x HQW and $3,739 in HQ",
+        "min_hqw_multiplier": 1.4,
+        "min_hq_wages": 3739
+      },
+      "weekly_benefit": {
+        "formula_type": "two_quarter_divisor",
+        "formula_description": "Wages in the 2 highest qtrs divided by 45",
+        "divisor": 45,
+        "use_two_highest_quarters": true,
+        "min_wba": 94,
+        "max_wba": 757,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "percentage",
+        "description": "50% of gross wages",
+        "percentage": 50
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 46% BPW or 26x WBA",
+        "bpw_fraction": 0.46,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 23,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "VA": {
+      "state_code": "VA",
+      "state_name": "Virginia",
+      "monetary_eligibility": {
+        "description": "$3,000 in highest 2 qtrs of BP",
+        "min_two_quarter_wages": 3000
+      },
+      "weekly_benefit": {
+        "formula_type": "two_quarter_divisor",
+        "formula_description": "1/50 of the 2 highest qtrs",
+        "divisor": 50,
+        "use_two_highest_quarters": true,
+        "min_wba": 60,
+        "max_wba": 378,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "flat_amount",
+        "description": "$100",
+        "flat_amount": 100
+      },
+      "maximum_benefit": {
+        "formula_description": "Weighted schedule of 2 highest qtrs to WBA for # weeks x WBA",
+        "type": "weighted_schedule"
+      },
+      "duration": {
+        "min_weeks": 12,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "two_highest_quarters_to_wba_ratio"
+      }
+    },
+    "VI": {
+      "state_code": "VI",
+      "state_name": "Virgin Islands",
+      "monetary_eligibility": {
+        "description": "1.5x HQW and $858 in HQ; or $858 in HQ and 39x WBA in BP",
+        "min_hqw_multiplier": 1.5,
+        "min_hq_wages": 858,
+        "alternate_wba_multiplier": 39
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_divisor",
+        "formula_description": "1/16 HQW",
+        "divisor": 16,
+        "min_wba": 33,
+        "max_wba": 648,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "percentage_over_flat",
+        "description": "25% in excess of $15",
+        "percentage": 25,
+        "flat_threshold": 15
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/3 BPW or 16x WBA",
+        "bpw_fraction": 0.333,
+        "wba_multiplier": 16
+      },
+      "duration": {
+        "min_weeks": 13,
+        "max_weeks": 16,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "WA": {
+      "state_code": "WA",
+      "state_name": "Washington",
+      "monetary_eligibility": {
+        "description": "680 hours; wages in BP or alternate BP",
+        "min_hours": 680
+      },
+      "weekly_benefit": {
+        "formula_type": "two_quarter_percentage",
+        "formula_description": "3.85% of avg of high 2 qtrs in BP",
+        "percentage": 3.85,
+        "use_two_highest_quarters": true,
+        "min_wba": 366,
+        "max_wba": 1152,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "fraction_over_flat",
+        "description": "1/4 of wages over $5",
+        "fraction": 0.25,
+        "flat_threshold": 5
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 1/3 BPW or 26x WBA",
+        "bpw_fraction": 0.333,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 1,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "WV": {
+      "state_code": "WV",
+      "state_name": "West Virginia",
+      "monetary_eligibility": {
+        "description": "$2,200 and wages in 2 qtrs",
+        "min_base_period_wages": 2200,
+        "wages_in_multiple_quarters": true,
+        "min_quarters_with_wages": 2
+      },
+      "weekly_benefit": {
+        "formula_type": "median_wage_class",
+        "formula_description": "55% of 1/52 of median wages in worker's wage class",
+        "percentage": 55,
+        "divisor": 52,
+        "min_wba": 24,
+        "max_wba": 662,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "flat_amount",
+        "description": "$60",
+        "flat_amount": 60,
+        "note": "For part-time employment there is no deduction if wages earned are less than the WBA"
+      },
+      "maximum_benefit": {
+        "formula_description": "N/A - Uniform 26 weeks",
+        "type": "uniform"
+      },
+      "duration": {
+        "min_weeks": 26,
+        "max_weeks": 26,
+        "uniform": true
+      }
+    },
+    "WI": {
+      "state_code": "WI",
+      "state_name": "Wisconsin",
+      "monetary_eligibility": {
+        "description": "35x WBA, HQ > $1,350 and 4x WBA outside HQ",
+        "wba_multiplier": 35,
+        "min_hq_wages": 1350,
+        "wba_multiplier_outside_hq": 4
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_percentage",
+        "formula_description": "4% HQW",
+        "percentage": 4,
+        "min_wba": 54,
+        "max_wba": 370,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "flat_plus_percentage",
+        "description": "$30 + 33% of wages in excess of $30",
+        "flat_amount": 30,
+        "percentage_over_flat": 33
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 40% of BPW or 26x WBA",
+        "bpw_fraction": 0.4,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 14,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    },
+    "WY": {
+      "state_code": "WY",
+      "state_name": "Wyoming",
+      "monetary_eligibility": {
+        "description": "1.4x HQW; at least 8% of statewide AAW",
+        "min_hqw_multiplier": 1.4,
+        "state_aaw_percentage": 8,
+        "state_average_annual_wage": 63180.00
+      },
+      "weekly_benefit": {
+        "formula_type": "high_quarter_percentage",
+        "formula_description": "4% HQW",
+        "percentage": 4,
+        "min_wba": 45,
+        "max_wba": 624,
+        "dependents_allowance": null
+      },
+      "earnings_disregard": {
+        "type": "wba_percentage",
+        "description": "50% WBA",
+        "percentage": 50
+      },
+      "maximum_benefit": {
+        "formula_description": "Lesser of 30% BPW or 26x WBA",
+        "bpw_fraction": 0.3,
+        "wba_multiplier": 26
+      },
+      "duration": {
+        "min_weeks": 11,
+        "max_weeks": 26,
+        "uniform": false,
+        "variable_based_on": "bpw"
+      }
+    }
+  }
+}

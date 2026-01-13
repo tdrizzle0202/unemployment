@@ -1,0 +1,5593 @@
+[
+  {
+    "type": "Title",
+    "element_id": "1b62c7c35370a658857992c8ae8dfe76",
+    "text": "Pennsylvania Unemployment Compensation Handbook",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "3cd92979ef6de88cab60cc4d36d74297",
+    "text": "| pennsylvania",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0be67efcc1661b98e0169b7227ded3bb",
+    "text": "DEPARTMENT OF LABOR & INDUSTRY",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cf3ac50c2e58c7f55c6747da74d9a765",
+    "text": "OFFICE OF UNEMPLOYMENT COMPENSATION BENEFITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8a3ea5d7fefda22de4f1cf9ef686ee50",
+    "text": "Internet Services in Pennsylvania",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1abc82c7d2353c6e595aeec7bbe4377f",
+    "text": "Many of our telephone and mail UC services are available on the Internet. Los servicios de Internet también están disponibles en español.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "8a3ea5d7fefda22de4f1cf9ef686ee50"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "878f647ac3c70386003c504cca6e0982",
+    "text": "Log on to www.uc.pa.gov.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "8a3ea5d7fefda22de4f1cf9ef686ee50"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0fb13757c48f2163d29c3a7a4f4b46e1",
+    "text": "Information For Claimants With Disabilities",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "814b04cdbb438c5f063e671e9042e703",
+    "text": "UC benefit information and services are available to individuals with hearing or speech difficulties through a text telephone service (TTY). This service can be accessed only if a TTY number is called from a TTY device. TTY number is listed on Page 17. TTY telephone number is for TTY device users only. Videophone service information for American Sign Language users is on Page 17.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "0fb13757c48f2163d29c3a7a4f4b46e1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9e6a7ae6aa2f0808ecb3d02f48d1a66e",
+    "text": "Auxiliary aids and services are available upon request to individuals with disabilities. Equal Opportunity Employer/Program",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "0fb13757c48f2163d29c3a7a4f4b46e1"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "abd3ee6ffca1907506efa52221eb7484",
+    "text": "UCP-1 REV 08-19",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "38d9cae8d5d55efe19304c6fb2131bb1",
+    "text": "THE PROCESS OF QUALIFYING FOR BENEFITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3078a28e4420318c6b1cfc2084375ca2",
+    "text": "Step One:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b4a5ca08c091c8094fdea957cc26901",
+    "text": "Once you file an application for benefits, the department will determine:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3078a28e4420318c6b1cfc2084375ca2"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "426aeac584180e1851121bbf5bc7b179",
+    "text": "ARE YOU FINANCIALLY ELIGIBLE?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8b5133d5ea34032a5a0d259d09435d9e",
+    "text": "[SEE YOUR NOTICE OF FINANCIAL DETERMINATION (FORM UC-44F) and UC-44F INSERT]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "426aeac584180e1851121bbf5bc7b179"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2e32b09c2931bdd936043ba4e5a7561b",
+    "text": "If the department determines that you are financially eligible, go to Step Two.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "426aeac584180e1851121bbf5bc7b179"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b00d0b5e803e535ee2eca776df04f8ae",
+    "text": "If the department determines that you are not financially eligible, you may:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "426aeac584180e1851121bbf5bc7b179"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "19a5e2456aa25969ea24ee825317ccaa",
+    "text": "v",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "426aeac584180e1851121bbf5bc7b179"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1986c78e241aedd69f99bd702ac83ba5",
+    "text": "Step Two:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "35c82d66546be2354956af0bfa123ed3",
+    "text": "The department may contact you and your employer to determine:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9243a2e07bef6035b6e3a426f3635119",
+    "text": "IS YOUR JOB SEPARATION",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bde8c213d63f0c16a12a7ad7fbbd867e",
+    "text": "QUALIFYING?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "49b11c17756eaad4307bd2048cda24cd",
+    "text": "[SEE PAGE 2]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8fa75012e21ef59bb258c11a61bedea7",
+    "text": "Appeal. [SEE YOUR NOTICE OF FINANCIAL DETERMINATION]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b589cc11c0f939f557fe286d24399492",
+    "text": "or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fd10892ddf48dbb003991d29ef50302b",
+    "text": "File a new application for benefits on or after the first Sunday of the next calendar quarter. [SEE UC-44F INSERT]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "736dbf5c393894763615cecab6777347",
+    "text": "If the department determines it is, go to Step Three.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a894c67bd5c55483288e9a4842cbe6b1",
+    "text": "If the department determines it is not, [SEE PAGE 3], you may:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cc4d55ffd2f677ef7f27a2ea1bbc7176",
+    "text": "Appeal. Appeals of department determinations are made to a Referee; Appeals of Referee decisions are made to the UC Board of Review; Appeals of UC Board of Review decisions are made to the Commonwealth Court. [SEE PAGE 14]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8d2327c791895e0a18945a25e9364c44",
+    "text": "\\J",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "45cf5c854f41ccd2d98b89fc790bd996",
+    "text": "Step Three: MAINTAINING YOUR ELIGIBILITY FOR BENEFITS If you are qualified for benefits, you must:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "fa653a4fd0f63a1e8f1fb3f8364cd33d",
+    "text": "|",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a2f897a698f2473dcd1fc43c7da2b7c4",
+    "text": "• File timely biweekly claims and serve an unpaid waiting week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ace92657fe891395b982e6b9d3470f05",
+    "text": "• Register and actively search for work and record your work search efforts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "001ab686485bc6838b4eb8405149e8b2",
+    "text": "Be able and available for work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "345fc90e2412cdd25e3e7f2a845c1998",
+    "text": "Report wages and any other work-related income.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1ed2d21077250f2e3419f434ced83dbe",
+    "text": "• Report any: return to work, self employment, separation from subsequent employment, inability to work or unavailability for work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d79b81a24f0db89349d423a54a4e80c4",
+    "text": "[SEE PAGES 4 THROUGH 13]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "1986c78e241aedd69f99bd702ac83ba5"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "31dd8c2058cc6295c308ba2381973245",
+    "text": "WARNING",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f310587bbfa11f085dfdc06f0693c089",
+    "text": "UNEMPLOYMENT COMPENSATION (UC) FRAUD IS A SERIOUS OFFENSE.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "81c05876e2cfd08c629c5c2080f63f4c",
+    "text": "If you give false information to the Department of Labor & Industry (department) or withhold information to obtain UC, you may be criminally prosecuted under various provisions of Pennsylvania law: 18 Pa.C.S. §4904 (unsworn falsification to authorities), 18 Pa.C.S. §3922 (theft by deception) and 43 P.S. §871 (false statements or representations to obtain or increase compensation). If you are prosecuted, you may be subject to a fine, imprisonment, restitution, garnishment of federal tax refunds and loss of future benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "f310587bbfa11f085dfdc06f0693c089"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "de77dc865b4dc0982722cce42fa8168b",
+    "text": "You may be committing fraud if you lie about the reason you were separated from employment, return to a full-time job or start your own business without telling the department, work part time and do not report your wages for the week when they were earned, claim benefits when you are not able to work or available for work or allow another person to claim benefits for you.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "f310587bbfa11f085dfdc06f0693c089"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9bcfa27eab6e764644285519e5381bbd",
+    "text": "The department’s fraud investigation division is committed to the prevention, detection, investigation and prosecution of those who commit, or attempt to commit, UC fraud. The department employs multiple detection systems to identify claimants who work while claiming benefits and do not report their wages. If you fail to report wages or otherwise lie about your eligibility, you should expect to be caught.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "f310587bbfa11f085dfdc06f0693c089"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f4aa3caf95aed2f93227636054e9ffb0",
+    "text": "Unemployment Compensation (UC) fraud is not only a crime, it raises the cost of UC for all Pennsylvania employers and employees. UC is a protection for you now and in the future. Do not jeopardize this protection by committing fraud.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "f310587bbfa11f085dfdc06f0693c089"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "206cc612bc7667a9804a01f59bb6833a",
+    "text": "To report fraud, please visit www.uc.pa.gov and click on the “Fraud and Misconduct” link.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "f310587bbfa11f085dfdc06f0693c089"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ca48b6665f4491fbba25adb216585e45",
+    "text": "UPDATE YOUR CONTACT INFORMATION",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e35e2e08a9ae0fea5520a0c0051ad4f7",
+    "text": "It is important that you receive and read all correspondence about your UC claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4b378e7efd3408ae6a8eb34c7ffec0c6",
+    "text": "If your mailing address, telephone number or email address change, inform the UC service center (www.uc.pa.gov) and the PA CareerLink® system (www.pacareerlink.pa.gov) immediately, even if you are not filing for benefits at that time. Keeping the UC service center aware of your current contact information will ensure that you receive correspondence from the department.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "e35e2e08a9ae0fea5520a0c0051ad4f7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4b61631c4d925bd78f242c3ae7d500ce",
+    "text": "We also encourage you to report any address changes to the United States Postal Service (USPS). When your UC information is mailed to you, the USPS National Change of Address database may be used to validate your address before delivering the mail. If the USPS has a different address, your UC information may be delivered to the address maintained by the USPS National Change of Address database rather than the address you gave us.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "e35e2e08a9ae0fea5520a0c0051ad4f7"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a76124dc57f1ec8fb18b6b1f719afbc9",
+    "text": "1.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3472a76363f3c38a5bb864dc38db5f55",
+    "text": "TABLE OF CONTENTS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "be0a9b739b9cc3555a4c49ef9520d0be",
+    "text": "Introduction",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "569f4e5e8750714ccb66bd7bcff4ec75",
+    "text": "WN",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1b645c44766a4912ae9a751f91d85ae0",
+    "text": "2. Qualifying For Benefits 2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5036bfacfd88c72ac6cac3e3f1378830",
+    "text": "3. Maintaining Your Eligibility For Benefits 4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "fbc53821b18fa5d6cd39c78aac050046",
+    "text": "Your Biweekly Claim Requirement",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7f04e83c94154bf67ec26badb1996477",
+    "text": "Your Work Registration Requirement",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ca821767ce5e1f420787b9a480df2fdc",
+    "text": "Your Weekly Work Search Requirements",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d1a87d8ba70ac7a8433d6c1a7b7f63aa",
+    "text": "Your Able And Available Requirement",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1658bd3fe56275d71405139cc59f056e",
+    "text": "4. Payment of Benefits 10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d8c3c471dfaae4c86d83c629b4983745",
+    "text": "voNU",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cc19b34e212194a03148563cae4e561f",
+    "text": "5. How Weekly Benefits May Be Reduced 10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d639db2e5b52bb30e21a7a921ba94419",
+    "text": "6. What Happens When You Find Employment? 12",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "331bebe40890c57905f0b52afa22e211",
+    "text": "7. Your Additional Responsibilities 13",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e8acb47afa46fce7ebfb2f546ecb64a0",
+    "text": "8. How You Can Lose Benefits 13",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "74c2702bca0d87b21e8fdd91d94fa131",
+    "text": "9. Your Appeal Rights",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e08dfce79889dae8510e57fd5f3b7572",
+    "text": "10. Overpayments and Collections 15",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c0f82a42be31d1300334b9103616852c",
+    "text": "11. Other Programs and Help Available 16",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c5b1390f8acb0aa87c56725824bf6857",
+    "text": "12. Contact Information 17",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d02b2e208ef0f9a54a76514e93ccc607",
+    "text": "13. Equal Opportunity and Privacy Act Statements 18",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "31a64b46a6a1462d248071cf2fccec93",
+    "text": "2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7789e4bfacf18bbc226f7656fc39da64",
+    "text": "4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "329aabe5681feff490406f779339131e",
+    "text": "5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8e7b6fc824e875375d232bec5aae5478",
+    "text": "7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "333ef618c517439e822b7deb64c1c7b1",
+    "text": "9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1930dddff1e95d2493ed75e9aaabf4dc",
+    "text": "14",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "949434e2018506a5c8c102111c01aa98",
+    "text": "1. INTRODUCTION",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "56f26fc39d9ec532a20155b9dec6c451",
+    "text": "The Pennsylvania UC program is administered by the department and provides temporary wage replacement income to qualified workers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a0beb07fe2d2552649afac0690f7efb2",
+    "text": "This booklet, the Pennsylvania Unemployment Compensation Handbook, will answer many of your questions about the benefits available to you and provide information about your responsibilities as a participant in the program. Read this booklet carefully and retain it for reference for one year.* Visit www.uc.pa.gov for additional information, including answers to Frequently Asked Questions.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b01574d5016452d25b0702ee412d67cd",
+    "text": "You will also receive a Claim Confirmation Letter (Form UC-360) from the department. It confirms that your application for benefits has been processed. It contains your personal identification number (PIN) to access the department’s Internet claims filing system and to use PA Teleclaims (PAT), the department’s system for filing claims by telephone. This letter also instructs you when to file claims for benefits for weeks that you are totally or partially unemployed. Read your Claim Confirmation Letter and accompanying information carefully.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "da6a6a681d7678006a553a1ae692064b",
+    "text": "2. QUALIFYING FOR BENEFITS",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "213f5b754a44dc2f7d5f6bee7b69c5ba",
+    "text": "Qualifying for benefits is a three-step process:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4c53daa16f0c78a565339a9457980e68",
+    "text": "1. As soon as you file your application for benefits the department will determine whether you are financially eligible.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "86463be38f1179abff4f32a3f54d05f1",
+    "text": "2. If you are financially eligible, the department will determine if you have a qualifying separation from employment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "45bc269d4f0bf8ceec5d7f660405e1c4",
+    "text": "3. If you are financially eligible and have a qualifying separation, you may qualify for benefits for weeks that you are totally or partially unemployed. You must satisfy all of the requirements in the UC Law (Law) to begin receiving UC and to maintain your eligibility for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1efa4869b804dee10e7c8cf9545a9d0f",
+    "text": "* This booklet is not an official statement of the Law. Statements in this handbook are",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "39ce701991fe17e8ebeb182fbb7e5d95",
+    "text": "intended for informational purposes only. If there is a conflict between information in",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7d97c3d8ccd28c14d3460f2a78b87524",
+    "text": "this booklet and the provisions of the Law, the Law controls.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3472a76363f3c38a5bb864dc38db5f55"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "5eba5f2772a00672da6ba1245a33c572",
+    "text": "2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "18f0e99b7465b5702228378468592e2c",
+    "text": "STEP ONE: FINANCIAL ELIGIBILITY",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5f129ff8e99f992bf03ef8bb9f3a4277",
+    "text": "Are you financially eligible for benefits? You must have enough wages and weeks of work in your employment history to qualify for UC. This is known as “financial eligibility.” You will receive a Notice of Financial Determination (Form UC-44F) from the department that will state whether you are financially eligible and, if you are, the amount of benefits you may receive. Your Notice of Financial Determination will be accompanied by an insert that fully explains financial eligibility. Read these documents carefully and follow all instructions that apply to you.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "18f0e99b7465b5702228378468592e2c"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "dfb8277e313d31b58bf8f30330f48ac8",
+    "text": "STEP TWO: YOUR JOB SEPARATION",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "96f88c5fa25e3c9a939411878cb496b8",
+    "text": "i Why are you unemployed? To qualify for benefits, you must be unemployed or working reduced hours through no fault of your own (a qualifying separation).",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "dfb8277e313d31b58bf8f30330f48ac8"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "c72959beb1fd4703c2c6dcc1a1be4445",
+    "text": "\\==",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "21221c2631920843080fc2891b0d85ab",
+    "text": "Generally, you have a qualifying separation if you are laid off due to lack of work. Some separations, however, are disqualifying. You are not eligible for benefits under the following circumstances:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "038c9cfc997316eef35df6a31c3ffec0",
+    "text": "• You voluntarily quit your job without cause of a necessitous and compelling nature.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3427212031417f1cc9493f25481d1082",
+    "text": "• You are discharged or suspended for willful misconduct or because you failed to submit to and/or pass a drug or alcohol test.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "33500d99e1baa15f3f437498889e0be0",
+    "text": "• You participate in a work stoppage determined to be a strike. (This disqualification does not apply to a lock-out).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cbdcbc785c08aa94b0dd88a9d44cdd8b",
+    "text": "There may be times when a department representative will contact you and your employer to discuss the reason for your separation from your job. If you and your employer disagree on the reason for your unemployment, or any other issues arise that may affect your eligibility for benefits, you will be given a chance to provide information and explain your side of the story. For example, you may receive a questionnaire to complete and return. If benefits are denied, you will receive a written determination, which you can appeal. (See Page 14.)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "17397796f41e349ac148ab08cf304fd2",
+    "text": "If you are already receiving benefits when a question arises about your eligibility, you will receive an Advance Notice form stating that your eligibility for benefits is being reviewed and your receipt of benefits may be affected. The Advance Notice form will give you a chance to give information about your eligibility for UC benefits. You will continue to receive benefits unless a written determination of ineligibility is issued.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0a33b98a101ea6f0a532d311a9a8f80d",
+    "text": "REMEMBER! Promptly complete and return all forms you receive from the UC service center to avoid delays and to explain your side of the story.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "875420262977d7b2030c94a3e246a4c2",
+    "text": "Working Part Time: You may be eligible for benefits if (1) your regular hours of work are reduced, (2) you are separated from your job and have obtained part-time employment with fewer hours of work, or (3) you are separated from one job but continue to have part-time employment with another employer(s). If you are working your normal, full-time hours in any job during a week, you are not eligible for benefits for that week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0816c24833a6c64383b24ab86a765231",
+    "text": "STEP THREE: MAINTAINING ELIGIBILITY",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a8c5216b5faa41492b0314bf710d4432",
+    "text": "Have you met the continuing requirements? If you are financially eligible and your separation from employment is qualifying, you must satisfy certain requirements on a continuing basis in order to remain eligible for benefits. The following chapter will explain those requirements.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "0816c24833a6c64383b24ab86a765231"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "e2d5abb3a8bcac769d492c5889b5eda7",
+    "text": "Q_",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e02871f554a722c8db3781e55aa8d68d",
+    "text": "3.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "58ca0b394f74465dd712b944b49eb2d0",
+    "text": "3. MAINTAINING YOUR ELIGIBILITY FOR BENEFITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d0a3e2a5737b884a4851c939b25e35ba",
+    "text": "YOUR BIWEEKLY CLAIM REQUIREMENT",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ad765620f3476ab67cadef67237d7716",
+    "text": "√ You must file a claim for each week in which you are totally or partially unemployed. A “week” is a calendar week beginning on Sunday and ending the following Saturday. The date of the Saturday is called the claim week ending date, or CWE Date. Generally, you will file claims for two weeks at one time. This is called a biweekly claim. Although you will file for two weeks at a time, you will certify your eligibility for each week separately.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "d0a3e2a5737b884a4851c939b25e35ba"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7ac7d46c9a6e40ad34de320154cfe277",
+    "text": "How To File Your Biweekly Claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d9b6086ca081929f6bdbdbe5215ac499",
+    "text": "To file your biweekly claim, you will need:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "7ac7d46c9a6e40ad34de320154cfe277"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3008c3d3129399a9cf639b69a76a3c14",
+    "text": "• Your Social Security number and your PIN (personal identification number).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "7ac7d46c9a6e40ad34de320154cfe277"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "840c7867c0eeb459169ac25d4b6868e1",
+    "text": "• The gross amount of your earnings (total amount of money earned before taxes or other deductions) for all work performed during the week. (See Page 12.)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "7ac7d46c9a6e40ad34de320154cfe277"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b352516be2760ce6b96e2299fcb8fa9e",
+    "text": "• If you were absent from work when work was available during the week, the gross amount you would have earned if you had not been absent.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "7ac7d46c9a6e40ad34de320154cfe277"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0af526e54207b7787a580f1064ce732d",
+    "text": "• The gross amount of holiday pay and vacation pay, if any, for the week. (See Page 13.)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "7ac7d46c9a6e40ad34de320154cfe277"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "544d9086c220f97df2dcd2ba46e7b957",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a521e9392f3a7a36b2f5e8495a671c6c",
+    "text": "Filing over the Internet: You may file your biweekly claims online Sunday, 6 a.m. to 11 p.m., and Monday through Friday, 6 a.m. to 9 p.m., at www.uc.pa.gov. After you have submitted your biweekly claim, a confirmation page will display advising you that your claim has been accepted. Do not exit the site before you receive this confirmation. If you do, your claim will not be filed and you will have to file your claim again.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c75d44a8610801214646143936844e1d",
+    "text": "Filing by Telephone (Pennsylvania Teleclaims—PAT): PAT is the department’s system for filing claims by telephone. You must have a push-button telephone to use PAT. If you do not have touch-tone service, but have a telephone with a PULSE/TONE switch, call PAT with the switch in the PULSE position. When PAT answers your call, move the switch to the TONE position. You may file your biweekly claims using PAT Sunday, 6 a.m. to 11 p.m., and Monday through Friday, 6 a.m. to 9 p.m. Telephone numbers for PAT are listed on Page 17 of this handbook. If you get a busy signal, hang up, wait a while, and try again.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "d61baf14045e2e561acba0acd1e5a29f",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "452e81fb2ba65380a372f03c9ad1a46b",
+    "text": "PAT will ask you a series of questions about your eligibility for UC for the first week of your biweekly claim. You will answer each question “yes” or “no” using the numbers on your telephone keypad. When you have answered the questions, you may have your answers repeated, clear your answers and begin again, or have your answers processed. After you have finished claiming the first week, and if a second week is available for you to claim, PAT will ask if you wish to claim benefits for the second week (PAT will identify the second week by its CWE date). For more information about the questions you will be asked, visit www.uc.pa.gov.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dc01f61c59404363ddb9be63bc901191",
+    "text": "After you have completed your biweekly claim, PAT will tell you that your claim has been accepted. Do not hang up until you hear this confirmation. If you hang up or get disconnected before PAT confirms that your claim has been accepted, you will have to call again to file your claim for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "14c89a78dc0e7239b5277f6f6acad35c",
+    "text": "Filing by Mail: This is permitted only in specific circumstances. Please contact 888-313-7284 [TTY Users 888-334-4046] for information on filing claims by mail.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "fe32a986c5c7508bb31997097753b7a0",
+    "text": "4.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "66781e8ad3494f122bd279bf0f0e0e6b",
+    "text": "Filing by TTY: You may file your biweekly claims using TTY service 24 hours a day, 6 days a week (Sunday through Friday). First, you must obtain the TTY biweekly filing instructions and eligibility questions online at www.uc.pa.gov, or by contacting the UC service center or local PA CareerLink® office. After you obtain the biweekly questions, it is recommended that you review the questions ahead of time and record the answers on paper before transmitting answers through TTY. By preparing the answers in advance, there will be an increase in accuracy and reduction of mistakes that could delay benefit payment. Also, the time making the TTY call will be substantially reduced.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a7ca1dc0421473c52817b753da3f6a41",
+    "text": "After you have prepared your answers, connect to the UC service center through TTY 888-334-4046. Once the UC office greeting has completed, you must type the number of the question and its answer. There is no need to type in the question itself. Continue until all questions have been answered, then disconnect the call. You will be contacted through relay service if we need additional information or have questions about your responses.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "87df2c835dd0384973703df1071bb006",
+    "text": "When To File Your Biweekly Claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "139434d67d5afe22b79495143034a424",
+    "text": "Your biweekly claim must be filed during the week (Sunday through Friday) immediately following the two weeks you are claiming. Your Claim Confirmation Letter will tell you when to file your first biweekly claim. If you remain totally or partially unemployed, you will continue to file biweekly claims every two weeks until you exhaust your benefits. You may call PAT to learn when to file your next claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "87df2c835dd0384973703df1071bb006"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "e55b78d7d5f5df7c62bfec44a949f9e5",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f9025d7f9c03ed771dc2c081f37c8c30",
+    "text": "If You Forget To File",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3bb3289ab3486f34522161127545bfee",
+    "text": "If you fail to file your biweekly claim at the proper time, you may be denied benefits for those weeks and your UC claim will become “inactive.” You must contact your UC service center to reactivate your claim. If you return to work but then become unemployed again, visit www.uc.pa.gov or call the UC service center to reopen your claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "f9025d7f9c03ed771dc2c081f37c8c30"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a573b7629e1de8003a254cbfb638f75f",
+    "text": "REMEMBER! If you are waiting for the department to determine whether you are eligible for benefits, continue to file your biweekly claims. If you are determined to be eligible, you will only get benefits for the weeks for which you filed claims.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "f9025d7f9c03ed771dc2c081f37c8c30"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "deb869258a4545bc15c791d189d1932a",
+    "text": "The Waiting Week",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "29e49d30b623bbbf2a1ad5e7333e0b36",
+    "text": "The first week of the Benefit Year that you are unemployed and found eligible for benefits is called the Waiting Week. (See your Notice of Financial Determination and accompanying insert entitled “Explanation of Your Notice of Financial Determination” for information about your Benefit Year.)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "deb869258a4545bc15c791d189d1932a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "20cef94a82996b9acfe7ec1973879e0e",
+    "text": "√ Benefits are not payable for the Waiting Week but you must file a claim for that week in order to receive credit for it.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "deb869258a4545bc15c791d189d1932a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "80697943266db44fc664e0c2d2e0e8e0",
+    "text": "YOUR WORK REGISTRATION REQUIREMENT",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bc944322c3f1df830d3ec34ab1de1bb3",
+    "text": "√ You must register for employment-search within 30 days after filing an application for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "80697943266db44fc664e0c2d2e0e8e0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1b97a815caaba0803c595f37d3609449",
+    "text": "• If your local labor market is outside of Pennsylvania, you must register with the state employment service that serves your local labor market.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "80697943266db44fc664e0c2d2e0e8e0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "27e4ac3abdfea6b77c36c239ea10b8ec",
+    "text": "• If your local labor market is within Pennsylvania (either you live in PA, or commute to PA for work) you must register for employment-search services through PA CareerLink®.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "80697943266db44fc664e0c2d2e0e8e0"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "88c692a8439a48cde243c4b50cbc3a7f",
+    "text": "NEW REGISTRATION - To register for employment-search services, follow the steps below:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4f66fc3e854c0e76c59248fcb0726ef4",
+    "text": "1. Go to the Pennsylvania CareerLink® website at www.pacareerlink.pa.gov and click on “Register.”",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "88c692a8439a48cde243c4b50cbc3a7f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bc8303ae75fa3c11befd8d0980958654",
+    "text": "2. Click on “Unemployment Compensation (UC) Claimant” as the user type.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "88c692a8439a48cde243c4b50cbc3a7f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c6b7c7d770b6c2d347d60d5c0a62d2cd",
+    "text": "3. Enter your name, date of birth, and your complete Social Security number.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "88c692a8439a48cde243c4b50cbc3a7f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "162942522d2e7fad6fc94a16a0929781",
+    "text": "4. Click on “Continue.”",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "88c692a8439a48cde243c4b50cbc3a7f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2b2abf8642830b43da686d6992bcd557",
+    "text": "5. Provide your personal information and click “Save and Continue.” NOTE: It is crucial that both your name and mailing address are the same in both the UC and PA CareerLink® systems.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "88c692a8439a48cde243c4b50cbc3a7f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d0e33960408ccb2a0cab2961e6c748ea",
+    "text": "6. Provide the information requested to create a Keystone ID (user name) and password as well as your Hint Questions/Answers. Click “Save and Continue.”",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "88c692a8439a48cde243c4b50cbc3a7f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "151ae02a677be3dd2666372f0b5ebcb2",
+    "text": "7. Provide the information applicable to you to complete your “Profile” and “Job Preferences.”",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "88c692a8439a48cde243c4b50cbc3a7f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cb45af6e222c8b772794a0f9ecae7340",
+    "text": "8. Once you have completed the registration process, you will receive a “Registration Confirmation” page. Be sure to print this page or write down your Keystone ID and Participant Identification Number for your records. Do not send the confirmation to the UC service center or PA CareerLink® office.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "88c692a8439a48cde243c4b50cbc3a7f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b35287b0d2c44157e2e4e14cc34c25b7",
+    "text": "PREVIOUS/PARTIAL REGISTRATION - If you previously created a Keystone ID or partially registered with PA CareerLink®, follow the steps below to fully register and avoid ineligibility:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "88c692a8439a48cde243c4b50cbc3a7f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f6e525e27db2db7d8e5b7cce96acd7a8",
+    "text": "• If you never created a Keystone ID/Password, go to www.pacareerlink.pa.gov and click on “Register.” Follow the instructions above for NEW REGISTRATION as if registering for the first time.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "88c692a8439a48cde243c4b50cbc3a7f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fcff9a4e58336389ab90c4d6388a5d39",
+    "text": "• If you have forgotten your Keystone ID or Password, go to www.pacareerlink.pa.gov and click on “Forgot your Keystone ID / Password?” On the next screen, select “Job Seeker” and choose one of the options provided to retrieve your Keystone ID, reset your password or reset your hint questions and answers. You may be asked to provide the Participant Identification Number assigned to you by the PA CareerLink® system. If you do not know your Participant Identification Number, you have the option of having it emailed to the email address in your PA CareerLink® profile, obtaining it by contacting your local PA CareerLink® office, or having it mailed to you.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "88c692a8439a48cde243c4b50cbc3a7f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6efee48e14da943d446ad5b89a22dcb9",
+    "text": "HOW DO YOU KNOW YOU ARE COMPLETELY REGISTERED?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b3f3a64bde0f11736946ae168e0a4126",
+    "text": "Look in the upper right corner of the Dashboard for the “UC Registration Compliance” box.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6efee48e14da943d446ad5b89a22dcb9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8b513e9f9b092e19f1d26b675c4519c9",
+    "text": "• If the box indicates that your status is “Completed”, then you are fully registered. Click the “View UC Confirmation” link and print the confirmation page for your records.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6efee48e14da943d446ad5b89a22dcb9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5a4512108aee6a69162e7f41e51a0607",
+    "text": "• If the box indicates that your status is “Incomplete,” click on the “Completion of My Profile” link and add an Experience record to your My Resume page.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6efee48e14da943d446ad5b89a22dcb9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e80b4bf99a069a2db5d7aec338e0f496",
+    "text": "IMPORTANT: When attempting to register, if you receive a message saying that you may already have an account in the system, do NOT assume that you are fully registered for UC purposes. Contact your local PA CareerLink® office to determine if you have an existing account and, if so, whether or not you have completed the elements to satisfy the UC registration requirement.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6efee48e14da943d446ad5b89a22dcb9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e364eb1a2e4a9d2ce68b248b7841608e",
+    "text": "If you experience difficulty registering for employment-search services, please contact your local PA CareerLink® office, go to www.pacareerlink.pa.gov, click on “Offices” and enter your Zip Code in the “Search” field.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6efee48e14da943d446ad5b89a22dcb9"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "dc12bb825419dd35d95902f2afe93744",
+    "text": ")",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "34575c0a068d14b6a38c4ee6384308f5",
+    "text": "YOUR WEEKLY WORK SEARCH REQUIREMENTS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "838198a4fca53c26265fbe40568422fb",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "951337a116deb5fdc9d86d4ed4cdc3a1",
+    "text": "√ You must actively search for work in order to be eligible for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "47ca3d9f78056ea0fa022c33a6e93fef",
+    "text": "You must actively search for work",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0c17b24256c23d8757e56ef4744843ab",
+    "text": "Q. What are the weekly work search requirements?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8db49527dd26839751e27a4a16789610",
+    "text": "A. Generally, beginning with the third week in your Benefit Year for which you file a UC claim, you must apply for two jobs and participate in one work search activity each week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1d315bcb546b5bedfb5426216e7e651b",
+    "text": "Q. What kind of jobs can I apply for?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc0a3c0a82db03e9a7c9b26d3c4296af",
+    "text": "A. You may apply for jobs that would provide suitable work; that is, any work that you are capable of performing. However, you are allowed to limit your job applications to jobs that offer employment and wages similar to what you had before you became unemployed, and are within a 45-minute commute. If adhering to that limitation prevents you from applying for two jobs, you may choose one of two options for each application that you are unable to make: (1) you may participate in a work search activity, or (2) you may disregard that limitation and apply for a job offering suitable work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8d864298a7e9745f59b25e517413b484",
+    "text": "Q. What are the acceptable ways to apply for a job?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a35b586ce52732e72eb5ca4cf3f6eaab",
+    "text": "A. You may apply for a job in person, by mail, phone or electronic transmission, by submitting a job application or résumé to the employer, or by following a hiring procedure established by the employer. A repeated application for the same job does not count unless there is a reasonable basis to believe that the employer’s hiring circumstances have changed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "312a357fbf8e4a71a293a0287cfe1c52",
+    "text": "Q. What qualifies as a work search activity?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9369c35d05aec5701f385cc81fe06c31",
+    "text": "A. You may choose from these seven work search activities:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c3b21a340e739680da307ebd163d26c8",
+    "text": "Attend a job fair.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e09de89e3c8f6050c36c57f2e6f55241",
+    "text": "Search positions posted on the PA CareerLink® system or Internet job banks. e",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "805b5d5f0a8b264059caf92c916b679b",
+    "text": "Create or post a résumé in the PA CareerLink® system or post a résumé in other résumé-posting services.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "013a8271acce120533d178c08b97a6cd",
+    "text": "• Contact colleagues, former co-workers or other individuals in similar professions or occupations to make known your availability for employment or obtain information about available positions, prospective employers or other employment opportunities.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a30032b4fb70708cb117a8893d10190a",
+    "text": "• Utilize an employment agency, employment registry or school placement service.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0cd7c8e674309521dfd663b8c47c2be4",
+    "text": ". Take a civil service test or other pre-employment test.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b5ce7fb70992fb49d01340dd4c8ca26d",
+    "text": ". Participate in a program or activity offered through the Pennsylvania CareerLink® system.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6181c09358fd913a075dc78fc5b06dd1",
+    "text": "If you live outside of Pennsylvania, you may participate in these types of activities offered by your state employment service.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0bbe37d4f405002a455e06bc604c211f",
+    "text": "Q. Do I receive credit for a job interview?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "772fc0894e7335fade21ddbfe7e14940",
+    "text": "A. Yes, you may substitute a job interview by an employer for one of your job applications or a work search activity.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c5b80dea41e8afc807a3cd2c3b80e4c4",
+    "text": "Q. Do I receive credit for an extra job application?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b5ace72fec06a39ae7160b99af3980a7",
+    "text": "A. Yes, if you apply for more than two jobs in a week, you do not have to participate in a work search activity during that week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "82caeca769c3690efd47f296532ce8ee",
+    "text": "Q. Are the weekly requirements different if I am working part time?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "36cc427bb6e8697ca0bf9d7b119522db",
+    "text": "A. If you are working part time during a week and you earn more than your Partial Benefit Credit (PBC), you only have to apply for one job during the week, instead of two, and you do not have to participate in a work search activity during that week. (See your Notice of Financial Determination and accompanying insert entitled “Explanation of Your Notice of Financial Determination” for information about your PBC.)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3e76b3adf8f1881e7621ad67e6cbccb7",
+    "text": "Q. Must I keep a record of my job applications and work search activities?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "889314f0bd333ddfe13caa6c05d89758",
+    "text": "A. Yes. You are encouraged to use Form UC-304, entitled “Work Search Record.” A copy of the form is included in this booklet, and the form is available at www.uc.pa.gov. You are not required to use Form UC-304 as long as your record includes the same information that would be contained on Form UC-304. You must retain your record for a period of two years from your Application for Benefits (AB) date. (See your Notice of Financial Determination and accompanying insert entitled “Explanation of Your Notice of Financial Determination” for information about your AB Date.) The department monitors the work search activities of UC claimants. Failure to provide your work search record upon request, in the manner specified by the department, may result in ineligibility for benefits and liability to repay benefits you received. Do not send your work search record to the department unless you are asked to do so.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bd40f78a4d152a399be761ab8e09c6f8",
+    "text": "Q. How do I know if I have met the work search requirements for a week?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bb0f560bcea5fa46681ba2b50cd8b789",
+    "text": "A. You may use this chart to verify that you have satisfied the UC work search requirements. Each column in the chart represents one of the three weekly requirements. In each column, check the box that indicates how you satisfied that requirement or a substitute requirement. You may enter only one checkmark for each job application, work search activity or interview. If you are able to check one box in each column, you have satisfied your UC work search requirements for the week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b4b6c984608940e31a993c4ebfb87bc7",
+    "text": "O 1 applied for a job. O 1 participated in a work search activity because I am limiting my job applica- tions.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "867e553766f100853ff1bc4d7ad0d5f6",
+    "text": "O",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7d1c07f2c0c5f5502f48b01f36644302",
+    "text": "I had a job interview.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4d23d150f958724af82cae94174149b7",
+    "text": "O I applied for a job. O I participated in a work search activity because I O am limiting my job applica- O tions.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b96f7555e916d10805e0a1a9f77189f7",
+    "text": "O",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "71966579a82e063ebb554a99b07aeb45",
+    "text": "I had a job interview.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f1b33709f960641dbce8e9ed956188c5",
+    "text": "O 1 participated in a work search activity. I applied for a 3 job. I had a job interview.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "570e6f93b643ca3a6916c233cab4ea29",
+    "text": "O",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "78e7374341854db5c8c1f247d9b2e817",
+    "text": "I worked part time during the week and earned more than my PBC. A second job application and a work search activity are not required.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a29c29c291c23bf21febaf74b89cde0a",
+    "text": "When the Work Registration and Work Search Requirements Don’t Apply",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8ccd115499b1965a1cc71c3de56ecceb",
+    "text": "Exemptions",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d6ef1eb51386b0354fbd049577e64d01",
+    "text": "The weekly work search requirements, or both the registration requirement and the weekly work search requirements, will not apply to a week if you satisfy one of the fol- lowing exceptions for the week:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "8ccd115499b1965a1cc71c3de56ecceb"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "33bde9e57bbdbae575334cdd543fe95e",
+    "text": "Exemption Registration Weekly Work Search Requirement Does Not Requirement Does Not Apply Apply You actively participate during the week in a program or √ activity approved by the department as an acceptable work search alternative. During the week you (1) are a member of a union that has √ a hiring hall or are registered with a hiring hall, (2) are required to obtain employment through the hiring hall, and (3) fulfill all requirements to maintain eligibility for referral by the hiring hall during the week. During the week you are participating in the Shared-Work √ √ Program under Article XIII of the Law. During the week you are in training approved by the √ √ department or under the Trade Act. During the week you are required to participate in the Pennsylvania √ √ Profile Reemployment Program (PREP) at a PA CareerLink® under Section 402(j) of the Law. You are unemployed for the week because your employer reduced your hours of work or laid you off for economic reasons and the employer has advised you in good faith and in writing that you will return to work on a specific date. √ The exemption continues until the recall date is rescinded or has passed. You must keep a copy of the recall notice. You must notify the UC service center of your return-to-work date. √ The exemption continues until the recall date is rescinded or has passed. You must keep a copy of the recall notice. You must notify the UC service center of your return-to-work date.",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><thead><tr><th rowspan=\"2\">[Exemption</th><th rowspan=\"2\">[Registration Requirement Does Not Apply</th><th rowspan=\"2\">[Weekly Work Search _| Requirement Does Not Apply</th></tr></thead><tbody><tr><td>You actively participate during the week in a program or activity approved by the department as an acceptable work search alternative.</td><td></td><td>v</td></tr><tr><td>During the week you (1) are a member of a union that has a hiring hall or are registered with a hiring hall, (2) are required to obtain employment through the hiring hall, and (3) fulfill all requirements to maintain eligibility for referral by the hiring hall during the week.</td><td></td><td></td></tr><tr><td>During the week you are participating in the Shared-Work Program under Article XIII of the Law.</td><td></td><td></td></tr><tr><td>During the week you are in training approved by the department or under the Trade Act.</td><td></td><td></td></tr><tr><td>During the week you are required to participate in the Pennsylvania Profile Reemployment Program (PREP) at a PA CareerLink® under Section 402(j) of the Law.</td><td></td><td></td></tr><tr><td>You are unemployed for the week because your employer reduced your hours of work or laid you off for economic reasons and the employer has advised you in good faith and in writing that you will return to work on a specific date.</td><td>4 The exemption continues until the recall date is rescinded or has passed. You must keep a copy of the recall notice. You must notify the UC service center of your return-to-work date.</td><td>v | The exemption continues until the recall date is rescinded or has passed. You must keep a copy of the recall notice. You must notify the UC service |enter of your return-to-work date.</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "8ccd115499b1965a1cc71c3de56ecceb"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b964516f32f1794083284d5da7baa52f",
+    "text": "8.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "92266ffae36578c3da14d1c8c30037b7",
+    "text": "Waiver",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "574e03a236e43ff20ed7fa01bec1eb7a",
+    "text": "The department may waive or alter the work registration and weekly work search requirements in cases or situations where compliance would be oppressive or inconsistent with the purposes of the Law. A waiver request form is available at www.uc.pa.gov. IMPORTANT: If you request a waiver or alteration of your work registration or work search requirements for reasons that render you unable to work or unavailable for work, you may be ineligible for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "92266ffae36578c3da14d1c8c30037b7"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c6a565381c243768cbe16ed94b9ad7cb",
+    "text": "YOUR ABLE AND AVAILABLE REQUIREMENT",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "35cb130e10978b572cfd009080b8d057",
+    "text": "√ To be eligible for UC benefits, you must be able to work and available to return to work, either to your old job or a new job.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "c6a565381c243768cbe16ed94b9ad7cb"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "495617f6469e5003ade242a2d4316435",
+    "text": "You May Be Disqualified If:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4360ed6ea6ca4d2c26fd9188458c0d88",
+    "text": "* You are physically incapable of working.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "495617f6469e5003ade242a2d4316435"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dc60be69fd1869f83cf776225517e878",
+    "text": "* You are not available for work because:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "495617f6469e5003ade242a2d4316435"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "96145c7c8384b39d72097ae30d4bedaf",
+    "text": "• You are outside your labor market on vacation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "495617f6469e5003ade242a2d4316435"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d0f7b200b6c3c4ae750d0e8c3e8add6f",
+    "text": "• You are out of the country. If you are planning to travel outside of the United States, please contact the UC service center prior to leaving.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "495617f6469e5003ade242a2d4316435"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "18c8e14ac46be91d3087d44d64f75c1f",
+    "text": ". You are incarcerated.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "495617f6469e5003ade242a2d4316435"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e90eae8915c885f4d3d1aa08f086f09f",
+    "text": ". You do not have a way to get to a job.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "495617f6469e5003ade242a2d4316435"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "aafda14f1741db4ad85b037f9eda1253",
+    "text": ". You do not have daycare for children.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "495617f6469e5003ade242a2d4316435"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d627e46b90a785810782ed4b07337b99",
+    "text": "If you are disqualified from receiving benefits because you are not able and available for work but you become able and available at a later date, contact your local UC service center to see if you can resume UC benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "495617f6469e5003ade242a2d4316435"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "18d19ce296d9752cbf3e461c5cdf1fdd",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ac5fed48de8378936755f43d87a1b4a8",
+    "text": "Let’s Review! To be eligible for benefits you must:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9de341376539f230b39d1fe2597addce",
+    "text": "√ Meet minimum wage and employment requirements (financial eligibility).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "ac5fed48de8378936755f43d87a1b4a8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7048c6294a72610125eed7548977e22d",
+    "text": "√ Be totally or partially unemployed through no fault of your own (a qualifying separation).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "ac5fed48de8378936755f43d87a1b4a8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5c386228212251f22ae2c1f8ce4b135d",
+    "text": "√ File timely biweekly claims while you are unemployed and serve an unpaid waiting week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "ac5fed48de8378936755f43d87a1b4a8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cacb980832a2ccabeb01a5286afbd57c",
+    "text": "√ Register for employment-search services within 30 days of your application for benefits, actively search for work and keep a record of your work search efforts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "ac5fed48de8378936755f43d87a1b4a8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a11e56f00aab1ceb12f6dbf26f8648bd",
+    "text": "√ Be able to work and available for suitable work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "ac5fed48de8378936755f43d87a1b4a8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "47d8e5c6214c3683c9d4195f80e65d04",
+    "text": "4. PAYMENT OF BENEFITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "ac5fed48de8378936755f43d87a1b4a8"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9ef3fff67420dd9a322aee21dc719bef",
+    "text": "First Benefit Payment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4aadf27b772e21823a6aa82cd59ee94f",
+    "text": "If you are eligible for benefits and file timely biweekly claims, you should receive your first benefit payment within four weeks after filing your application for benefits. (Because of the Waiting Week, your first payment may be for only one week.)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "9ef3fff67420dd9a322aee21dc719bef"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "90c2a9682e2b57639f34d5a70c01c851",
+    "text": "How Benefits Are Paid",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c6a5374e10a8a9f1c7e1145de6194edd",
+    "text": "Benefits are paid biweekly (every other week). The biweekly payment is usually made within four days after the biweekly claim is filed, but it may take up to ten days to receive payment. Payments may be delayed if there is an eligibility issue that must be resolved before payment can be made.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "90c2a9682e2b57639f34d5a70c01c851"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f6afaa9970dcd0aaf3bbd2b0ebe5343a",
+    "text": "Benefits are paid to you by debit card or direct deposit. If you received UC benefits on a prior claim by direct deposit within a year before you filed your current application for benefits, and the bank account previously used for direct deposit is still active, direct deposit will carry over to your current UC claim. You may switch to a debit card if you prefer to receive your benefits in that way. If you do not have a direct deposit account, you will be issued a debit card to access your benefits, but you may switch to direct deposit. It takes time for direct deposit to begin. In the meantime, benefits will continue to be paid to you through your debit card. Your Claim Confirmation Letter contains information regarding the debit card and direct deposit options. Please visit www.uc.pa.gov for instructions on choosing between direct deposit and debit card.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "90c2a9682e2b57639f34d5a70c01c851"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8eafe7bc8b92a5f39cde0476077edbb1",
+    "text": "Getting Information About Your Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2e8a4c70821eb2bcc888c94c353f01fa",
+    "text": "Recent Payment Information: To find out if a recent benefit payment was made to you, log on to www.uc.pa.gov or call PAT, Sunday, 6 a.m. to 11 p.m., and Monday through Friday, 6 a.m. to 9 p.m. Information about a payment is generally available the business day after the payment was made.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "8eafe7bc8b92a5f39cde0476077edbb1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "39436cd26960fb649dd4dccfdb1d4485",
+    "text": "Your Payment History: If you have exhausted your entitlement to benefits and need documentation that you are no longer receiving benefits, you can print your “payment history” by visiting www.uc.pa.gov. This printout can be used for many public agencies that request this type of information. You can also fax a request to the UC service center at 717-525-5160. You can get two free copies from the UC service center and you will be charged for additional copies.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "8eafe7bc8b92a5f39cde0476077edbb1"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "43db011f7c2a36b92369d558c095b2ea",
+    "text": "5. HOW WEEKLY BENEFITS MAY BE REDUCED",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "8eafe7bc8b92a5f39cde0476077edbb1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1423a0e4ca0fd29475e4a84ccc1dde22",
+    "text": "There are a number of reasons why your weekly benefits may be reduced, including the following:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "8eafe7bc8b92a5f39cde0476077edbb1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8e8a7fa8b54629e24fb0a652ef1c0fda",
+    "text": "• UC Fund Solvency: The Law requires benefit reductions when the balance in the UC Fund is low. These provisions are in effect at this time and benefit payments for weeks ending January 6, 2018, and after, are reduced by 2.4%.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "8eafe7bc8b92a5f39cde0476077edbb1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "979188aead8cf6cd0da64b04db48d484",
+    "text": "Part-Time Earnings: See Page 12.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "8eafe7bc8b92a5f39cde0476077edbb1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "452a0f1592c104c6eee471c9db8073b1",
+    "text": "• Holiday Pay and Vacation Pay: Holiday pay and vacation pay that are more than your PBC are deducted from your benefits for the week in which the holiday or vacation occurs. However, vacation pay is not deducted if you have permanently or indefinitely lost your job.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "8eafe7bc8b92a5f39cde0476077edbb1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a974e6d678d6403b59a14968130a8472",
+    "text": "• Severance Pay: Severance pay means one or more payments your employer makes to you because of your separation from your employer. Severance pay that exceeds 40% of Pennsylvania’s average annual wage is deducted from your benefits (unless your AB Date is prior to January 1, 2012, or the severance results from an agreement entered into before January 1, 2012). The deductible portion of your",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "8eafe7bc8b92a5f39cde0476077edbb1"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "72fc637deb8e185572aab0a2da53312f",
+    "text": "10.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2767460e4f138c2aaf63199df0776268",
+    "text": "severance pay is allocated to the weeks immediately following your separation from employment, based on your full-time weekly wage.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7b128af3a4993ba35ecf807d4ac1db8d",
+    "text": "EXAMPLE: You received severance pay of $22,000. For Benefit Years that begin in 2018, 40% of Pennsylvania’s average annual wage is $20,797.71. $22,000 - $20,797.71 = $1,202.00 in deductible severance pay. Your regular full-time weekly wage is $500. Therefore, $500 will be attributed to each of the first two weeks following your separation, and $202 will be allocated to the third week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0078dacde51fa5dcb32e794ce8c64fe4",
+    "text": "• Pensions: Pension payments may be deductible from UC if (1) your Base-Year employer has contributed to or maintained the pension plan, and (2) your work during the Base Year increased the amount of, or affected your eligibility for, the pension. (See your Notice of Financial Determination and accompanying insert entitled “Explanation of Your Notice of Financial Determination” for complete information about your Base Year.) If your employer was the only one who contributed to the pension, 100% of the prorated, weekly pension amount is deductible. If you contributed in any amount to the pension, 50% of the prorated, weekly pension amount is deductible. Pensions are deductible from weekly benefits on a dollar-for-dollar basis. The following payments are NOT deductible, however:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c2d2c547be7c10a5aabb55272b41fe05",
+    "text": "• Social Security and Railroad Retirement pensions.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f8acaa28005237321f15889b818bfeb3",
+    "text": "• A lump-sum pension payment, if you did not have the option of receiving monthly or periodic payments.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "45c3dc4cfea45fb41af6cfe4c4f21bc0",
+    "text": "• A lump-sum pension payment that is deposited (rolled over) into an eligible retirement plan, such as an IRA, within 60 days after you received the payment. In other words, you can avoid having your UC benefits reduced if you roll over your pension to save it for retirement. If you roll over only a part of a lump-sum payment, the portion of the lump-sum that is not rolled over is deductible.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "28b31c69b7e13a6d186897a8cd20d1b8",
+    "text": "• Back Wage Awards: If you receive a back wage award for a period of time when you received benefits, the award may affect your eligibility for the benefits you received.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c511440cde4d012409b06c130950c53e",
+    "text": "• Support Orders: Support that you owe will be deducted from benefits if the department receives an administrative or judicial order to do so. Any questions about the amount being deducted from your benefits should be directed to the Domestic Relations Section of the Court of Common Pleas that issued the order. More information on withholding support from benefits is provided in the pamphlet UCP-24, Support Withholding from Unemployment Compensation, available from the UC service center or at www.uc.pa.gov. If support is deducted from your benefits, log onto www.childsupport.state.pa.us to access your payment information.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "31eabb0571bf0c9e667f667f940d6337",
+    "text": "• Taxes: UC benefits are included in gross income for federal income tax purposes. The department reports your benefits to the Internal Revenue Service (IRS) for the calendar year in which the benefits were paid. You may elect to have federal income tax withheld from your benefits at the rate of 10% of your Weekly Benefit Rate, or WBR, plus Dependents Allowances (if any). (See your Notice of Financial Determination and accompanying insert entitled “Explanation of Your Notice of Financial Determination” for complete information about your WBR and Dependents Allowances.) You can make this choice when you file your application for benefits or at any other time online at www.uc.pa.gov or by calling PAT. You may also stop having income tax withheld from your benefits. (Taxes withheld can be refunded to you only by the IRS.)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b068148c4b2ad8aac451cf1fcce8f8cf",
+    "text": "Tax Statements: By the end of January of each year, the department mails Form UC-1099G, Statement for Recipients of Pennsylvania Unemployment Compensation",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d32980492d0b55d8fb6ade543e699e54",
+    "text": "11.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "764590e8095f8d2821c1a5f6385533e6",
+    "text": "Payments, to people who were paid benefits during the prior year. This statement shows the amount of benefits paid and the amount of federal income tax withheld, if any. View or print form UC-1099G for the two prior calendar years online at www.uc.pa.gov.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "57e9803f1196a644dda4a52fc7c470d5",
+    "text": "6. WHAT HAPPENS WHEN YOU FIND EMPLOYMENT?|",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "95883d39530c6b93436fddc30da4756a",
+    "text": "Full-time Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bec9f9f343da85eac3a2724faad80766",
+    "text": "If you return to work full time with your former employer or a new employer, you are no longer eligible for benefits. However, remember to file claims for weeks you were unem- ployed before you returned to work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "95883d39530c6b93436fddc30da4756a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "35e7fb1232dd7087a41c1c2ad257f974",
+    "text": "Part-time Employment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "72ed2620990c196528892bb6fa841942",
+    "text": "If you are working less than your full-time work, you may be eligible for benefits. The department will review the number of hours you work and your earnings to determine how your UC benefits for that week are affected by your part-time job. If your part-time wages for any particular week are not more than your PBC, your benefits will not be reduced for that week. If your wages are more than your PBC, the amount that exceeds your PBC will reduce your UC benefits by the same amount for that week. If you earn wages more than or equal to the sum of your WBR plus your PBC for any week, you are not eligible for benefits for that week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "35e7fb1232dd7087a41c1c2ad257f974"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c3a9f094b6404b79382f94706612ac1f",
+    "text": "IMPORTANT: Notify the UC service center immediately if you begin working part time at a new employer.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "199307a5242ac305ad4147c59cdbcf26",
+    "text": "You must also report if you were absent from work. If you were scheduled to work, but did not report to work, you were absent from work. The gross wages you could have earned (potential earnings) must be reported.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "c3a9f094b6404b79382f94706612ac1f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f8f91fe3717b546a8de21bca76dfebe7",
+    "text": "IMPORTANT: WHEN YOU ARE FILING BIWEEKLY CLAIMS FOR WEEKS WHEN YOU WORKED PART TIME, REPORT THE GROSS (PRE-DEDUCTION) AMOUNT YOU EARNED WITH ALL EMPLOYERS DURING THE WEEK, EVEN IF YOU WERE PAID IN A DIFFERENT WEEK. MULTIPLY YOUR RATE OF PAY BY THE NUMBER OF HOURS YOU WORKED DURING EACH WEEK TO CALCULATE YOUR GROSS EARNINGS. FOR EXAMPLE, IF YOU WORKED 20 HOURS DURING THE WEEK AND EARNED $10.00 PER HOUR, YOUR GROSS EARNINGS ARE $200.00, AS INDICATED BELOW.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "c3a9f094b6404b79382f94706612ac1f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bf171b6662190b78ed620fe644032f23",
+    "text": "20 HOURS X $10.00 PER HOUR = $200.00 IN GROSS EARNINGS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "90d6cf50e4478b3ba8f81a9d24b2e7b6",
+    "text": "IF YOU WORKED 30 HOURS DURING THE WEEK AND EARNED $8.50 PER HOUR, YOUR GROSS EARNINGS ARE $255.00.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4b468810e9a95f904427eb134b294669",
+    "text": "30 HOURS X $8.50 PER HOUR = $255.00 IN GROSS EARNINGS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6627290ccf4d1331ff612de7f730b4a6",
+    "text": "Self Employment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f1739a960b390ce3f55828b9f5104446",
+    "text": "If you find work as an independent contractor (meaning that you are self employed), or take steps to start your own business, you are not eligible for benefits even if your busi- ness is not profitable. However, there is an exception for a “sideline” activity. Participat- ing in a sideline business that began while you were working full time for your employer is not disqualifying if:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6627290ccf4d1331ff612de7f730b4a6"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "421bbc2b942bb64a47b336e0883d5746",
+    "text": "you are able and available for full-time work,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6627290ccf4d1331ff612de7f730b4a6"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ddd0a6c41cbdedd4ccd6c5ad155094d2",
+    "text": "• you do not substantially increase your participation in the business, and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6627290ccf4d1331ff612de7f730b4a6"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "75d8ab899c46be2d036bf09aefdc043e",
+    "text": "• the business is not the primary source of your livelihood.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6627290ccf4d1331ff612de7f730b4a6"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9d079cc9c9e86ef42b48df1a4a4c1545",
+    "text": "The net earnings from your sideline business will reduce your UC in the same way that earnings from part-time employment will reduce UC. The UC service center will calculate the amount of the reduction based on a formula in the UC regulations.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6627290ccf4d1331ff612de7f730b4a6"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "73f617b7f706e04dd53954930c4b0c09",
+    "text": "IMPORTANT: Notify the UC service center immediately if you are engaged in any type of self employment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "1dab1d15dadc8cb0a404a945abbb5e5e",
+    "text": "12",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c9e4448421bb4b31a2f0f3737aa9652b",
+    "text": "7. YOUR ADDITIONAL RESPONSIBILITIES",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7e039c04fc8587d916310ec5a11076b4",
+    "text": "√ Provide Accurate and Complete Information: You are responsible to provide truthful and complete information when you file claims for benefits, complete UC forms or questionnaires, or discuss your benefits with the UC service center.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "c9e4448421bb4b31a2f0f3737aa9652b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ce2932dafda0a373898a2097cb9baa8a",
+    "text": "√ Report Any Separation from Employment: Notify the UC service center immediately if you are no longer working.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "c9e4448421bb4b31a2f0f3737aa9652b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "344b42ff4ed471f5cf73b7a8cb7322f6",
+    "text": "√ Report Holiday Pay and Vacation Pay: If you claim benefits for a week that includes a paid holiday or paid vacation days, report the gross amount of your holiday or vacation pay even if the payments are made in a different week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "c9e4448421bb4b31a2f0f3737aa9652b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7401fe4dc2522fc87ed77c3b9e97f8b7",
+    "text": "√ Report Severance Pay, Pensions and Back Wage Awards: Notify the UC service center immediately if you receive any of these payments.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "c9e4448421bb4b31a2f0f3737aa9652b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b5dfc05d7d4f79d53ba8849167ac5dd1",
+    "text": "√ Update Your Contact Information: If your mailing address, telephone number or email address changes, inform the UC service center (www.uc.pa.gov) and the PA CareerLink® system (www.pacareerlink.pa.gov) immediately, even if you are not filing claims for benefits at that time. We also encourage you to report any address changes to the United States Postal Service (USPS). If the USPS has a different address, your UC information may be delivered to the address maintained by the USPS National Change of Address database rather than the address you gave us. It is important that you receive and read all correspondence about your UC claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "c9e4448421bb4b31a2f0f3737aa9652b"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "92883f0655a85f06a7d4bd3bd029d84a",
+    "text": "(@) =",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "949e5fdc79110adbaa7326a2666127b7",
+    "text": "√ Protect Your PIN: Your personal identification number (PIN) and Social Security number identify you when you file a claim or access benefit information. Your PIN has the same legal authority as your signature. DO NOT GIVE YOUR PIN TO ANYONE, including family members. It is your responsibility to file your own biweekly claims. It is ILLEGAL for another person to file your biweekly claims for you. If you give your PIN to another person, or allow another person to gain access to your PIN, you are responsible for any improper benefit payments that occur as a result. If you forget or lose your PIN, you are responsible to contact the UC service center to request a new PIN. If you think someone else knows your PIN, change it. You can change your PIN at www.uc.pa.gov or by calling PAT. You will receive your new PIN by mail. If you receive correspon- dence from the department notifying you of a PIN change, but you did not request a new PIN, contact the UC service center immediately.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "10c31ab188835dce2b75e8e03a1e1ff5",
+    "text": "8. HOW YOU CAN LOSE BENEFITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "19fc044de5e0cf8bf2a9c0e982551dcc",
+    "text": "You may lose eligibility for benefits. The following are some of the possible ways you can be disqualified:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "41910aa8cc214feaf478e9b57d3672b5",
+    "text": "• You fail, without good cause, to accept an offer of suitable work or refuse a referral to a job opportunity.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ad6f9afcd2f5fbc53331fcee4f3b880e",
+    "text": "You voluntarily quit a job without good cause.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e2828343483b7f9219ce32f553aa2cf8",
+    "text": "You do not register for employment-search services as required.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3b44802ec26b5ea53fa18cd516d36b04",
+    "text": "You do not fulfill your weekly work search requirements.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "910ea158877f2682d73fa6d2718e4741",
+    "text": "You are discharged from a job for willful misconduct.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1c03dea25238eaf6e1a66317227fbe64",
+    "text": "You limit the number of hours that you will work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9beda0ac79e57264d5f86392e0984010",
+    "text": "You are not physically located within the United States.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d23330409e096b54ef1e3601cf91cd3e",
+    "text": "You are incarcerated.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b0c19bbb6bd354eb287e76ee53a92f18",
+    "text": "13.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "86cbae38197ff035237c0c5070653155",
+    "text": "• You fail to participate in mandatory reemployment services. The Profile Reemployment Program (PREP) and Reemployment Services and Eligibility Assessment (RESEA) Program are designed to identify those claimants who are most likely to exhaust benefits and may need help in finding a new job. If you are selected for one of these programs, you must participate unless you are excused for having a good reason not to participate.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5978416359239454cf5b63b6e5ea6764",
+    "text": "• You withhold facts or give false information to receive or increase benefits. (See Page 15.)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e3c44ef1e1b7d75f0c319b553d75af6a",
+    "text": "• You are prosecuted or assigned penalty weeks for knowingly misrepresenting facts or knowingly withholding facts to obtain benefits. (See Page 15.)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "51ff66fcfa957bc3195a7848b1643b14",
+    "text": "Requalifying For Benefits: If you are determined to be ineligible for benefits, you may be able to qualify at a later date. In some circumstances, you must obtain a new job and earn a certain amount of wages to requalify. Call the UC service center for more information on requalifying for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "554fe38a6b352d3be328328803505618",
+    "text": "9. YOUR APPEAL RIGHTS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "caa2af40ca1d179a1a07a1e4ad3fffb0",
+    "text": "What If You Disagree With A Benefit Decision?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "59fcc17489b5e884b14f7feffa320668",
+    "text": "You may appeal if you receive a decision that denies benefits, but you think you should be eligible, or you receive a decision that grants benefits, but you think that you should be eligible for more benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "caa2af40ca1d179a1a07a1e4ad3fffb0"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "83dd12f4fb6de9d0dc51be1611ba98d8",
+    "text": "e | = 2 =",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d6681a1e3890001c954c95abeeaaa62c",
+    "text": "UC Service Center Determination: You may appeal a UC service center determination within 15 days of the mailing date of the determination. Follow the appeal instructions that accompany the determination. Your appeal will result in a hearing before a referee, usually within 30 days after you file your appeal. Approximately seven to ten days before the hearing date, the referee’s office will mail you a hearing notice with the date and time of your hearing and other instructions. The referee will make a decision based on the testimony and evidence presented at the hearing. You should present all of your evidence at that hearing because it is your only opportunity to do so. You should receive a decision from the referee within two weeks of the hearing date. If you do not receive a decision within three weeks of the hearing date, contact the referee’s office. If you receive a decision from a referee in your favor, and you do not receive payment within four weeks, contact the UC service center.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0fe2138b3203535b7038321da0f986c0",
+    "text": "Referee Decision: You may appeal a referee decision to the UC Board of Review within 15 days of the mailing date of the referee decision. Follow the appeal instructions that accompany the referee decision. The UC Board of Review will render a decision based upon the evidence that was presented at the hearing before the Referee.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "85ad506f98405346d8df66482271071d",
+    "text": "UC Board of Review Decision: You may appeal a UC Board of Review decision to the Commonwealth Court within 30 days of the mailing date of the Board decision. Follow the appeal instructions that accompany the Board decision.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5e98bacfe8792363e11c9393d213c5bf",
+    "text": "Log onto www.uc.pa.gov for more information on appeals.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "57e0f0ab5cb4bfaa71b87a11c124abed",
+    "text": "REMEMBER! If you remain partially or totally unemployed while an appeal concerning your eligibility is pending, continue to file your biweekly claims for benefits. If the appeal is decided in your favor, only benefits for the weeks you claimed will be paid to you.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b485d11d085afc782d2331efc5beec0f",
+    "text": "14.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1ce4e1c65ed4357a10e1b7de356361d0",
+    "text": "10. OVERPAYMENTS AND COLLECTIONS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b5f4648718fe7ebeb4e1c81529fc1547",
+    "text": "A non-fault overpayment occurs when you receive UC benefits you are not entitled to receive through no fault of your own. The overpaid amount will be deducted from future benefit payments during the Benefit Year when the overpayment occurred and the three- year period immediately following that Benefit Year. The deductions may not exceed one- third of your WBR when the deductions are made. However, if the total overpayment is $99 or less, the full weekly benefit amount may be applied to the overpayment. You may repay the entire overpayment in full in order to ensure that future benefit payments will not be reduced or delayed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e1b54e95546c70ebd787dd34d19bd94b",
+    "text": "A fault overpayment occurs when you receive UC benefits to which you are not entitled by reason of your fault.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "aa232fa15e73b97e0e1ad9c2d4750db3",
+    "text": "√ You must repay a fault overpayment with interest.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2b8000b2be794480da4ba7823ab8f28e",
+    "text": "√ The department will apply 100% of your future benefits towards a fault overpayment until the overpayment is recovered or the recoupment period ends. Fault overpayments on AB Dates prior to June 12, 2012, may be recovered until the end of the six-year period following the Benefit Year when the overpayment occurred. AB Dates of June 17, 2012 or later have a ten-year recoupment period.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "590d986be5ac4eed30866035e2f7fa37",
+    "text": "√ The department may file a lien against your real and personal property for a fault overpayment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0b1e924db611c5355428f93e5bf3b796",
+    "text": "A fraud overpayment occurs when you knowingly give false information or knowingly withhold material facts to obtain UC benefits or increase your benefits. The recovery provisions that apply to fault overpayments also apply to fraud overpayments. In addition:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a0a8c10fee911a6f5402e0c28048998d",
+    "text": "√ You may be assigned penalty weeks. A penalty week is a week when you are unemployed and otherwise eligible to receive UC, but benefits are denied because of past fraud.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c5500ee343904445971b958c8e85596e",
+    "text": "√ You may be charged a penalty equal to 15% of the amount of the overpaid benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cca31934cd1607e7cdbeac13eb22f167",
+    "text": "√ Both federal law and state law allow the department to garnish your federal income tax refund to recover a fraud overpayment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "eef6773a72f04ace690ed1d7f0b194e9",
+    "text": "√ You may be criminally prosecuted. Prosecution could result in a fine, imprisonment, restitution and loss of future benefits. (See Page 1.)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "01256f9fbb4c019b1f17243a4406c10d",
+    "text": "Repaying An Overpayment: When repaying an overpayment, interest or penalties, please send a check or money order payable to the UC Fund. Do not send cash. Include your full name, last four digits of your Social Security number and daytime telephone number on the check or money order. Your cancelled check or money order will be your receipt. All payments should be sent to Office of UC Benefits Policy, UI Payment Services, P.O. Box 67503, Harrisburg, PA 17106-7503.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "464e6f425db57eb838e982650e167860",
+    "text": "You may also use your Visa, MasterCard, Discover, or American Express card to make a payment on the department’s convenient and secure online payment site. To make online payments, go to www.uc.pa.gov and choose the link, “View/Pay My Overpayment Online.” You will need your Social Security number and PIN. If paying online, a convenience fee will be charged to cover the department’s administrative costs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d1b1e1054f430a254b3302c949286a98",
+    "text": "Dishonored Check Penalty: If you give the department a check that is not honored by your bank, you will be charged a penalty. The dishonored check penalty is $10 for dishonored checks less than or equal to $10, the face value of the check for checks between $11 and $99, and $100 for checks of $100 or more.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a02c7f088a92ff8747c981b9d34e944a",
+    "text": "15.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b9bd920b90d2071e47b55775a5198161",
+    "text": "11. OTHER PROGRAMS AND HELP AVAILABLE",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4c3276ceb11c80e8dbf83ee6c7de3853",
+    "text": "Unemployment Compensation For Federal Civilian Employees (UCFE)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "060a0f5e9b8bcbb07172e973a4482c85",
+    "text": "If you earned wages in federal civilian employment, you may be eligible for unemployment benefits in Pennsylvania under the federal UCFE program. Please log on to www.uc.pa.gov for more information on UCFE benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "4c3276ceb11c80e8dbf83ee6c7de3853"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6340bdb95686e913febb65a0811e88be",
+    "text": "Unemployment Compensation For Ex-Service Members (UCX)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1c0069317f6216342a5363723f7d15b6",
+    "text": "UCX is a federal program that provides UC benefits to former members of the Armed Forces and the Commissioned Corps of the National Oceanic and Atmospheric Administration (NOAA) who meet the eligibility requirements of state and federal law. To apply for UCX in Pennsylvania, you must physically be in Pennsylvania when you file your application. Please log on to www.uc.pa.gov for more information on UCX benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6340bdb95686e913febb65a0811e88be"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3b837188412ef18dd51b74fc79a09e46",
+    "text": "Disaster Unemployment Assistance (DUA)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f30c5c60ec8cb30cb2a2e9851b8daef2",
+    "text": "If you lost your job or business as a direct result of a major disaster declared by the President of the United States, you may be eligible for DUA. If you are eligible for regular benefits, you must exhaust those benefits before applying for DUA. When you apply for DUA, the department will send you information about the program and DUA forms to complete and return.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "3b837188412ef18dd51b74fc79a09e46"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c6f51f4b60d3186d8cbd182d9ad7e4a0",
+    "text": "Foreign Trade",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f16f84284f8a1e1ffaf743947f7fa196",
+    "text": "If you lost your job because of foreign competition, you may be eligible for Trade Adjustment Assistance (TAA), which includes job retraining, job search and relocation aid, and weekly Trade Readjustment Allowance (TRA) benefits. Trade-affected workers age 50 or older may be eligible for Reemployment Trade Adjustment Assistance (RTAA). For more information, please call the UC service center at 888-313-7284 and select the menu option to speak to a TRA representative, visit your local PA CareerLink®, log on to www.dli.pa.gov, or log on to the U.S. Department of Labor website at www.doleta.gov/tradeact.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "c6f51f4b60d3186d8cbd182d9ad7e4a0"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "ba2638cb61dc9ab3e1a9c4b84a336a20",
+    "text": "16.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "298be1500e7d7655728e13f5f07d2d72",
+    "text": "12. CONTACT INFORMATION",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9e6f8a3506529768aa5fa4edfd8efc13",
+    "text": "PA CareerLink® offices are located throughout the commonwealth and provide a wide variety of reemployment services such as assistance with preparing a résumé, instruction in job search techniques, services for veterans and job training. To find your nearest Pennsylvania CareerLink® office, go to www.pacareerlink.pa.gov, select “Help,” and then “PA CareerLink® Offices” and enter your zip code.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "298be1500e7d7655728e13f5f07d2d72"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "db0d6901d667b0826b3c0d2604ba148a",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6aba9a9fb7fdeb8178606e6267eee14b",
+    "text": "Pennsylvania Teleclaims (PAT) Telephone Numbers",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8503ceec294863f1c1d2a0d6b1758be0",
+    "text": "PAT offers the services listed below:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6aba9a9fb7fdeb8178606e6267eee14b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "27d6350c5fdbb998e0df4881da262086",
+    "text": ". Biweekly claims filing",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6aba9a9fb7fdeb8178606e6267eee14b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b19c64d8ee3635e68a555298c0a2235c",
+    "text": "Benefit payment information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6aba9a9fb7fdeb8178606e6267eee14b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "614f5dc2e515937f1a744c377cdc485d",
+    "text": "Request/change federal withholding tax",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6aba9a9fb7fdeb8178606e6267eee14b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "51bfaa96a9bee6eeae1ff2bcffbb96ba",
+    "text": "UC-1099G information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6aba9a9fb7fdeb8178606e6267eee14b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cf5f3a070be2063270f90769614916b8",
+    "text": "Change UC PIN",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6aba9a9fb7fdeb8178606e6267eee14b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "64d4513d395f8f1656f13aca913c4f7a",
+    "text": "PAT Toll-Free 888-255-4728 Español Toll-Free 877-888-8104",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "55b83122bf122cfa06596363ec907c6c",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "682bbc9669eaafbb948df3156c16a564",
+    "text": "UC Service Center Contact Information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1032790ff342d8db40f8e264c6aecb1a",
+    "text": "UC service center hours are updated on the telephone system and website. NOTE: UC service centers experience a high volume of calls on Mondays.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "682bbc9669eaafbb948df3156c16a564"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5ec0468d91d56fd5e346d8dddea96bfb",
+    "text": "Videophone service for American Sign Language users is available every Wednesday from noon to 4 p.m. at 717-704-8474.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "682bbc9669eaafbb948df3156c16a564"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "583bf4ec1102c815bc2f080402a02044",
+    "text": "TTY message services are available for biweekly claims filing 24 hours a day, six days a week (Sunday through Friday), at 888-334-4046. For more information see Section 3, MAINTAINING YOUR ELIGIBILITY FOR BENEFITS, of this handbook.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "682bbc9669eaafbb948df3156c16a564"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "fbd68e38be893986d1853fbcc7041cb6",
+    "text": "Click here for help!",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3a60a5837cb960b3da9c5021605ef019",
+    "text": "Live Chat services are available. Please visit the Frequently Asked Questions (FAQs) online at www.uc.pa.gov. If your question is not in the list of the FAQs, you can get answers from a UC agent by clicking the LiveCHAT button, located at the top of the FAQ page. Check online for the current hours of operation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "68afc72a9b3f80fb4bb59a2b6db4d9f7",
+    "text": "Toll Free: 888-313-7284/TTY Toll Free: 888-334-4046",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8de567d4d535ed2c918c371f12ff1e21",
+    "text": "Altoona UC Service Center (0994) Harrisburg UC Service Center (1239)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4c944ae12c388cca9356406f66664580",
+    "text": "651 Boas St Fl 15 Harrisburg PA 17121-0751 FAX: 717-214-5463",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "8de567d4d535ed2c918c371f12ff1e21"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ea26e0c84d8c286bf9ed3ad11fefefa9",
+    "text": "1101 Green Ave Altoona PA 16601-3483 FAX: 814-941-6801",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "8de567d4d535ed2c918c371f12ff1e21"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "32cae0a55198849f51a2254cb46e067c",
+    "text": "Duquesne UC Service Center (0998) Indiana UC Service Center (0997)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f92770cb49639a8557a3a9565d268043",
+    "text": "630 Kolter Dr Indiana PA 15701-3570 FAX: 724-599-1068",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "32cae0a55198849f51a2254cb46e067c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0c36c0191888fae134454e48cb757aec",
+    "text": "14 North Linden St Duquesne PA 15110-1067 FAX: 412-267-1475",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "32cae0a55198849f51a2254cb46e067c"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4560ca8804cac3854b4747dc98c1351a",
+    "text": "Erie UC Service Center (0993) Scranton UC Service Center (0991)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "38bc4fda5040f9dc44d25af20b2860f7",
+    "text": "1316 State St 30 Stauffer Industrial Park Erie PA 16501-1916 Taylor PA 18517-9601 FAX: 814-871-4863 FAX: 570-562-4385",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "4560ca8804cac3854b4747dc98c1351a"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d81ac85b011a72232ca8296cf4bbb36f",
+    "text": "17.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c6283dc356a3f1d2dbe6d5cb92fdd544",
+    "text": "13. EQUAL OPPORTUNITY AND PRIVACY ACT STATEMENTS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "18f0ac9ddd258eed51f0059c6a0e6dd0",
+    "text": "EQUAL OPPORTUNITY IS THE LAW",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "01c611e6f900cd8cd3f76edeb0a84630",
+    "text": "It is against the law for the recipient of federal financial assistance to discriminate on the following bases:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "18f0ac9ddd258eed51f0059c6a0e6dd0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8a2066ff3595e34b0df675a95e3434f9",
+    "text": "• against any individual in the United States, on the basis of race, color, religion, sex, national origin, age, disability, political affiliation or belief; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "18f0ac9ddd258eed51f0059c6a0e6dd0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f9dfe2df25229fb84ab796272f20cca9",
+    "text": "• against any beneficiary of programs financially assisted under Title I of the Workforce Investment Act of 1998 (WIA), on the basis of the beneficiary’s citizenship/status as a lawfully admitted immigrant authorized to work in the United States, or his or her participation in any WIA Title I-financially assisted program or activity.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "18f0ac9ddd258eed51f0059c6a0e6dd0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "922a80402e23677572f49c1ba5bb447c",
+    "text": "The recipient must not discriminate in any of the following areas:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "18f0ac9ddd258eed51f0059c6a0e6dd0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "96da579ebc5ada3c9ce37e3312dbf4cc",
+    "text": "• deciding who will be admitted, or have access, to any WIA Title I-financially assisted program or activity;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "18f0ac9ddd258eed51f0059c6a0e6dd0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c3196d41b3fd770a9d5a859be8c5a4a6",
+    "text": "• providing opportunities in, or treating any person with regard to, such a program or activity; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "18f0ac9ddd258eed51f0059c6a0e6dd0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "570786d354b99c196fe9bd3b8da4f0d5",
+    "text": "• making employment decisions in the administration of, or in connection with, such a program or activity.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "18f0ac9ddd258eed51f0059c6a0e6dd0"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0590633333bf4eecd656586867eda00e",
+    "text": "WHAT TO DO IF YOU BELIEVE YOU HAVE EXPERIENCED DISCRIMINATION:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "489f4f66c5e20da477770b7ef2852d51",
+    "text": "If you think that you have been subjected to discrimination under a WIA Title I-financially assisted program or activity, you may file a complaint within 180 days from the date of the alleged violation with either:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "0590633333bf4eecd656586867eda00e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "06c28315f65ab749bab99402f4063683",
+    "text": "• the recipient’s Equal Opportunity Officer (or the person whom the recipient has designated for this purpose); or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "0590633333bf4eecd656586867eda00e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9a046a746c98bf1bf29f49168ebfe8a7",
+    "text": "• the Director, Civil Rights Center (CRC), U.S. Department of Labor, 200 Constitution Avenue NW, Room N-4123, Washington, DC 20210.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "0590633333bf4eecd656586867eda00e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "850ec027e73f0bd450c3b0aaf1390b43",
+    "text": "If you file your complaint with the recipient, you must wait either until the recipient issues a written Notice of Final Action, or until 90 days have passed (whichever is sooner), before filing with the Civil Rights Center (see address above). If the recipient does not give you a written Notice of Final Action within 90 days of the day on which you filed your complaint, you do not have to wait for the recipient to issue that Notice before filing a complaint with CRC. However, you must file your CRC complaint within 30 days of the 90-day deadline (in other words, within 120 days after the day on which you filed your complaint with the recipient). If the recipient does give you a written Notice of Final Action on your complaint, but you are dissatisfied with the decision or resolution, you may file a complaint with CRC. You must file your CRC complaint within 30 days of the date on which you received the Notice of Final Action. FOR EQUAL OPPORTUNITY INFORMATION OR TO FILE A COMPLAINT, CONTACT: Department of Labor & Industry Office of Equal Opportunity 651 Boas St., Room 1402 Harrisburg, PA 17121 Phone: 717-787-1182 or 800-622-5422 / TDD/TTY: 800-654-5984 / Fax: 717-772-2321",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "0590633333bf4eecd656586867eda00e"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6799e2ee87d3c8cb097f476806fbe61b",
+    "text": "PRIVACY ACT STATEMENT",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c20942a7104c6e749a45ac85b96d6aca",
+    "text": "Because you are being asked to provide your Social Security number, we are required by the Privacy Act, 5 USC §552a, to give you the following information:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6799e2ee87d3c8cb097f476806fbe61b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "759892523b099501936e176fd28ae6f2",
+    "text": "• Disclosure of your Social Security number is mandatory. If you decline to give your Social Security number, your application and claims for benefits will not be processed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6799e2ee87d3c8cb097f476806fbe61b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "55ed5ae3a07d219d4c048c7a75da8e51",
+    "text": "• We are authorized to solicit your Social Security number pursuant to the Internal Revenue Code (26 U.S.C. §§ 6050B and 6109) and the Social Security Act (42 U.S.C. §1320b-7).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6799e2ee87d3c8cb097f476806fbe61b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c0d26074c3ddf99e27a141166781250a",
+    "text": "• Your Social Security number will be used to identify and administer your application and claims, determine your eligibility for benefits and verify your eligibility for other government benefits, for statistical purposes, and to report the amount of benefits you receive to the Internal Revenue Service for federal income tax purposes.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "6799e2ee87d3c8cb097f476806fbe61b"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "1e5b3ba2e23613ea55cbc4cf504efc68",
+    "text": "18.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0e9410be3cabfba874e086b72265f010",
+    "text": "|",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "31cc6f635c0d1d35f8ee18d04470363b",
+    "text": "YOU’VE BEEN APPROVED FOR UC BENEFITS. NOW WHAT?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "759ac7e18d939be08ce1228818a9779b",
+    "text": "YOUR RESPONSIBILITIES",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "48abd3af53f79528517b65e819f66220",
+    "text": "YOU MUST: WHEN: HOW: File claims for benefits Biweekly (every two By internet: www.uc.pa.gov. weeks) By telephone (PAT): See page 17 of the UC Handbook for telephone numbers. Mon-Fri 6:00 a.m. to 9:00 p.m. Sun 6:00 a.m. to 11:00 p.m. Not on Saturday. Register for employment Within 30 days By internet: www.pacareerlink.pa.gov. search services after filing an Click on \"Register as a New User.\" Create a application for benefits Keystone ID (user name) and password using your complete SS#. Complete your Profile and Job Preferences. Print out your Registration Confirmation page. See the UC Handbook for more details. Perform an active work Weekly (beginning the Apply for two positions. In person, by mail, search third week you apply for phone, or electronic transmission, by submitting benefits) a job application or résumé to an employer, or by other procedures set by the employer. Do one of the following: Attend a job fair, search positions, create or post a résumé, contact individuals, utilize an employment agency, take a pre-employment test, participate in a CareerLink® program or activity, or interview for a position. See the UC Handbook for more details. Keep a record of your Weekly Use Form UC-304 \"Record of Job Applications work search and Work Search Activities.\" See www.uc.pa.gov. Or, you can use your own form, as long as you record the same information. Keep the records for two years from your AB date. Provide a copy of the records when requested by the department. See the UC Handbook for more details. Report wages earned Biweekly (every two When you file for benefits biweekly, report your from any employment weeks) gross earnings. Multiply your rate of pay by the and/or any days you number of hours you worked during the week declined work when work you are claiming, Sunday through Saturday. If was available you worked full time, you are not eligible for UC benefits. Report if you become Immediately By calling the service center at 888-313-7284. unable or unavailable for work Report any separation Immediately By reopening your claim over the internet at from subsequent www.uc.pa.gov or by calling the service employment center at 888-313-7284. Report any change in Immediately By internet: www.uc.pa.gov AND address, phone number, www.pacareerlink.pa.gov or by calling the service or email address center at 888-313-7284 AND calling your nearest PA CareerLink® office.",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><thead><tr><th>YOU MUST:</th><th>WHEN:</th><th>HOW:</th></tr></thead><tbody><tr><td>File claims for benefits</td><td>Biweekly (every two weeks)</td><td>By internet: www.uc.pa.gov. By telephone (PAT): See page 17 of the UC Handbook for telephone numbers. Mon-Fri 6:00 a.m. to 9:00 p.m. Sun 6:00 a.m. to 11:00 p.m. Not on Saturday.</td></tr><tr><td>Register for employment search services</td><td>Within 30 days after filing an application for benefits</td><td>By internet: www.pacareerlink.pa.gov. Click on \"Register as a New User.\" Create a Keystone ID (user name) and password using your complete SS#. Complete your Profile and Job Preferences. Print out your Registration Confirmation page. See the UC Handbook for more details.</td></tr><tr><td>Perform an active work search</td><td>Weekly (beginning the third week you apply for benefits)</td><td>Apply for two positions. In person, by mail, phone, or electronic transmission, by submitting a job application or résumé to an employer, or by other procedures set by the employer. Do one of the following: Attend a job fair, search positions, create or post a résumé, contact individuals, utilize an employment agency, take a pre-employment test, participate in a CareerLink® program or activity, or interview for a position. See the UC Handbook for more details.</td></tr><tr><td>Keep a record of your work search</td><td>Weekly</td><td>Use Form UC-304 \"Record of Job Applications and Work Search Activities.\" See www.uc.pa.gov. Or, you can use your own form, as long as you record the same information. Keep the records for two years from your AB date. Provide a copy of the records when requested by the department. See the UC Handbook for more details.</td></tr><tr><td>Report wages earned from any employment and/or any days you declined work when work was available</td><td>Biweekly (every two weeks)</td><td>When you file for benefits biweekly, report your gross earnings. Multiply your rate of pay by the number of hours you worked during the week you are claiming, Sunday through Saturday. If you worked full time, you are not eligible for UC benefits.</td></tr><tr><td>Report if you become unable or unavailable for work</td><td>Immediately</td><td>By calling the service center at 888-313-7284.</td></tr><tr><td>Report any separation from subsequent employment</td><td>Immediately</td><td>By reopening your claim over the internet at www.uc.pa.gov or by calling the service center at 888-313-7284.</td></tr><tr><td>Report any change in address, phone number, or email address</td><td>Immediately</td><td>By internet: www.uc.pa.gov AND www.pacareerlink.pa.gov or by calling the service center at 888-313-7284 AND calling your nearest PA CareerLink® office.</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "759ac7e18d939be08ce1228818a9779b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d4ad6ad840ee8aaf1c2da8c66cc72b6b",
+    "text": "Scan with your mobile phone",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "pennsylvania.pdf",
+      "parent_id": "759ac7e18d939be08ce1228818a9779b"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "cafcf47af526e728b07a51a038b4afdb",
+    "text": "O 0%",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a98b5a921d1de5da739e4c1e59ae3835",
+    "text": "Unemployment Compensation",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "aa44c97730c6b7c70b5a05f8fe2d168e",
+    "text": "c [m] []",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b7f5f9168a346f5f1041832cdd09cff8",
+    "text": "Compensacion por desempleo",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "501247764ca81ea61787169e3e571c51",
+    "text": "[=]; [] — G =",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "FigureCaption",
+    "element_id": "4d8d57f3a63ccf7fa86879976d1c4fbd",
+    "text": "Unemployment Initial Claims",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "c2969771cc32347179294e97f6b8a575",
+    "text": "[s] —” o o",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "FigureCaption",
+    "element_id": "d0621371fc9ab6f809a9e8a783980cd5",
+    "text": "Unemployment Biweekly Claims",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "pennsylvania.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "bac65ecd0948733e524df3af5c94d82f",
+    "text": "COUNCIL 13  AFSCME  UNION LABEL ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "pennsylvania.pdf"
+    }
+  }
+]

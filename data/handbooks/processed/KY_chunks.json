@@ -1,0 +1,1345 @@
+[
+  {
+    "section_id": "KY-0",
+    "content": "Kentuc Career Center Career Training Employer",
+    "metadata": {
+      "page_number": 1
+    }
+  },
+  {
+    "section_id": "KY-1",
+    "content": "THIS PUBLICATION IS FOR INFORMATIONAL PURPOSES ONLY AND MAY NOT BE CITED AS LEGAL AUTHORITY\nREVISED SEPTEMBER 2019",
+    "metadata": {
+      "section_title": "UNEMPLOYMENT INSURANCE EMPLOYER GUIDE",
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "KY-2",
+    "content": "The primary mission of the Kentucky Career Center (KCC) is to help individuals prepare for, secure and maintain employment; to assist you in locating qualified workers for your job openings; and to provide income maintenance to ease the financial burden of workers who are unemployed through no fault of their own.\nTo accomplish its goals, KCC offers a broad range of services. These services are available at the central office in Frankfort or a handful of field offices located across the state.\nKCC has been providing services since the passage of the Wagner-Peyser and Social Security Acts in 1933 and the Unemployment Insurance Act of 1935.\nUnemployment Insurance (UI) provides short-term financial support to people when they are unemployed through no fault of their own. You, the employer, pay for this support through unemployment taxes on your payroll.",
+    "metadata": {
+      "section_title": "INTRODUCTION",
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "KY-3",
+    "content": "lt of their own. You, the employer, pay for this support through unemployment taxes on your payroll. What do you get in return? Directly, UI can help you keep valuable trained workers in your area until you are able to rehire them. However, the indirect returns are even more important. Every dollar you pay in state unemployment tax is used to pay benefits, and those benefit dollars are spent to purchase goods and services. Your taxes are recycled back into your local economy, which helps families and businesses alike.\nUI is a joint federal-state program. Federal unemployment law places many requirements on the states concerning who must be covered and how benefits must be financed. The Kentucky General Assembly has enacted these and other laws, which govern the payment of unemployment taxes and benefits in this state. KCC’s role is to see that these laws are carried out fully and fairly.\nWhether you need to hire one or one thousand, KCC can help make job seekers aware of your needs.",
+    "metadata": {
+      "section_title": "INTRODUCTION",
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "KY-4",
+    "content": "KCC has the largest, most diverse database of individuals seeking employment in the Commonwealth, and through our affiliation with the U.S. Department of Labor and its network of state employment security agencies, KCC offers access to the largest pool of potential workers in the nation.\nKCC also has access to the best, most recent labor supply and demand data available. We can provide civilian labor force estimates, unemployment rates by county, affirmative action statistics, industry unemployment estimates, and average weekly wages.\nFor this and other information and assistance, please visit the Kentucky Career Center website at www.kcc.ky.gov.",
+    "metadata": {
+      "section_title": "INTRODUCTION",
+      "page_number": 3
+    }
+  },
+  {
+    "section_id": "KY-5",
+    "content": "UNEMPLOYMENT TAX LIABILITY Are You Liable For Unemployment Insurance? Covered & Non-Covered Employment Contract Labor Employee Leasing, Temporary Services, Multi-State Employment REPORTING REQUIREMENTS How to Apply For an Employer Reserve Account Multiple Businesses or Locations, Maintaining Business Records Reporting Wages and Paying Taxes Gross Wages Excess Wages Due Dates, Late Reports or Payments, Failure to Pay No Payroll, Questions Regarding Wage Reporting Adjustments and Reporting Business Changes RESERVE ACCOUNTS AND TAX RATES What is done with the Money I Pay in Unemployment Tax? Assignment of Rates Rate Schedule Rate Computation Rate Notice Contract Construction Voluntary Payments (Definition, Payment, and Calculation) SUCCESSORSHIP What Happens if I Buy or Sell a Business? Determination Successorship in Part Successor Rates Excess Wages, Liabilities REIMBUSRING EMPLOYERS (Definition and Eligibility) 1 1 2 3 4 5 5 8 9 13 14 17 18 19 20 20 20 21 23 24 25 25 28 28 28 29 29 30 31\nFEDERAL UNEMPLOYMENT TAX ACT (FUTA) What is Federal Unemployment Tax? How Does Paying State Tax Affect My Federal Tax? CLOSING AND TERMINATING ACCOUNTS What Happens to my Reserve Account if I Close My Business? Do I Have to Continue Filing Reports if I Have No Employees? Termination BENEFITS When is a Worker Eligible and How Much Can They Receive? Base Period Weekly Benefit Amount (WBA) Monetary Requirements and Maximum Benefit Amount Nonmonetary Requirements DISQUALIFICATIONS Voluntary Quit, Work Refusal, Labor Disputes, Fraud/Misconduct Guidelines for Drug Testing WHAT IF I DO NOT THINK A WORKER SHOULD RECEIVE BENEFITS? (Filing a Protest) STATE INFORMATION DATA EXCHANGE (SIDES) HOW WILL I KNOW IF A FORMER EMPLOYEE HAS FILED A CLAIM? Employer’s Notice of Initial Claim (UI-412A) Fact-Finding Report (UI-408) Notice of Potential Benefit Charges (UI-412S) Notice of Adjusted Determination (UI-492) BENEFIT CHARGES When Will I Be Charged for Benefits, and How Will I Know? Benefit Charges to Employer’s Reserve Account (UI-448 SM) WHEN CAN I BE RELIEVED OF CHARGES? 32 32 32 33 33 33 34 35 35 35 35 36 36 37 37 38 39 39 41 41 42 43 44 45 45 45 46",
+    "metadata": {
+      "section_title": "TABLE OF CONTENTS",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "KY-6",
+    "content": "WHAT ABOUT CLAIMANTS WHO GO BACK TO WORK? Cross-matching Example of UI-203 IRME (Internet Response Module for Employers) QUALITY CONTROL Examples of BAM (Benefit Accuracy Measurement) Letter and Form FRAUD INTERNAL SECURITY RECOVERY OF OVERPAYMENTS, BACK PAY MASS UNEMPLOYMENT INSURANCE CLAIMS (E-CLAIMS) APPEALS (Benefits or Tax Determinations) Can I Appeal, Your Rights of Protest and Appeal How to File, Importance of Hearing Who Should Attend, Information Preparation Conduct of the Hearing, The Decision Example of Referee Decision (UI-445) Example of Commission Order (UI-446) KCC LOCAL OFFICE DIRECTORY UNEMPLOYMENT INSURANCE FIELD AUDITOR DIRECTORY 46 46 47 47 50 50 51 51 52 52 53 53 54 55 56 57 58 59 60",
+    "metadata": {
+      "section_title": "TABLE OF CONTENTS",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "KY-7",
+    "content": "If you pay someone for services in your business, or to provide domestic help in your home, you may be liable to pay unemployment insurance tax. The requirements for liability vary for different types of employment:\nFOR-PROFIT BUSINESS (other than agriculture) – You will be liable if you pay at least $1,500 in gross wages in a single calendar quarter or if you have at least one worker performing service in any part of 20 different weeks out of a calendar year. It does not have to be the same workers in each week, nor do the weeks have to be consecutive.\nAGRICULTURAL EMPLOYERS – You will be liable if you pay at least $20,000 in gross wages in a single calendar quarter or if you have at least ten workers performing service in any part of 20 weeks out of a calendar year. They do not have to be the same ten workers in each week, nor do the weeks have to be consecutive.",
+    "metadata": {
+      "section_title": "ARE YOU LIABLE FOR UNEMPLOYMENT INSURANCE?",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "KY-8",
+    "content": "DOMESTIC EMPLOYERS (work performed in a private home, including baby-sitting or care for the elderly or sick) – You will be liable if you pay at least $1,000 in gross wages in a single calendar quarter.\nACQUISITION OF ALL OR PART OF AN EXISTING BUSINESS (which is already liable for unemployment insurance) – Generally, you will be automatically liable as a SUCCESSOR employer. See the section on “successorship” for more information.\n501(C)(3) NOT-FOR-PROFIT ORGANIZATION – You will be liable if you employ at least four workers in the United States in any part of 20 weeks out of a calendar year. They do not have to be the same four workers in each week, and the weeks do not have to be consecutive.\nSTATE OR LOCAL GOVERNMENT EMPLOYER – You will be liable for any employment excluding elected officials and certain other exclusions. Contact the Tax Enforcement Branch at (502) 564-2272 for more information.\nFEDERAL & OUT-OF-STATE LIABILITY – If you are liable in any state or liable for federal unemployment tax, you are automatically liable for employment in Kentucky.\nPREVIOUS LIABILITY IN KENTUCKY – If you did not sell your former business or otherwise terminate your account, you are automatically liable upon resuming employment.\n- 1 -",
+    "metadata": {
+      "section_title": "ARE YOU LIABLE FOR UNEMPLOYMENT INSURANCE?",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "KY-9",
+    "content": "Most employment is covered and must be reported for unemployment insurance purposes, but there are exceptions. Following are some of the types of employment, both covered and non-covered, about which are most often asked.\nExamples of COVERED EMPLOYMENT: Both FULL-TIME and PART-TIME employment is covered. TEMPORARY or SEASONAL employment is also covered. Even if the worker knows that a job is temporary, the work is covered unless it is otherwise excluded (see below).\nThe service of CORPORATE OFFICERS is covered. This includes officers of Subchapter S corporations and members of Limited Liability Companies (LLCs) that have elected to be treated as corporations for federal tax purposes. Officers of corporations may qualify for benefits if they become unemployed through no fault of their own.\nExamples of NON-COVERED EMPLOYMENT: FAMILY MEMBERS: In PROPRIETORSHIPS, service performed by the spouse, parent or child (below the age of 21) of the proprietor is non-covered.",
+    "metadata": {
+      "section_title": "ARE ALL TYPES OF EMPLOYMENT AND SERVICES COVERED FOR UNEMPLOYMENT INSURANCE PURPOSES?",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "KY-10",
+    "content": "ice performed by the spouse, parent or child (below the age of 21) of the proprietor is non-covered. In PARTNERSHIPS, service is non-covered if the worker is a spouse, parent or child (below the age of 21) of EACH PARTNER (example, the parent of one partner and the spouse of another). There are no family exceptions for CORPORATIONS.\nCO-OP STUDENTS are exempt (non-covered) as long as they are enrolled in school and are receiving academic credit for the work performed. A co-op student who continues to work between school terms will be covered during those periods.\nINSURANCE SALESPEOPLE are exempt if they are paid solely by commission.\nCHURCH EMPLOYEES are exempt. However, independent businesses conducted on church property (e.g. day care centers) may be covered if not part of the church ministry.\nEmployees age 18 or younger who distribute NEWSPAPERS or SHOPPING GUIDES are exempt.\nPayments for CASUAL LABOR not in the employer’s normal course of trade or business (example: mowing grass; washing windows on business properties; etc.) are non-covered unless the payments are more than $50 in a calendar quarter and such service is performed by an individual who is regularly employed by the employing unit to perform such service.",
+    "metadata": {
+      "section_title": "ARE ALL TYPES OF EMPLOYMENT AND SERVICES COVERED FOR UNEMPLOYMENT INSURANCE PURPOSES?",
+      "page_number": 7
+    }
+  },
+  {
+    "section_id": "KY-11",
+    "content": "The worker shall be deemed to be regularly employed by the employing unit during a calendar quarter only if: (a) On each of some 24 days during the quarter, the worker performs for the employing unit for some portion of the day service not in the course of the employing unit’s trade or business; or (b) The worker was regularly employed by the employing unit in performance of the service during the preceding calendar quarter.\n- 2 -\nCertain other exclusions apply in schools, hospitals, not-for-profit and government employment. Contact the Tax Enforcement Branch if you have any questions regarding the coverage of a particular type of employment.",
+    "metadata": {
+      "section_title": "ARE ALL TYPES OF EMPLOYMENT AND SERVICES COVERED FOR UNEMPLOYMENT INSURANCE PURPOSES?",
+      "page_number": 8
+    }
+  },
+  {
+    "section_id": "KY-12",
+    "content": "Independent contractors are self-employed and employers do not have to report them for unemployment insurance purposes. However, there are specific requirements that a worker has to meet to be considered an independent contractor and many covered employees are misclassified as independent contractors! The Office of Unemployment Insurance (OUI) determines whether an individual worker is an employee or independent contractor based on “common law” rules. For example, we may classify a worker as an independent contractor if:\nHe/she is in business for himself/herself and offers services to the public (ordinarily, advertises services in some fashion).\nHe/she provides services that are not in the normal line of business for the client for whom the services are provided.\nHe/she possesses a special skill or ability, and may require special tools which he/she provides, or if he/she performs services without additional training and/or supervision.",
+    "metadata": {
+      "section_title": "WHAT IF I USE INDEPENDENT CONTRACTORS (CONTRACT LABOR) AND ISSUE 1099S FOR SERVICE INSTEAD OF HIRING EMPLOYEES?",
+      "page_number": 8
+    }
+  },
+  {
+    "section_id": "KY-13",
+    "content": "He/she usually provides services for a limited time (a single job) and is paid by the job rather than by the hour, etc.\nThese are general examples. Before OUI can make a formal determination of a worker’s status, we must review his/her particular relationship to the business for which he/she performs service.\nBy law, a worker cannot contract away his/her rights to unemployment benefits. Therefore, OUI may determine a worker to be an employee even if he/she has willingly entered into a contract to work as an independent contractor.\nOUI makes determinations of covered employment subject to Kentucky unemployment insurance law. Determinations made by other agencies are not binding on OUI. “SAFE HARBOR” exemptions DO NOT necessarily apply to determinations made by OUI.\n- 3 -",
+    "metadata": {
+      "section_title": "WHAT IF I USE INDEPENDENT CONTRACTORS (CONTRACT LABOR) AND ISSUE 1099S FOR SERVICE INSTEAD OF HIRING EMPLOYEES?",
+      "page_number": 9
+    }
+  },
+  {
+    "section_id": "KY-14",
+    "content": "Under Kentucky unemployment insurance law, a worker cannot be carried on the payroll and reported by a business other than the one for which he/she performs services. This means workers obtained from EMPLOYEE LEASING companies must be reported by the business where the workers perform their services, NOT by the leasing company.\nWorkers obtained from a TEMPORARY EMPLOYMENT SERVICE to fill in for absent employees or to carry out a special project or function, are considered the employees of the temporary service and are not reportable by the business for which the services are provided. However, if the worker obtained from the temporary service performs a regular, routine job for an unspecified amount of time, the business for which the service is performed may be liable for reporting and paying tax on that worker. If you expect to use temporary employees, contact the UI Tax Enforcement Branch for a ruling on your liability for those workers.",
+    "metadata": {
+      "section_title": "WHAT IF I USE LEASED EMPLOYEES OR TEMPORARY EMPLOYMENT SERVICES TO STAFF MY BUSINESS?",
+      "page_number": 9
+    }
+  },
+  {
+    "section_id": "KY-15",
+    "content": "A worker is ordinarily reported to the state in which he/she performs services. If a worker performs services on a regular basis for the same business in more than one state, the law allows the employer to report all service (wages) to the state in which the business is located (or to the state where the worker is controlled), provided some service is performed in that state. However, if nearly all of a worker’s service for an extended period is performed in a single state other than the state where the business is located, you may become liable in the state where the majority of the work was performed. Contact the unemployment tax office in each state where work will be performed to verify the reporting requirements for your type of work.\n- 4 -",
+    "metadata": {
+      "section_title": "IF I HAVE EMPLOYEES WORKING IN MORE THAN ONE STATE, HOW DO I DETERMINE WHERE TO REPORT THEM?",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "KY-16",
+    "content": "First, do not apply until you have met one of the liability requirements listed on Page 1. Once you have met one of the requirements, you should apply as soon as possible. If you need proof of compliance with the unemployment law prior to beginning employment, contact the Tax Enforcement Branch at (502) 564-2272.\nIf you are a new business, agricultural or domestic employer, are applying to reopen an inactive account, or have recently acquired an existing business in Kentucky, you can apply online at https://kewes.ky.gov.\nr nmonwealth Ky.gov Kentuc Office of Unemployment Insurance Career Center Career Training Employer Tax Information Links Contact Us Login Home / Submit Quarterly Report Kentucky's Unemployment Insurance Self-Service Web Employer Reaistration TPA Registration Employers may perform the following main actions: Close Employer Account Request a Refund Retrieve information about the Kentucky Unemployment Insurance program Submit quarterly tax reports over the Internet through either an on-screen form or a file upload option Pay by EFT/Credit Card Pay taxes by Electronic Funds Transfer (EFT) Establish a new Unemployment Insurance Account Address Update Report Misclassification or Fraud Claim Separation Response (SIDES) 2019 Updates and Changes Wage Audit Response (UI-203) Employer Documents 2019 Contribution Rate Notices were mailed out on December 1, 2018.",
+    "metadata": {
+      "section_title": "HOW DO I APPLY FOR AN UNEMPLOYMENT INSURANCE ACCOUNT NUMBER?",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "KY-17",
+    "content": "onse (UI-203) Employer Documents 2019 Contribution Rate Notices were mailed out on December 1, 2018. Site Enhancements and Electronic 2019 Contribution Rates are set based on Rate Schedule A. This is the lowest rate schedule since 2003. Reporting 2019 Contribution Rates will be reduced by an additional 0.075% for the SCUF assessment. Your Contribution Rate Notice should display a “Ul Rate based on your calculated Reserve Ratio, an “Adjusted Ul Rate” from the SCUF reduction, and a “SCUF Rate\" that is set at 0.075%. Please utilize the Adjusted Ul Rate and the SCUF Rate when calculating the total amount due on your quarterly report filings. 2019 Taxable Wage Base per worker will increase by $300 to $10,500 per worker. Please be sure to make this adjustment prior to filing your 1st quarter 2019 report during April 2019. Kentucky employers are eligible to claim the full EUTA credit of 5.40% when filing your 2018 IRS 940 Forms in January 2019.",
+    "metadata": {
+      "section_title": "HOW DO I APPLY FOR AN UNEMPLOYMENT INSURANCE ACCOUNT NUMBER?",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "KY-18",
+    "content": "eligible to claim the full EUTA credit of 5.40% when filing your 2018 IRS 940 Forms in January 2019. This will reduce your FUTA contribution rate to 0.60% (6.00% - 5.40%). The FUTA taxable wage base remains at $7.000 per worker. Important Notice Regarding Contribution Rates During the 2018 Legislation Session, the General Assembly enacted the Service Capacity Upgrade Fund (SCUF), through HB 487, Section 139. Per KRS 341.243, all contribution rates beginning with the 3rd quarter of 2018 shall be reduced by 0.075%, in order to implement SCUF. There is no increase or decrease in the total amount of tax you will pay. This reduction will divert 0.075% of the contributions that would have been applied to your employer reserve account, and apply to SCUF. In addition, you will not be able to claim SCUF payments on your Federal Unemployment Tax filings. Below is an example of how your 2018 reporting periods will change: [ ina amblinm waba a am A md Ad ma f AD in EL\nApplying for a Kentucky Employer Identification Number (KEIN) will require a Federal Employer Identification Number (FEIN).",
+    "metadata": {
+      "section_title": "HOW DO I APPLY FOR AN UNEMPLOYMENT INSURANCE ACCOUNT NUMBER?",
+      "page_number": 11
+    }
+  },
+  {
+    "section_id": "KY-19",
+    "content": "Employer Identification Number (KEIN) will require a Federal Employer Identification Number (FEIN). Once you have entered and verified your FEIN, you will then set up your password and answer security questions. This is the password you will use (along with your KEIN) to file quarterly reports online.\n- 5 -\nKy.gov Kentuc Office of Unemployment Insurance Career Center Career Training Employer Tax Information Links Contact Us Login Home / Submit Quarterly Report Employer Registration Password and Security Questions Setup TPA Registration Close Employer Account Request a Refund Passwords must adhere to the following rules: At least one lowercase letter (a to z) and one uppercase letter (A to Z) Pay by EF T/Credit Card At least one digit (0 to 9) and at least one special character (I, @. # 8. %. &) Address Update Password length must be between 8 (minimum) and 20 (maximum) characters as described above . functi is website.",
+    "metadata": {
+      "section_title": "HOW DO I APPLY FOR AN UNEMPLOYMENT INSURANCE ACCOUNT NUMBER?",
+      "page_number": 11
+    }
+  },
+  {
+    "section_id": "KY-20",
+    "content": "ngth must be between 8 (minimum) and 20 (maximum) characters as described above . functi is website. Report Misclassification or Fraud including not limited to: address h. refund rus. and filing np yments. Claim Separation Response (SIDES) Wage Audit Response (UI-203) *Enter your Password Employer Documents “Verify your Password Site Enhancements and Electronic Raporting Please select security questions and answers Security Question #1 Please Select Question. *Security Answer #1 Security Answer #1 Please Select Question Security Question #2 *Security Answer #2 *Security Answer #2 Please Select Question. Security Question #3 Security Answer #3\nThe next step is choosing your type of registration. You can see below that the choices are “New Business Registration”, “New Business Registration as a Successor”, “Registration to Reinstate your account”, and “Registration for a Letter of Good Standing”.\n- 6 -\nSubmit Quarterly Report Employer Registration Employer Account Registration TPA Registration Close Employer Account Request a Refund While completing the registration process, you may use the previous and next buttons to view or change the information you have entered.",
+    "metadata": {
+      "section_title": "HOW DO I APPLY FOR AN UNEMPLOYMENT INSURANCE ACCOUNT NUMBER?",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "KY-21",
+    "content": "ocess, you may use the previous and next buttons to view or change the information you have entered. Pay by EFT/Credit Card If you close the window to exit the application, all information will be lost and will not be saved. Address Update You will have the opportunity to print or save a PDF version of this registration at the end of the process. Report Misclassification or Fraud Claim Separation Response (SIDES) If you have any questions during the registration process or need assistance, please contact the Unemployment Insurance Tax Status Department at 502-564-2272 between the hours of 8:00 am and 4:00 pm EST. Wage Audit Response (UI-203) Employer Documents Please select from the following options to proceed | am a brand new business in Kentucky. | did not purchase or acquire all or part of an existing business. Site Enhancements and Electronic Reporting >> New Business Registration | | am a brand new business in Kentucky. | have purchased or acquired all or part of an existing business. >> New Business Registration as a Successor | | already have an inactive Kentucky Employer Identification Number (KEIN) and | have now resumed employment and need to reinstate my account.",
+    "metadata": {
+      "section_title": "HOW DO I APPLY FOR AN UNEMPLOYMENT INSURANCE ACCOUNT NUMBER?",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "KY-22",
+    "content": "I >> Registration to Reinstate your account 1 am applying to determine liability for an unemployment reserve account in order to obtain a letter of good standing for the Kentucky Secretary of State's office. | >> Registration for Letter of Good Standing Policies Security Disclaimer Accessibility Ketudki™ © 2019 Commonwealth of Kentucky. All rights reserved 204C Kentucky gov\nIf you are liable for unemployment insurance tax, you will receive a “Notice of Subjectivity” by mail assigning your KEIN. This is the number of your RESERVE ACCOUNT that you will use for reporting and paying unemployment insurance tax and should not be confused with any other numbers issued by the IRS or the Kentucky Department of Revenue. Your notice will include your SUBJECTIVITY DATE, which is the date from which you must begin to report wages and pay tax. This will be the date on which you began employment, or the first day of the year in which you became liable, whichever is later. The notice will also include your tax rate and will advise you of when your first tax report and payment will be due.\n- 7 -",
+    "metadata": {
+      "section_title": "HOW DO I APPLY FOR AN UNEMPLOYMENT INSURANCE ACCOUNT NUMBER?",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "KY-23",
+    "content": "You will only need one KEIN if the legal ownership of the business is the same for all locations. For instance, if you have one FEIN (one legal ownership, whether proprietor, LLC, or corporation) operating businesses from multiple locations.\nIf the legal ownership of the business locations is different (different legal ownership, whether proprietor, LLC, or corporation), making it a separate entity with a separate FEIN, you will be required to have a separate KEIN for each location and each entity will be required to report separately and will be assigned tax rates for each entity.",
+    "metadata": {
+      "section_title": "DO I NEED MORE THAN ONE ACCOUNT NUMBER AND TAX RATE IF I OPERATE MORE THAN ONE TYPE OF BUSINESS OR LOCATION?",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "KY-24",
+    "content": "It is important to know that both federal and state law requires that employers keep true and accurate records of all workers employed by them, including the wages paid to such workers. To adequately satisfy that an employer’s employment and wage records reflect true and accurate data with respect to employment and wages paid to employees, investigations, or audits, by necessity, requires a reconciliation of the payroll data as contained in the employer’s records with the accounting made by the employer in the general ledgers or other records. An adequate investigation, examination or audit also requires that the data reflected in the employer’s records be reconciled with federal tax returns, social security reports, and federal unemployment tax returns.\nGenerally, the Office of Unemployment Insurance (OUI) requires that you be able to provide only routine payroll records.",
+    "metadata": {
+      "section_title": "WHAT TYPE OF BUSINESS RECORDS DO I HAVE TO MAINTAIN?",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "KY-25",
+    "content": "These include the beginning, ending, and pay date of each pay period and the total amount of wages paid for covered employment in each pay period. These records must also contain each worker’s name and social security number, total wages paid to each worker during the pay period, total wages paid to each worker during the calendar quarter, and the date on which each worker was hired and terminated from covered employment. You should retain these records for at least six years.\nIn addition, you must retain weekly records on each employee showing the amount of wages earned, the number of hours worked, the number of hours of additional work available that was not accepted, and the rate of pay for such additional work. You are required by law to retain these records for two years.\nYou are required by law to make these records available for inspection by OUI auditors upon request. Whenever possible, our auditors will arrange to examine your records at your place of business (or where the records are usually kept) at a time convenient for you. All information you provide to OUI is strictly CONFIDENTIAL under state and federal law.\n- 8 -",
+    "metadata": {
+      "section_title": "WHAT TYPE OF BUSINESS RECORDS DO I HAVE TO MAINTAIN?",
+      "page_number": 14
+    }
+  },
+  {
+    "section_id": "KY-26",
+    "content": "When you become liable, you will be required to file a report for each calendar quarter for which you list your employees and their wages, and compute and pay tax based on your payroll.\nEmployers who have ten or more employees must file electronically. Employers with less than ten employees may also file electronically if they choose to do so. You can access the format specifications through our website at https://kewes.ky.gov. See the next section for more details.\nIf you choose to file on paper, you will complete form UI-3, “Employer’s Quarterly Unemployment Wage and Tax Report”. The UI-3 includes instructions that you should read carefully before you complete the report.\nThe Office of Unemployment Insurance (OUI) mails UI-3 forms to all Kentucky employers at the end of the quarter who reported in that manner in the previous quarter. If you file by paper, you should receive your paper UI-3 around the middle of the last month of the quarter. If you file your quarterly report online and pay by paper check, OUI will automatically send you a payment coupon. If you file your quarterly report online and pay by credit card or electronic check (EFT), you will no longer receive paper forms from OUI. Our electronic process ensures that your report and payment arrive together and are given the correct date of receipt. We encourage all employers to file their reports and pay online, and are happy to help you get started.",
+    "metadata": {
+      "section_title": "HOW DO I PAY MY UNEMPLOYMENT INSURANCE TAX?",
+      "page_number": 14
+    }
+  },
+  {
+    "section_id": "KY-27",
+    "content": "Yes, in fact, this is the preferred method for quarterly tax filings because it saves processing time and cost for both you and OUI. It is extremely safe and easy, and as noted in the previous section, it is required for employers with ten or more workers. One great improvement is confirmation numbers that are provided to you when filing electronic reports and payments, allowing you to reference those transactions should you need to contact us. Electronic filing and payments also guarantee that the receipt date is the submission date, eliminating the penalty and interest that can be caused by mailing in paper reports and checks, should they be delayed or lost.\nYou will find the secure Kentucky Unemployment Insurance Self-Service Website at https://kewes.ky.gov:\n- 9 -\nMOonwe Ky.gov Kentuc Office of Unemployment Insurance Career Center Career Training Employer Tax Information Links Contact Us Login Home / Submit Quarterly Report Kentucky's Unemployment Insurance Self-Service Web Employer Registration TPA Registration Employers may perform the following main actions: Close Employer Account Request a Refund « Submit quarterly tax reports over the Internet through either an on-screen form or a file upload option Retrieve information about the Kentucky Unemployment Insurance program Pay by EF T/Credit Card « Pay taxes by Electronic Funds Transfer (EFT) - Establish a new Unemployment Insurance Account Address Update Report Misclassification or Fraud Claim Separation Response (SIDES) 2019 Updates and Changes Wage Audit Response (UI-203) Employer Documents o 2019 Contribution Rate Notices were mailed out on December 1, 2018. ° 2019 Contribution Rates are set based on Rate Schedule A.",
+    "metadata": {
+      "section_title": "MAY I FILE MY REPORT ELECTRONICALLY?",
+      "page_number": 15
+    }
+  },
+  {
+    "section_id": "KY-28",
+    "content": "ces were mailed out on December 1, 2018. ° 2019 Contribution Rates are set based on Rate Schedule A. This is the lowest rate schedule since 2003. Site Enhancements and Electronic Raporting 2019 Contribution Rates will be reduced by an additional 0.075% for the SCUF assessment. Your Contribution Rate Notice should display a “Ul Rate™ based on your calculated Reserve Ratio, an “Adjusted Ul Rate” from the SCUF reduction, and a “SCUF Rate\" that is set at 0.075%. Please utilize the Adjusted Ul Rate and the SCUF Rate when calculating the total amount due on your quarterly repert filings. 2019 Taxable Wage Base per worker will increase by $300 to $10,500 per vorker. Please be sure to make this adjustment prior to filing your 1st quarter 2019 report during April 201. ° Kentucky employers are eligible to claim the full EUTA credit of 5.40% when filing your 2018 IRS 940 Forms in January 2019. This will reduce your FUTA contribution rate to 0.60% (6.00% - 5.40%).",
+    "metadata": {
+      "section_title": "MAY I FILE MY REPORT ELECTRONICALLY?",
+      "page_number": 15
+    }
+  },
+  {
+    "section_id": "KY-29",
+    "content": "RS 940 Forms in January 2019. This will reduce your FUTA contribution rate to 0.60% (6.00% - 5.40%). The FUTA taxable wage base remains at $7,000 per worker. Important Notice Regarding Contribution Rates During the 2018 Legislation Session, the General Assembly enacted the Service Capacity Upgrade Fund (SCUF), through HB 487, Section 139. Per KRS 341.243, all contribution rates beginning with the 3rd quarter of 2018 shall be reduced by 0.075%, in order to implement SCUF. There is no increase or decrease in the total amount of tax you will pay. This reduction will divert 0.075% of the contributions that would have been applied to your employer reserve account, and apply to SCUF. In addition, you will not be able to claim SCUF payments on your Federal Unemployment Tax filings. Below is an example of how your 2018 reporting periods will change: T W i v balinad mi in b fav h A ad And a o8 AA in T A r 1\nIn order to file your report via our website, you will first need your password (PIN) which you chose during the registration process.",
+    "metadata": {
+      "section_title": "MAY I FILE MY REPORT ELECTRONICALLY?",
+      "page_number": 15
+    }
+  },
+  {
+    "section_id": "KY-30",
+    "content": "ur website, you will first need your password (PIN) which you chose during the registration process. If you are already an established employer and do not know your password, you can obtain it by contacting the Tax Enforcement Branch at (502) 564-2168, or by email to UITax@ky.gov. Once you have accessed the website for the first time, you will have the opportunity to change your password. If you have not previously used our website for reporting, you will also have to answer some security questions.\nMOonwe Ky.gov Kentuc Office of Unemployment Insurance Career Center Career Training Employer Tax Information Links Contact Us Login Home / Account Login Submit Quarterly Report Employer Registration Account Login TPA Registration Close Employer Account Request a Refund *KEIN or TPA number Pay by EF T/Credit Card *Password Address Update Report Misclassification or Fraud Claim Separation Response (SIDES) Wage Audit Response (UI-203) Forgot your password? or Change your password Employer Documents Note: please enter the 8 or 9 digit Kentucky Employer Identification Number (KEIN) or Third Party Administrator Number (TPA) as shown on your report without spaces.",
+    "metadata": {
+      "section_title": "MAY I FILE MY REPORT ELECTRONICALLY?",
+      "page_number": 16
+    }
+  },
+  {
+    "section_id": "KY-31",
+    "content": "tion Number (KEIN) or Third Party Administrator Number (TPA) as shown on your report without spaces. KEIN Examples Site Enhancements and Electronic Raporting Policies Security Disclaimer Accessibility Ketudkiy™ © 2019 Commonwealth of Kentucky. Al rights reserved. Kentucky.gov\n- 10 -\n@ Kentucky's Self-Service g &« 3 c @ https://kewes.ky.gov/Employertax/GetSecurityquestions.aspx Apps @ Secretary of State L... T KHRIS Login BrassRing Login @ ss @ SOS Organizational... Salary Search @ SDDS Dashboard @ DOL Performance... Ky.gov Office of Unemployment Insurance Kentuc Career Center Career Training Employer Tax Information Links Contact Us Pay Login Home / Submit Quarterly Report Password Reset Security Questions Employer Registration TPA Registration Please answer the following security questions that will be used to reset your password in the future if needed. Close Employer Account *Security Question #1 Please Select Question Raquest a Refund Pay by EFT/Credit Card Security Answer #1 Address Update *Security Question #2 Please Select Question.",
+    "metadata": {
+      "section_title": "MAY I FILE MY REPORT ELECTRONICALLY?",
+      "page_number": 17
+    }
+  },
+  {
+    "section_id": "KY-32",
+    "content": "y by EFT/Credit Card Security Answer #1 Address Update *Security Question #2 Please Select Question. Report Misclassification or Fraud Security Answer #2 Claim Separation Response (SIDES) Wage Audit Response (UI-203) “Security Question #3 Please Select Question. Employer Documents *Security Answer #3 Please Note: security answers are case sensitive! Site Enhancements and Electronic * denotes required field Reporting Sul Policies Security Disclaimer Accessibility Kentudki™ © 2019 Cammanwealth of Kenhicky All rinhte racarssd\n- 11 -\nOnce you log into the secure portion of the site, you will choose which method of electronic filing you prefer. Employers who wish to prepare formatted files (ICESA) for upload will choose Option 1. Those preferring to complete the report online will choose Option 2. Option 3 also utilizes the ICESA file format, but is for large payroll processors only. More information about these options is available on the site.",
+    "metadata": {
+      "section_title": "MAY I FILE MY REPORT ELECTRONICALLY?",
+      "page_number": 17
+    }
+  },
+  {
+    "section_id": "KY-33",
+    "content": "is for large payroll processors only. More information about these options is available on the site.\nEmployer Reqistration Submit Quarterly Tax Report TPA Registration Close Employer Account Request a Refund PLEASE REVIEW: OUR FILING OPTIONS HAVE CHANGED BELOW. IN ADDITION, ELECTRONIC PAYMENTS SHOULD BE MADE AFTER SUBMISSION OF YOUR REPORT Pay by EFT/Credit Card Address Update Please select one of the following three filing options to submit your quarterly tax and wage report(s) electronically. Report Misclassification or Fraud Claim Separation Response (SIDES) Wage Audit Response (UI-203) Option 1 - Single Employer File Upload Employer Documents This option is for employers who create reports using the ICESA format and wish to upload their file. This option will only allow for the submission of a single quarterly report from an individual company. After submission, the user will be directed to our Payment Portal by clicking on the “Pay Now\" button, which will capture the total amount due from the report.",
+    "metadata": {
+      "section_title": "MAY I FILE MY REPORT ELECTRONICALLY?",
+      "page_number": 17
+    }
+  },
+  {
+    "section_id": "KY-34",
+    "content": "This option allows for a seamless process between report filing and payment of your quarterly report. Re Site Enhancements and Electronic ing Upload your tax report from an existing file: . Option 2 - Single Employer Online Form Entry This option is for employers who wish to manually enter their quarterly report information utilizing the online form for a specific quarter. This method is best used by employers who have a small workforce and should not be used by employers with over 250 employees. After submission, the user will be directed to our Payment Portal by clicking on the “Pay Now™ button, which will capture the total amount due from the report. This option allows for a seamless process between report filing and payment of your quarterly report. To open our online form please enter the quarter and year for which you would like to submit. Quarter 2 v Option 3 - Multiple Employer File Upload This option is reserved for third party administrators, payroll processors, CPA's and other tax service providers who are filing on behalf of their clients. Users must complete the online Third Party Administrator Registration in order to gain access to this option. This option will allow TPA's to file quarterly reports for multiple clients at once, using the ICESA format. After payment for all accounts on the file. Electronic payments are required and payment amount cannot be more than or less than the total amount that is calculated due after submission. submission, the user will be directed to our Payment Portal by clicking on the Pay Now button, which will capture the total amount due for each individual account and will allow for a single (Note: If you need to file for a client that will owe taxes and you do not want to submit a payment on their behalf, please omit from your Option 3 file upload. You will need to file individually under Option 1. If your payment does not match the total amount due after file submission, the entire file uplead will not be accepted nor processed.) Upload a report from a payroll processor:\nIf you prepare your report online (Option 2), the system will automatically provide the names and social security numbers of the employees reported in the preceding quarter. You can add new employees to the file, and you can indicate those employees no longer working for you (simply leave the wages blank). If you enter the gross and excess wages for each worker, the online filing system will complete the rest of the report for you.",
+    "metadata": {
+      "section_title": "MAY I FILE MY REPORT ELECTRONICALLY?",
+      "page_number": 17
+    }
+  },
+  {
+    "section_id": "KY-35",
+    "content": "If you file your report electronically, you can pay your taxes by Electronic Fund Transfer (EFT) or credit card. To use either of these options, go to our website (see previous section), click on the “Pay” button at the top of the screen, and follow the directions. A non-refundable 3.5% processing fee is applied to all credit card transactions.\nYou also have the option of filing online and paying your taxes by regular remittance (check). If you received a payment coupon from the Office of Unemployment Insurance, return that with your remittance. If you have a preprinted UI-3 report form, return the BLANK report with your payment. NOTE: We use the blank report to identify your account for payment processing. DO NOT complete the UI-3 since you have already submitted your quarterly wage and tax data online. If you submit a completed UI-3 with your payment, we may process your information twice and you may receive a tax bill for your online report.\n- 12 -",
+    "metadata": {
+      "section_title": "HOW DO I PAY MY UI TAX IF I FILE ONLINE?",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "KY-36",
+    "content": "A wage is any payment made for services performed. This includes salaries, commissions and bonuses. It also includes the cash value of any payment in manners other than cash, unless paid in agricultural or domestic employment. Gross wages are reportable prior to any deductions or withholdings for other taxes or employee benefits. There are certain exclusions, including:\nTRAVEL REIMBURSEMENTS are not wages as long as they do not exceed the actual out-of-pocket cost of the worker. Any excesses over actual expenses are wages.\nThe cash value of ROOM AND BOARD is not a wage if furnished on the employer’s property and for a legitimate business reason.\nSICK PAY is ordinarily wages. HOWEVER, sick pay is not considered wages if the payment is received under a workers’ compensation law, or if the payment is made more than six (6) calendar months after the last calendar month of employment.",
+    "metadata": {
+      "section_title": "WHAT ARE GROSS WAGES FOR UNEMPLOYMENT REPORTING PURPOSES?",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "KY-37",
+    "content": "f the payment is made more than six (6) calendar months after the last calendar month of employment.\nTIPS are wages only to the extent that they are reported by the worker to the employer in accordance with section 6053 (a) of the Internal Revenue Code.\nRETIREMENT BENEFITS—KRS 341.030(4) (represents payment(s) received after separation from employment) -- Employers may establish plans making provision for workers in the event of retirement, sickness/accident disability or death. These include retirement plans, death benefits and insurance premiums paid to provide such coverage.\nRetirement pay is defined as payments made upon the employee’s termination due to retirement for disability, retirement after attaining an age specified in the plan established by the employer or in a pension plan of the employer as the age at which a person in the employee’s circumstances is eligible for retirement.",
+    "metadata": {
+      "section_title": "WHAT ARE GROSS WAGES FOR UNEMPLOYMENT REPORTING PURPOSES?",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "KY-38",
+    "content": "he employer as the age at which a person in the employee’s circumstances is eligible for retirement.\nPayments made by employers into such plans, or payments made to workers from such plans, are not considered wages PROVIDED:\nA. The plan makes provision for all of the employer’s workers, OR for all of a class of workers (example; all salaried employees). B. The employee cannot elect to receive any part of the payment made by the employer instead of having it paid into the plan.\nInsurance Premiums--Insurance premiums paid by the employer for coverage of a worker are NOT wages— if the following are true:\nA. The plan makes provision for all of the employer’s workers, OR for all of a class of workers (example; all salaried employees). B. The employee cannot elect to receive any part of the payment made by the employer instead of having it paid into the plan.\nDeath Benefits— the employer should consider Death benefits wages if the employee is entitled to withdraw all or part of those benefits upon his/her withdrawal from the plan or termination of the plan.\n- 13 -\nDisability Benefits—Disability benefits are not considered wages.\n“Cafeteria Plans – Section 125” 401(K) Plans and Deferred Compensation (represents plans into which payments are made during employment)—The Internal Revenue Code provides for employee benefit plans under which employees may elect to have employers divert a portion of their gross wages to purchase benefit coverage, in the process reducing their income subject to most federal and state payroll taxes.",
+    "metadata": {
+      "section_title": "WHAT ARE GROSS WAGES FOR UNEMPLOYMENT REPORTING PURPOSES?",
+      "page_number": 19
+    }
+  },
+  {
+    "section_id": "KY-39",
+    "content": "Contributions to any of these benefit plans resulting in employee salary reductions ARE wages pursuant to Kentucky statute, KRS Chapter 341.\nMatching or additional contributions made by an employer into such plans, on behalf of an employee, may or may not be considered wages. These contributions are considered wages ONLY if the employee may elect to receive payment prior to retirement or termination of employment because of age, sickness, accident, etc.\nPayments made by an agricultural or domestic employer of the employee’s share of FICA and MEDICAID taxes are not wages.\nTERMINATION or SEVERANCE PAY—Severance pay is not UI Reportable, because it is not considered money paid for services. (Reference KRS 341.030(1))\nThe employer, based upon a formula, or a contractual agreement, pays severance pay, sometimes referred to as Termination Pay, as well as other employer-determined terminology, to a worker. An example would be; many long-term employees receive severance pay based upon their length of service. Other employees may receive severance pay due to an agreement with the union or a clause of their employment contract, but it is not payment for services rendered.\nUse of a COMPANY CAR is considered a wage to the extent reported to the IRS.\nMany exemptions allowed under other tax laws are not applicable to unemployment insurance. Therefore, if you make some payment not covered above, contact the Tax Enforcement Branch to determine whether it should be reported as wages.",
+    "metadata": {
+      "section_title": "WHAT ARE GROSS WAGES FOR UNEMPLOYMENT REPORTING PURPOSES?",
+      "page_number": 19
+    }
+  },
+  {
+    "section_id": "KY-40",
+    "content": "No, you only pay unemployment insurance taxes on the taxable wage amount earned by each worker in a calendar year. This is known as the taxable wage base. The amount over this taxable wage base is referred to as EXCESS WAGES. You must report each worker’s entire gross wages each quarter. However, you may deduct the excess wages online (or on line 2 of the UI-3) so that you compute your tax, surcharge, or SCUF only on the taxable wage amount.\nBeginning with the first quarter of 2014, a SURCHARGE of 0.22% of taxable wages was assessed. The surcharge rate for 2015 was 0.21%, as was 2016, with surcharge ending in the second quarter of 2016. The surcharge was assessed to secure funds for interest payments due on outstanding loans because of the insolvency of the Unemployment Insurance Trust Fund.\n- 14 -\nBeginning with the third quarter of 2018, SCUF (Service Capacity Upgrade Fund) was created.",
+    "metadata": {
+      "section_title": "DO I PAY TAX, SURCHARGE, OR SCUF ON ALL GROSS WAGES?",
+      "page_number": 20
+    }
+  },
+  {
+    "section_id": "KY-41",
+    "content": ".\n- 14 -\nBeginning with the third quarter of 2018, SCUF (Service Capacity Upgrade Fund) was created. SCUF is designed to collect funds in order to modernize internal and external systems utilized by Unemployment Insurance. Employers will contribute to SCUF at a rate of 0.075% of their taxable wages, which will be removed from their UI tax rate. If an employer’s rate were 2.7%, they would calculate SCUF at 0.075% and their regular UI tax at 2.625%. Therefore, there is no additional cost to the employer. Collection of SCUF will continue until the fund reaches $60 million, or for five years, whichever occurs sooner.\nThe taxable wage base increased to $9,000 in 2012, and may increase by $300 each year until 2022. Refer to the chart below for your correct taxable wage base amount and surcharge amount for the year you are filing.\nTAXABLE WAGE BASE (TWB), SURCHARGE (SCHG), SERVICE CAPACITY UPGRADE FUND (SCUF)\nAll rates below are in percentages.",
+    "metadata": {
+      "section_title": "DO I PAY TAX, SURCHARGE, OR SCUF ON ALL GROSS WAGES?",
+      "page_number": 20
+    }
+  },
+  {
+    "section_id": "KY-42",
+    "content": "SE (TWB), SURCHARGE (SCHG), SERVICE CAPACITY UPGRADE FUND (SCUF)\nAll rates below are in percentages. Year TWB SCHG SCUF Year TWB SCHG 2014 $9,600 0.22 0.000 2017 $10,200 0.00 2015 $9,900 0.21 0.000 2018** $10,200 0.00 2016* $10,200 0.21 0.000 2019 $10,500 0.00 *Surcharge ended with 2nd quarter of 2016. **SCUF began with 3rd quarter of 2018. SCUF 0.000 0.075 0.075\nThe following example illustrates how excess wages are calculated and reported. Assume these wages are paid. Note: The 2013 taxable wage base of $9,300 is used in this illustration. It is bolded. For years subsequent to 2013, replace with the taxable wage base of that year.\nGROSS WAGES\n1st Quarter 2nd Quarter 3rd Quarter 4th Quarter Employee A $10,400 $10,400 $11,500 $12,000 Employee B 6,000 6,000 6,000 6,000 Employee C 3,000 6,000 3,000 $16,400 $19,400 $23,500 $21,000\n1st Quarter Excess Wages:\nEmployee A ($10,400 minus $9,300) = $1,100 Employee B no excess = 0 Employee C not employed = 0 Total Excess Wages = $1,100\nYour quarterly report should look like this:\nGROSS WAGES $16,400 EXCESS WAGES $ -1,100 TAXABLE WAGES $14,000\n- 15 -\n2nd Quarter Excess Wages: Employee A all excess = $10,400 Employee B ($6,000+$6,000=$12,000-$9,300) = 2,700 Employee C no excess = 0 Total = $13,100\nYour quarterly report should look like this:\nGROSS WAGES $19,400 EXCESS WAGES -$13,100 TAXABLE WAGES $6,300\n3rd Quarter Excess Wages: Employee A all excess = $11,500 Employee B all excess = 6,000 Employee C no excess = 0 Total = $17,500\nYour quarterly report should look like this:\nGROSS WAGES $23,500 EXCESS WAGES -$17,500 TAXABLE WAGES $6,000\n4th Quarter Excess Wages: Employee A all excess = $12,000 Employee B all excess = 6,000 Employee C ($3,000+$6,000+$3,000-$9300) = 2,700 Total = $23,700",
+    "metadata": {
+      "section_title": "DO I PAY TAX, SURCHARGE, OR SCUF ON ALL GROSS WAGES?",
+      "page_number": 21
+    }
+  },
+  {
+    "section_id": "KY-43",
+    "content": "Your quarterly report should look like this:\nGROSS WAGES $21,000 EXCESS WAGES -$20,700 TAXABLE WAGES $300\nPay careful attention to excess wages. Errors in calculating excess wages are the most common reason employers overpay their unemployment insurance taxes.\nIT IS IMPORTANT TO REMEMBER THAT EVEN IF YOU HAVE NO TAXABLE WAGES TO REPORT, YOU MUST FILE YOUR QUARTERLY REPORTS WITH WAGE RECORDS FOR UNEMPLOYMENT INSURANCE BENEFIT PURPOSES.\n- 16 -",
+    "metadata": {
+      "section_title": "DO I PAY TAX, SURCHARGE, OR SCUF ON ALL GROSS WAGES?",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "KY-44",
+    "content": "Reports and payments are due and should reach the Office of Unemployment Insurance (OUI) by the last day of the month following the end of each quarter. For example, a report for the 1st Quarter (January – March) should reach OUI by April 30th. If that day falls on a weekend or a holiday when state offices or the post office are closed, the due date is moved forward to the next day that offices are open.\nA first-time filer is required to file reports for all quarters since the subjectivity date.",
+    "metadata": {
+      "section_title": "WHEN IS MY UNEMPLOYMENT REPORT AND PAYMENT DUE?",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "KY-45",
+    "content": "OUI assesses INTEREST on any tax, surcharge, or SCUF the employer has not paid by the due date, at the rate of one and one-half (1 1/2) percent per month or any portion of a month.\nOUI can assess interest for up to five years from the due date. At one and one-half percent per month for 60 months, that means OUI can charge up to 90 percent on late payments.\nOUI assesses a PENALTY if an employer fails to file the report when it is due, whether or not any tax, surcharge, or SCUF is due. If you file a report within 30 days after the due date, you will be assessed a penalty of $25.00; if you file more than 30 days late, you will be assessed a penalty of $75.00. If you are late in filing more than once during the same calendar year, you will also be charged an additional penalty of $100.00 for each additional report that is late. The total penalty chargeable for a year if all reports are more than one month late is $600.00.\nRegardless of the size of the business or the amount of tax due, OUI assesses penalties on all employers who file their reports late. Avoid penalties by filing on time, even if you cannot make the tax payment by the due date.",
+    "metadata": {
+      "section_title": "WHAT HAPPENS IF I AM LATE REPORTING OR PAYING MY TAX?",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "KY-46",
+    "content": "You will be notified in writing of any amount assessed against you, and you may be contacted by a field auditor who will attempt to collect the amount due along with any delinquent reports.\nYour unemployment tax, surcharge, or SCUF and any related penalty or interest is a legal obligation imposed upon you as an employer. There is no authority in the law to reduce, compromise or eliminate any portion of this obligation, and OUI will make every effort to collect it. However, we recognize that you may encounter financial difficulties that may delay your ability to pay your taxes. Partial payment plans that allow you to pay your delinquent balance in installments may be arranged in some cases, although you will continue to incur interest charges on the unpaid balance.\nIf you fail to pay tax, surcharge, SCUF, interest or penalties assessed by OUI, we will proceed with legal action to recover those amounts. Several methods used to collect unpaid employer debt include:\n1. Filing a tax lien on your real and personal property.\n2. Issuing a temporary injunction on the operation of your business.\n3. Initiating civil action for payment.\n4. Placing a levy on assets, including bank accounts, wages and accounts receivable.\n5. Attaching and causing the sale of real property.\n- 17 -",
+    "metadata": {
+      "section_title": "WHAT HAPPENS IF I DO NOT PAY MY UNEMPLOYMENT TAX?",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "KY-47",
+    "content": "Yes, once you are liable you must file a report unless you have previously requested that the Office of Unemployment Insurance (OUI) inactivate your account because you no longer have payroll to report.\nYou must also file a report even if all of the wages are excess and no tax is due, because OUI may need the wage information to process benefit claims.",
+    "metadata": {
+      "section_title": "DO I HAVE TO FILE A REPORT IF I HAVE NO PAYROLL OR OWE NO TAX?",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "KY-48",
+    "content": "An employer may use separate wage reports if this is more convenient than filling out the individual wage report portion of the form.\nAny employer with 10 or more employees must file online.\nExcept for reports filed electronically, the employer must submit a form UI-3 regardless of the method he uses to report wages. The preprinted data on the form allows OUI to correctly identify and process the report.\nOn the wage reports, the employer must include each employee’s NAME, SOCIAL SECURITY NUMBER, GROSS QUARTERLY WAGES, and EXCESS QUARTERLY WAGES. If you submit a wage listing containing any other information, you must clearly label or indicate the gross wages that agree with the total listed on line 1 of the UI-3.",
+    "metadata": {
+      "section_title": "IF I DO NOT REPORT ONLINE, DO I HAVE TO USE FORM UI-3 TO REPORT MY EMPLOYEES’ WAGES, OR ARE OTHER WAGE LISTINGS ACCEPTABLE?",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "KY-49",
+    "content": "OUI maintains wage records for over one million Kentucky workers to use in calculating benefit entitlements for those who become unemployed. See the “Benefits” section for more information on this process.",
+    "metadata": {
+      "section_title": "WHY DOES OUI NEED EMPLOYEE WAGE INFORMATION?",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "KY-50",
+    "content": "OUI keeps track of the total number of Kentucky workers covered by unemployment insurance as part of the labor statistics used to determine the state of the economy. You must report each quarter in the space provided on the UI-3 or on the website. You must enter the number of employees you had on your payroll on the 12th of the month for each of the three months of the quarter.\nIf you do not complete this portion of the form, the Workforce Intelligence Branch will mail you a follow- up request. If you have employees in more than one county or location, you may also be asked to complete a supplemental report listing the total workers by county or location.\n- 18 -",
+    "metadata": {
+      "section_title": "WHY DOES OUI NEED THE NUMBER OF EMPLOYEES, AND HOW DO I REPORT THIS?",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "KY-51",
+    "content": "The Office of Unemployment Insurance (OUI) audits all reports and ordinarily detects any math errors on your report.\nIf you discover an error in your previous quarterly individual wage reports, DO NOT attempt to correct it on the current quarter wage listing. Although the net amount of wages might be correct that way, for benefit purposes we must have the correct wages by quarter. Instead, submit a separate explanation of the adjustment, listing the individual workers that you are correcting or adding (name, social security number and wages added or changed), and the change this makes in the gross, excess and taxable wages for the quarter. If the change results in additional tax, surcharge, or SCUF due, you must also calculate the interest due on the additional amount from the original due date of the report you are correcting up to the date that payment is made, at the rate of 1 1/2 percent per month (or fraction of a month).",
+    "metadata": {
+      "section_title": "HOW DO I REPORT CORRECTIONS OR ADDITIONS IF I MAKE AN ERROR IN REPORTING?",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "KY-52",
+    "content": "Report errors in excess wages the same way and indicate the employees whose wages were improperly calculated even if individual gross wages were reported correctly.\nMake the corrections as soon as you discover the error, particularly if additional tax, surcharge, or SCUF is due. This will reduce the amount of interest charged. Notify the Tax Enforcement Branch in writing of the correction using the address in the front of this guide. If you are making the adjustment at the same time you are submitting a UI-3, include the adjustment amount on line 8 of the report, and include the adjustment amount in your tax calculation as instructed on the report.",
+    "metadata": {
+      "section_title": "HOW DO I REPORT CORRECTIONS OR ADDITIONS IF I MAKE AN ERROR IN REPORTING?",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "KY-53",
+    "content": "Reporting a change of address or ownership can be done easily through our website at https://kewes.ky.gov. If you are the previous owner, request closure of your account and be sure to choose the option that fits your situation, giving us as much information about the new owner as possible. If you are the new owner, register your business with us by choosing the option that best fits your situation and giving us as much information about the previous owner as possible. A change of business name requires documentation of that change which can be mailed, faxed, or emailed to us.\nOffice of Unemployment Insurance UI Tax Enforcement Branch PO Box Frankfort, KY 40601 (502) 564-2272 Fax (502) 564-2168 UITax@ky.gov\n- 19 -",
+    "metadata": {
+      "section_title": "HOW DO I REPORT CHANGE OF ADDRESS, BUSINESS NAME, OR OWNERSHIP?",
+      "page_number": 25
+    }
+  },
+  {
+    "section_id": "KY-54",
+    "content": "The Office of Unemployment Insurance (OUI) deposits all unemployment tax payments made by Kentucky employers in an UNEMPLOYMENT TRUST FUND maintained in the U.S. Treasury, where they earn interest. By federal and state law, this money can be used only to pay benefits to unemployed Kentucky workers. Although OUI deposits all tax payments to the trust fund, and all benefits are paid out of that fund, OUI also keeps track of the individual tax payments of each employer. Most benefits paid are also charged to individual employers’ reserve accounts; usually the most recent employer for whom the claimant worked in each of ten weeks, whether or not consecutive (see the “Benefits” chapter for more information). Your RESERVE ACCOUNT is an accounting record of your payments and charges, which is maintained for the purpose of calculating your EXPERIENCE RATING.",
+    "metadata": {
+      "section_title": "WHAT DO YOU DO WITH THE MONEY I PAY IN UNEMPLOYMENT TAX?",
+      "page_number": 25
+    }
+  },
+  {
+    "section_id": "KY-55",
+    "content": "OUI assigns new employers (other than contract construction) a beginning rate of 2.70%. New contract construction employers are assigned the maximum rate under the rate schedule in effect that year (see “What Will My Tax Rate Be If I Start a Construction Business” for more details). After that, OUI will calculate a rate for your account each year.\nAll unemployment insurance programs are “experience-rated,” which means that the amount of tax an employer pays is directly related to their experience in the program. By “experience”, we mean the amount of tax an employer has paid into their reserve account, and the amount of benefits charged against that account. In Kentucky, the system used for assigning tax rates is called the RESERVE RATIO method.\nOnce an employer begins to pay tax (and could be charged benefits), OUI keeps track of the balance in his reserve account.",
+    "metadata": {
+      "section_title": "HOW IS MY TAX RATE ASSIGNED?",
+      "page_number": 25
+    }
+  },
+  {
+    "section_id": "KY-56",
+    "content": "Once each year, the balance in each reserve account is recorded for the purpose of calculating tax rates for the coming year. This takes place as of the COMPUTATION DATE, July 31st. The RESERVE ACCOUNT BALANCE is the net total of all taxes paid minus all benefits charged to an account since it was established. The balance may be positive or negative (deficit), depending upon whether tax payments have exceeded benefit charges or vice versa.\nDelinquent tax payments cannot be included in the rate computation if paid after the computation date. This may cause your tax rate to be higher than it would have been if all taxes had been paid on time.\nTax rates are not based solely on the balance in a reserve account, since this would mean that larger or higher-wage employers would have an advantage over smaller or lower-wage employers. Instead, a RESERVE RATIO is computed, which compares the size of the reserve balance to the size of the business and payroll. The reserve ratio is the percentage obtained by dividing the reserve account balance by the total amount of taxable wages reported by the employer during the 12 calendar quarters preceding the computation date. This is referred to as the THREE- YEAR TAXABLE PAYROLL.\nThe final step in calculating your tax rate is to find your reserve ratio in the RATE SCHEDULE (see next page):\n- 20 -",
+    "metadata": {
+      "section_title": "HOW IS MY TAX RATE ASSIGNED?",
+      "page_number": 26
+    }
+  },
+  {
+    "section_id": "KY-57",
+    "content": "Reserve Ratio 8.0% and over 7.0% but under 8.0% 6.0% but under 7.0% 5.0% but under 6.0% 4.6% but under 5.0% 4.2% but under 4.6% 3.9% but under 4.2% 3.6% but under 3.9% 3.2% but under 3.6% 2.7% but under 3.2% 2.0% but under 2.7% 1.3% but under 2.0% 0.0% but under 1.3% -0.5% but under -0.0% -1.0% but under -0.5% -1.5% but under -1.0% -2.0% but under -1.5% -3.0% but under -2.0% -4.0% but under -3.0% -6.0% but under -4.0% -8.0% but under -6.0% Less than -8.0% Trust Fund Adequacy 0.000% 0.000% 0.008% 0.208% 0.508% 0.808% 1.008% 1.308% 1.508% 1.608% 1.708% 1.808% 1.908% 6.500% 6.750% 7.000% 7.250% 7.500% 7.750% 8.250% 8.500% 9.000% A B 0.30% 0.40% 0.40% 0.50% 0.50% 0.60% 0.70% 0.80% 1.00% 1.20% 1.30% 1.50% 1.50% 1.70% 1.80% 1.80% 2.00% 2.10% 2.10% 2.30% 2.20% 2.50% 2.30% 2.60% 2.40% 2.70% 6.50% 6.75% 6.75% 7.00% 7.00% 7.25% 7.25% 7.50% 7.50% 7.75% 7.75% 8.00% 8.25% 8.50% 8.50% 8.75% 9.00% 9.25% C 0.50% 0.60% 0.70% 1.00% 1.40% 1.80% 2.20% 2.40% 2.50% 2.60% 2.70% 2.80% 2.90% 7.00% 7.25% 7.50% 7.75% 8.00% 8.25% 8.75% 9.00% 9.50% D 0.60% 0.80% 0.90% 1.20% 1.60% 2.10% 2.40% 2.60% 2.70% 2.80% 2.90% 3.00% 3.10% 7.25% 7.50% 7.75% 8.00% 8.25% 8.50% 9.00% 9.25% 9.75% E 1.00% 1.05% 1.10% 1.40% 1.80% 2.30% 2.70% 3.00% 3.10% 3.20% 3.30% 3.40% 3.50% 7.50% 7.75% 8.00% 8.25% 8.50% 8.75% 9.25% 9.50% 10.00%\n- 21 -\nLooking at the rate schedule, you will notice that there are six different columns of rates corresponding to the reserve ratio brackets in the first column on the left, with the “Trust Fund Adequacy” rates being the lowest and schedule “E” being the highest.",
+    "metadata": {
+      "section_title": "Rate Schedule",
+      "page_number": 27
+    }
+  },
+  {
+    "section_id": "KY-58",
+    "content": "The rate schedule in effect in any given year is based on the balance in Kentucky’s Unemployment Trust Fund by September 30th of the preceding calendar year. For example, if the Trust Fund has a balance of at least $350 million on September 30th, but less than $500 million, then rate schedule “B” would be in effect for the following calendar year. This means that high unemployment costs, which reduce the fund balance, may cause tax rates to increase even for businesses that did not directly experience benefit charges.\nThe example on the next page illustrates the rate computation process for a typical business. Remember, the computation date is July 31of the year preceding the year for which a rate is being computed.",
+    "metadata": {
+      "section_title": "Rate Schedule",
+      "page_number": 27
+    }
+  },
+  {
+    "section_id": "KY-59",
+    "content": "If you have been SUBJECT LESS THAN 12 CALENDAR QUARTERS as of the computation date, your rate, by law, cannot be less than 2.7%. This means you must have been subject no later than the end of June the fourth year preceding the year for which the rate is being assigned in order to be eligible for a reduced rate (for example, subject in June 2014 to receive a reduced rate for 2018). Your rate can be higher than 2.7% after your first year of subjectivity if the ratio indicates.\nIf you failed to file any report for the twelve quarters preceding the computation date, the Office of Unemployment Insurance (OUI) cannot accurately calculate a rate for your account, and by default, we will assign the highest positive or negative balance rate from the schedule in effect for that year. If you file the missing report(s) within twenty days of receiving your annual rate notice, we can recalculate your tax rate using the taxable wages from the missing report(s). Please contact the Employer Accounting Section at 502-564-2168 to request an amendment to your rate notice. As stated previously, we cannot use the delinquent tax payments in the calculation.\nIf you are, or become, a SUCCESSOR employer by acquiring all or part of an existing business that is already covered by unemployment insurance, your rate calculation will include the experience of your predecessor. See the “Successorship” section of this guide for more details.\n- 22 -",
+    "metadata": {
+      "section_title": "Other factors can affect your tax rate:",
+      "page_number": 28
+    }
+  },
+  {
+    "section_id": "KY-60",
+    "content": "Beginning Reserve Balance (balance as of the preceding computation)\n$41,908.03\nBenefits charged to the account through June 30, for the four quarters immediately preceding the computation date:\n3rd quarter\n$\n0.00\n4th quarter\n1,572.18\n1st quarter\n1,333.15\n2nd quarter\n298.00\nTotal\n3,203.33\n-$3,203.33\nContributions credited to the account during the four quarters immediately preceding the computation\ndate:\n3rd quarter\n$\n2,007.57\n4th quarter\n868.65\n1st quarter\n2,414.14\n2nd quarter\n2,732.99\nTotal\n8,023.35\n+$8,023.35\nEnding Reserve Balance as of July 31\n$46,728.05\nThree Year Taxable Payroll (the total of taxable wages paid during the three fiscal years preceding the\ncomputation date):\n3rd quarter\n$80,285.24\n4th quarter\n60,221.76\n1st quarter\n77,856.04\n2nd quarter\n78,770.25\n3rd quarter\n97,150.25\n4th quarter\n61,217.88\n1st quarter\n90,526.56\n2nd quarter\n108,331.30\n3rd quarter\n70,947.42\n4th quarter\n62,048.47\n1st quarter\n96,592.53\n2nd quarter\n109,311.41\n$993,259.11\nReserve Balance Three Year Taxable Payroll Reserve Ratio $46,728.05 ÷ $993,259.11 = 004.704\nUsing Schedule C for example, the corresponding rate would be 1.40%.\nThe Office of Unemployment Insurance (OUI) issues a “Notice of Contribution Rate” annually to each active employer indicating the new rate and containing the information used in calculating it. By law, these notices are issued on or before December 15th each year.\n- 23 -\nUL29 Rev. 092011",
+    "metadata": {
+      "section_title": "Reserve Ratio and Rate Computation",
+      "page_number": 29
+    }
+  },
+  {
+    "section_id": "KY-61",
+    "content": "NOTICE OF CONTRIBUTION RATE\nDate of Notice:",
+    "metadata": {
+      "section_title": "COMMONWEALTH OF KENTUCKY OFFICE OF UNEMPLOYMENT INSURANCE P.Q. BOX 948 FRANKFORT, KY 40602-0948",
+      "page_number": 29
+    }
+  },
+  {
+    "section_id": "KY-62",
+    "content": "This notice has been issued to advise you of the contribution rate assigned to your Kentucky Unemployment Insurance Employer Reserve Account for the year indicated above. The figures provided on this form are taken from the account records maintained by the Office, and funished to assist you in understanding how your contribution rate was calculated.",
+    "metadata": {
+      "section_title": "For Calendar Year 2019",
+      "page_number": 29
+    }
+  },
+  {
+    "section_id": "KY-63",
+    "content": "ACCOUNT # URATE: 9.000 Adjusted UT Rae 8,925 SCUF Rate: 0.075\nPREDECESSOR# CODE | BENEFIT CHARGES CODE ONTRIBUTIONS CODE | EMPLOYER RESERVE ODE THREE(3) FISCAL YEARSTAXABLE WAGES 29 99 15 59 28 4,150.00 98 2,162.43 10 405,741.17DB 58 94,624.92 405,741.17DB 94,624.92 CONTRIBUTIONS PAID AS OF JUL 31, 2018 2,162.43 RATING FACTORS: A,D HENEFIT CHARGES AS OF JUN 30, 2018----UBTRACT 4,150.00 -00430.889 KRS 341.430 PROVIDES AN APPEAL FROM THIS DETERMINATION MUST BE FILED WITHIN 20 DAYS FROM THE DATE OF THIS NOTICE RATE SCHEDULE : A EXPLANATION VOLUNTARY PAYMENT If your reserve ratio is: Your Ul rate is: 10 TRANSFERRED FROM PREDECESSOR CHECK YOUR RATING FACTORS FOR ELIGIBILITY AND USE 8.0% and over 0.30% 15 BALANCE FROM LAST COMPUTATION RATE SCHEDULE FOR COMPUTATION. 7.0% but under 0% 0.40% 6.0% but under T0% TRANSFERRED FROM PREDECESSOR 0.50% BENEFIT CHARGES VOLUNTARY PAYMENT MADE TO REDUCE 5,0% but undr 6.0% 0.70% VOLUNTARY PAYMENT 6% bust under % 1.00% TRANSFERRED FROM PREDECESSOR DETERMINED RATE FROM *TO o 4.2% but under 4.6% 1.30% 3.9% but under 4.2% 39 TAXABLE WAGES 1.50% TRANSFERRED FROM PREDECESSOR 3.6% but under 1.80% 98 TRANSFERRED FROM PREDECESSOR PAY ONLINE AT HTTPS KEWES KY.GOV 3.2% but under .6% 2.00% » PAID SINCE LAST COMPUTATION 2.7% but under 32% 2.10% 2.0% but under 2.7% 2.20% NOT ACCEPTABLE UNLESS PAYMENT MADE WITHIN 1.3% but under 20% 230% 20 DAYS OF THIS NOTICE 0.0% but under 1.3% 2.40% 5% bt under -0.0% 6.50% -1.0% bat under -0.5% 6,75% 1.5% bat under -1.0% 7.00% SUBJECT 12 QUARTERS NOT SUBJECT 12 QUARTERS -2.0 bat under -1.5% 7.25% DELINQUENT IN FILING REPORTS =3 0% bat under -2 0% 7.50% =o-- 2 4.0% bat under -3.0% 7.75% DEFICIT BALANCE & RATIO 6.0%0 but under -4.0% - =] CONTRACT CONSTRUCTION 8.25% -8.0% but wiler -6.0% 50% Iess than -8.0% 9.00% TAX ENFORCEMENT BRANCH (502)564-2168 or (502)564-2272",
+    "metadata": {
+      "section_title": "THIS IS NOT A BILL",
+      "page_number": 29
+    }
+  },
+  {
+    "section_id": "KY-64",
+    "content": "SEE HAUK FUR EAPLANATIUN UF RATE DETERMINATIUN, RATI, CODES, RALING FAUTURS AND VOLUNTARY PAYMENT\nINMEDIATAMENTE: 8i necesario, por favor de ir 2 ka ofic de Kentucky Career Center, 53 necesila asistencia para traducir v entender a mibnmacion contenida en e documae(s) que recibio, puede ancontrr su oficing local n www hentuch yareercenter.com\n- 24 -",
+    "metadata": {
+      "section_title": "THIS IS NOT A BILL",
+      "page_number": 30
+    }
+  },
+  {
+    "section_id": "KY-65",
+    "content": "You do not have to pay the difference directly, however, you may want to because a deficit balance in your employer reserve account will cause your tax rate to increase. See the section on “Voluntary Payment” below.",
+    "metadata": {
+      "section_title": "IF MORE IS PAID OUT IN BENEFITS THAN I HAVE PAID IN, DO I HAVE TO PAY THE DIFFERENCE?",
+      "page_number": 30
+    }
+  },
+  {
+    "section_id": "KY-66",
+    "content": "The Office of Unemployment Insurance (OUI) assigns a new employer who is determined to be in the contract construction business the MAXIMUM TAX RATE in effect for the year in which he becomes liable, ranging from 9.0% to 10.0%. If you are a new contract construction employer, you will not be eligible for an experience rating less than the maximum rate until you have employed workers in Kentucky for at least 12 CONSECUTIVE CALENDAR QUARTERS preceding the computation date. Your rate may go up or down during this period if the tax rate schedule in effect changes from year to year. Once you have met the requirement, your rate for the following year will be based on your reserve ratio, as previously described.\nThe law pertaining to contract construction tax rates was enacted as the request of the construction industry in order to prevent new companies from receiving a lower rate than the average for the industry.",
+    "metadata": {
+      "section_title": "WHAT WILL MY TAX RATE BE IF I START A CONSTRUCTION BUSINESS?",
+      "page_number": 30
+    }
+  },
+  {
+    "section_id": "KY-67",
+    "content": "In addition to the unemployment tax that you are required to pay, you may make additional payments into your reserve account to reduce or eliminate a deficit balance. Since tax rates are based on reserve account balance, changing your balance can lower your next year’s tax rate. Sometimes a relatively small voluntary payment will lower your tax rate and allow you to save a larger amount of money in the coming year.\nPaying off a deficit balance is the most common form of voluntary payment, since this will result in the greatest reduction in tax rate, and therefore, the greatest tax savings.\nBeginning January 1, 2012, voluntary payments are only permitted for employers with negative reserve balances. Those voluntary payments will only be permitted up to the amount of the negative reserve balance. Also beginning January 1, 2012, you are not permitted to make a voluntary payment in two consecutive years.\nBeginning July 14, 2018, successors who have inherited negative reserves from their predecessors are permitted to make a one-time voluntary payment to pay off or reduce the amount of negative reserve. The payment has to be made within 60 days of receipt of notices regarding the negative reserve. Similarly to the voluntary payments above, this payment also cannot exceed the amount of negative reserve.\n- 25 -",
+    "metadata": {
+      "section_title": "WHAT IS A “VOLUNTARY PAYMENT”?",
+      "page_number": 31
+    }
+  },
+  {
+    "section_id": "KY-68",
+    "content": "Voluntary payments are usually made at the time that annual notices of contribution rates are issued. Your “Notice of Contribution Rate” contains instructions for determining whether a voluntary payment will reduce your tax rate for the new year. If it would, you may make a payment within 20 days from the mailing date of the notice, and it will be credited to your account as of the preceding computation date and used to recalculate your current year rate. Voluntary payments will now be made through our website at https://kewes.ky.gov. Choose the “Pay Now” option, enter your KEIN and password, and then choose “Voluntary Payment” in the dropdown menu. The Tax Enforcement Branch will verify your payment to make sure it will reduce your rate as desired; if not, the payment will be applied to your employer account as a credit for future quarters of tax, surcharge, SCUF, interest, and penalties.",
+    "metadata": {
+      "section_title": "HOW DO I MAKE A VOLUNTARY PAYMENT?",
+      "page_number": 31
+    }
+  },
+  {
+    "section_id": "KY-69",
+    "content": "You will not be allowed to make a voluntary payment if you owe the Office of Unemployment Insurance (OUI) any tax, surcharge, SCUF, interest or penalty. You may pay off your delinquency and make a voluntary payment at the same time, but only the amount of your voluntary payment over the amount of your delinquency will be used in recalculating your rate.\nConstruction employers who are subject to the maximum tax rate may make voluntary payment to pay off a deficit balance. However, this will not affect your tax rate unless you have satisfied the minimum length of employment described in the construction rates section.\nEmployers may make voluntary payments at any time of the year by using the website as previously described. However, voluntary payments made at any time other than the 20 days after the issuance of rate notices will not affect your current year rate. They will be used in calculating your following year rate if made by the computation date (July 31).",
+    "metadata": {
+      "section_title": "HOW DO I MAKE A VOLUNTARY PAYMENT?",
+      "page_number": 31
+    }
+  },
+  {
+    "section_id": "KY-70",
+    "content": "You may first want to review the section on how rates are computed, since this will make it easier to understand how voluntary payments are calculated.\nRemember that rates are assigned based on your RESERVE RATIO, which is the percentage your reserve balance is of your three-year taxable payroll. In order to change your tax rate, you have to change that percentage.\nFor example, assume your three-year taxable payroll totals $100,000.00 and your reserve balance is -$510.00. Your reserve ratio would be:\n-$510.00 ÷ $100,000.00 = -0.510%\nNext, refer to the rate schedule in effect. For this example, assume it is Schedule E. The rate assigned for a -0.510% reserve ratio on this schedule would be 7.75%.\nThe next lower rate on this schedule is 7.50%. To reduce your rate to this, your reserve ratio would need to be at least -0.5%, the minimum ratio for this bracket.\n- 26 -\nMultiply your taxable payroll total by the minimum reserve ratio you need to achieve:\n-0.50% x $100,000.00 = -$500.00\nThis is the minimum reserve balance you would need to reduce your rate by one bracket.",
+    "metadata": {
+      "section_title": "HOW DO I FIGURE A VOLUNTARY PAYMENT, AND HOW CAN I TELL IF IT WILL SAVE ME MONEY?",
+      "page_number": 32
+    }
+  },
+  {
+    "section_id": "KY-71",
+    "content": "00 = -$500.00\nThis is the minimum reserve balance you would need to reduce your rate by one bracket. Subtract your existing balance from the required balance to determine your voluntary payment:\n-$510.00 – (-$500.00) = $10.00\nNext, to see whether this will save you money, divide your voluntary payment by the difference in the tax rate you would achieve. In this example, you would reduce your rate by 0.25% (7.75% - 7.50%), therefore:\n$10.00 ÷ 0.25% = $4,000.00\nIf you expect that your taxable payroll for the coming year will exceed this amount, you will save money if you make a voluntary payment. In this example, this is likely since the average taxable wages for the past three years have exceeded $33,000.00. For the sake of illustration, assume that the taxable wages will continue at this level for another year. See the difference a voluntary payment will make in total payments for the year:\n$33,000.00 x 7.75% = $2,557.50, versus\n$33,000.00 x 7.5% = $2,475.00\n+$ 10.00 Voluntary Payment\n$2,485.00 Total Payments\nNET SAVINGS = $72.49\nIf a small voluntary payment results in a large potential savings, you may want to calculate the voluntary payment required for the next lower bracket.",
+    "metadata": {
+      "section_title": "HOW DO I FIGURE A VOLUNTARY PAYMENT, AND HOW CAN I TELL IF IT WILL SAVE ME MONEY?",
+      "page_number": 32
+    }
+  },
+  {
+    "section_id": "KY-72",
+    "content": "The Office of Unemployment Insurance (OUI) will be happy to assist you in calculating a voluntary payment and estimating whether it will save you money. There is also a convenient “Voluntary Payment Calculator” on our website at https://kewes.ky.gov under the “Tax Information” link. However, you must estimate your taxable payroll for the year ahead. If you overestimate, this may reduce or eliminate your savings. In such a case, your voluntary payment CANNOT be refunded.\nRemember, the greatest savings can be realized by paying off a DEFICIT BALANCE, since this results in the greatest reduction in rate. However, no voluntary payment may exceed the amount of your negative reserve balance.\n- 27 -",
+    "metadata": {
+      "section_title": "HOW DO I FIGURE A VOLUNTARY PAYMENT, AND HOW CAN I TELL IF IT WILL SAVE ME MONEY?",
+      "page_number": 33
+    }
+  },
+  {
+    "section_id": "KY-73",
+    "content": "Ordinarily, if a liable business changes ownership, the reserve account assigned to the business is transferred to the new owner. This process is referred to as SUCCESSORSHIP. A successor employer inherits the reserve account balance from the previous owner (the “predecessor”), whether positive or negative, and thus the successor’s tax rate is affected by the predecessor’s experience rating. The successor may also inherit liability for delinquent tax reports and unpaid tax, surcharge, SCUF and interest.\nIf the tests described below apply, successorship is not voluntary for either the predecessor or the successor. An employer who transfers all of his business will lose his reserve account and cease to be a liable employer. He cannot retain his reserve balance, nor can we refund it to him. This applies even in cases where the previous owner is a corporation, and the corporation itself is not sold.",
+    "metadata": {
+      "section_title": "WHAT HAPPENS IF I BUY (OR SELL) A BUSINESS?",
+      "page_number": 33
+    }
+  },
+  {
+    "section_id": "KY-74",
+    "content": "If a business is sold or otherwise transferred in whole or part and there is substantially common ownership, management or control of the business before and after the transfer (that is, one or more individual or individuals owns or exercises pervasive management of the business before and after the transfer), then by law the acquiring employer is a successor to the original owner's employer reserve account.\nIf a business is transferred and the ownership is not common, for successorship to apply to a business transfer, both the previous and the new owners must have been involved in negotiations to bring about the transfer. These negotiations need not be direct and a third party may be involved. Also for successorship to apply, at least two of the following five conditions must exist:\nA. The business was a going concern at the time that negotiations to transfer began.\nB. The new owner continued to operate (or resumed) basically the same type of business in the same location as the previous owner.\nC. At least half of the employees of the previous business continued to work for the new owner.\nD. At least half of the new owner’s employees worked for the previous owner.\nE. The new owner acquired work contracts or commitments from the previous owner.\nNOTE: If only the conditions in C & D are met, successorship will not apply.\n- 28 -",
+    "metadata": {
+      "section_title": "HOW IS SUCCESSORSHIP DETERMINED?",
+      "page_number": 34
+    }
+  },
+  {
+    "section_id": "KY-75",
+    "content": "SUCCESSORSHIP IN PART occurs when only a portion of the total business owned or operated by the predecessor is transferred. The same rules described above apply in determining whether successorship has occurred. If so, a further determination must be made as to whether and how much of the reserve account of the predecessor is to be divided with the successor.\nIn cases of partial transfer, reserve accounts are divided on a percentage basis. This percentage is subject to the approval of the Office of Unemployment Insurance (OUI), and must reflect the approximate percentage of the business operation transferred. This must be based on percentage of payroll or number of employees transferred. Contact the Tax Enforcement Branch or a tax auditor if you require assistance. The percentage proposed to OUI must be accompanied by sufficient explanation for us to determine whether it reasonably reflects the business transfer.",
+    "metadata": {
+      "section_title": "WHAT IF I ONLY BUY (OR SELL) PART OF A BUSINESS?",
+      "page_number": 34
+    }
+  },
+  {
+    "section_id": "KY-76",
+    "content": "If the parties to the transfer cannot agree on a percentage to transfer, or OUI cannot approve the proposed percentage, a percentage will be determined by OUI based on the percentage of the gross payroll reported by the previous owner, which is attributable to employees transferred to the new owner.\nWhen a reserve account is transferred in part, and the previous owner continues to operate the remainder of his business, a new reserve account number (KEIN) is assigned for the retained business. This is necessary for accounting purposes in order to keep track of the amount of tax paid and benefits charged before and after the transfer. If the transfer takes place within a calendar quarter, separate reports will be required for the periods before and after the date of transfer and filed under the previous and new account numbers, respectively.",
+    "metadata": {
+      "section_title": "WHAT IF I ONLY BUY (OR SELL) PART OF A BUSINESS?",
+      "page_number": 34
+    }
+  },
+  {
+    "section_id": "KY-77",
+    "content": "An employer who becomes liable as a result of acquiring all or part of an existing business will receive the tax rate already assigned to the business for the year in which the transfer takes place. This rate may be higher or lower than the normal new employer rate (2.7%), based on the balance of the reserve account acquired. Note that this includes partial transfers in which no portion of the predecessor reserve account is transferred to the successor.\nAfter the first year, your rate will be based on a combination of your predecessor’s reserve and taxable payroll, and your own payroll, tax payments and benefit charges. You may also be charged with benefits paid to former employees of your predecessor for two years or more after the date of transfer. Your predecessor’s experience will count toward the minimum twelve quarters of subjectivity required to receive a reduced tax rate.",
+    "metadata": {
+      "section_title": "WHAT EFFECT DOES SUCCESSORSHIP HAVE ON MY TAX RATE?",
+      "page_number": 35
+    }
+  },
+  {
+    "section_id": "KY-78",
+    "content": "ill count toward the minimum twelve quarters of subjectivity required to receive a reduced tax rate. However, if your predecessor was delinquent in filing any reports during the twelve quarters preceding the computation date, this will result in a higher default rate. If this occurs, contact the Tax Enforcement Branch and we will assist you in estimating and filing the missing reports, based upon whatever information you may have acquired from your predecessor.\nYour annual “Notice of Contribution Rate” will indicate both your own and your predecessor’s payroll, tax and benefit information. The rate computation process is the same as that described in the rate section of this guide.\n- 29 -\nIf you are a successor to part of a reserve, the amount of predecessor payroll, tax, and benefits used in determining your rate will be based on the percentage of reserve transferred. If you did not receive any portion of the predecessor’s reserve, the transfer will not affect your rate after the first year.",
+    "metadata": {
+      "section_title": "WHAT EFFECT DOES SUCCESSORSHIP HAVE ON MY TAX RATE?",
+      "page_number": 35
+    }
+  },
+  {
+    "section_id": "KY-79",
+    "content": "If you are already liable and then acquire all or part of an existing business that did not have common ownership, the transfer will have no effect on your assigned rate for the year in which the transfer occurs. For following years, your rate will be computed by combining your payroll and reserve totals with those of your predecessor. In the case of an acquisition of all or part of a commonly owned or controlled accounts, your rate for the remainder of the year will be recalculated as of the first quarter following the date of the transfer using the combined experience of the predecessor and successor accounts. In either case, the Office of Unemployment Insurance (OUI) will provide you with this information on your annual “Notice of Contribution Rate.”",
+    "metadata": {
+      "section_title": "WHAT EFFECT DOES SUCCESSORSHIP HAVE ON MY TAX RATE?",
+      "page_number": 35
+    }
+  },
+  {
+    "section_id": "KY-80",
+    "content": "Yes. If you are a successor (even if no reserve is transferred), you may take credit for the wages paid to your employees by your predecessor prior to the date of transfer in determining the excess wages for those employees.",
+    "metadata": {
+      "section_title": "IS A SUCCESSOR EMPLOYER ENTITLED TO CLAIM WAGES PAID BY THE PREDECESSOR PRIOR TO THE TRANSFER IN CALCULATING EXCESS WAGES?",
+      "page_number": 35
+    }
+  },
+  {
+    "section_id": "KY-81",
+    "content": "In addition to the potential for predecessor benefit charges described above, you may also be held liable for unpaid tax, surcharge, SCUF, and interest owed by your predecessor, but only if OUI notifies you of the predecessor debt within six months after we first learn about the transfer. That is not the same as six months from the transfer, because we frequently do not learn about transfers until some time after they occurred.\nOUI will make every reasonable effort to collect the delinquent tax, surcharge, SCUF, and interest from your predecessor. However, if we are unable to make a full collection, you will be liable. This is considered a legal debt of the business you acquired and is not affected by any contract you may have with the predecessor holding you free of debt.\nA successor to part of a business can only be held responsible for a percentage of the predecessor debt, based upon the percentage of reserve acquired.\n- 30 -",
+    "metadata": {
+      "section_title": "WHAT ARE MY LIABILITIES AS A SUCCESSOR EMPLOYER?",
+      "page_number": 36
+    }
+  },
+  {
+    "section_id": "KY-82",
+    "content": "Governmental employers and 501(c)(3) nonprofit organizations are eligible to report as REIMBURSING accounts. Reimbursing employers do not pay quarterly unemployment tax. Instead, they reimburse the Office of Unemployment Insurance (OUI) for the cost of any benefits that are chargeable to them. Reimbursing employers must still file quarterly reports for wage information purposes.\nUpon becoming liable, an eligible employer may choose either to reimburse or to pay quarterly taxes. If the reimbursement option is chosen, the business must remain in this status for at least two calendar years. If the taxpaying option is selected, the business may switch to the reimbursement method after one calendar year. To change options, you must advise OUI in writing no later than December 1st, prior to the start of the year for which you want the new option to be effective.",
+    "metadata": {
+      "section_title": "WHAT ARE REIMBURSING ACCOUNTS, AND WHO IS ELIGIBLE?",
+      "page_number": 36
+    }
+  },
+  {
+    "section_id": "KY-83",
+    "content": "There are both advantages and disadvantages to the reimbursement method. Although it can save money for organizations with stable employment, it can also result in large and unexpected benefit costs. Reimbursing employers also have fewer rights to relief from benefit charges than do taxpayers. Eligible employers are encouraged to contact the Tax Enforcement Branch, Employer Status Section, to discuss the reimbursement option prior to making any decision.\nAs a result of legislation enacted by the Kentucky General Assembly (House Bill 5), employers who have elected to reimburse the state in lieu of paying contributions will become subject to interest on any benefits charged to their account on or after August 28, 2010. The statement of benefit charges will contain a line item indicated as \"Trust Fund Interest\". Payment of the Trust Fund Interest is due at the same time as the benefit charges. The interest rate is based on the average rate of earnings in the unemployment trust fund for the prior calendar year and will be adjusted annually.\n- 31 -",
+    "metadata": {
+      "section_title": "WHAT ARE REIMBURSING ACCOUNTS, AND WHO IS ELIGIBLE?",
+      "page_number": 37
+    }
+  },
+  {
+    "section_id": "KY-84",
+    "content": "NOTE: The Internal Revenue Service collects federal unemployment tax, and questions concerning federal tax reporting and payment should be addressed to your nearest IRS office. What follows is a brief discussion of some basic information.",
+    "metadata": {
+      "section_title": "FEDERAL UNEMPLOYMENT TAX ACT (FUTA)",
+      "page_number": 37
+    }
+  },
+  {
+    "section_id": "KY-85",
+    "content": "In addition to your state unemployment tax, federal law requires that you pay Federal Unemployment Tax (FUT). The liability requirements are the same as for state coverage; however, non-profit and governmental employers are exempt from federal coverage. Federal unemployment taxes are used primarily for two purposes: paying for the cost of administering the UI program by the state and the federal governments; and paying for federal benefits programs, such as the federal share of extended benefits.\nFUT is payable on the first $7,000.00 you pay each worker annually. The tax rate is 6.0%; however, as explained below, you are allowed up to a 5.4% offset credit for state tax payments on the same wages. Therefore, the normal net tax rate is 0.6%.\nThe FUTA offset credit is subject to reduction if the Kentucky Unemployment Insurance Trust Fund is indebted to the federal government.\nPlease check our website (https://kewes.ky.gov/Contact/contacts.aspx?strid=1) for the most up-to-date information on any FUTA offset reductions.",
+    "metadata": {
+      "section_title": "WHAT IS FEDERAL UNEMPLOYMENT TAX?",
+      "page_number": 37
+    }
+  },
+  {
+    "section_id": "KY-86",
+    "content": "You are allowed to claim a credit reducing your federal unemployment tax rate if you paid state unemployment tax on the same wages. If you made the state tax payments on time, you may claim the maximum allowable offset credit of 5.4%. This credit applies even if you paid state tax at a rate lower than 5.4%. However, you cannot claim more than this rate if your state tax rate was higher.\nEach year the Office of Unemployment Insurance certifies to the IRS all tax payments made by Kentucky employers. If you are notified by the IRS that your federal tax credit claimed does not agree with the amount certified, contact the Tax Enforcement Branch, and we will assist you in verifying the proper credit.",
+    "metadata": {
+      "section_title": "HOW DOES PAYING MY STATE UNEMPLOYMENT TAX AFFECT MY FEDERAL TAX?",
+      "page_number": 37
+    }
+  },
+  {
+    "section_id": "KY-87",
+    "content": "No. You can only claim credit on your federal UI rate for state UI payments.\n- 32 -",
+    "metadata": {
+      "section_title": "CAN I CLAIM A CREDIT AGAINST STATE UNEMPLOYMENT TAX FOR THE FEDERAL UNEMPLOYMENT TAX THAT I PAY?",
+      "page_number": 38
+    }
+  },
+  {
+    "section_id": "KY-88",
+    "content": "If you close your business, please visit our website at https://kewes.ky.gov and select “Close Employer Account” from the menu. This will allow you to provide us with the closing date and reason for closing.\nAs an inactive employer you will not be required to file quarterly reports after the quarter in which you last had employment. However, you will remain liable under the unemployment insurance law for any future employment you have, regardless of the size or duration of your future payroll.\nOnce you have had at least one complete calendar year with no employment or with employment that does not meet the liability requirements, you will be eligible to terminate your account as described below.",
+    "metadata": {
+      "section_title": "WHAT HAPPENS TO MY RESERVE ACCOUNT IF I CLOSE MY BUSINESS?",
+      "page_number": 38
+    }
+  },
+  {
+    "section_id": "KY-89",
+    "content": "No. All tax is paid into the Kentucky Unemployment Trust Fund and can only be used to pay benefits. Your reserve account balance total is used solely to calculate annual tax rates. It cannot be refunded.",
+    "metadata": {
+      "section_title": "WILL THE BALANCE IN MY RESERVE ACCOUNT BE REFUNDED TO ME WHEN I CLOSE MY BUSINESS?",
+      "page_number": 38
+    }
+  },
+  {
+    "section_id": "KY-90",
+    "content": "No. However, if you resume employment in the future and have not terminated your reserve account as described below, your future rate will be based on your deficit reserve balance.",
+    "metadata": {
+      "section_title": "WILL I HAVE TO PAY OFF ANY DEFICIT RESERVE BALANCE IN MY ACCOUNT WHEN I CLOSE MY BUSINESS?",
+      "page_number": 38
+    }
+  },
+  {
+    "section_id": "KY-91",
+    "content": "If you are a proprietor or partner, you are not eligible to draw unemployment insurance. Unemployment insurance coverage only applies to employees, not to the owners of businesses.\nIf your business was incorporated and you drew a salary, you may be able to draw benefits if it is determined that you are unemployed through no fault of your own, just as is true for any other claimant.",
+    "metadata": {
+      "section_title": "CAN I DRAW BENEFITS IF I CLOSE MY BUSINESS?",
+      "page_number": 38
+    }
+  },
+  {
+    "section_id": "KY-92",
+    "content": "If you cease to have employees but are continuing to operate your business, you may contact the Tax Enforcement Branch and request to have your account placed in inactive status. The same conditions apply to closing your business, which is described at the top of this page.\nNOTE: If you continue to operate your business using workers obtained from a temporary service or contract labor, you may be determined liable for reporting these workers as your employees. See the “Liability” section for more information.\n- 33 -",
+    "metadata": {
+      "section_title": "DO I HAVE TO FILE REPORTS IF I NO LONGER HAVE EMPLOYEES?",
+      "page_number": 39
+    }
+  },
+  {
+    "section_id": "KY-93",
+    "content": "TERMINATION of a reserve account means that the employer to whom the account is assigned has ceased to be liable under unemployment insurance law. If your account is terminated, you will have to meet the liability requirements again to be liable for any further payroll reporting or tax payments.\nYou are eligible to terminate your reserve account if you had no employment for at least one full calendar year, or if your payroll during a full calendar year was less than the liability requirements (see page 1 of this guide). Note that you may terminate your account even if you have employment, as long as the employment is below the liability limits.\nYou must request termination IN WRITING no later than April 15th of the year in which it is to be effective. Write to the Employer Status Section, Unemployment Tax Enforcement Branch, 275 East Main St, Mailstop 2E-H, Frankfort, KY, 40621.",
+    "metadata": {
+      "section_title": "WHAT IS “TERMINATION OF A RESERVE ACCOUNT,” AND HOW DO I APPLY TO HAVE MY ACCOUNT TERMINATED?",
+      "page_number": 39
+    }
+  },
+  {
+    "section_id": "KY-94",
+    "content": "You should consider whether termination of your account would be advantageous, which will depend on your reserve account balance and whether you expect to resume employment in Kentucky in the future. Any balance in a reserve account at the time it is terminated will be transferred to the POOLED ACCOUNT, which is used to pay benefits that are not chargeable to any individual employer reserve account.\nIf you have a positive reserve balance and anticipate resuming employment, it may be advantageous to retain your account since the balance you have built up in the account may entitle you to a lower tax rate than the entry rate for a new employer. However, if you have a deficit (negative) balance, terminating your account will eliminate the deficit. If you resume employment, you will begin at a new employer rate.\nThe Office of Unemployment Insurance (OUI) may also terminate an account if at least three years have passed with no employment reported. OUI will do this only after sending written notice of our “intent to terminate” to the last known address of the employer. If you receive such a notice and do not wish to have your account terminated, you must reply in writing to retain the account.",
+    "metadata": {
+      "section_title": "WHAT IS “TERMINATION OF A RESERVE ACCOUNT,” AND HOW DO I APPLY TO HAVE MY ACCOUNT TERMINATED?",
+      "page_number": 39
+    }
+  },
+  {
+    "section_id": "KY-95",
+    "content": "- 34 -",
+    "metadata": {
+      "section_title": "IF I CLOSE OR TERMINATE MY RESERVE ACCOUNT, WILL I STILL BE LIABLE FOR ANY UNPAID TAX, INTEREST OR PENALTIES? Yes.",
+      "page_number": 40
+    }
+  },
+  {
+    "section_id": "KY-96",
+    "content": "The worker must be unemployed through no fault of his/her own and must file a claim for benefits. The EFFECTIVE DATE of his/her claim will be the Sunday of the week in which he/she files. This will establish his/her BASE PERIOD, which is the first four of the last five completed calendar quarters preceding the effective date of the claim. For example:\nIf the claim was filed on April 25, 2018, the effective date would be April 22, 2018 (the Sunday of that week). Since this falls in the second quarter of 2014, the five completed quarters preceding the effective date of the claim would be the first quarter 2018 and the four quarters of 2017. The first four of these quarters - the four quarters of 2017 - would be the base period.\n2017 2017 2017 2017 2018 1st 2nd 3rd 4th 1st Quarter Quarter Quarter Quarter Quarter",
+    "metadata": {
+      "section_title": "WHEN IS A WORKER ELIGIBLE TO RECEIVE UNEMPLOYMENT INSURANCE BENEFITS AND HOW MUCH WILL HE/SHE BE ELIGIBLE TO RECEIVE?",
+      "page_number": 40
+    }
+  },
+  {
+    "section_id": "KY-97",
+    "content": "Next, this agency will consult the wage record file (made up of the wage information employers submit on their quarterly wage and tax report) to see what wages were reported for the claimant during the four quarters of his/her base period. Assume the following wages were reported:\n1st Quarter 2017 (January - March) $5,500.00 2nd Quarter 2017 (April - June) 6,000.00 3rd Quarter 2017 (July - September) 5,500.00 4th Quarter 2018 (October - December) 5,000.00 Total Base Period Wages $22,000.00\nThe claimant’s WEEKLY BENEFIT AMOUNT (WBA) is then calculated by multiplying his/her total base period wages by 1.1923% and rounding to the nearest dollar:\nEXAMPLE: $22,000.00 x .011923 = $262.31, the WBA would be $262.00\nA weekly benefit amount can neither be lower than $39.00 nor more than the maximum weekly benefit amount allowed in Kentucky at that time.",
+    "metadata": {
+      "section_title": "Base Period",
+      "page_number": 41
+    }
+  },
+  {
+    "section_id": "KY-98",
+    "content": "lower than $39.00 nor more than the maximum weekly benefit amount allowed in Kentucky at that time. The maximum WBA is established annually on July 1st. It is ordinarily set at 62% of the average weekly wage for all workers in covered employment during the preceding year but may be less depending upon the trust fund balance as of the end of that year. For reference, the maximum weekly benefit amount from July 1, 2017, through June 30, 2018 is $502.00.\n- 35 -\nTo be monetarily eligible, the claimant must have performed enough work in covered employment during his/her base period to meet ALL four of the following requirements:\n1. He/she must have earned at least $1,500.00 in wages during the quarter in which his/her wages were highest.\n2. His/her wages for the other three quarters of the base period must have been at least $1,500.00.\n3. His/her total base period wages must be at least one-and-a-half (1½) times the amount he/she made in the quarter in which his/her wages were highest.\n4.",
+    "metadata": {
+      "section_title": "Base Period",
+      "page_number": 41
+    }
+  },
+  {
+    "section_id": "KY-99",
+    "content": "-and-a-half (1½) times the amount he/she made in the quarter in which his/her wages were highest.\n4. His/her wages in the last two quarters of the base period must be at least eight times his/her weekly benefit amount.\nThe MAXIMUM BENEFIT AMOUNT (MBA), the total amount a claimant can receive in regular benefits on a single claim, must be the lesser of the following:\na. Twenty-six times his/her weekly benefit amount.\nb. One-third of the total base period wages (except no MBA can be less than 15 times the weekly benefit amount).\nTo illustrate:\n(Weekly benefit amount) $262.00 x 26 = $6,812.00 One-third of $22,000.00 (total base period wages) = $7333.33 The maximum benefit amount is $6,812.00, the lesser of the two.\nA claimant may receive less than the maximum benefit amount if he/she returns to work before his/her claim is paid out. In some cases, he/she may work part-time while receiving benefits; however, 80% of his/her gross earnings for the week will be deducted from his/her weekly benefit amount.",
+    "metadata": {
+      "section_title": "Base Period",
+      "page_number": 41
+    }
+  },
+  {
+    "section_id": "KY-100",
+    "content": "In addition, if the claimant is receiving a pension from a plan into which a base period or chargeable employer was the sole contributor, the amount of his/her pension will be deducted from his/her weekly benefit amount. If the worker contributed to the pension, none of the pension will be deducted.\nIn addition to\nthe monetary requirements, the claimant must also meet NONMONETARY REQUIREMENTS each week:\n1. Be physically and mentally able to work.\n2. Be either totally unemployed or performing less than full-time work and earning less than one-and-one quarter (1¼) times his /her weekly benefit rate (a claimant earning less than this amount and working less than full-time may qualify for partial benefits, with 80% of his/her earnings deducted from his/her weekly benefits).\n3. Be available for suitable work and making a reasonable effort to find employment.\n4. Register for work with the Kentucky Career Center, unless he/she is out of state, at which point he/she is required to register with the state in which he/she resides.\n5. Complete a Welcome Orientation and Assessment.\n6. Claim benefits for each week of unemployment.\n- 36 -",
+    "metadata": {
+      "section_title": "Base Period",
+      "page_number": 42
+    }
+  },
+  {
+    "section_id": "KY-101",
+    "content": "VOLUNTARY QUIT - A claimant may be disqualified from receiving benefits for the duration of his/her unemployment if he/she voluntarily quit his/her most recent or next most recent suitable work without good cause attributable to the employment. He/she must then work at least 10 weeks and earn 10 times his/her weekly benefit amount in covered employment to remove the disqualification. However, there are exceptions to the “voluntary quit” disqualification. A claimant who quits a job to accept a bona fide job offer with a reasonable expectation of continued work, or who quits a job more than 100 miles from his/her home to accept closer employment, will not be automatically disqualified. If otherwise eligible, the claimant will receive benefits, but the employer’s reserve account is not chargeable in such situations.",
+    "metadata": {
+      "section_title": "WHAT WILL DISQUALIFY A WORKER FROM RECEIVING BENEFITS?",
+      "page_number": 42
+    }
+  },
+  {
+    "section_id": "KY-102",
+    "content": "mant will receive benefits, but the employer’s reserve account is not chargeable in such situations. A worker who quits a job to follow a military spouse will not automatically be disqualified.\nWORK REFUSAL - A claimant will be disqualified for the duration of his/her unemployment if he/she refuses, without good cause, to accept a bona fide offer of suitable work or to apply for available work when so directed by the Kentucky Career Center.\nLABOR DISPUTE - A claimant will not receive benefits for any week of unemployment that is due to or is the result of a strike or other bona fide labor dispute in the establishment in which he/she is or was last employed. For the purpose of this disqualification, however, a lockout is not deemed to be a strike or labor dispute.\nFRAUD - A claimant will be disqualified for not less than 12 or more than 52 weeks if it is found that he/she knowingly made a false statement or failed to disclose a material fact to obtain or increase his/her benefits.",
+    "metadata": {
+      "section_title": "WHAT WILL DISQUALIFY A WORKER FROM RECEIVING BENEFITS?",
+      "page_number": 42
+    }
+  },
+  {
+    "section_id": "KY-103",
+    "content": "Fraud cases may also be criminally prosecuted as a Class D felony. Conviction in court may result in a fine or jail sentence or both.\nMISCONDUCT - A claimant who has been discharged for misconduct from his/her most recent or next most recent work may be disqualified for the duration of his/her unemployment. KRS 341.370(6) states “discharge for misconduct” shall include, but not be limited to:\n• Separation initiated by an employer for falsification of any employment application to obtain employment through subterfuge;\n• Known violation of a reasonable and uniformly enforced rule of an employer;\n• Unsatisfactory attendance if the worker cannot show good cause for the absences or tardiness;\n• Damaging the employer’s property through gross negligence;\n• Refusing to obey reasonable instructions;\n• Reporting to work under the influence of alcohol or drugs or consuming alcohol or drugs on employer’s premises during working hours;\n• Conduct endangering safety of self or coworkers; and,\n• Incarceration in jail following conviction of a misdemeanor or felony by a court of competent jurisdiction, which results in missing at least five (5) days of work.\n- 37 -",
+    "metadata": {
+      "section_title": "WHAT WILL DISQUALIFY A WORKER FROM RECEIVING BENEFITS?",
+      "page_number": 43
+    }
+  },
+  {
+    "section_id": "KY-104",
+    "content": "A worker may be disqualified from benefits for failing or refusing to take a drug test under certain circumstances:\nIn general, the worker must have agreed of his own free will to submit to a drug test; the employer must have a reasonable suspicion of illegal drug use; the employer must have a legitimate need to know based on safety or security reasons. (Note: This does not apply if the test is required by federal regulations; the Office of Unemployment Insurance may only determine if the federal regulation has been complied with by the employer.) The test used must be reliable and reasonable, both in itself and in the manner in which it is conducted. It must be the least intrusive method of testing available. The confidentiality and integrity of the test must be ensured. Also, the worker must be informed in advance of the testing policy.",
+    "metadata": {
+      "section_title": "GUIDELINES FOR DRUG TESTING",
+      "page_number": 43
+    }
+  },
+  {
+    "section_id": "KY-105",
+    "content": "ity of the test must be ensured. Also, the worker must be informed in advance of the testing policy.\nThe following questions should be answered in writing, or you should be prepared to answer them at the fact-finding interview.\n1. If you have a drug testing policy or a bargaining agreement that addresses drug testing, or as a government employer or its agent (such as employers in the river transport, railroad and interstate trucking industries) you are required by federal regulations to test for drug use: describe the pertinent factors; attach a copy of the policy, agreement, or federal regulations to your response. We will need the date of the policy, the implementation date, as well as how and when workers were made aware of the policy, agreement or regulation.\n2. If there is a written policy or agreement: did this worker agree of his own free will to submit to the drug test?\n3. Did you have reason to suspect that the worker was using illegal drugs? If yes, describe the reason for your suspicion.\n4.",
+    "metadata": {
+      "section_title": "GUIDELINES FOR DRUG TESTING",
+      "page_number": 43
+    }
+  },
+  {
+    "section_id": "KY-106",
+    "content": "If suspicion of drug use was not present, how was the worker selected for testing?\n5. Do you believe you had a legitimate need to know for safety or security reasons if this worker was using illegal drugs? If yes, describe the basis of your belief.\n6. When and how was the worker informed of the need for the test? Date tested?\n7. Describe the test, including why this particular test was chosen and how it was conducted. If a test other than GCIMS (gas chromatography/mass spectrometry), EMIT (enzyme multiplied immunoassay technique), or RIA (radio immunoassay) was used, a detailed description is required.\n8. Describe, in depth, the chain of custody of the sample (including both the circumstances under which the sample was taken and the measures taken to ensure the chain of custody was not broken). Give the name of the person responsible for the integrity of the tested material and the chain of custody. This person must be available to testify, if required.\n9. How was the confidentiality of the test result ensured?\n- 38 -",
+    "metadata": {
+      "section_title": "GUIDELINES FOR DRUG TESTING",
+      "page_number": 44
+    }
+  },
+  {
+    "section_id": "KY-107",
+    "content": "If the worker left your employ for any other reason than lack of work, you should protest the payment of benefits by responding to this notice. You must submit your protest by paper documentation within ten days after the date of the first notice or twelve days after first notice if submitting the protest electronically. If you are the chargeable employer and do not file a timely protest, your reserve account, by law, must be charged. You may respond, by faxing your protest to 502-564-9333 or electronically at our website, www.kcc.ky.gov. To respond electronically, follow the links to SIDES.",
+    "metadata": {
+      "section_title": "WHAT IF I DO NOT THINK A WORKER SHOULD RECEIVE BENEFITS?",
+      "page_number": 44
+    }
+  },
+  {
+    "section_id": "KY-108",
+    "content": "Responding to paper-based unemployment insurance (UI) information requests fully and within tight deadlines creates a significant and costly administrative burden on companies today, putting a strain on the bottom line. This problem is compounded for employers and third-party administrators (TPAs) with operations in multiple states, since – until recently – no single national standard existed to help states and employers easily and electronically exchange key information about UI claims.\nDeveloped through a strategic partnership between the U.S. Department of Labor (USDOL) and state UI agencies, the State Information Data Exchange System (SIDES) and SIDES E-Response offer employers and TPAs – free of charge – a secure, electronic and nationally standardized format in which they can easily respond to UI information requests, attach documentation when needed and receive a date-stamped confirmation of receipt.",
+    "metadata": {
+      "section_title": "STATE INFORMATION DATA EXCHANGE SYSTEM (SIDES)",
+      "page_number": 44
+    }
+  },
+  {
+    "section_id": "KY-109",
+    "content": "ation requests, attach documentation when needed and receive a date-stamped confirmation of receipt. Now, employers and TPAs in states implementing the SIDES and SIDES E-Response systems can adopt an electronic standardized format to better anticipate and supply the data needed for UI information requests, reduce follow-up phone calls and streamline their UI response processes, reducing paper work while saving time and money.\nFor employers with a limited number of UI claims throughout the year, the SIDES E-Response website provides an easy and efficient portal for electronically posting responses to information requests from state agencies. SIDES E- Response is available in participating states to any employer or TPA with internet access.\nSIDES provides a more automated data-sharing and file-tracking interface between employers’ IT systems and state agency networks. SIDES is an integrated computer-to-computer interface designed for employers and TPAs that typically deal with a large volume of UI information requests.",
+    "metadata": {
+      "section_title": "STATE INFORMATION DATA EXCHANGE SYSTEM (SIDES)",
+      "page_number": 45
+    }
+  },
+  {
+    "section_id": "KY-110",
+    "content": "designed for employers and TPAs that typically deal with a large volume of UI information requests. SIDES is especially helpful to those that operate in multiple states.\n- 39 -\nSID DE Users Gue Separation Information Application, Response Enry Help win EResponse: o espond o your separaon fomat reque e s a ogin using e nsctons provice b y * ndles 2 Reited Fid l' Avalies nerea o Fedral Employer entston Numoer: o sensive FEINSEININ are case: state Employer entficaton Nuber o “entfcstion NumberiAcess Code (PIN): o Noe: Dashes anriner punciuaton shouk be oited om Numer ne Fesera Emplyer gentcaton Retum o h 4an £ Response Selecton Page ax\nBoth options are completely free of charge for employers and TPAs, although there will be internal IT system development costs to integrate SIDES. In addition, both options have multiple layers of security that are implemented to the highest standard, given the sensitive data exchanged between state UI agencies and employers and TPAs.",
+    "metadata": {
+      "section_title": "STATE INFORMATION DATA EXCHANGE SYSTEM (SIDES)",
+      "page_number": 45
+    }
+  },
+  {
+    "section_id": "KY-111",
+    "content": "Both systems offer an impressive array of benefits and have the potential to significantly improve the UI information exchange process. SIDES and SIDES E-Response give employers and TPAs an electronic way to simplify and streamline responses to UI information requests, saving time and money by:\n• eliminating delays related to paper mail delivery, and allowing more time to gather information and respond;\n• ensuring more complete information is provided through standard edits, validations and business rules, reducing time-consuming follow up phone calls;\n• reducing paper handling, staff time and postage costs; and\n• keeping UI tax rates lower by reducing improper payments.\nIn addition to the significant administrative cost savings offered by SIDES and SIDES E-Response, both options address two of the largest causes of UI overpayments: incorrect initial eligibility decisions (job separation issues) and working while receiving UI benefits.\n- 40 -\nMany UI overpayments, which could be prevented by receiving timely and accurate information, negatively affect employers’ bottom lines. With this in mind, using SIDES or SIDES E-Response will help employers keep UI rates as low as possible by providing accurate, quality and timely information to state UI agencies.",
+    "metadata": {
+      "section_title": "STATE INFORMATION DATA EXCHANGE SYSTEM (SIDES)",
+      "page_number": 46
+    }
+  },
+  {
+    "section_id": "KY-112",
+    "content": "When an unemployed worker files an initial claim, the Employer’s Notice of Initial Claim (Form UI-412A, shown below), is sent to you as notification that a claim has been filed. If the worker left your employ for any reason other than lack of work, you should complete the Employer’s Notice of Initial Claim (UI-412A) and submit your protest by paper documentation within ten days after the date of the first notice or twelve days after first notice if submitting the protest electronically.\nKetucki™\nCOMMONWEALTH OF KENTUCKY OFFICE OF UNEMPLOYMENT INSURANCE 275 E MAIN ST. - MAIL STOP 2CF\nP.O. BOX 452 FRANKFORT, KY 40602-0452 FAX (502) 564-9333\nNOTICE TO EMPLOYER OF CLAIM FOR UNEMPLOYMENT INSURANCE BENEFITS\nDate Processed: 6/3/2019 Mail Da 06/04/2019\nThis is notice that a claim for unemployment benefits has been filed by istng you asthe employer.",
+    "metadata": {
+      "section_title": "HOW WILL I KNOW IF A FORMER EMPLOYEE HAS FILED A CLAIM?",
+      "page_number": 46
+    }
+  },
+  {
+    "section_id": "KY-113",
+    "content": "19\nThis is notice that a claim for unemployment benefits has been filed by istng you asthe employer. The claimant has indicated they worked for you from 07/02/2018 through 05/31/201% and 1s iing the claim duc to Quit. The claimant has provided the fallowing explanation regarding the reason for claim filing EMPLOYER COULD NOT PROVIDE REASONABLE ACCOMMODATIONS FOR MY DISABILITY Instructions: 1f the claimant has been separated from the employment for any reason other than “Lack of Work™ or “Lay-off With Defnite Recali™, you are required to return this form in accordance with 787 KAR 1:070. Return this form within 10 days from this mailing to file your potest by mail or 12 days to file your protest electromically. Improper benefit payments that result from the employer’s failure to respond timely or adequately could result in charges or penaltics to the employer’s account (KRS 341.530(4), KRS 341 413(1XCB)) nt Employment Information: Last Day Worked.",
+    "metadata": {
+      "section_title": "HOW WILL I KNOW IF A FORMER EMPLOYEE HAS FILED A CLAIM?",
+      "page_number": 46
+    }
+  },
+  {
+    "section_id": "KY-114",
+    "content": "e employer’s account (KRS 341.530(4), KRS 341 413(1XCB)) nt Employment Information: Last Day Worked. Average Hours Worked Per Week: Detes Employed: from o Hourly Salaried | Other b Has the claimant received any separation pay? ) YES I NO Reason for Separation Payment: ( Severance Agreement 1) Wges in Lieu of Notice [ Other: Amount of Payment: Dates Covered by Pavment: from_ Lack of Work [ Strike/Lock-Out Reason tor Separation: (seiect the most appropriate) | Voluntary Quit 7 Full-Time to Part-Time Work eave of Absence Other 01 Discharge Termination [) Unable/Unavailable for Work (] Suspension The Emplover does not wih 10 provide any further infamat on Emploer’s Separation Statement: Employer Representative Printed Name Employer Representative Title Employer Representative Signature Date Employer KEIN Employer Phone Number Employer Fax Number Employer Email Address IMPORT ANTE! Este documento(s) contienc informacin importante sobee sus derechos. obligaciones y © beneficios de compensa n por desempleo.",
+    "metadata": {
+      "section_title": "HOW WILL I KNOW IF A FORMER EMPLOYEE HAS FILED A CLAIM?",
+      "page_number": 46
+    }
+  },
+  {
+    "section_id": "KY-115",
+    "content": "Es muy importante que usted entienda a informacion contenida en este documento. INMEDIATAMENTE: Sinecesario, por favor de ir 3 I oficina de Keatucky Career Center, f nacesita sststencin para traducic v entender a informacin contenida en ¢ documento(s) que recibi, puede encontrar su oficina local en ww kentuckycareercenter. com AT 00 1 0 O 1O RO W i Equal Education and Employment Opportunities M/F/D 11017071 49000804 Program coce 01 YE 08002020\nIn addition to the UI-412A, you may also receive a Fact-Finding Report, Employer Statement (UI-408). This form contains general questions regarding the worker's employment as well as specific questions regarding the reason the worker is no longer employed. The UI-408 should be completed and returned to the Office of Unemployment Insurance, along with the UI-412A.\n- 41 -",
+    "metadata": {
+      "section_title": "HOW WILL I KNOW IF A FORMER EMPLOYEE HAS FILED A CLAIM?",
+      "page_number": 47
+    }
+  },
+  {
+    "section_id": "KY-116",
+    "content": "Kentucki™\nFRANKFORT, KY 40602-0452 FAX (502) 564-9333\nEmployer, please complete and return this form to the address above. You have 10 days from this mailing to provide your response by mall or 12 days to file your response electronically.\nDate Mailed: 06/04/2019 Date Filed: 6/3/2019 UI - 408 Fact-Finding Reprt Employer Statement\nVoluntary Quit Health or Physical Conditions\nClaimant’s Name: Social Security #: Benefit Year End: 05/30/2020 Program Code: UL Claimant’s Rate of Pay: Per Date Hired: Hours Worked Per Day: Hours Worked Per Week Last Date Worked. . Immediate Supcrvisor 1 hereby make the following statements of my own free will and accord. If you do not provide information about this matter, we will be required to make a decision based on the information we have. The decision could result in charges to your employer reserve account.",
+    "metadata": {
+      "section_title": "COMMONWEALTH OF KENTUCKY OFFICE OF UNEMPLOYMENT INSURANCE 275 E MAIN ST. - MAIL STOP 2CF P.0. BOX 452",
+      "page_number": 47
+    }
+  },
+  {
+    "section_id": "KY-117",
+    "content": "d on the information we have. The decision could result in charges to your employer reserve account. Claimant’s Job Dties: 1. Did the claimant give notice? If yes, provide datc of notice. 2. What is the date notice gave as last day worked? 3. Provide the name and title of the person the claimant notified they were quitting. = 4. What reason did the claiman give for quitting this job? IMPORTANTE! Este documentos) ontiene nformacin importane sobre sus derochos. obligaciones y o beneficios de compensacion por desempleo. Es muy importaste que usied entienda s fnformacin contenida en este documento. INMEDIATAMENTE: Si neceario, por fvor de i 8 oficina de Kemuky Carosr Center, sf necesita ashncis pr traducie v entender a informacia coatenids en el docurmentofs) que recibid puede enconirar su oficina local en: www kentuckycareercencr.com\n00 A (A\n(00O A —\n(AR L0 AR [\nEqual Education and Employment Opportunities M/F/D\ncas\nProgam code 01\nYE\n0802020\nIf a claimant has a monetarily valid claim, and you are the chargeable employer, you will receive a Notice of Potential Benefit Charges (Form UI-412).",
+    "metadata": {
+      "section_title": "COMMONWEALTH OF KENTUCKY OFFICE OF UNEMPLOYMENT INSURANCE 275 E MAIN ST. - MAIL STOP 2CF P.0. BOX 452",
+      "page_number": 47
+    }
+  },
+  {
+    "section_id": "KY-118",
+    "content": "Upon receipt of this form, you will know the claim’s potential effect on your reserve account. This form is not a notice that the claimant has been or will be paid benefits. It only means that the claimant has satisfied the particular requirement relating to qualifying wages. If you received Form UI-412A, Employer’s Notice of Initial Claim, and responded, you do not need to protest upon receipt of Form UI-412. If the Notice of Potential Benefit Charges (UI-412) is your first notice, however, you must submit your protest by paper documentation within ten days after the date of the first notice or twelve days after first notice if submitting the protest electronically.\n- 42 -\nU-412 (rey 0804) Notice of Potential Ben efit Charges eee ks -o — Worker's Name Socal Security Date of WKLY Maximum of Local | Pre. Employer Clam Rate Number Mailing Date — Benefits Office | 6/ 09 9 04966 10 ¢ y 6 ] 30 06, 3/19\nEducation Cabinet Office of Unemployment Insurance 275 East Main Street, Floor East Frankfort, KY 40621-0001",
+    "metadata": {
+      "section_title": "COMMONWEALTH OF KENTUCKY OFFICE OF UNEMPLOYMENT INSURANCE 275 E MAIN ST. - MAIL STOP 2CF P.0. BOX 452",
+      "page_number": 48
+    }
+  },
+  {
+    "section_id": "KY-119",
+    "content": "This is not a determination of the claimant’s eligibility 1o recerve benefits. Please read the detwled mformotion below regarding this clam and your nght 1o protest\nThis “Notice of Potetial Benefit Charges” is 1o provide you with formation s 10 this cleim’s potential cffet upon your reserve aceount and your right fo protest such potential chorges.\nIf unable 1o identify by name as a former employee. check social security number as name chonges occu The total amount of benefits are potentially chargeable agast the reserve account of the mast recent employer for whom the clamant worked in each of ten (10) weeks. whether or not consecutive Benefits are charged proportionally if the former employee also eansed wages in his base period rom employment in federal civilian or miltary service in other states. i relation 10 wages amed from each.",
+    "metadata": {
+      "section_title": "I ant",
+      "page_number": 48
+    }
+  },
+  {
+    "section_id": "KY-120",
+    "content": "ployment in federal civilian or miltary service in other states. i relation 10 wages amed from each.\nNoa-profit organizations or employers who have clected rebursement m lieu of payment of contributions may not protest clans with respect to chargeabihiy However. if you fecl you have been incorrectly identified as the chargeable (last fen weeks) employer. you may write the office at the address shown above (o question your chargeability. Further. if it is determined that you or your agent was at fault for failing 1o respond timely or adequately to the separation mquir sent 1o the lst known address of record. then credit to your reimbursing employer account for overpayment sums collected from the claimant related to any improper benefit payment is subject 10 being removed or denied credit in accordance with KRS 341.415(1 Xc) and 341 530( Xs) and (b),\n“This is not & notice that the claimant has been or will be paxd benefits. 1t means only that the clawnant has satisfied that particular requirement of the several eligibility requirements 10 be met, which relates to qualitying wages.",
+    "metadata": {
+      "section_title": "I ant",
+      "page_number": 48
+    }
+  },
+  {
+    "section_id": "KY-121",
+    "content": "ar requirement of the several eligibility requirements 10 be met, which relates to qualitying wages.\nThis notice carries with it the right of protest only if it constitutes first notice to you of the filing of a claim by a former employee. If you have previously received (as the most recent employer for whom the claimant worked in each of ten (10) weeks, whether or not consecutive) form Ul-4 12A. Emplovers Notice of lnitial Claim, and did not respoud fo that notice within the 10-day period prescribed. your reserve account, under law, must be charged. 11 you did so respond. no farther protest is required )\n1f this notice does constitute {irst notice. you have 10 days from this maijing to file your protest by mail or 12 days 1o file your protest electranically It'this cloimant's separation from your employment was for any reason other than ck of Work. please check the applicable block(s) below and retum fhis notice to the address shown above,\nDtes of Employment From To Voluntary Quit [ Labor Dispute (strike) [Jn Vacation or Other Paid Leave Discharge for Misconduct J Unable to or Unavailable for work [ther (specify) (Signature Employer Representative) (Title) Comments. — — IMPORTANTE! Fste documentols) contiene informacion importante sobre sus derechos, obligaciones y o beneficios de compensacion por desempleo.",
+    "metadata": {
+      "section_title": "I ant",
+      "page_number": 48
+    }
+  },
+  {
+    "section_id": "KY-122",
+    "content": "Es muy importantc que usied entienda a informacion conenida en éste documents. INMEDIATAMENTE: 8i necesario. por favor de ir a la oficina de Kentucky Career Cerner, si necesita asistencia para traducir y entender la informacisn centenida en ¢l documentols) que recibi, puede encontrar su oficina local en: www.kentuck ycareercenter.com 10 A (0 [T m i [ Equal Education and Employment Opportunities M/F/D 11825550 4338530 Program code: 01 BYE 08062000\nIf the Office of Unemployment Insurance (OUI) conducts an investigation of a potentially disqualifying issue, and you are the employer affected, you’ll receive a Notice of Determination (UI-492) indicating OUI’s decision, which may relate to benefit rights, chargeability or both. The claimant or employer may appeal this decision (instructions on bottom of form) within 15 DAYS of the date the determination is mailed.\n- 43 -",
+    "metadata": {
+      "section_title": "I ant",
+      "page_number": 49
+    }
+  },
+  {
+    "section_id": "KY-123",
+    "content": "SSN: Commonwealth of Kentucky BYE: 04/11/2020 Claimant Ref #: Effective Date: 04/14/2019 Education and Workforce Development Cabinet | Claim: Ul Office of Unemployment Insurance Local Office: 56 Issue: Able & Available 275 East Main Street - 2EC Date Mailed: 05/06/2019 Detection Date: 04/19/2019 WFDI3VV Frankfort, Kentucky 40621 kee.ky.gov INTERESTED PARTIES",
+    "metadata": {
+      "section_title": "NOTICE OF DETERMINATION",
+      "page_number": 49
+    }
+  },
+  {
+    "section_id": "KY-124",
+    "content": "Date(s): 04/1412019\nThe Office has determined the claimant is not eligible (not payable) (o receive unemployment benefits in regard to the above listed issue.\nThe claimant is ineligible for benefits for the 1-week period from 04/14/2019 through 04/20/2019.\nStatutory Reference(s) which apply to the above issue(s): KRS 341.350 (5)\nFINDINGS\nKentucky Unemployment Insurance Law provides that, to be eligible for benefits, a worker must each of the following conditions: (a) physically ablc to work; (b) mentally able to work; (¢) availablc for suitable work, and (d) making a reasonable effort to obtain work as might be expected of a prudent person under like circumstances. The findings of fact iwnlo under like circumstances.\nAmending claim for one week that the claimant failed to complete a work search. The week ending 04/20/19 does not meet the qualifying standards.\nL",
+    "metadata": {
+      "section_title": "DETERMI Nl'",
+      "page_number": 49
+    }
+  },
+  {
+    "section_id": "KY-125",
+    "content": "a. Submut, in writing, the reason you disagree with this determination.\nb. The document must include claimant's name, social security number, and your contact information,\n<. The written appeal must be received or postmarked by 05/21/2019,\nd. Private postage meters shall not be used to determine postmark date.\nIf the due date of the appeal falls on a day that the office or post office is closed, the next day-the office or post office is open shall be considered the due date. KRS 341.420(2), 787 KAR 1:110 Section 1(1), and 787 KAR 1230\nUl Appeals Branch -275 East Main Street, 2EB, Frankfort, KY 40621, FAX 502-564-7850\nATTENTION CLAIMANT: CONTINUE TO CLAIM BENEFITS WHILE YOUR CLAIM IS UNDER APPEAL. IF THE DECISION IS IN YOUR FAVOR, BENEFITS MAY BE PAID ONLY FOR THE WEEKS PROPERLY CLAIMED.\nIMPORTANTE! Este documento(s) contiens informaci importants subre sus derechos. obligaciones y o beneficios de compensacidn por desempleo. Es muy importants que nsted catienda ls informacion contenida en cate documanto\n2-2523204928\nINMEDIATAMENTE: Si necesario. por favor de ir a la oficina de Kentucky Career Center. si necesita asistencia para traducir y catender informsacion contenid en ¢l documento(s) que recibi, pucde encontrar su oficina local en www ketuckyeareercentier com\n-\n- 44 -\nPage 1 of 1",
+    "metadata": {
+      "section_title": "Any party who disagrees with this determination should:",
+      "page_number": 50
+    }
+  },
+  {
+    "section_id": "KY-126",
+    "content": "The chargeable employer is the last employer the claimant worked for in each of 10 weeks whether or not consecutive back to the beginning of the workers’ base period.\nA Statement of Benefit Charges to Employer’s Reserve Account (UI-448-SM) is mailed to the employer at the end of the quarter. This statement lists all claimants that were paid benefits during that quarter which were charged to the employer’s reserve account. If no claimant received benefits chargeable to the employer’s reserve account then a Statement of Benefit Charges is not mailed to that employer for the quarter involved.\nUI-448-5M OMMONWEALTH OF KENTUCKY R.69) OFFICE OF UNEMPLOYMENT NSURANCE FRANKFORT, KENTUCKY 40621-0001 Keti™ STATEMENT OF BENEFIT CHARGES TO EMPLOYER'S Ul RESERVE ACCOUNT ACCOUNT NO. OID CODE FOR QTR. ENDED NAME WEK SECURITY OF PAD BENEFITS PAID THIS YOUR RATE *ADJUSTMENTS TOPRIOR CHARGED TO NO. CLAIMANT =nnce QUARTER QUARTER RESERVE QUARTER *THE CREDIT SYMBOL (CR) INDICATES A REVERSAL OF A PREVIOUS INCORRECT CHARGE IMPORTANT: SEE OTHER SIDE OF STATEMENT FOR INFORMATION\n- 45 -",
+    "metadata": {
+      "section_title": "WHEN WILL I BE CHARGED FOR BENEFITS, AND HOW WILL I KNOW?",
+      "page_number": 51
+    }
+  },
+  {
+    "section_id": "KY-127",
+    "content": "A tax-paying employer’s reserve account may be relieved of charges if the employer notifies the Office of Unemployment Insurance (OUI), in writing, of the alleged voluntary quit or discharge or of continuing employment within the specified time limit.",
+    "metadata": {
+      "section_title": "WHEN CAN I BE RELIEVED OF CHARGES?",
+      "page_number": 51
+    }
+  },
+  {
+    "section_id": "KY-128",
+    "content": "OUI checks benefit claimant records against the wage reports filed by employers, and the State Directory of New Hires, in a process called crossmatching. If we find a potential case of an individual drawing benefits for the same period of time that wages have been reported or drawing benefits subsequent to the new hire date, we mail a crossmatch audit form UI-203 to the employer reporting the wages or the hiring. As OUI attempts to ensure that all benefits are paid properly, and as part of our review, you may receive a “crossmatch\" audit form UI-203:\nRev\nEducation Cabinet Office of Unemployment Insurance Integrity Branch 275 EMain St. (2ED) Frankfort, KY 40821 Phone: (502)564-2387\nerpay Fraud Detection\nMailing Date. SSN: Case#:",
+    "metadata": {
+      "section_title": "WHAT IF A CLAIMANT GOES BACK TO WORK BUT CONTINUES TO RECEIVE BENEFITS?",
+      "page_number": 51
+    }
+  },
+  {
+    "section_id": "KY-129",
+    "content": "This agency is auditing an Unemployment Insurance claim filed by the individual named on this form. Please provide information for all past weeks Listed on the back of this form.\nFor the purpose of Unemployment Insurance, wages are considered to be earned during the week the work s performed. regardless of when the claimant is paid for the work. A benefit week begins on Sunday and ends the following Saturday. Please enter the gross wages earned for the claimant during the week(s) specified on the UI 203.\nIf your payroll is in a form other than a calendar week (Sunday to Saturday), please make the necessary calculations to ensure that wages shown on the form are for the calendar week and represent the period for which wages were earned, not paid. Please enter the individuals gross wages for the week and show the total hours worked each day of the week in the appropriate box.",
+    "metadata": {
+      "section_title": "Employer Instruct",
+      "page_number": 51
+    }
+  },
+  {
+    "section_id": "KY-130",
+    "content": "ross wages for the week and show the total hours worked each day of the week in the appropriate box. Please identify Vacation, Holiday, Sick Pay, Wages in Lieu, Severance Pay, Pension and/or Other. Ifno wages were eamed, enter “None in the gross wages space.\nU-203 s the agency’s way of safeguarding the employers reserve account. By completing this audit form you will be enabling us to prevent possible fraud. If fuure weeks are reflected on this form, information should be provided only up to the current week. Please do not hold the form until the future weeks expire. Sign, date and return the UI 203 in the enclosed envelope within 10 davs of the mailing date on the form.\nWage audits are our most effective method of detecting Unemployment Insurance Fraud. If the claimant referenced above has never worked for you or if the social security mumber listed does not correspond to the one you have for the individual, please indicate on the form and refum to us.",
+    "metadata": {
+      "section_title": "Employer Instruct",
+      "page_number": 51
+    }
+  },
+  {
+    "section_id": "KY-131",
+    "content": "not correspond to the one you have for the individual, please indicate on the form and refum to us. Your efforts will help us maintain the integrity of the Kentucky Unemployment Insurance Program\nTE: COMPLETION OF THIS FORM IS REQUIRED ER KENTUCKY PLOYMENT COMPE ATION REGULATION 787 KAR ND KRS 341.190.\n¥ W HAVE THE OPTION TO PR E THE RESPONSE TO THIS FORM ELECTRONICALLY. PLEASE VISIT OUR WEBSITE AT https: /kewes.ky.g \"OR ADDITI INFORMATI AND TO SIGN UP FOR THESE SERVICES.\nPlease do not fax, mail only to the address shown above. No attachments accepted.\n[MPORTANTE! Este documento(s) contiens informacion importante sobre sus derechos, obliZaciones y0 beaeficios de Compensacion por desempleo. Es muy importante que usted entienda la informacién contenida en este documento.\nINMEDIATAMENTE: Si necesita asistencia para traducir y entender informacién contenida en el documento(s) que recibi llame al 502 564-2387.\n- 46 -\n100 1 O ] UI-203 Mailing Date: Claant: Social Security Number 1 Dates of employment © 4 Select pay period wsed If ot than regular wages, plesse (Fit Day to Last Day woked) ] pecify by checking the speopete Pay Pe Dase: <otu below 2.",
+    "metadata": {
+      "section_title": "Employer Instruct",
+      "page_number": 52
+    }
+  },
+  {
+    "section_id": "KY-132",
+    "content": "ges, plesse (Fit Day to Last Day woked) ] pecify by checking the speopete Pay Pe Dase: <otu below 2. Rate of pay pes hoo: 0 Sems Mothly: V= Vacaticn 3. Reason for separation (select coe). Pay Period Endiag Date: H Hotday Pay Peiod Eag Date S-SickPay 0 Lackof Work 0 Qut 0 Dichuge 0 B WL - Wages' Liew of otice 0 Layoffwith defiiterecall within 12 wees Day Pay Period Ends SV - Severance Pay 0 Oter P-Pesica O O (pleae explai) | Hours Worked o svinlswprlo]sv | B ——— 11 PREPARED BY Exployer Representative Tide: Teleboe m L 1w | [ Ll\nInternet Response Module for Employers (IRME) provides employers the opportunity to receive and respond to the numerous quarterly Wage Audit Notices (WAN) they receive in the mail electronically via the internet at https://kewes.ky.gov. WANs are sent to employers to obtain information from employers regarding earnings which may have been unreported or underreported by claimants.",
+    "metadata": {
+      "section_title": "Employer Instruct",
+      "page_number": 53
+    }
+  },
+  {
+    "section_id": "KY-133",
+    "content": "tion from employers regarding earnings which may have been unreported or underreported by claimants. IRME is accessible via the employer website. Here the wages may be posted directly into our audit reporting and tracking system. Non-compliant (bi-weekly, monthly, etc.) wages can be automatically prorated into compliant (Saturday week-end date) format for review and validation by the employer. In addition, employers have the ability to electronically create a copy of the completed WAN for their records. As an employer, you may now respond to WAN via the employer website by accessing the tab titled “Wage Audit Response”.\n- 47 -\nMOonwe Ky.gov Office of Unemployment Insurance Kentuc Career Center Career Training Employer Tax Information Links Contact Us Login Home / Submit Quarterly Report Kentucky's Unemployment Insurance Self-Service Web Employer Registration TPA Registration Employers may perform the following main actions: Close Employer Account Request a Refund « Submit quarterly tax reports over the Internet through either an on-screen form or a file upload option Retrieve information about the Kentucky Unemployment Insurance program Pay by EF T/Credit Card « Pay taxes by Electronic Funds Transfer (EFT) Address Update - Establish a new Unemployment Insurance Account Report Misclassification or Fraud Claim Separation Response (SIDES) Wage Audit Response (UI-203) 2019 Updates and Changes Empl uments 2019 Contribution Rate Notices were mailed out on December 1, 2018. 2019 Contribution Rates are set based on Rate Schedule A.",
+    "metadata": {
+      "section_title": "Employer Instruct",
+      "page_number": 53
+    }
+  },
+  {
+    "section_id": "KY-134",
+    "content": "tices were mailed out on December 1, 2018. 2019 Contribution Rates are set based on Rate Schedule A. This is the lowest rate schedule since 2003. Site Enhancements and Electronic Raporting 2019 Contribution Rates will be reduced by an additional 0.075% for the SCUF assessment. Your Contribution Rate Notice should display a “Ul Rate™ based on your calculated Reserve Ratio, an “Adjusted Ul Rate” from the SCUF reduction, and a “SCUF Rate\" that is set at 0.075%. Please utilize the Adjusted Ul Rate and the SCUF Rate when calculating the total amount due on your quarterly repert filings. 2019 Taxable Wage Base per worker will increase by $300 to $10,500 per vorker. Please be sure to make this adjustment prior to filing your 1st quarter 2019 report during April 201. ° Kentucky employers are eligible to claim the full EUTA credit of 5.40% when filing your 2018 IRS 940 Forms in January 2019. This will reduce your FUTA contribution rate to 0.60% (6.00% - 5.40%).",
+    "metadata": {
+      "section_title": "Employer Instruct",
+      "page_number": 53
+    }
+  },
+  {
+    "section_id": "KY-135",
+    "content": "RS 940 Forms in January 2019. This will reduce your FUTA contribution rate to 0.60% (6.00% - 5.40%). The FUTA taxable wage base remains at $7,000 per worker. Important Notice Regarding Contribution Rates During the 2018 Legislation Session, the General Assembly enacted the Service Capacity Upgrade Fund (SCUF), through HB 487, Section 139. Per KRS 341.243, all contribution rates beginning with the 3rd quarter of 2018 shall be reduced by 0.075%, in order to implement SCUF. There is no increase or decrease in the total amount of tax you will pay. This reduction will divert 0.075% of the contributions that would have been applied to your employer reserve account, and apply to SCUF. In addition, you will not be able to claim SCUF payments on your Federal Unemployment Tax filings. Below is an example of how your 2018 reporting periods will change: T W i v balinad mi in b fav h A ad And a o8 AA in T A r 1\nMOonwe Ky.gov Kentuc Office of Unemployment Insurance Career Center Career Training Employer Tax Information Links Contact Us Login Home / IRME Account Login Submit Quarterly Report Employer Registration IRME Account Login TPA Registration Close Employer Account Request a Refund *KEIN or TPA number Pay by EF T/Credit Card *Password Address Update Report Misclassification or Fraud Claim Separation Response (SIDES) Wage Audit Response (UI-203) Forgot your password? or Change your password Employer Documents Note: please enter the 8 or 9 digit Kentucky Employer Identification Number (KEIN) or Third Party Administrator Number (TPA) as shown on your report without spaces.",
+    "metadata": {
+      "section_title": "Employer Instruct",
+      "page_number": 53
+    }
+  },
+  {
+    "section_id": "KY-136",
+    "content": "tion Number (KEIN) or Third Party Administrator Number (TPA) as shown on your report without spaces. KEIN Examples Site Enhancements and Electronic Raporting\nPolicies Security Disclaimer Accessibility Ketudkiy™ © 2019 Commonwealth of Kentucky. Al rights reserved. Kentucky.gov\n- 48 -\nel ogout AN ON POINT TECHNOLOGY SOLUTION Wage Audit Notice Entry [ AccowntWmber Jfoo0 | Eoployerame ) ] me ] po [ J[Jpw | | Logout | Contact Us Copyright © 2018 On Point Technology, Inc. All Rights Resarved\nHelp AN ON POINT TECHNOLOGY SOLUTION Wage Audit Notice Entry Employer information endng Domens Firs Name | LastName | nt | Page | View | EnterWages | HUGHES 10/30/2018 03/26/2017 09/30/2017 MCKAY LEWIS 10/30/2018 10/30/2018 03/26/2017 037262017 09/30/2017 09/30/2017 Enter Enter POYNTER I 10/30/2018 03/26/2017 09/302017 ! e | Enter II LYONS 10/30/2018 03/26/2017 09/30/2017 SIMMONS SCOTT 10/30/2018 10/30/2018 03/26/2017 03/26/2017 09/30017 09/30/2017 Enter HARRIS 10/30/2018 03/26/2017 09/30/2017 View TODD 10/30/2018 03/26/2017 09/302017 | OBRYAN [ 10018 | 03261017 | SMITH 10/30/2018 03/26/2017 09/30017 09/30/2017 1 [ Vew [ Enter | Enter [ BRANDLE l 10/30/2018 | 037262017 7 View Enter ALCORN 10/30/2018 03/26/2017 09/302017 View Enter [ BRITTON 10/30/2018 03/26/2017 09/30/2017 [ MASTERSON VEIRS 10/30/2018 10/30/2018 03/26/2017 037262017 09/30/2017 7 Vi View Enter Enter SOUTHERLAND 10/30/2018 03/26/2017 09/302017 l Enter I LINTON 10/30/2018 03/26/2017 09/30/2017 Enter Page|12345678910. r Help | Logout | Contact Us\nThese crossmatch audits are very important in detecting improper benefit payments.",
+    "metadata": {
+      "section_title": "Employer Instruct",
+      "page_number": 54
+    }
+  },
+  {
+    "section_id": "KY-137",
+    "content": "COMPLETING AND RETURNING THE UI-203 (EITHER BY PAPER OR ONLINE THROUGH IRME) GREATLY ASSISTS US IN DETECTING FRAUDULENTLY CLAIMED BENEFITS AND ENSURING THAT YOUR ACCOUNT IS CHARGED CORRECTLY. Even if the benefits are not being charged to your account, overpayments can cause all employers to pay higher taxes. If you receive a crossmatch audit, please be sure to fill in wages paid.\nNOTE: Kentucky does not subscribe to “The Work Number.” Therefore, employers and third party administrators who use the site must still complete the UI203 (by paper or electronically) with information requested by the Office of Unemployment Insurance.\n- 49 -",
+    "metadata": {
+      "section_title": "Employer Instruct",
+      "page_number": 55
+    }
+  },
+  {
+    "section_id": "KY-138",
+    "content": "Yes. Although it is not possible to thoroughly investigate every claim, our quality control program conducts random audits of claims and uses the results to detect incorrect payments and improve the overall quality of the benefit process. Investigations are conducted involving wage audits and work search verification. If your company is selected to participate, you will receive a letter like the one below along with a Benefit Accuracy Measurement (BAM) Form 13A. Your cooperation with these audits assist us is verifying the claims are properly paid or denied and that wages are accurately reported. If you have questions about an investigation, you can contact the Benefit Accuracy Measurement team at UIBAM@ky.gov or 502-564-2369.\n) oy",
+    "metadata": {
+      "section_title": "DO YOU FOLLOW UP ON CLAIMS TO SEE IF THEY WERE PROPERLY PAID?",
+      "page_number": 55
+    }
+  },
+  {
+    "section_id": "KY-139",
+    "content": "FFICE OF UNEMPLOYMENT INSURANCE\nCONTROL BRANCH 275 EAST MAN STREET - 2CF FrANKFOT, KY 40621 PHONE 502-564-2369 Fax 502-564-4746\n01/01/2019\n275 E Main St Office of Unemployment Insurance Frankfort, KY 40621\nnl XXX-XX-6789 h 201906-01\nTo Whom It May Concern\nThe Kentucky Division of Unemployment Insurance, Benefit Accuracy Measurement Program, conducts surveys on unemployment insurance claims to help us determine the correctness of prior decisions that determined claimant's eligibil for unemployment insurance benefits. This is required by the U.S. Department of Labor and under the KRS 341.190. granted by Kentucky\nThe claim of the above-referenced individual, who was previously employed by your c selected for review. The dlaim was not selected because we have reason to suspect th order for us to properly evaluate this claim, it is necessary for us to obtain informat cnsemm Please to: salary, overtime, bonuses, etc.) pak 1 0/01/2015 and 01/05/2019. .",
+    "metadata": {
+      "section_title": "EDUCATION AND WORKFORCE DEVELOPMENT CABINET DEPARTMENT OF WORKFORCE INVESTMENT",
+      "page_number": 55
+    }
+  },
+  {
+    "section_id": "KY-140",
+    "content": "obtain informat cnsemm Please to: salary, overtime, bonuses, etc.) pak 1 0/01/2015 and 01/05/2019. . Also, please complete the sur documentation fully and retumn.\nYour appreciated. Please complete all questions and return via e- 01/02/2019 at 12:00 PM EST.\nShould you have any questions concerning this request, please contact me immediately\nThank You,\nBenefit Accuracy Measurement Investigator Phone: 502-564-2369 x 3494 Direct: (502) 782-3494 Fax: 502-564-4746 Attachments\nWWW.KENTUCKYCAREERCENTER.COM\nKentuc Career Center\nAx Eu\n13 (1 urement Empl 10 Claimant Hired on ol Separad « Last Day Worked prior 10 1l Stes worked Lst three veaes? Chier 35N or N\\ Ye sed whie amploved m No If Yes, it Clmant provided 9 mployment - us Cizen ] =Alien Authorized 10 Work Ahen gbility Yenticanon Informanon aw ful Permancar Resicdent Payro waey Circle answer 1ly, Weekly, Pay Period begins on what thay ot the week? Pay Day 1 o what dav Biee y.",
+    "metadata": {
+      "section_title": "EDUCATION AND WORKFORCE DEVELOPMENT CABINET DEPARTMENT OF WORKFORCE INVESTMENT",
+      "page_number": 55
+    }
+  },
+  {
+    "section_id": "KY-141",
+    "content": "Semi-Monthly, Monhiy. Chmmission Add ends on whar day O Yes Recall Status? O Na Does clamar, ave codl cighies Ove 1£Ye\" check the pe: No Cunt ervely oyal e O unon Company Lon Rate of |) employeds Date [ Company Policy L Coher Canteact e Agreement Type of work (Check all thatapply) Faliie [ Pace Tune [ Con workes [ Feded [ Miliey [ Seasonly Claimant Job itle CHECK SEPARATION TYPE: || Quu Fired or Disclaed / Permanent lavoll Reduciion In Force Leorary lavor 11l working, / Relirenent Leve o Absence / Orher (Expliin Below) Explain separations exceprt lack of work/ layoff. id you receive a notice of claim (UI-412A or other notice)? Yes [] No [] IFES,” return i? Yes [ No[\nIf wages were for any time period afeer las day worked, lease complete the following\nLY PE OF PAY S AMOUNT # OF WEEKS DATES COVERBL m V Acced Vacation Lost Doy Ped lolday Sick Commission %, Honng Wigs in Lieu of Notce —— Severance , Separanon Pay Penion - nbuion plan® - 1ER\" dad he clman conlab [ —— |\nUL-BAN-13 & 15E Revised 07,\n012)\nInformation obtamed by: O E-AIL J aX\ns O IN PERSON PHONE\n- 50 -",
+    "metadata": {
+      "section_title": "EDUCATION AND WORKFORCE DEVELOPMENT CABINET DEPARTMENT OF WORKFORCE INVESTMENT",
+      "page_number": 56
+    }
+  },
+  {
+    "section_id": "KY-142",
+    "content": "Investigations are performed on all fraud tips. If you have information that someone is improperly receiving benefits, report this to the Fraud Section at (502) 564-2387 or you can submit an anonymous tip at www.kcc.ky.gov.",
+    "metadata": {
+      "section_title": "WHAT CAN I DO IF I THINK A CLAIMANT IS RECEIVING BENEFITS FRADULENTLY?",
+      "page_number": 56
+    }
+  },
+  {
+    "section_id": "KY-143",
+    "content": "In addition to quality control and fraud detection efforts, the integrity of the UI Program is further protected by internal security measures designed to provide the maximum security against internal fraud and ensure computer security.",
+    "metadata": {
+      "section_title": "INTERNAL SECURITY",
+      "page_number": 56
+    }
+  },
+  {
+    "section_id": "KY-144",
+    "content": "We expect the claimant to repay the improperly paid benefits. We use several methods to collect overpayments, including:\n1. Kentucky income tax refunds and federal income tax refunds are intercepted annually on individuals with outstanding overpayments;\n2. Criminal charges may be filed and pursued in court. Unemployment fraud is a Class D felony if found guilty;\n3. Liens may be filed against real and personal property;\n4. Civil action may be initiated for collection of unpaid overpayments;\n5. Future benefits may be reduced and the balance applied to the overpayment;\n6. Interest is imposed monthly on the balance of benefits paid as a result of false statements, misrepresentation, or concealment of a material fact, if not repaid within one year from the date that the claimant is notified of the overpayment;\n7. We may enter into agreements with other states and the U.S. Department of Labor for the purpose of intercepting benefits paid on claims in other states or federal unemployment programs. Employer reserve accounts are credited for the amount of benefits that are overpaid.\n- 51 -",
+    "metadata": {
+      "section_title": "WHAT HAPPENS TO THE CLAIMANT IF BENEFITS ARE OVERPAID?",
+      "page_number": 57
+    }
+  },
+  {
+    "section_id": "KY-145",
+    "content": "A worker is not eligible for benefits for the period covered by the back pay award. Therefore, his claim will be treated as overpaid and the Office of Unemployment Insurance will recover the overpayment from the award.",
+    "metadata": {
+      "section_title": "WHAT HAPPENS IF A WORKER IS AWARDED BACK PAY FOR A PERIOD WHEN HE/SHE HAS ALSO RECEIVED BENEFITS?",
+      "page_number": 57
+    }
+  },
+  {
+    "section_id": "KY-146",
+    "content": "Maybe. Filing Unemployment Insurance (UI) mass electronic claims (E-claims) is easy and is less time for the employer, the employee, and the Office of Unemployment Insurance. To participate in E-claims, affected workers must have a recall date to work within four (4) calendar weeks. In addition, your company must have a workforce of at least 100 workers and at least 25 employees must be included in the layoff.\nTo receive more information, you will need to contact our E-claims team in the Quality Control Branch at UIeclaims@ky.gov or 502-564-2369. This email is dedicated to E-claims. You should contact us at least four weeks prior to your layoff period to ensure information is submitted in a timely fashion and your mass employer filed claim can be processed.\n- 52 -",
+    "metadata": {
+      "section_title": "CAN I FILE A MASS UNEMPLOYMENT INSURANCE CLAIM FOR MY EMPLOYEES?",
+      "page_number": 58
+    }
+  },
+  {
+    "section_id": "KY-147",
+    "content": "Yes. Practically every action of OUI affecting an employer or a worker may be appealed for review by an impartial referee or hearing officer. Appeals from benefit determinations may be made by either the employer or the claimant and are heard by an Appeals Branch referee. If either party is dissatisfied with the decision of the referee, a further appeal may be filed with the Unemployment Insurance Commission, and thereafter, through the courts.\nAppeals for tax determinations (employer-employee relationship, liability determinations, tax rate, notices of assessments, etc.) are filed directly with the Unemployment Insurance Commission. Parties who are dissatisfied with a decision of the Commission may continue their appeals through the Franklin County Circuit Court.\nThe chart below summarizes the steps in the appeals process. Please pay particular attention to the number of days specified for each type of appeal - FILING YOUR APPEAL ON TIME IS ESSENTIAL FOR PROTECTING YOUR APPEAL RIGHTS. Remember that appeals from claims must be filed from the very first notice you receive.",
+    "metadata": {
+      "section_title": "IF I DISAGREE WITH A DECISION OF THE OFFICE OF UNEMPLOYMENT INSURANCE (OUI), CAN I APPEAL?",
+      "page_number": 58
+    }
+  },
+  {
+    "section_id": "KY-148",
+    "content": "• Employer’s Notice of Initial Claim (UI-412A): submit your protest by paper documentation within ten days after the date of the first notice or twelve days after first notice if submitting the protest electronically.\n• Notice of Potential Benefit Charges (UI-412): submit your protest by paper documentation within ten days after the date of the first notice or twelve days after first notice if submitting the protest electronically (if first notice received).\n• Notice of Adjusted Determination (UI-492): appeal to referee, file within 15 days of mailing date of determination\n• Referee’s decision: appeal to UI Commission, send letter stating intent to appeal, file within 15 days of mailing date of referee decision\n• UI Commission Order: appeal to Circuit Court in county where claimant was employed, file within 20 days of mailing date of UI Commission order",
+    "metadata": {
+      "section_title": "BENEFITS",
+      "page_number": 58
+    }
+  },
+  {
+    "section_id": "KY-149",
+    "content": "• Notice of Tax Determination (Liability, Tax Rate, Assessment, Employer-Employee Relationship, Successorship, etc.): appeal to UI Commission, send letter stating intent to appeal, file within 20 days of mailing date of tax determination\n• UI Commission Order: appeal to Franklin Circuit Court, file within 20 days of mailing date of UI Commission Order\n- 53 -",
+    "metadata": {
+      "section_title": "TAX",
+      "page_number": 59
+    }
+  },
+  {
+    "section_id": "KY-150",
+    "content": "KRS 341.430 (2) informs that an appeal to a tax determination may be filed by an employing unit within twenty (20) days after such a determination was mailed to the employing unit’s last known address (address of record). Therefore, to ensure receipt of your appealable documents, it is important that you (the employer) keep the Office of Unemployment Insurance (OUI) informed of any status changes in your business, including your correct address of record. Such status updates may be provided in writing to OUI.\nThe party filing the appeal must do so within the number of days specified on the Appeals Rights Chart (see previous page) from the mailing date of the decision being appealed. APPEALS MUST BE MADE IN WRITING AND MUST INCLUDE THE SOCIAL SECURITY NUMBER OF THE CLAIMANT (if applicable) or employer KEIN if a tax determination.",
+    "metadata": {
+      "section_title": "HOW DO I FILE AN APPEAL?",
+      "page_number": 59
+    }
+  },
+  {
+    "section_id": "KY-151",
+    "content": "A letter to the Appeals Branch or to the UI Commission stating the intent to appeal is sufficient. Appeals may be addressed as below:\nFor Benefits determinations send appeals to: For Tax Determinations send appeals to either: UI Appeals Branch UI Tax Enforcement Branch 275 East Main St, 2E 275 East Main St, 2E-H Frankfort, KY 40621 Frankfort, KY 40621 Fax (502) 564-7850 Fax (502) 564-5590 OR UI Commission 275 East Main St, 2W Frankfort, KY 40621 Fax (502) 564-3562\nThe appealing party may withdraw an appeal by informing the UI Appeals Branch, UI Tax Enforcement Branch, or UI Commission, in writing. If you withdraw your appeal, the determination becomes final and there is no further right to appeal.",
+    "metadata": {
+      "section_title": "HOW DO I FILE AN APPEAL?",
+      "page_number": 59
+    }
+  },
+  {
+    "section_id": "KY-152",
+    "content": "NOTE: The comments below refer to appeal hearings involving both an employer and claimant; however, the process for appeals to the UI Commission on tax-related issues is essentially the same.\nThe referee will decide the appeal solely on the testimony and documents submitted at the hearing. The Appeals Branch (or UI Commission) will keep a recording of the proceeding for future proceedings. However, the hearing will not be kept indefinitely; it will only be kept until the time limits for appeal have lapsed. Therefore, you should be fully prepared to present your case at the hearing, and to present all your evidence in an orderly manner.\nBe on time, as the referee has other cases to hear, and a delay may cause your case to be rescheduled or to be submitted on the facts already presented. Continuance will be granted only in cases of emergency or other compelling reasons such as claimant’s inability to attend due to current employment; medical emergence; death of a family member, or acts of God.\n- 54 -",
+    "metadata": {
+      "section_title": "IMPORTANCE OF THE HEARING",
+      "page_number": 60
+    }
+  },
+  {
+    "section_id": "KY-153",
+    "content": "The employer and the claimant (when applicable) should attend the hearing. Any witness who testifies on behalf of the claimant or employer should have personal knowledge of the events in question.\nHearings may be scheduled in person, but most are by teleconference in order to provide the earliest hearing date. If a hearing is scheduled by teleconference, and you have any documents or written materials which you want the referee to consider in this hearing, send them immediately to the UI Appeals Branch or the UI Commission at the address on the top of the “Notice of Hearing.” You must also send a copy of these documents to the other party (if applicable). Failure to send a copy to the other party could result in the referee denying entry of the material or the case being continued to a later date.",
+    "metadata": {
+      "section_title": "WHO SHOULD ATTEND THE HEARING?",
+      "page_number": 60
+    }
+  },
+  {
+    "section_id": "KY-154",
+    "content": "Be sure to keep a copy of these documents for your own use at the hearing. Be sure to include the social security number of the claimant (when applicable) if sending any documentation or communication.\nAttorneys or other duly authorized agents of their own choosing may represent the claimant and the employer, but this is not required. The referee will assist both parties at all times to bring out facts that will be helpful in properly presenting their cases.\nAn officer who regularly performs in a managerial capacity for a corporation or partnership who is a party to an appeal may represent the corporation or partnership at the hearing. He or she may testify, ask questions to all witnesses, object, make motions, inspect exhibits and summarize his or her case.",
+    "metadata": {
+      "section_title": "WHO SHOULD ATTEND THE HEARING?",
+      "page_number": 60
+    }
+  },
+  {
+    "section_id": "KY-155",
+    "content": "The claimant or employer should bring all reports and records that might prove his or her case, such as records of absences, doctor’s statements, information concerning pay rate, previous warnings, etc. In tax determination hearings, the employer should bring all business records related to the determination under appeal. Witnesses should be prepared to answer all questions. Subpoenas for witnesses or records may be issued prior to the hearings, if necessary. Requests for subpoenas must be sworn statements setting forth the name and address of the party to be subpoenaed, the information the party may present at the hearing, and the need for the information.",
+    "metadata": {
+      "section_title": "WHAT INFORMATION SHOULD YOU GIVE AT THE HEARING?",
+      "page_number": 60
+    }
+  },
+  {
+    "section_id": "KY-156",
+    "content": "Each party (claimant and employer) has these rights:\n1. To testify in his or her own behalf.\nDUl\n2. To be represented by an individual of his or her own choosing.\n3. To present documents and records regarding the case.\n4. To have his or her own witnesses testify.\n5. To question opposing parties and witnesses.\n6. To explain or rebut evidence against him or her.\n- 55 -",
+    "metadata": {
+      "section_title": "YOUR RIGHTS AT THE HEARING",
+      "page_number": 61
+    }
+  },
+  {
+    "section_id": "KY-157",
+    "content": "The referee has the sole authority for the conduct of the hearing and will swear in all parties and witnesses before they begin to give testimony. In conducting the hearing, the appeals referee will:\n1. Explain the issues and the meaning of terms the parties do not understand.\n2. Explain the order in which persons will testify. Generally, in voluntary quit cases the claimant testifies first. When the case concerns the discharge of a claimant or a labor dispute, the employer generally testifies first.\n3. Assist parties in asking questions of other witnesses.\n4. Question parties and witnesses to obtain necessary facts.\n5. Determine on his or her own motion or the request of a party whether testimony and documents being offered should be received and considered.\n6. Require parties to give a proper background or foundation for secondary evidence, documents and opinion testimony.\nFollowing the close of the hearing, the referee is not allowed to discuss any matter with either party. The written decision is based solely on testimony and evidence presented at the hearing.",
+    "metadata": {
+      "section_title": "CONDUCT OF THE HEARING",
+      "page_number": 61
+    }
+  },
+  {
+    "section_id": "KY-158",
+    "content": "The decision will be mailed to the parties promptly. The decision will set forth the facts found from the evidence presented, the reasons for the decision and the decision itself. If you appeal a benefit determination, you will receive a referee decision:\n- 56 -\nAD# 1872175 A Ss# XXX-XX-5589 Lo# 75 Mailed 06-12-19 APPELLANT\nJOHN DOE",
+    "metadata": {
+      "section_title": "THE DECISION",
+      "page_number": 62
+    }
+  },
+  {
+    "section_id": "KY-159",
+    "content": "Office of Unemployment Insurance Appeals Branch 275 East Main Street 2-EB Frankfort KY 40621-0001\nREFEREE DECISION\nAPPELLEE\nACME\nKeudki™\nEFFECTIVE DATE\n12-23-18\nAPPEAL FILED\n05-21-19\nDATE OF HEARING\n06-11-19\nSTATEMENT OF THE CASE: The claimant appealed a determination dated May 10, 2019, finding the claimant voluntarily quit suitable work without good cause attributable to the employment and ruling the claimant disqualified from receiving benefits from March 17, 2019, until the worker has worked in each of ten weeks, consecutive or not, and has earned ten times the weekly benefit rate in covered employment. The employer was awarded relief from charges to its reserve account.\nISSUE: Whether the claimant was discharged for misconduct or dishonesty or voluntarily quit suitable work without good cause attributable to the employment.",
+    "metadata": {
+      "section_title": "Education and Workforce Development Cabinet",
+      "page_number": 62
+    }
+  },
+  {
+    "section_id": "KY-160",
+    "content": "t or dishonesty or voluntarily quit suitable work without good cause attributable to the employment.\nAPPEARANCES: The claimant and the employer did not appear.\nDECISION: The determination is affirmed. The claimant voluntarily quit suitable work without good cause attributable to the employment and is disqualified. The employer’s reserve account is relieved of charges.\nREASONS: 787 KAR 1:110 provides that the referee shall summarily affirm a determination if the appellant fails to appear and prosecute the appeal. The claimant is the appellant. The determination’s ruling is allowed to stand.\nUl Appeals Referee\nIMPORTANTE! Esic documento(s) contien informacion (mportante sobre sus derechos, obligaciones y /o beneficios de compesacin desempleo. Es muy npartante que usted entienda |a informacion contensda en este documento\nINMEDIATAMENTE: Si necesario, por favor de it a a oficina de Kentucky Career Center. 51 necesita asistencia pera traducir ¥ entender informacion contenida en el documento(s) que recibid, puede encontrar su oficing Jocal en. www kentuckycareercenter com\nIf you appeal a referee decision on a benefit issue to the UI Commission, the Commission will decide the case based upon the record of the hearing before the Appeals Referee.",
+    "metadata": {
+      "section_title": "Education and Workforce Development Cabinet",
+      "page_number": 63
+    }
+  },
+  {
+    "section_id": "KY-161",
+    "content": "The UI Commission does not conduct an additional hearing. However, under its authority, the UI Commission may remand the case to the Appeals Branch for the taking of additional testimony or evidence.\n- 57 -\nIf you appeal a tax-related determination, or if you appeal a referee decision to the UI Commission, you will receive a Commission Order:\nCO# 143597A SS# XXX-XX-5311 LO# 56\nAPPELLANT\nJANE DOE\nAD# 19-70136 A REC'D 04-29-19 AB\nMAILED 06-06-19 DIS A COUNTY JEFFERSON",
+    "metadata": {
+      "section_title": "Education and Workforce Development Cabinet",
+      "page_number": 63
+    }
+  },
+  {
+    "section_id": "KY-162",
+    "content": "APPELLEE\nACME",
+    "metadata": {
+      "section_title": "COMMONWEALTH OF KENTUCKY KENTUCKY UNEMPLOYMENT INSURANCE COMMISSION FRANKFORT",
+      "page_number": 63
+    }
+  },
+  {
+    "section_id": "KY-163",
+    "content": "The claimant appeals from a referee decision mailed April 12, 2019, which held benefits were not payable from January 27, 2019, through the duration of the subsequent period of unemployment, on a finding of discharge for reasons of misconduct connected with the employment. An overpayment of $2,745.00 was established on the claim. The employer’s reserve account was relieved of charges.",
+    "metadata": {
+      "section_title": "ORDER AFFIRMING",
+      "page_number": 63
+    }
+  },
+  {
+    "section_id": "KY-164",
+    "content": "The claimant was employed by the employer in Shelbyville, Shelby County, Kentucky, beginning in September 2014. The claimant last worked for the employer on January 18, 2019, as a caretaker for horses earning $450.00 per week in full-time employment. The employer discharged the claimant on February 1, 2019, due to unsatistactory attendance.\nThe employer has no formal attendance policy but it expects employees to be at work when they are scheduled. Employees are to notify the employer prior to the start of their shift if they are going to be late or absent.\nThe claimant was absent for unknown reasons on October 12, 2018, January 3,4, 15,29, and 31,2019. The claimant was tardy for unknown reasons on December 17 and 26, 2018, and January 12 and 28, 2019. The claimant also left work early on January 28, 2019.",
+    "metadata": {
+      "section_title": "FINDINGS OF FACT",
+      "page_number": 63
+    }
+  },
+  {
+    "section_id": "KY-165",
+    "content": "The employer met with the claimant to give her verbal warnings and explain to her that her attendance was important. Sometime in January 2019, the claimant gave notice that she was going to need to quit due to family issues and her last day would be March 1, 2019. The claimant had not been calling the employer to let them know she would be late or absent prior to her shift start. This was reemphasized to the claimant as it was necessary to provide proper care to the horses.\nThe claimant’s notice of quitting did not have anything to do with her termination. The employer needed the claimant at work to educate the staff about her duties prior to her leaving. Had her attendance been satisfactory she would not have been terminated during the notice period. The employer discharged the claimant on February 1, 2019, due to unsatisfactory attendance.\n- 58 -",
+    "metadata": {
+      "section_title": "FINDINGS OF FACT",
+      "page_number": 64
+    }
+  },
+  {
+    "section_id": "KY-166",
+    "content": "CITY TELEPHONE FAX NUMBER STREET ADDRESS\nBowling Green (270) 746-7425 (270) 746-7825 803 Chestnut Street\nCovington (859) 292-6666 (859) 292-6675 1324 Madison Avenue\nElizabethtown (270) 766-5115 (270) 766-5183 233 Ring Road\nHazard (606) 436-3161 (606)435-6039 412 Roy Campbell Drive\nHopkinsville (270) 889-6509 (270) 889-6599 110 Riverfront Drive\nLexington (859) 233-5940 (859) 225-5106 1050 Goodwin Avenue\nLouisville (502) 595-4003 (502) 595-4623 600 West Cedar Street\nMorehead (606) 783-8525 (606) 783-8529 1225 US 60W Suite 106\nOwensboro (270) 686-2502 (270) 687-7268 3108 Fairview Drive\nPaducah (270) 575-7000 (270) 575-7008 416 South Sixth Street\nPrestonsburg (606) 889-1772 (606) 889-1775 686 North Lake Drive\nSomerset (606) 677-4124 (606) 677-5642 410 East Mount Vernon\n- 59 -\nUNEMPLOYMENT INSURANCE FIELD AUDITORS\nThe Ul Field Auditors are another resource you may contact with UI Tax questions.",
+    "metadata": {
+      "section_title": "Please call your nearest local office whenever you need information or assistance with unemployment insurance matters.",
+      "page_number": 65
+    }
+  },
+  {
+    "section_id": "KY-167",
+    "content": "NCE FIELD AUDITORS\nThe Ul Field Auditors are another resource you may contact with UI Tax questions. Below are the cities and phone numbers (and fax numbers, if available) of auditors based on residence or\nfield office.\nCity Phone Fax Ashland (606) 254-6215 Bowling Green (270) 746-7440 (270) 746-7864 Campbellsville (270) 465-0085 Corbin (606) 401-7417 Corbin (606) 261-2118 Covington (859) 292-6797 (859) 292-6675 Crestwood (502) 495-3636 Elizabethtown (270) 766-5019 (270) 766-5183 Georgetown (502) 316-0049 Glasgow (270) 427-9293 Harlan (502) 229-3654 Harlan (606) 621-5100 Harrodsburg (859) 325-8364 Hickory (270) 705-8856 Hillview (502) 742-3808 Lawrenceburg (502) 604-5140 Leitchfield (270) 200-0518 Lexington (859) 270-9601 Lexington (859) 382-7405 Lexington (859) 523-3846 Louisville (502) 473-9998 Louisville (502) 495-3535 Louisville (502) 594-8006 Louisville (502) 595-4892 (502) 595-4436 Madisonville (270) 871-0023 Madisonville (270) 245-7459 Midway (502) 642-3887 Morehead (606) 356-2526 Mount Sterling (859) 432-1038 Murray (731) 642-4968 Owensboro (270) 687-7215 (270) 687-7080 Paducah (270) 575-7060 (270) 575-7008 Pikeville (606) 253-3180 Prestonsburg (606) 889-1754 (606) 889-1775 Prestonsburg (606) 889-1779 (606) 889-1775 Robinson Creek (606) 213-0231 Somerset (606) 677-4124 (606) 677-4119 Taylorsville (502) 939-7475 Vanceburg (606) 541-4665 Winchester (859) 490-8741\n- 60 -",
+    "metadata": {
+      "section_title": "Please call your nearest local office whenever you need information or assistance with unemployment insurance matters.",
+      "page_number": 65
+    }
+  }
+]

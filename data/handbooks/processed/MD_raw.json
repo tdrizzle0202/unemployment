@@ -1,0 +1,915 @@
+[
+  {
+    "type": "Image",
+    "element_id": "ff2a1e87604484c9042d483ed0e7da21",
+    "text": "Mar Iad DEPARTMENT OF LABOR",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "42b2dbaa4966e7a16c56a247594ade7b",
+    "text": "General Overview of Regular Unemployment Insurance Program",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "364a368a67f7c391f7c1e0fc2e650ef9",
+    "text": "Each state administers its own unemployment insurance (UI) program, which provides temporary ﬁnancial support to eligible individuals. In Maryland, this is referred to as the regular UI program.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf",
+      "parent_id": "42b2dbaa4966e7a16c56a247594ade7b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "67313c2dd6cce4984ab0ace765572d2c",
+    "text": "1. How do I apply?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6abb098450404f530e43b9ff9ac77caf",
+    "text": "Apply for UI beneﬁts (called ﬁling an initial claim) in the U.S. state or district where you worked, not where you live. You may ﬁle:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf",
+      "parent_id": "67313c2dd6cce4984ab0ace765572d2c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3add53550c2f67c3bd67bbf649f99449",
+    "text": "● in the online BEACON UI system (beacon.labor.maryland.gov/);",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "beacon . labor . maryland . gov",
+          "url": "http://beacon.labor.maryland.gov",
+          "start_index": 35
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf",
+      "parent_id": "67313c2dd6cce4984ab0ace765572d2c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e2d01e6be363ddbc2db3eb7031473ddc",
+    "text": "● by phone at 667-207-6520 (Monday to Friday, 8:00 a.m. to 4:00 p.m.).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf",
+      "parent_id": "67313c2dd6cce4984ab0ace765572d2c"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5eca6d5b605d346675bdffbd0419f3f1",
+    "text": "2. How do I know if I am eligible?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bdff390374699b0d98081443b8d84a1f",
+    "text": "After you ﬁle an initial claim, you will receive a beneﬁt determination (in BEACON and through your preferred communication method, which you select when you ﬁle an initial claim).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf",
+      "parent_id": "5eca6d5b605d346675bdffbd0419f3f1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dd4ca41ab7ff2aaca9e7f5a3d3a50a2c",
+    "text": "Your determination will include whether you are eligible for UI beneﬁts, your weekly beneﬁt amount, etc. If you disagree with the determination, you may ﬁle an appeal. For details, see the UI Appeals page (at MDunemployment.com).",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "UI Appeals",
+          "url": "https://www.labor.maryland.gov/uiappeals/",
+          "start_index": 192
+        },
+        {
+          "text": "MDunemployment . com",
+          "url": "http://mdunemployment.com",
+          "start_index": 213
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf",
+      "parent_id": "5eca6d5b605d346675bdffbd0419f3f1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fcd0846f0424d15c03c44aeb4778aa6e",
+    "text": "Eligibility Requirements",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "775aa01604c4a3c20432c1a7d35baf27",
+    "text": "To be determined eligible for regular UI, you must:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf",
+      "parent_id": "fcd0846f0424d15c03c44aeb4778aa6e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cead290fc528b60777472a108b8f6406",
+    "text": "● Be unemployed through no fault of their own;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf",
+      "parent_id": "fcd0846f0424d15c03c44aeb4778aa6e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "72f2c6f5635463e9b138617e99c20ffa",
+    "text": "● Be able to work and available for work without restrictions;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf",
+      "parent_id": "fcd0846f0424d15c03c44aeb4778aa6e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "157bfea143af5ddd78f5f5d511475e14",
+    "text": "● Actively search for work; and,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf",
+      "parent_id": "fcd0846f0424d15c03c44aeb4778aa6e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a0aad963d91de54240c1fb93bdeff8c6",
+    "text": "● Have earned sufﬁcient wages in a one-year period (standard or alternate base period).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf",
+      "parent_id": "fcd0846f0424d15c03c44aeb4778aa6e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ac7d32437e5a7e1fdf4d988b5f7d29cf",
+    "text": "○ For the standard base period, we go back 18 months and look at the wages you earned in the ﬁrst year of the 18-month period.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf",
+      "parent_id": "fcd0846f0424d15c03c44aeb4778aa6e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7f99f54e97f0f87cc69cd86781a0deca",
+    "text": "○ If you are not eligible for UI under the standard base period, the alternate base period may be used. For the alternate base period, we look at your wages in a one-year period (the four most recently-completed calendar quarters).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "maryland.pdf",
+      "parent_id": "fcd0846f0424d15c03c44aeb4778aa6e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a6a5db3800a83eb4b7a745fe4a261486",
+    "text": "NOTE: If you are receiving pay that is deductible from UI beneﬁts (vacation, holiday, or special pay, severance, retirement/pension pay, or back pay/damages), your beneﬁts may be delayed or denied.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf",
+      "parent_id": "fcd0846f0424d15c03c44aeb4778aa6e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ec132a3912daa01be16615ffc320d926",
+    "text": "See the Claims Filing - Initial Claims FAQs (at MDunemployment.com) for more.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Claims Filing - Initial Claims",
+          "url": "http://labor.maryland.gov/employment/claimfaq.shtml",
+          "start_index": 8
+        },
+        {
+          "text": "MDunemployment . com",
+          "url": "http://mdunemployment.com",
+          "start_index": 48
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf",
+      "parent_id": "fcd0846f0424d15c03c44aeb4778aa6e"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "363ec6cc577ca09752753cd74fdc64a3",
+    "text": "3. How much will I receive?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f47b9f52a50f0fac9457c2e9689145cc",
+    "text": "Your weekly beneﬁt amount (WBA) is based on your earnings in the base period and ranges from $50 to $430 in Maryland. If eligible, you may receive up to 26 weeks of regular UI beneﬁts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf",
+      "parent_id": "363ec6cc577ca09752753cd74fdc64a3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "81ba5527d8715f43bbca15d6b230c998",
+    "text": "In some circumstances (e.g., working part-time while collecting UI beneﬁts) you may receive partial payments. Certain payments (such as wages, severance, etc.) are deductible from your UI beneﬁts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf",
+      "parent_id": "363ec6cc577ca09752753cd74fdc64a3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "77b6dc5b2a936190bcdecc01041aa2c3",
+    "text": "NOTE: UI beneﬁts are taxable. You will choose to have federal tax, state tax, both, or no taxes withheld from your UI beneﬁts (when you ﬁle an initial claim). You can also update your withholding status in BEACON.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf",
+      "parent_id": "363ec6cc577ca09752753cd74fdc64a3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "37c3c606e2e8fac9c519be0104557ccf",
+    "text": "4. What are Maryland’s regular UI requirements?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "071b9ed86274c5ec7f16e13768123b62",
+    "text": "After you apply, you must meet weekly eligibility requirements to receive UI beneﬁt payments, which include:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf",
+      "parent_id": "37c3c606e2e8fac9c519be0104557ccf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "94e37148de84c4491a5822b565929122",
+    "text": "● be able and available for work (without undue restrictions) and meet work search requirements (see question #6);",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "work",
+          "url": "https://labor.maryland.gov/employment/clmtguide/uiworksearchrequirements.pdf",
+          "start_index": 5
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf",
+      "parent_id": "37c3c606e2e8fac9c519be0104557ccf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cf78350cdeb1f905d13447e8264045b6",
+    "text": "● ﬁle weekly claim certiﬁcations on time (see question #5);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf",
+      "parent_id": "37c3c606e2e8fac9c519be0104557ccf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "36d9362ddc8e8cad4aa7c00bcd909d9f",
+    "text": "o acceptsuitablework whenoffered |",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf",
+      "parent_id": "37c3c606e2e8fac9c519be0104557ccf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "39cd256809baebae9baf80608a7d0f76",
+    "text": "● accept suitable work, when offered;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf",
+      "parent_id": "37c3c606e2e8fac9c519be0104557ccf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f6f88436a8601aa1346c12b9569b881c",
+    "text": "● be available and contact the Maryland Division of Unemployment Insurance and/or the Maryland Division of Workforce Development and Adult Learning (DWDAL) when instructed;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf",
+      "parent_id": "37c3c606e2e8fac9c519be0104557ccf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f813d3ff3b852a07ece1f6db0d3cb940",
+    "text": "○ You may be selected for a Reemployment Services and Eligibility Assessment (RESEA) workshop.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf",
+      "parent_id": "37c3c606e2e8fac9c519be0104557ccf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2b6f4ee56dd40bd3db21061b7abe25cb",
+    "text": "● report payments on your weekly claim certiﬁcation (any wages, self-employment income, tips, commission, ﬁrst payment from a pension you did not previously report, etc.). Do not report Social Security income.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf",
+      "parent_id": "37c3c606e2e8fac9c519be0104557ccf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b78a7a8d22ff6b89b616887b05b70cff",
+    "text": "NOTE: If you receive certain payments (severance, vacation, holiday, bonus, back pay or damages, or other special payments) after ﬁling an initial claim, report it by calling a claims agent at (667) 207-6520.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf",
+      "parent_id": "37c3c606e2e8fac9c519be0104557ccf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "f133c9cb6d4555ef0777293c9984f158",
+    "text": "Maryland Labor - DUI Communications",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a195ddf32ec867ffaa5a22f4071d643c",
+    "text": "2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "maryland.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9729a91ac04c01fd9fa1ab369fbbde7b",
+    "text": "5. How do I ﬁle a weekly claim certiﬁcation?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7fc929da56b6d84012d2dd3f28fa83d2",
+    "text": "A weekly claim certiﬁcation is your request to be paid UI beneﬁts for a particular week of unemployment. You may ﬁle via:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf",
+      "parent_id": "9729a91ac04c01fd9fa1ab369fbbde7b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ecba69878e1ad0be2edb08950ab5e5b6",
+    "text": "● BEACON;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7f4b454e52bbd0c49072513ec2615fe4",
+    "text": "○ Select Weekly Certiﬁcation from the left menu, and follow the prompts. You must ﬁle between 12:01 a.m. Sunday and 11:59 p.m. Saturday, (after the week for which you are requesting payment).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf",
+      "parent_id": "ecba69878e1ad0be2edb08950ab5e5b6"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a6f259a49b992c56f2fde94aa0dedec0",
+    "text": "● Interactive Voice Response (IVR) phone system (call 410-949-0022);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf",
+      "parent_id": "ecba69878e1ad0be2edb08950ab5e5b6"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a252ff83f41463cec3c6064982af1785",
+    "text": "● MD Unemployment for Claimants mobile app (download from iOS App Store or Google Play Store).",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "iOS",
+          "url": "https://apps.apple.com/us/app/id1509526247",
+          "start_index": 59
+        },
+        {
+          "text": "App Store",
+          "url": "https://apps.apple.com/us/app/id1509526247",
+          "start_index": 0
+        },
+        {
+          "text": "Google Play Store",
+          "url": "https://play.google.com/store/apps/details?id=gov.maryland.ui.claimant",
+          "start_index": 13
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf",
+      "parent_id": "ecba69878e1ad0be2edb08950ab5e5b6"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "623e079c02eeabc60e13f3b8490c3419",
+    "text": "6. What are the work search requirements?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "01d994aaec9587210c8a876de2e00279",
+    "text": "To fulﬁll the work search requirements, you must:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf",
+      "parent_id": "623e079c02eeabc60e13f3b8490c3419"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "068985e39638d0b801d0b4d6e9400f4a",
+    "text": "|",
+    "metadata": {
+      "links": [
+        {
+          "text": "mwejobs . maryland . gov",
+          "url": "https://mwejobs.maryland.gov/",
+          "start_index": 1
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf",
+      "parent_id": "623e079c02eeabc60e13f3b8490c3419"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "590e5c2e4b64ee21069d5a6e0e4d332a",
+    "text": "● register in the Maryland Workforce Exchange (MWE) system (mwejobs.maryland.gov);",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "mwejobs . maryland . gov",
+          "url": "https://mwejobs.maryland.gov/",
+          "start_index": 1
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf",
+      "parent_id": "623e079c02eeabc60e13f3b8490c3419"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "64098747422124ca5118ffd1cdc2b60a",
+    "text": "● upload or create a résumé in MWE, make the résumé viewable to employers, and maintain an up-to-date résumé;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf",
+      "parent_id": "623e079c02eeabc60e13f3b8490c3419"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9da3a8a8db00c836b005eb329803d20f",
+    "text": "○ After you register, check your MWE inbox frequently for weekly tasks you are required to complete. Failure to complete these tasks may result in a delay or denial of your UI beneﬁts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf",
+      "parent_id": "623e079c02eeabc60e13f3b8490c3419"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1d837be115b64ab2fcbbce36e744ecec",
+    "text": "● complete at least three valid reemployment activities each week, which must include at least one job contact (see Valid Reemployent Activities for Claimants page at MDunemployment.com); and,",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Valid Reemployent",
+          "url": "https://labor.maryland.gov/employment/uiaswreq.shtml",
+          "start_index": 49
+        },
+        {
+          "text": "Activities for Claimants",
+          "url": "https://labor.maryland.gov/employment/uiaswreq.shtml",
+          "start_index": 68
+        },
+        {
+          "text": "at",
+          "url": "https://labor.maryland.gov/employment/uiaswreq.shtml",
+          "start_index": 98
+        },
+        {
+          "text": "MDunemployment . com",
+          "url": "http://mdunemployment.com",
+          "start_index": 101
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf",
+      "parent_id": "623e079c02eeabc60e13f3b8490c3419"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c02aca12db0f8b7792557b7defbf7f7a",
+    "text": "○ keep a detailed weekly record of all completed job contacts and reemployment activities. You are strongly urged to use the MWE Job Contact and Reemployment Activity Log to keep this record.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf",
+      "parent_id": "623e079c02eeabc60e13f3b8490c3419"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e3482164627ff4e036db4a33aac707af",
+    "text": "○ Detailed work search instructions are available on the Maryland Work Search Requirements page (at MDunemployment.com).",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Maryland",
+          "url": "https://labor.maryland.gov/employment/uirex.shtml",
+          "start_index": 58
+        },
+        {
+          "text": "Work Search Requirements",
+          "url": "https://labor.maryland.gov/employment/uirex.shtml",
+          "start_index": 68
+        },
+        {
+          "text": "MDunemployment . com",
+          "url": "http://mdunemployment.com",
+          "start_index": 102
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf",
+      "parent_id": "623e079c02eeabc60e13f3b8490c3419"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "35b5c8dd1f9ff65edf747eefc31fe873",
+    "text": "See the Information for New Claimants page (at MDunemployment.com) to learn more. For questions, call 667-207-6520 (Monday to Friday, 8:00 a.m. to 4:00 p.m.).",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Information for New Claimants",
+          "url": "https://labor.maryland.gov/employment/new-filers.shtml",
+          "start_index": 8
+        },
+        {
+          "text": "MDunemployment . com",
+          "url": "http://mdunemployment.com",
+          "start_index": 47
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf",
+      "parent_id": "623e079c02eeabc60e13f3b8490c3419"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "9349e61baf8c8e427ebc91971e279342",
+    "text": "Maryland Labor - DUI Communications",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a92185094fa99098cb3fe406ab60b1e5",
+    "text": "3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "maryland.pdf"
+    }
+  }
+]

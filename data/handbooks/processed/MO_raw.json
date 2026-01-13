@@ -1,0 +1,1680 @@
+[
+  {
+    "type": "Title",
+    "element_id": "35dcc786a8b738a60729c91f5b3c1516",
+    "text": "InformatIon for Workers",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "37a288cbd04d2fad545ee4b5d0fb7ef0",
+    "text": "DIVISION OF EMPLOYMENT SECURITY",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "69cef4aebcc6e3fbd94aa9cbcb8d8c7c",
+    "text": "uinteract.labor.mo.gov",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b9c0af265dfd84e2c01f37243c495111",
+    "text": "What You Need to Know About Unemployment Insurance in Missouri",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "379080087bb06a23203245b161ee365c",
+    "text": "After filing your initial claim for unemployment benefits, follow the steps below. You must:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf",
+      "parent_id": "b9c0af265dfd84e2c01f37243c495111"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9a9e0864a8a827a18360fc9794e7a49a",
+    "text": "1. File a weekly request for payment after each week has ended, including the week in which you filed the initial claim. Unemployment weeks begin on Sunday and end midnight Saturday. File your weekly request for payment online anytime using UInteract.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf",
+      "parent_id": "b9c0af265dfd84e2c01f37243c495111"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fe20f3e8f0ff608d6d7839144af59efc",
+    "text": "When filing your weekly request for payment, have your user name and password ready. Do not share your password with anyone.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf",
+      "parent_id": "b9c0af265dfd84e2c01f37243c495111"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f5cc422f971b72ccf88f0cc9fb125ad8",
+    "text": "Report your total earnings before taxes for full, part-time and temporary work between Sunday and Saturday including any vacation, holiday, or Worker Adjustment and Retraining Noti fication (WARN) pay regardless of whether or not you have been paid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf",
+      "parent_id": "b9c0af265dfd84e2c01f37243c495111"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cab726a16f44bea6e1a07acfcce5747b",
+    "text": "If your total earnings do not exceed your weekly benefit amount, you may still be eligible for reduced benefits for the week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf",
+      "parent_id": "b9c0af265dfd84e2c01f37243c495111"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9a6d9ba6d520f23db9626ac73fc78674",
+    "text": "The weekly request for payment must be made within 14 days of the week ending date of the week you wish to request or the week will be denied.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf",
+      "parent_id": "b9c0af265dfd84e2c01f37243c495111"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c4bc6bf96bbf3f9857682952025d0c20",
+    "text": "If you regain full-time work, stop filing. Working and not reporting earnings is fraud and may have legal consequences.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf",
+      "parent_id": "b9c0af265dfd84e2c01f37243c495111"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4acb18f151745c77b2f0d0cfee277132",
+    "text": "2. Search for work. You are required to complete at least three work search activities each week unless directed otherwise. If you are a union member with a hiring or referral hall, contacting your hall for the required number of work search activities is acceptable. For more information about what is an acceptable work search activity, please visit labor.mo.gov/required-work-search.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "labor . mo . gov / required - work - search .",
+          "url": "https://molabor.uservoice.com/knowledgebase/articles/282930-do-i-need-to-search-for-work",
+          "start_index": 382
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf",
+      "parent_id": "b9c0af265dfd84e2c01f37243c495111"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2dc6230ddd444593fc6196d9da113811",
+    "text": "Keep your work search activity record up to date. Go to uinteract.labor.mo.gov and select Weekly Request For Payment } Enter Work Search Details for current week. The Work Search Activity Details screen displays. Click the Save button after each work search activity is entered. Failure to make three work search activities may result in the denial of benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "uinteract . labor . mo . gov",
+          "url": "https://uinteract.labor.mo.gov/benefits/home.do",
+          "start_index": 477
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf",
+      "parent_id": "b9c0af265dfd84e2c01f37243c495111"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "30f84a69740606ec0330cea471875c98",
+    "text": "3. Visit jobs.mo.gov at least once a month. You will receive a letter if you are required to participate in a Reemployment Services and Eligibility Assessment or to provide proof of identity. To reduce the time you will need to spend completing a Reemployment Services and Eligibility Assessment, you can go to app-jobs.mo.gov to pre-register in MoJobs prior to your appointment.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "jobs . mo . gov",
+          "url": "https://jobs.mo.gov/",
+          "start_index": 10
+        },
+        {
+          "text": "app - jobs . mo . gov",
+          "url": "https://app-jobs.mo.gov/vosnet/Default.aspx",
+          "start_index": 339
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf",
+      "parent_id": "b9c0af265dfd84e2c01f37243c495111"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8cfb7d4a59abae098e28f009758834e8",
+    "text": "At jobs.mo.gov you can create your resume and begin searching through thousands of jobs posted statewide. Follow @JobsMoGov on Twitter to see real time job postings.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "jobs . mo . gov",
+          "url": "https://jobs.mo.gov/",
+          "start_index": 3
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf",
+      "parent_id": "b9c0af265dfd84e2c01f37243c495111"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c6290ddb2cacffee32b31d506a177c6c",
+    "text": "Important Note: Failure to complete any of these requirements may result in denial of benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf",
+      "parent_id": "b9c0af265dfd84e2c01f37243c495111"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ffe19535db2c609c5b323aca5c83b299",
+    "text": "Contact Information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c84a183965a2747a4bae68b139ee39d4",
+    "text": "Regional Claims Centers (RCC)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "569bbb19b4b1469216631092044dfed6",
+    "text": "Jefferson City ..................................................... 573-751-9040 Kansas City ........................................................ 816-889-3101 Springfield .......................................................... 417-895-6851 St. Louis ............................................................. 314-340-4950 Outside Local Calling Area ............................... 800-320-2519 Fax Number ....................................................... 573-751-9730 P.O. Box 3915, Jefferson City, MO 65102",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e2efb6bbc6e8b798c38e131412686eda",
+    "text": "Automated Information available 24 hours a day.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8e89da7e722f5775509da62acc9ec287",
+    "text": "RCC representatives are available from 8 a.m. to 5 p.m. Central Time, Monday through Friday.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d16bbb58ff8b3876ba3264fb4b562a22",
+    "text": "UInteract - uinteract.labor.mo.gov",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "uinteract . labor . mo . gov",
+          "url": "https://uinteract.labor.mo.gov/benefits/home.do",
+          "start_index": 12
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6c46a35f5b82741ae269d123d0784b12",
+    "text": "Available 12:31 a.m. Sunday through 11:30 p.m. Saturday.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5ed110d0d1fe381a92044ad892a11b7f",
+    "text": "How to Qualify",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9439c2b3b4468d06ae300ac60c04fcb2",
+    "text": "You lose your job through no fault of your own OR quit for a valid reason related to the work or the employer.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "5ed110d0d1fe381a92044ad892a11b7f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1f989281d431ba3187d4ee5f8c1ede6c",
+    "text": "You must earn at least $2,250 (at least $1,500 during one of the calendar quarters, and at least $750 during the remainder of the year) from an insured employer during your base period. See below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "5ed110d0d1fe381a92044ad892a11b7f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "423a67fe8a64f5948e43f30c6ab7df21",
+    "text": "} AND your total base period wages must be at least 1.5 times your highest quarter wages.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "5ed110d0d1fe381a92044ad892a11b7f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6d1c6ca71385f4559131d3666278248c",
+    "text": "OR you must earn at least 1.5 times the taxable wage base during at least two of the four quarters.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "5ed110d0d1fe381a92044ad892a11b7f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fb87b060debc5f02b2aea00a3a498963",
+    "text": "Base Periods:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "45976c035acfec4758851ba4693eeec6",
+    "text": "If your claim Your base period is begins on a the prior twelve month Sunday between: period as shown: Jan. - March Oct. - Sept. April - June Jan. - Dec. July - Sept. April - March Oct. - Dec. July - June",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1aefb60f4f26f12948f60009f93ffb4d",
+    "text": "Special Notes:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "db3e1fd747b17fea658b0ed329b19dd9",
+    "text": "To remain eligible, you must report all wages earned each week, even if you will not be paid until later. This includes tips, commissions, bonuses, show-up time, military reserve pay, board, and lodging.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "1aefb60f4f26f12948f60009f93ffb4d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c45352d73e75cd9cd44c445c0998aaa4",
+    "text": "You must continue to look for and be able and avail- able for work each week, meaning no illness, injury, or personal circumstances that would keep you from working.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "1aefb60f4f26f12948f60009f93ffb4d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "877c8a2e4ea6d61f9e8db254b12469d6",
+    "text": "Refusing an offer of work may result in denial of ben- efits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "1aefb60f4f26f12948f60009f93ffb4d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "91a0b2b8450fa9d7266dd7d7ba94bccc",
+    "text": "If your income for the week is from self-employment or National Guard drill, contact DES to receive instruc- tions on how to file weekly requests for payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "1aefb60f4f26f12948f60009f93ffb4d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "098647eb7d99ab2c8ed72d644d5c87eb",
+    "text": "If you have earned wages in another state, worked for a federal employer, or had active military service in the last 18 months, you may be able to use these wages to help establish a claim or increase your weekly benefit amount (WBA) or maximum benefit amount (MBA). If you did not inform DES about these wages at the time you filed the initial claim, contact your Regional Claims Center (RCC) as soon as possible.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "1aefb60f4f26f12948f60009f93ffb4d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d7290c3ac8c3171e826496a955d923ac",
+    "text": "Any information provided during the claims applica- tion process may be subject to verification through computer matching programs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "1aefb60f4f26f12948f60009f93ffb4d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6354775e2eac377a15196916d39c7d0d",
+    "text": "Benefit Amount",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2de0800d83e613d425fa9a346b4c23a8",
+    "text": "Your WBA is four percent of the average of your two highest quarters during the base period (highest quarter + second highest ÷ 2 x 0.04 = WBA). Missouri’s max- imum WBA is $320.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "6354775e2eac377a15196916d39c7d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c88f782d4671abfd21ac2779954a9ce6",
+    "text": "Your MBA is the most you can receive in a benefit year. It is 20 times your WBA, or one-third of your base-period earnings, whichever is less. Wage credits each quarter are limited to 26 times your WBA.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "6354775e2eac377a15196916d39c7d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b0247d00088580a627d78cf9c24bb8a6",
+    "text": "Once eligible, Missouri’s regular state unemployment insurance program allows claimants to draw benefits until the benefit year ends (52 weeks) or they have exhausted their MBA.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "6354775e2eac377a15196916d39c7d0d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bbd282891f302df1442d025476bcec2f",
+    "text": "Ways to Receive Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dbf6fc068af43cfbd7c9c5a47fe1c922",
+    "text": "1. Direct Deposit: Money is sent directly to your check- ing or savings account. You can choose this method at any time by logging into UInteract and clicking Benefit Maintenance, then Update Claimant Profile.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "bbd282891f302df1442d025476bcec2f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9d5095a1b5c5d92aeb058ccd750f9d78",
+    "text": "2. Money Network® Debit Card: If you do not choose to use direct deposit, you will automatically receive your benefits on the Money Network® debit card. It will be mailed to you within 10 days.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "bbd282891f302df1442d025476bcec2f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3003233ef1980bdab356c422d87489ef",
+    "text": "When to Expect Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eca24db615397e6dc7bb43f4609d937f",
+    "text": "If the DES determines that you are eligible, you can expect payment within 18 - 22 days of your initial claim. Benefits will not always be paid on the same day each week, and the DES will not mail you a notice when benefits are paid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "3003233ef1980bdab356c422d87489ef"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f9e18c20a5ab2f58a8101ec78df1a6e4",
+    "text": "If you were separated from your job for any of the follow- ing reasons, the DES will conduct an investigation:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "3003233ef1980bdab356c422d87489ef"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "30ab80b58a79c3dfe33f4d6c4c831e3f",
+    "text": "Quit-Resigned",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "3003233ef1980bdab356c422d87489ef"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7a7cabee27fa226a87c23d1f5e8469e1",
+    "text": "Discharged-Fired",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "3003233ef1980bdab356c422d87489ef"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "695022dfffc545375f5552c2b86fc7b5",
+    "text": "Suspended",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "3003233ef1980bdab356c422d87489ef"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "57cfc7b0e6a87bd73fe7fc40b94da4c3",
+    "text": "Leave of Absence",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "3003233ef1980bdab356c422d87489ef"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "80ad2018d667094e849b81e5552b02b9",
+    "text": "Continue to file weekly requests for payment until the mat- ter is resolved.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "3003233ef1980bdab356c422d87489ef"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e294462292615c4944acd052eef6431c",
+    "text": "Tracking your Claim and Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9678d3d496ded9769c79a6aa936de779",
+    "text": "Log into UInteract } Inquiry } Benefits } Claimant/Claim Inquiry",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "e294462292615c4944acd052eef6431c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "32d2413d257c250f8494e47444acc662",
+    "text": "If payments are made directly to your checking or savings account, you must check with your financial institution to see when benefits may be available.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "e294462292615c4944acd052eef6431c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "853be132bd3a5bd3872e644fbfcd2360",
+    "text": "You can check your payment history using UInteract.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "e294462292615c4944acd052eef6431c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "86cf71e9eca259cb5c88d430035df666",
+    "text": "Payment information is normally available within two busi- ness days after you file your weekly request for payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "e294462292615c4944acd052eef6431c"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6111688c49b6dd0ceadab6ad1c366d8b",
+    "text": "The Appeal Process",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "48c04484332ff2d8a908a55308a26bcf",
+    "text": "You may be disqualified if you have been discharged for misconduct connected with work, quit for reasons not attributable to the work or your employer, or refused a suit- able work offer. You also may be ineligible due to insuffi- cient wages or not being able and available for work. You have a right to appeal any decision denying you benefits if you do not agree with the findings.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Missouri.pdf",
+      "parent_id": "6111688c49b6dd0ceadab6ad1c366d8b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "36d2e4dad560121a338a616384181825",
+    "text": "You will receive a Notice of Deputy’s Deter mination in the mail.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "6111688c49b6dd0ceadab6ad1c366d8b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cb9013207de54a0f848cad7cd6541e40",
+    "text": "You have 30 days to file an appeal. The determination will list the date by which you need to file your appeal and what filing methods are available to you. You may submit a signed, written statement, complete an appeal form (MODES-4607) online or pick up a form at a Missouri Job Center. You must file your appeal by mail, fax or online using UInteract. You cannot file an appeal by phone or email. Continue to file weekly requests for payment during the appeal process. You will not be paid for unrequested weeks if the decision is in your favor.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "6111688c49b6dd0ceadab6ad1c366d8b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "199f50289c8d93562c5eed92e0f1fc79",
+    "text": "Your employer also has the right to appeal if they dis- agree with a determination. You will receive notice if this happens. It is important that you participate in all hearings concerning your claim in order to give your testimony.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "6111688c49b6dd0ceadab6ad1c366d8b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "80eb2b3c5f06fca6cb3e1e20169b6d50",
+    "text": "Most appeal hearings are over the phone, but you have the right to an in-person hearing if you choose.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "6111688c49b6dd0ceadab6ad1c366d8b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "00d0566575b4f65e8a03f0921268bc49",
+    "text": "Overpayments and Fraud",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "af6c1ac17d6f7fbfebfeb4a8d697884c",
+    "text": "If you receive benefits to which you are not entitled, you must repay them, even if someone else made the mistake that caused the incorrect payment. DES will help you set up a payment plan to pay back these benefits. You may not be able to receive future benefits until you repay the overpayment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "00d0566575b4f65e8a03f0921268bc49"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5c4ad82cc3ec6d41a58e0064364dd317",
+    "text": "You are committing fraud if you misrepresent facts to receive payments. Fraud is punishable by cancelled bene- fits, penalties, and/or prison. DES may also garnish your wages or intercept your tax refund or lottery winnings.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "00d0566575b4f65e8a03f0921268bc49"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5449c2af68782106b929675ed04f4239",
+    "text": "Other Important Information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a522c68843aefce217990200dc17a259",
+    "text": "Unemployment benefits are paid 100 percent by Missouri employer taxes and are not deducted from workers’ wages.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "5449c2af68782106b929675ed04f4239"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5915be8d817d658262ae1839a4777efa",
+    "text": "Waiting Week – The waiting week is the first week you are eligible for benefits, but not paid. You must file a weekly request for payment for this week. You may receive com- pensation for the waiting week as the last payment on your regular claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "5449c2af68782106b929675ed04f4239"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8888862eb53f1b37229a4cf07dac3bf2",
+    "text": "Renewing Your Claim – Your claim for unemployment ben- efits will become inactive if you do not file a weekly request for payment within 28 calendar days (four weeks) from the end (Saturday) of the last week you requested payment. Your claim must be renewed or reopened if it becomes inactive. This must be done during the week you again became unemployed and before weekly requests for payment can be filed. Log into UInteract } File Unemployment Claim, to renew your claim. Your renewed claim will start on the Sunday of the week in which you filed the renewal. Begin filing your weekly request for payment after each week has ended, including the week in which you renew the claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "5449c2af68782106b929675ed04f4239"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0d68cad724550c5ea65ae1f366abab13",
+    "text": "Unsuitable Work – If you take a job that would be consid- ered unsuitable work as defined in the Missouri Employment Security Law, and quit within 28 days of the first day of work, you may not be disqualified.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "5449c2af68782106b929675ed04f4239"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "914e45ae0bd858691318fbe90f1e88dd",
+    "text": "Trade Adjustment Assistance – If you lost your job due to foreign trade, you may be eligible for assistance under the Trade Act from the U.S. Department of Labor. This includes training, training allowances, job search and relocation assis- tance, and other support services. Visit dol.gov/agencies/eta/ tradeact.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "dol . gov / agencies / eta /",
+          "url": "https://www.dol.gov/agencies/eta/tradeact",
+          "start_index": 294
+        },
+        {
+          "text": "tradeact .",
+          "url": "https://www.dol.gov/agencies/eta/tradeact",
+          "start_index": 316
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "5449c2af68782106b929675ed04f4239"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "90734776b221d18c7ae46a448c36e925",
+    "text": "Changing Your Address and Contact Information – Log into UInteract and select Update Address.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "5449c2af68782106b929675ed04f4239"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "56f3c2160205f8c1fd04e6e158894cb6",
+    "text": "You can change your mailing address, phone number, and email address online. You may also sign up to receive email notifications rather than mail. There may be a delay or denial of your unemployment benefits if DES does not have your correct mailing address on file.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "5449c2af68782106b929675ed04f4239"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a0da062e4e64f2073a3a9fad06f3487b",
+    "text": "Unemployment Benefits are Taxable – Log into UInteract } Update Payment Options",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "5449c2af68782106b929675ed04f4239"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f652a354f57b03328c39bde628786298",
+    "text": "Unemployment benefits are subject to federal and state income taxes. You can update your claim regarding Federal Income Tax withholding online. The Internal Revenue Service can furnish information on reporting and calculating the tax. The 1099-G Form for the prior calendar year can be printed by log- ging into UInteract and clicking View and Print 1099.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "5449c2af68782106b929675ed04f4239"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fd950e19b2de18d39cd8bfb6ba474dca",
+    "text": "Public Programs and Services",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c2596d23e92b40b745b06e190a0b2f96",
+    "text": "View a list of public programs designed to provide support to those in need such as child care assistance, utility assistance, free medical clinics, carpooling, and much more by visiting labor.mo.gov/DES/Claims/public_programs.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "labor . mo . gov / DES / Claims / public _ programs .",
+          "url": "https://labor.mo.gov/des/unemployed-workers/public-programs",
+          "start_index": 219
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "fd950e19b2de18d39cd8bfb6ba474dca"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b2e53276a163d621d685aebcc5cede5b",
+    "text": "Call your Missouri Job Center",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "08cb0b164fd41376c63516ad18504278",
+    "text": "Receive a free skills assessment, National Career Readiness Certificate, personal job search consultation, attend a workshop, and many other helpful services from your local Missouri Job Center. Register with Missouri’s premier job search service to find jobs available in your area - jobs.mo.gov.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "jobs . mo . gov .",
+          "url": "https://jobs.mo.gov/",
+          "start_index": 348
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "b2e53276a163d621d685aebcc5cede5b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e0ed2726b6c038049ecd4a6e2041b87d",
+    "text": "Equal Opportunity and the Law",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "be951341023428f422c81cec762d9997",
+    "text": "It is against the law for this recipient of Federal financial assistance to discriminate on the following bases: against any individual in the United States, on the basis of race, color, religion, sex (including pregnancy, childbirth, and related medical conditions, sex stereotyping, transgender status, and gender identity), national origin (including lim- ited English proficiency), age, disability, or political affilia- tion or belief, or, against any beneficiary of, applicant to, or participant in programs financially assisted under Title I of",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf",
+      "parent_id": "e0ed2726b6c038049ecd4a6e2041b87d"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c54d7a9a4fde2d3d318e152f1c480997",
+    "text": "MODES-INF-170-11-2 (08-22) AI",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "059008f629c895875b02753aa321ded9",
+    "text": "the Workforce Innovation and Opportunity Act, on the basis of the individual’s citizenship status or participation in any WIOA Title I-financially assisted program or activity.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "75c06b466bd92cc1a43aa3aa25fb5d33",
+    "text": "The recipient must not discriminate in any of the following areas: deciding who will be admitted, or have access, to any WIOA Title I-financially assisted program or activity; pro- viding opportunities in, or treating any person with regard to, such a program or activity; or making employment decisions in the administration of, or in connection with, such a program or activity.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f69d6e00cad8aef69379d5e671f040ce",
+    "text": "Recipients of federal financial assistance must take reasonable steps to ensure that communications with individuals with disabilities are as effective as communications with others. This means that, upon request and at no cost to the individual, recipients are required to provide appropriate auxiliary aids and services to qualified individuals with disabilities.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "11fab19b1daee8821057febd59083aa7",
+    "text": "What to do if you Believe you have Experienced Discrimination:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9d74531974a2e086fd988883208f7dc0",
+    "text": "If you think that you have been subjected to discrimination under a WIOA Title I-financially assisted program or activity, you may file a complaint within 180 days from the date of the alleged violation with either:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf",
+      "parent_id": "11fab19b1daee8821057febd59083aa7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "221b869666e73afed1823765c738d0f1",
+    "text": "Sara Seaver, Equal Opportunity Officer Department of Labor and Industrial Relations P.O. Box 510, Jefferson City, MO 65102-0510",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf",
+      "parent_id": "11fab19b1daee8821057febd59083aa7"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "7e557b99515d7b3c7ea7f30a19cf11be",
+    "text": "Phone: 573-751-1339 Fax: 573-751-3668 Email: EO@labor.mo.gov",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "EO @ labor . mo . gov",
+          "url": "mailto:EO@labor.mo.gov",
+          "start_index": 182
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ad8f89ae036f4a9aae418827d52dd6c4",
+    "text": "or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f12ac36221de48afc99a3600b1bf6f7b",
+    "text": "Director, Civil Rights Center (CRC)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "fda020d9715b1751b86730feb88ef23f",
+    "text": "U.S. Department of Labor",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "447dab68da34ed47d336aacf17cb0cd3",
+    "text": "200 Constitution Avenue NW, Room N-4123",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "996d4a088799d7c4c5cd661e1d0b7dc3",
+    "text": "Washington, DC 20210",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a9ac49eb9f4f8bda7282f1afb1127577",
+    "text": "or electronically as directed on the CRC website at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8e870e4fbcff7e4ba20712761d17ea48",
+    "text": "dol.gov/crc",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fed61d4b3e68434bbc6bb3c3bbb8d6ce",
+    "text": "If you file your complaint with the DES, you must wait until the DES issues a written Notice of Final Action, or until 90 days have passed (whichever is sooner), before filing with the CRC (see address above). If the DES does not give you a written Notice of Final Action within 90 days of the day on which you filed your complaint, you may file a complaint with CRC before receiving that Notice. However, you must file your CRC complaint within 30 days of the 90-day deadline (in other words, within 120 days after the day on which you filed your complaint with the DES). If the DES does give you a written Notice of Final Action on your complaint, but you are dissatisfied with the decision or resolution, you may file a complaint with CRC. You must file your CRC complaint within 30 days of the date on which you received the Notice of Final Action.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8e72d3e37ddbfabf5a13b156a49234e7",
+    "text": "For more information, review the Missouri Department of Labor’s equal opportunity policy at labor.mo.gov/EO.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "labor . mo . gov / EO .",
+          "url": "https://labor.mo.gov/eo",
+          "start_index": 93
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5e1e4f72567ffeb3c93d230d6b79ff33",
+    "text": "IMPORTANT: This process for complaints of discrimi- nation should not be used if you are appealing an eligibility or monetary determination to unemployment benefits. See The Appeal Process on page 2 or visit labor.mo.gov/ DES/Appeals/how_to_file_appeal.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "labor . mo . gov /",
+          "url": "https://labor.mo.gov/des/appeals/how-to-file-appeal",
+          "start_index": 215
+        },
+        {
+          "text": "DES / Appeals / how _ to _ file _ appeal .",
+          "url": "https://labor.mo.gov/des/appeals/how-to-file-appeal",
+          "start_index": 229
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "59cfa54886c1204bf3aa65d02afb5594",
+    "text": "IMPORTANT: If needed, call 573-751-9040 for assistance in the translation and understanding of the information in this document. ¡IMPORTANTE!: Si es necesario, llame el 573-751-9040 para asistencia en la traducción y entendimiento de la información en este documento. Missouri Division of Employment Security is an equal opportunity employer/program. Auxiliary aids and services are available upon request to individuals with disabilities. TDD/TTY: 800-735-2966 Relay Missouri: 711",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1cfb7664cddfbe24fc396d92173547fb",
+    "text": "The Privacy Act of 1974, as amended, and the Deficit Reduction Act require notification because you are being asked to furnish your SSN.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cccd056e657b403b6f0efe610376809b",
+    "text": "Your SSN is used under the authority of Chapter 288 of the Missouri Revised Statutes and 8 CSR 10-4.010 of Missouri regulation, and the Internal Revenue Code of 1986 [26 USC §§85, 6011(a), 6050B, and 6109(a)]. Your",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "06e4aa1faa9033fc81be4cee4ca0dc34",
+    "text": "Privacy Act of 1974",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e865dea94cef8478146f843986fd4880",
+    "text": "SSN will be used to report your unemployment benefits to the IRS as income that is potentially taxable. It will be used as a record for processing your claim, for statistical purposes, and to compare records with other state and federal agencies. The DES cannot file or process your claim for unemployment benefits if you do not provide your SSN.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf",
+      "parent_id": "06e4aa1faa9033fc81be4cee4ca0dc34"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d48388298ca0698272578a57654a03fe",
+    "text": "Information submitted to the DES by you or your current or former employer may be requested and utilized for other governmental purposes, including but not limit- ed to, verification of eligibility under other government programs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf",
+      "parent_id": "06e4aa1faa9033fc81be4cee4ca0dc34"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2610578e77abc433cff5c8eb53c06c75",
+    "text": "Your SSN will be verified with the Social Security Administration.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf",
+      "parent_id": "06e4aa1faa9033fc81be4cee4ca0dc34"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d8aef45aad54271da5ad15ce4df239a3",
+    "text": "MODES-INF-170-11 (08-22) AI",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "051853ce5a548ee4c8fd4bb273972d37",
+    "text": "Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Missouri.pdf"
+    }
+  }
+]

@@ -1,0 +1,6145 @@
+[
+  {
+    "type": "Image",
+    "element_id": "2ae49072052f4b4f1d04d40a80ddee77",
+    "text": "OF p 959 x r 28 % . L] i X T & T",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "cat"
+      ],
+      "page_number": 1,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "81e7c3fc0bbe89e74c419e36eb2bb3c7",
+    "text": "HANDBOOK ON UNEMPLOYMENT INSURANCE",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "452c2005298f1d26c31a6bd6bfab7037",
+    "text": "A GUIDE TO UNEMPLOYMENT BENEFITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "por",
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "hawaii.pdf",
+      "parent_id": "81e7c3fc0bbe89e74c419e36eb2bb3c7"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "c7f4ef645e53652985cfb49c63a6fea7",
+    "text": "S N = i = =4 1 ~ ~f = —— e @",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "dan",
+        "sqi"
+      ],
+      "page_number": 1,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "6e26c67304e4a593cb6b7931c0c0ac9f",
+    "text": "DLIR UID (05.2022)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7e480662255909c45997480e2c0817bf",
+    "text": "ENGLISH: Important! This document has important information about your unemployment compensation rights, responsibilities, and/or benefits. It is essential that you understand the information in this document. If you need help (free of charge) in understanding this document in your language, please call (833) 901-2272 or (808) 762-5751 and (833) 901-2275 or (808) 762-5752; or go to [https://labor.hawaii.gov/ui]. You can also contact the local offices listed below for assistance.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "242b3ff210816e43b2a01fec2d18574e",
+    "text": "________________________________________________________________________________________________________",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "69d4e0ce69e80236b4851a652c794ed4",
+    "text": "CHINESE (Simplified): 重要！本文件包含有关您的失业补偿权利、责任和/或福利的重要信息。理解本 文档中的信息非常关键。如果您需要帮助（免费）以您的语言理解本文档，请致电 (833) 901-2272 或 (808) 762-5751 和 (833) 901-2275 或 (808) 762-5752；或前往 [https://labor.hawaii.gov/ui/lep-chi] 。 您也可以联系下列当地办事处寻求帮助。",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "zho"
+      ],
+      "page_number": 2,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "919934a9eb2fec2cae32d1cada1098b2",
+    "text": "________________________________________________________________________________________________________",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "440c868b63d40baddd2ed6f2bb2f455a",
+    "text": "JAPANESE: 重要！この文書には、失業補償の権利、責任、および/または給付に関する重要な情報が含まれて います。この文書の情報をしっかり理解することが大事です。この文書を理解する上で、あなたの言語で無料サ ービスを必要とされる場合は、（833）901-2272 または（808）762-5751 および（833）901-2275 または （808）762-5752 までお電話ください。または [https://labor.hawaii.gov/ui/lep-jpn]にアクセスして下さい。 下記の地域事務所も支援を受け付けておりますので、お問い合わせください",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "jpn"
+      ],
+      "page_number": 2,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d4aab581749d8d97e5549010a984f1f8",
+    "text": "________________________________________________________________________________________________________",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a01849f9313102b495a82e3c492f4e54",
+    "text": "TAGALOG: Mahalaga! May mahalagang impormasyon ang (mga) dokumentong ito tungkol sa iyong mga karapatan sa kompensasyon sa kawalan ng trabaho, mga responsibilidad, at/o mga benepisyo. Mahalagang maintindihan mo ang impormasyon sa dokumentong ito. Kung kailangan mo ng (libreng) tulong para maintindihan ang dokumentong ito sa iyong wika, tumawag sa (833) 901-2272 o (808) 762-5751 at (833) 901-2275 o (808) 762-5752; o pumunta sa [https://labor.hawaii.gov/ui/lep-tag]. Maaari ka ring makipag-ugnayan sa mga lokal na tanggapan na nakalista sa ibaba para sa tulong.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "tgl"
+      ],
+      "page_number": 2,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7f780fe10abcdafe8ab62ca5d522d107",
+    "text": "________________________________________________________________________________________________________",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ab8444f04374ce6c4b066ff5c738d7fc",
+    "text": "ILOCANO: Nasken! Addaan nasken a damag daytoy nga dokumento maipanggep dagiti rebbeng a bayad para iti pannakaawan iti trabaho, responsibilidad, ken/wenno pagimbagan. Nasken a maawatam iti damag ditoy a dokumento. No masapolmo iti (libre a) tulong tapno maawatam daytoy a dokumento iti lengguahem, awagam iti (808) 762-5751 wenno (833) 901-2272 ken (833) 901-2275 wenno (808) 762-5752; wenno mapan iti [https://labor.hawaii.gov/ui/lep-ilo]. Mabalinmo pay a sarungkaran dagiti lokal nga opisina a nailista iti baba para iti tulong.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "tgl",
+        "ind"
+      ],
+      "page_number": 2,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "94eb619f5c87d4a95606b1ecc62772be",
+    "text": "________________________________________________________________________________________________________",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9c871873d8980261d7426d1347d0e4ac",
+    "text": "KOREAN: 중요! 본 문서(들)는 실업 보상 권리, 책임 및/또는 혜택에 관한 중요한 정보를 포함하고 있습니다. 이 문서에 포함된 정보를 이해하는 것이 중요합니다. 문서를 모국어로 이해할 수 있도록 도움(무료)이 필요하시다면, (833) 901-2272 또는 (808) 762-5751, (833) 901-2275 또는 (808) 762-5752 로 연락해주십시오; 또는 [https://labor.hawaii.gov/ui/lep-kor] 으로이동합니다. 또한 아래의 현지 사무소에 연락해 도움을 받을 수 있습니다.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "kor"
+      ],
+      "page_number": 2,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3eb45c90b65c7c5098036c63e6ffe0cc",
+    "text": "________________________________________________________________________________________________________",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6b7ef9590972610a83ca65ed77c053fa",
+    "text": "VIETNAMESE: Quan trọng! (Các) tài liệu này chứa thông tin quan trọng về quyền được bồi thường thất nghiệp, trách nhiệm và / hoặc quyền lợi của bạn. Điều quan trọng là bạn phải hiểu thông tin trong tài liệu này. Nếu bạn cần trợ giúp (miễn phí) để hiểu tài liệu này bằng ngôn ngữ của bạn, vui lòng gọi (833) 901-2272 hoặc (808) 762-5751 và (833) 901-2275 hoặc (808) 762-5752; hoặc truy cập [https://labor.hawaii.gov/ui/lep-vie]. Quý vị cũng có thể liên lạc với các văn phòng địa phương được liệt kê dưới đây để được trợ giúp.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "vie"
+      ],
+      "page_number": 2,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3f7dfbe860cbc1a8dfcc9f226ef814e3",
+    "text": "________________________________________________________________________________________________________",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c63a8a71375af444ecc15eeafa0546d5",
+    "text": "SPANISH: ¡Importante! Este(s) documento(s) contiene(n) información importante sobre sus derechos, responsabilidades y/o beneficios de compensación por desempleo. Es fundamental que comprenda la información de este documento. Si necesita ayuda (sin cargo) para comprender este documento en su idioma, llame al (833) 901-2272 o (808) 762-5751 y (833) 901-2275 o (808) 762-5752; o vaya a [https://labor.hawaii.gov/ui/lep-spa]. También puede ponerse en contacto con las oficinas locales que se indican a continuación para obtener ayuda.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "spa"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ed2b6522ce49878a49e17fe2fd8d402d",
+    "text": "________________________________________________________________________________________________________",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d7b9fbcac0aa1048321b930dc1e3d8cd",
+    "text": "CHUUKESE: Auchea! Ei taropwe a kan wor poraus auchea non usun eomuwe pung ren momon ese wor angang kena, met kopwe fofori, me/ika aninis kena. Mi fakkun namoteoch pwe en kopwe weweiti ewe poraus non ei taropwe. Ika pwe en ka kan mochen aninis (ese wor momon) non weweitin ei taropwe non fosun fonuwom, kose mochen korikich non (833) 901-2272 ika (808) 762-5751 me pwan (833) 901-2275 ika (808) 762-5752; ika kopwe ne no ngeni [https://labor.hawaii.gov/ui/lep-chk]. En kopwe kan pwan tongeni kori ewe ofes non nenieom mi maaketiw me fan ren aninis.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "afr",
+        "tgl"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e5e9d71d2f4156fa5173a7379b836045",
+    "text": "____________________________________________________________________________________________________",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1d3fb945874f19605d534ee413cb72bd",
+    "text": "MARSHALLESE: Aurok! Ewōr melele aurok ilo peba in/kein kin maron, eddo, im/ak jibañ ko am ikijen kolla eo an bōjrak jerbal. Aurok am melele naan ko kobban peba in. Ñe kwōj aikuj jibañ (ejellok wonnen) ñan am melele naan ko kobban peba kein ilo kajin eo am, jouj im kall ae tōk kim ilo (833) 901-2272 ak (808) 762-5751 im (833) 901-2275 ak (808) 762-5752; ak loļok [https://labor.hawaii.gov/ui/lep-mah]. Kwōmaron bar kebaak opij ko ilo jukjukinbed eo im emōj laajrak ijin lal ñan aer jibañ kwe.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "slv",
+        "swa",
+        "ind"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "79228916970202acdcdd4f54aa9012b7",
+    "text": "UNEMPLOYMENT INSURANCE CLAIMS OFFICES",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3de1e2ba0fefc6bb3ac53e02c168221f",
+    "text": "UEMPIOYIVIENTlNSUANE",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf",
+      "parent_id": "79228916970202acdcdd4f54aa9012b7"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "20badcd16352a5d0a78a403d8ce1414f",
+    "text": "________________________________________________________________________________________________________________________________________",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf",
+      "parent_id": "79228916970202acdcdd4f54aa9012b7"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6c2f5dc51ed076519631606c29e8b3f8",
+    "text": "Oahu Claims Office",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf",
+      "parent_id": "6e26c67304e4a593cb6b7931c0c0ac9f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bb622f9e2b015a53c28f2d03275eaf64",
+    "text": "830 Punchbowl Street, Room 110, Honolulu, HI 96813-5080",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng",
+        "ron"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf",
+      "parent_id": "6c2f5dc51ed076519631606c29e8b3f8"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "3d33453aa40a1a1e19724854e12e5171",
+    "text": "Phone: (808) 586-8970",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3233e68fb8e5988156cc9f9b09c9cc88",
+    "text": "Hilo Claims Office",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1443cda1174c57b1c21ddf566fc370b6",
+    "text": "1990 Kinoole Street, Room 101, Hilo, HI 96720-5293",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "nld",
+        "nor",
+        "est"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf",
+      "parent_id": "3233e68fb8e5988156cc9f9b09c9cc88"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "c60d1047dbe92f599a5e5855aaf7dfc4",
+    "text": "Phone: (808) 974-4086",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "61a8783b625de5482ce8196973a16047",
+    "text": "Kona Claims Office",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "52e36d801bb34b2e276cbe52f4b01131",
+    "text": "Ashikawa Building, 81-990 Halekii Street, Room 2090 P.O. Box 167, Kealekekua, HI 96750-0167 Phone: (808) 322-4822",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "est",
+        "ind"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf",
+      "parent_id": "61a8783b625de5482ce8196973a16047"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8322c74a577427e5710d615ee1d11bc3",
+    "text": "Maui Claims Office",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b0d6fb206937abe718144af512a594ae",
+    "text": "54 South High Street, Room 201, Wailuku, HI 96793-2198 Phone: (808) 984-8400",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf",
+      "parent_id": "8322c74a577427e5710d615ee1d11bc3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7700adfe674aa27040f89ff68e39be52",
+    "text": "Kauai Claims Office",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e9a91c6b6d41badd8b907531f5fb167e",
+    "text": "4370 Kukui Grove Street, Suite 3-214, Lihue, HI 96766-2001 Phone: (808) 274-3043",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "afr",
+        "deu",
+        "fra"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf",
+      "parent_id": "7700adfe674aa27040f89ff68e39be52"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f7089af2cd965c162eb2622c35932084",
+    "text": "Liable Interstate Unit",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6c2b9626515550e86cb74ae362d8440b",
+    "text": "830 Punchbowl Street, Room 110, Honolulu, HI 96813-5080",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng",
+        "ron"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf",
+      "parent_id": "f7089af2cd965c162eb2622c35932084"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "b15c73f3819f18f3a35f3651c7afffdf",
+    "text": "Phone: (808) 586-8970",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "cf5214a4261371f1f4e45bbc05c161fd",
+    "text": "DLIR-UID (05.2022)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1a3f27e51743ed26de8e80b7c71c0ed6",
+    "text": "CONTENTS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "37dee7bd4eba542c22a462f38497e7cf",
+    "text": "3 ABOUT THIS HANDBOOK 3 Purpose of the Claimant Handbook 3 Contact Information 3 Language Assistance 4 OVERVIEW OF UNEMPLOYMENT INSURANCE (UI) 4 About the UI Program 4 We Are Here to Help You 5 How to File for UI Benefits 5 Liable Interstate Benefits 5 Unemployment Compensation for Federal Civilian Employees 5 Unemployment Compensation for Ex-Service Members 5 Additional Claim or Reopened Claim 6 Partial Claims 6 Part-Total Claims 7 ELIGIBILITY FOR UI BENEFITS 7 Qualifying for UI Benefits 8 Identification Verification and Multi-Factor Authentication 8 Options for Receiving Payment 9 AMOUNT OF UI BENEFITS 9 Waiting Week 9 Deductions 11 MAINTAINING YOUR UI ELIGIBILITY 11 Searching for Work 12 Completing a [Bi-]Weekly Claim Certification 13 Reporting Earnings 14 GETTING YOU BACK TO WORK 14 Mandatory Job Search Registration 14 Reemployment Services 15 When You Find a New Job 16 UI FRAUD 16 Examples of UI Fraud 16 Penalties for UI Fraud 17 What We Do To Stop UI Fraud 18 APPEAL RIGHTS 18 How to Submit an Appeal 18 The Appeal Process 18 While Waiting for Your Appeal 19 APPENDIX 19 Appendix A – Legal Disclosures 21 Appendix B – Glossary 23 Appendix C – Repayment of Overpaid Benefits 24 Appendix D – Work Search Log 26 Appendix E – Wage Reporting Log and Wage Calculator",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><thead><tr><th rowspan=\"3\"></th><th rowspan=\"4\">3 3 3</th><th>ABOUT THIS HANDBOOK</th></tr><tr><th>Purpose of the Claimant Handbook</th></tr><tr><th>Contact Information</th></tr></thead><tbody><tr><td rowspan=\"10\"></td><td>Language Assistance</td></tr><tr><td colspan=\"2\">OVERVIEW OF UNEMPLOYMENT INSURANCE (U)</td></tr><tr><td></td><td>About the Ul Program</td></tr><tr><td>ap</td><td>We Are Here to Help You</td></tr><tr><td></td><td>How to File for Ul Benefits</td></tr><tr><td></td><td>Liable Interstate Benefits</td></tr><tr><td></td><td>Unemployment Compensation for Federal Civilian Employees</td></tr><tr><td></td><td>Unemployment Compensation for Ex-Service Members</td></tr><tr><td></td><td>Additional Claim or Reopened Claim</td></tr><tr><td>o</td><td>Partial Claims</td></tr><tr><td rowspan=\"5\"></td><td></td><td>Part-Total Claims</td></tr><tr><td></td><td>ELIGIBILITY FOR Ul BENEFITS</td></tr><tr><td>7</td><td>Qualifying for Ul Benefits</td></tr><tr><td>8</td><td>Identification Verification and Multi-Factor Authentication</td></tr><tr><td>8</td><td>Options for Receiving Payment</td></tr><tr><td rowspan=\"2\"></td><td colspan=\"2\">AMOUNT OF Ul BENEFITS</td></tr><tr><td>9</td><td>Waiting Week</td></tr><tr><td rowspan=\"5\">11</td><td colspan=\"2\" rowspan=\"2\">9 Deductions MAINTAINING YOUR Ul ELIGIBILITY</td></tr><tr><td colspan=\"2\">1 Searching for Work</td></tr><tr><td>12</td><td>Completing a [Bi-]Weekly Claim Certification</td></tr><tr><td>13</td><td>Reporting Earnings</td></tr><tr><td rowspan=\"4\">14</td><td></td><td>GETTING YOU BACK TO WORK</td></tr><tr><td>14</td><td>Mandatory Job Search Registration</td></tr><tr><td>14</td><td>Reemployment Services</td></tr><tr><td>15</td><td>When You Find a New Job</td></tr><tr><td rowspan=\"4\">16</td><td>Ul</td><td>FRAUD</td></tr><tr><td>16</td><td>Examples of Ul Fraud</td></tr><tr><td>16</td><td>Penalties for Ul Fraud</td></tr><tr><td colspan=\"2\">17 What We Do To Stop Ul Fraud</td></tr><tr><td rowspan=\"4\">18</td><td colspan=\"2\">APPEAL RIGHTS</td></tr><tr><td>18</td><td>How to Submit an Appeal</td></tr><tr><td>18</td><td>The Appeal Process</td></tr><tr><td>18</td><td>While Waiting for Your Appeal</td></tr><tr><td rowspan=\"6\">19</td><td colspan=\"2\">APPENDIX</td></tr><tr><td>19</td><td>Appendix A - Legal Disclosures</td></tr><tr><td>21</td><td>Appendix B - Glossary</td></tr><tr><td>23</td><td>Appendix C - Repayment of Overpaid Benefits</td></tr><tr><td>24</td><td>Appendix D - Work Search Log</td></tr><tr><td>26</td><td>Appendix E - Wage Reporting Log and Wage Calculator</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "hawaii.pdf",
+      "parent_id": "1a3f27e51743ed26de8e80b7c71c0ed6"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "74816ccdf7d631c8566a59e60b933f90",
+    "text": "2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5af62fe3fb6d94094c4f88fdae0f9669",
+    "text": "ABOUT THIS HANDBOOK",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4bac5ea46955c2b898d786626c21bc57",
+    "text": "PURPOSE OF THE CLAIMANT HANDBOOK",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "vie"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1c431760c2815907b24c80c4ba70b9e7",
+    "text": "This handbook provides important information about Unemployment Insurance (UI) Benefits. (See the Glossary in Appendix B for definitions of all underlined terms.) You must read and understand the information in this document. If you do not understand the information or if you have questions, please contact our agency for help.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf",
+      "parent_id": "4bac5ea46955c2b898d786626c21bc57"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "171e49806be8f4dd35ab2a8b9a4a90fc",
+    "text": "CONTACT INFORMATION",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "60cb29e9b7c794e3d0c67d1e7336f335",
+    "text": "There are many ways to contact us:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf",
+      "parent_id": "171e49806be8f4dd35ab2a8b9a4a90fc"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "2e811a070bceb986f2b85312054e4949",
+    "text": "71NN N",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "417e4969157d377901391cf026fa5638",
+    "text": "Visit our Website",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8f17c76398078c50ed83f9b742dab07a",
+    "text": "www.labor.hawaii.gov/ui",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "6b15d8c8c25d1d884a2bd397b43f36fe",
+    "text": "Q",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "195e4a667368fd4b5c7987fb7ff192ff",
+    "text": "Make a Call",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "75588944a6f2e376061ade5b50ce4892",
+    "text": "(808) 762-5752 or (833) 901-2272",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf",
+      "parent_id": "195e4a667368fd4b5c7987fb7ff192ff"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "3b331e41c9c1fdc7e525d276c88a7c61",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "page_number": 5,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "057c703055d7132675039d4f3b4aecf3",
+    "text": "Visit in Person",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7e4476ea502e62cfa0e0c056790e2a12",
+    "text": "Oahu Claims Office 830 Punchbowl St, Room 110 Honolulu, HI 96813-5080",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng",
+        "ron"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf",
+      "parent_id": "057c703055d7132675039d4f3b4aecf3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "033b7caa2487a9f2d00649643c15cdb3",
+    "text": "Maui Claims Office 54 South High St, Room 201 Wailuku, HI 96793-2198",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf",
+      "parent_id": "057c703055d7132675039d4f3b4aecf3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2f6ac739146c5001ad48af3f1e4324e7",
+    "text": "Kauai Claims Office 4370 Kukui Grove St Suite 3-214, Lihue, HI 96766",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "fra",
+        "ron",
+        "eng",
+        "deu"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf",
+      "parent_id": "057c703055d7132675039d4f3b4aecf3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "57843725d35d1334129e9da41c6dc16a",
+    "text": "Hilo Claims Office 1990 Kinoole St, Room 101 Hilo, HI 96720-5293",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf",
+      "parent_id": "057c703055d7132675039d4f3b4aecf3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "965f66920cd3a73fec534fca619ff9d9",
+    "text": "Kona Claims Office",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf",
+      "parent_id": "057c703055d7132675039d4f3b4aecf3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4e20d70742eaf1297423d76264475a7d",
+    "text": "81-990 Halekii St, Room 2090 P.O. Box 167, Kealekekua, HI 96750-0167",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "est"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf",
+      "parent_id": "057c703055d7132675039d4f3b4aecf3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "56d100d525336e83cde428b66541a51e",
+    "text": "LANGUAGE ASSISTANCE",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "99e040809f26d88a11bfd08a2aaf894d",
+    "text": "Free services are available to assist those who do not speak English. For help in a language other than English, please call (808) 762-5752 or (833) 901-2272; or visit labor.hawaii.gov/ui. If you are deaf, hard of hearing, or have a voice impairment, please call TDD/TTY - Dial 711 then ask for (808) 586-8844.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf",
+      "parent_id": "56d100d525336e83cde428b66541a51e"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8c98dda936e2f505e61c531507de106f",
+    "text": "3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5fd2d36bb5dacc2e9eb6901dd92e2406",
+    "text": "OVERVIEW OF UNEMPLOYMENT INSURANCE (UI)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0ef81a9906bedab98b4ea96da40c3d54",
+    "text": "ABOUT THE UI PROGRAM",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8ee7dd52e4834ddfdbf5ac3401db50e3",
+    "text": "UI is a program designed to provide temporary income to workers who lost their job through no fault of their own – for example, due to a layoff, plant closure, or lack of available work. Benefits are not available to all workers. For example, workers who were fired from their job for misconduct cannot receive UI benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "hawaii.pdf",
+      "parent_id": "0ef81a9906bedab98b4ea96da40c3d54"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4d80d1105fbd47ba311c6178a93feac3",
+    "text": "Funding for the UI Program",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "394203560bbf9ddcbf67bf496bc5a842",
+    "text": "Our state UI program is funded through taxes paid or on a reimbursable basis by employers. No money is deducted from your paycheck to pay for UI benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "hawaii.pdf",
+      "parent_id": "4d80d1105fbd47ba311c6178a93feac3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9e56c37c1f92214aa97048d5411ad842",
+    "text": "WE ARE HERE TO HELP YOU",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f33ae6f6365ff942dffbf5fe7f1d1f03",
+    "text": "The Unemployment Insurance Division is here to assist you through your time of unemployment. To make sure you are paid benefits in a timely manner, please help us by:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "hawaii.pdf",
+      "parent_id": "9e56c37c1f92214aa97048d5411ad842"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "02c1d536d2019b5db8e267fc5cd9147f",
+    "text": "Providing complete and accurate information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "hawaii.pdf",
+      "parent_id": "9e56c37c1f92214aa97048d5411ad842"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "efc356491aee4776a45078dcd3638a81",
+    "text": "Responding to requests for information right away",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "hawaii.pdf",
+      "parent_id": "9e56c37c1f92214aa97048d5411ad842"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6ad8be306e1a4ef82ee4682e15680428",
+    "text": "Completing all requirements to maintain UI eligibility, as outlined in this handbook",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "hawaii.pdf",
+      "parent_id": "9e56c37c1f92214aa97048d5411ad842"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "275f5c202944c6d5689b4359ae0b2061",
+    "text": "Keeping your contact information up to date",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "hawaii.pdf",
+      "parent_id": "9e56c37c1f92214aa97048d5411ad842"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6ac931c786c723364d1e262acd286c65",
+    "text": "Change of Address or Phone Number",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e3b4e8c7c70219b7a8c0d98dbf797548",
+    "text": "If you move or change your phone number, let us know as soon as possible. Failure to notify our agency of your current contact information may result in a delay in payment of benefits. The easiest way to update your address is through our website at huiclaims.hawaii.gov. After reporting your change of address and if you plan to continue to file for UI benefits, be sure to reactivate your claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "hawaii.pdf",
+      "parent_id": "6ac931c786c723364d1e262acd286c65"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a184803c8329963c03aef6c15ae836d6",
+    "text": "For Fastest Service, Go Online",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3e75a1df40eff0fc72816d759d91cd8a",
+    "text": "You can check the status of your claim, request information, and more through our safe and secure website. Visit huiclaims.hawaii.gov (click on \"Claimant Services\"), 7 days a week, between 6:30 am and 11:00 pm HST.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "hawaii.pdf",
+      "parent_id": "a184803c8329963c03aef6c15ae836d6"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "1e7162659ed615be2da2c1ab69bb8f33",
+    "text": "4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f96f0fd4954945c9da2dca0e8d9650b0",
+    "text": "HOW TO FILE FOR UI BENEFITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "edc25a2d98e0fd875ee5e66313a82c1f",
+    "text": "To file a new application or to reactivate an unexpired claim, go to: huiclaims.hawaii.gov and create an account or login as a claimant. For assistance, contact the UI Call Center, report in person to your local claims office or make an appointment at: Labor.Hawaii.gov/UI/appointments",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "file a new application or to reactivate an unexpired claim , go to : huiclaims . hawaii . gov",
+          "url": "http://uiclaims.hawaii.gov/",
+          "start_index": 3
+        },
+        {
+          "text": "Labor . Hawaii . gov / UI / appointments",
+          "url": "https://labor.hawaii.gov/ui/appointments",
+          "start_index": 253
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "hawaii.pdf",
+      "parent_id": "f96f0fd4954945c9da2dca0e8d9650b0"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d35daac47e6e6ca2bf0eb56de1592544",
+    "text": "LIABLE INTERSTATE BENEFITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "929cdef240306576ba8ef106f6cc5c30",
+    "text": "If you move to another state, the District of Columbia, Puerto Rico, Canada, or the Virgin Islands, you may still receive benefits from Hawaii, provided you meet Hawaii’s eligibility requirements. Statutory requirements and responsibilities apply similarly to in-state and out-of-state claimants.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "hawaii.pdf",
+      "parent_id": "d35daac47e6e6ca2bf0eb56de1592544"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "90ee22d98ce618ae9e05c11ba146bd53",
+    "text": "UNEMPLOYMENT COMPENSATION FOR FEDERAL CIVILIAN EMPLOYEES",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "356c9d2888083eb5b9136061bc109040",
+    "text": "Civilian employees for the Federal Government will base their UI claim on Federal wages as reported by the Federal agency. After applying for benefits, you will need to provide a Standard Form 8 (SF-8) and Standard Form 50 (SF- 50) to your local claims office.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "hawaii.pdf",
+      "parent_id": "90ee22d98ce618ae9e05c11ba146bd53"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6d174fbbac581fff286a7f377bdf2816",
+    "text": "UNEMPLOYMENT COMPENSATION FOR EX-SERVICE MEMBERS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4ae872637098aa9d079286bdd917fbdf",
+    "text": "Eligibility for benefits for ex-Military Service Members depends on the character of service and completion of their first full term of service. If you were released before completing your first full term of active service, you may still be eligible for benefits if your narrative reason for separation is on the acceptable list of reasons as provided by the US Department of Defense (DOD). You need at least 180 days of continuous service. Your current residence when filing your claim is the state that will pay for your UI benefits, not your last duty station. You will need to provide form DD-214 member copy 4 to your local claims office after filing your application.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "hawaii.pdf",
+      "parent_id": "6d174fbbac581fff286a7f377bdf2816"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f4633a5f89a30f27cec15da1b34e57e4",
+    "text": "ADDITIONAL CLAIM OR REOPENED CLAIM",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d2cfcc40a9ab1cc20ad29985c347028f",
+    "text": "If you stopped filing claim certifications for 2 or more consecutive weeks, moved to a different state, or need to update or report additional employment information, you need to file a reactivation of your claim. Login to: huiclaims.hawaii.gov and select “Reactivate Claim”.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "information , you need to file a reactivation of your claim . Login to : huiclaims . hawaii . gov",
+          "url": "https://huiclaims.hawaii.gov/#/",
+          "start_index": 154
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "hawaii.pdf",
+      "parent_id": "f4633a5f89a30f27cec15da1b34e57e4"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "dd210b36b391b74232d09a0886221675",
+    "text": "5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9340cae8d121a45cd4d63ba61d15ad47",
+    "text": "PARTIAL CLAIMS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9a2204be83a4f4c4d761005d04ead01e",
+    "text": "If you are still attached to your regular employer, not working or working less than your full-time hours due to a lack of work and your earnings are less than your weekly benefit amount, you are considered partially unemployed. Once verified with your employer for partial unemployment status, you do not need to look for work or register for work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "hawaii.pdf",
+      "parent_id": "9340cae8d121a45cd4d63ba61d15ad47"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1e722e2b59dc434d089ef6f138f3b649",
+    "text": "PART-TOTAL CLAIMS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "11ffb9c4912fd2bb931296b2cb8646ab",
+    "text": "If you are attached to an employer working on-call, part-time, or on an intermittent basis while seeking full-time work, you are considered part- totally unemployed. In addition to reporting your hours worked and earnings, you must register for work, be able and available for work, and make at least 3 work search contacts for each week you file for unemployment benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "hawaii.pdf",
+      "parent_id": "1e722e2b59dc434d089ef6f138f3b649"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "1d900152192b73ec58396375bef26afe",
+    "text": "6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8600c705750f7a110487318d895b0e5a",
+    "text": "ELIGIBILITY FOR UI BENEFITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cb89f8130c4630b179eb779fc8db8761",
+    "text": "QUALIFYING FOR UI BENEFITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9efeb0845a6d3f1ace2bfa59b92a86bc",
+    "text": "Our agency will review your claim to determine if you qualify for benefits. We look at these three criteria:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf",
+      "parent_id": "cb89f8130c4630b179eb779fc8db8761"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "58a7237294733aad805acbc4ea79f633",
+    "text": "|",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1dfcfc89d33ccbd4d7c56ad7cb16762e",
+    "text": "1. How much did you work in the 12-18 months before filing a claim?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "315dfdb29a370dbdb2e34992d81c2838",
+    "text": "You must have earned sufficient wages in the 12 to 18 months prior to filing a claim, which includes federal and military wages. You may combine out-of-state wages with your Hawaii wages to establish a valid claim or to increase your weekly benefit amount if you worked in several states during the 12 - 18 months prior to filing your claim. If you did not earn enough wages, you will not be eligible for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf",
+      "parent_id": "1dfcfc89d33ccbd4d7c56ad7cb16762e"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "65c5033b422ca1742454609d3eb3592c",
+    "text": "®",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3e07f21cfbd785ec195bea17ee7d56c4",
+    "text": "2. Why are you no longer working for your past employer?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9ade3b9b9db2701aa0c8e711b6334dc3",
+    "text": "The reason you are no longer employed will determine whether you can receive UI benefits. Below are some examples of separation reasons that may qualify or disqualify you from receiving benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "you can receive UI benefits . Below are some examples of separation",
+          "url": null,
+          "start_index": 61
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf",
+      "parent_id": "3e07f21cfbd785ec195bea17ee7d56c4"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5eabf36f86eb562946601f087ddc0a6d",
+    "text": "You may receive benefits if you:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f62d305f9d8c29793d04e90cba91fffe",
+    "text": "Were laid off or your hours were reduced because your employer did not have enough work for you",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf",
+      "parent_id": "5eabf36f86eb562946601f087ddc0a6d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "03f05fa5c68b62092faf94291563dade",
+    "text": "Left your last job and can show it was for good cause within the meaning of the law (such as unsafe working conditions, family unity, etc.)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf",
+      "parent_id": "5eabf36f86eb562946601f087ddc0a6d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "34ea22d1ea8d194ce3886963b8b57b9b",
+    "text": "Are unemployed because you or your child were a victim of domestic violence, stalking, or sexual assault",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf",
+      "parent_id": "5eabf36f86eb562946601f087ddc0a6d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4fc6e09163a0d5a1723e69c4cdb8f329",
+    "text": "You may not receive benefits if you:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "94dbea2ab013732efa5bb63db889642e",
+    "text": "Left your job for personal reasons",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf",
+      "parent_id": "4fc6e09163a0d5a1723e69c4cdb8f329"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ffb5edd2be703745daf94159ddd0261f",
+    "text": "Were fired for misconduct connected with work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf",
+      "parent_id": "4fc6e09163a0d5a1723e69c4cdb8f329"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ec55b676f46a7c173c6d80400d739a07",
+    "text": "Are not legally authorized to work in the United States",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf",
+      "parent_id": "4fc6e09163a0d5a1723e69c4cdb8f329"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "41ff712d8e7a5e1071ec9feb6482ec45",
+    "text": "Are self-employed full-time",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf",
+      "parent_id": "4fc6e09163a0d5a1723e69c4cdb8f329"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5b53965836191e73aa1faa8bb435a37a",
+    "text": "Are unable to work due to illness or disability, currently receiving workers’ compensation for an on-the-job injury or receiving temporary disability benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf",
+      "parent_id": "4fc6e09163a0d5a1723e69c4cdb8f329"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "06c612af8f5d2c8105902abbcc8be866",
+    "text": "7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "7c496a6e106ef9adb8fcce264a402434",
+    "text": "=",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "82a0f2fa8bb8e84511e7df9bf4be1487",
+    "text": "3. Are you able and available to work?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e79521d90f5d0400f921e558529934d0",
+    "text": "In order to qualify for UI benefits you must be:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "hawaii.pdf",
+      "parent_id": "82a0f2fa8bb8e84511e7df9bf4be1487"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "78eff424fb185793ebd26ae40051e996",
+    "text": "Actively looking for work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "hawaii.pdf",
+      "parent_id": "82a0f2fa8bb8e84511e7df9bf4be1487"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0a499d3616f26c586293db7f88fe32bb",
+    "text": "Mentally and physically able to work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "hawaii.pdf",
+      "parent_id": "82a0f2fa8bb8e84511e7df9bf4be1487"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "db27c90e11e691bca0a188e25b3764e2",
+    "text": "Legally authorized to work in the United States",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "hawaii.pdf",
+      "parent_id": "82a0f2fa8bb8e84511e7df9bf4be1487"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a5d12685ff36417443215564445b756c",
+    "text": "Ready and Willing to accept work (for example, you have caregiving responsibilities or personal limitations that would prevent you from working)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "hawaii.pdf",
+      "parent_id": "82a0f2fa8bb8e84511e7df9bf4be1487"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b330887c5d5ccb656847eec3fbe9824b",
+    "text": "IDENTIFICATION (ID) VERIFICATION AND MULTI-FACTOR AUTHENTICATION (MFA)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c4f1cd551792234ad76517137c0836c5",
+    "text": "UI claimants can verify their identification digitally through Login.gov, a secure government website. Individuals who verify their identity through Login.gov are asked to create an account and securely provide their information for validation. Claimants also have the option to provide proof of ID at most post offices across the state.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "hawaii.pdf",
+      "parent_id": "b330887c5d5ccb656847eec3fbe9824b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fd4abc851d961b82a6ce1f44201efeb2",
+    "text": "UI claimants are required to use Multi-Factor Authentication (MFA) when logging into the UI web portal. MFA adds an extra layer of security to the existing fraud detection and prevention measures. All claimants using the portal are prompted to enter a verification code to proceed. The code is valid for 10 minutes.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "hawaii.pdf",
+      "parent_id": "b330887c5d5ccb656847eec3fbe9824b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0fd22486172d951c5cf99198201ff651",
+    "text": "For claimants with existing accounts, the code will go to their email address on file by default. Existing claimants have the option to change this default to send the code to a mobile phone.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "hawaii.pdf",
+      "parent_id": "b330887c5d5ccb656847eec3fbe9824b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "284f0e439afbfca9290d6195f1a4d0b3",
+    "text": "New claimants creating accounts can select to have their code sent to an email address or a mobile phone. The same mobile phone number can be used for multiple unemployment accounts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "hawaii.pdf",
+      "parent_id": "b330887c5d5ccb656847eec3fbe9824b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3e01f6289259c6e8786146aadc006e27",
+    "text": "OPTIONS FOR RECEIVING PAYMENT",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c90cc4c8c129ece671e507fe171001a1",
+    "text": "If you are eligible for UI benefits, you may receive your payment:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "hawaii.pdf",
+      "parent_id": "3e01f6289259c6e8786146aadc006e27"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "45d922bd0cc987d8a73c11039ed61753",
+    "text": "Through direct deposit – this puts money directly into your savings or checking account, or prepaid debit card.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "hawaii.pdf",
+      "parent_id": "3e01f6289259c6e8786146aadc006e27"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "52ef1ccca1d832519297733b39af7252",
+    "text": "8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "296582ae9b3a3489e83c79c8e4f6b2c7",
+    "text": "AMOUNT OF UI BENEFITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e1bd46b4aef5e4771f5453c67b420ec9",
+    "text": "After you file a claim for UI benefits, you will receive a Monetary Determination in the mail. The Monetary Determination explains:",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Monetary Determination",
+          "url": null,
+          "start_index": 99
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf",
+      "parent_id": "296582ae9b3a3489e83c79c8e4f6b2c7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0537aeedcf747e0e10a1d2f44274341b",
+    "text": "The weekly benefit amount you are eligible to receive, if approved, and how that amount was calculated;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf",
+      "parent_id": "296582ae9b3a3489e83c79c8e4f6b2c7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b5fc2a1f8f2473461e35202363156cba",
+    "text": "The maximum benefits you are eligible to receive;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf",
+      "parent_id": "296582ae9b3a3489e83c79c8e4f6b2c7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "454d87440a015c80e87df9b7d018cc2e",
+    "text": "Your benefit year; and,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf",
+      "parent_id": "296582ae9b3a3489e83c79c8e4f6b2c7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "50d9b7c57d9ec1ea938b615a551bf4dc",
+    "text": "Information about how to Appeal or request a monetary reconsideration if you disagree with the determination",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf",
+      "parent_id": "296582ae9b3a3489e83c79c8e4f6b2c7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bf3131d53915be707eb085c786268bd0",
+    "text": "The maximum amount of benefits anyone can receive per week in the state of Hawaii in 2024 is $796 (this amount changes annually).",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Hawaii in 2024 is $ 796 ( this amount changes annually ).  https :// huiclaims2 . hawaii . gov / UI _ ClaimWEB / pages / calculator / calculator . jsf",
+          "url": "https://huiclaims2.hawaii.gov/UI_ClaimWEB/pages/calculator/calculator.jsf",
+          "start_index": 75
+        },
+        {
+          "text": "jsf",
+          "url": "https://huiclaims2.hawaii.gov/UI_ClaimWEB/pages/calculator/calculator.jsf",
+          "start_index": 201
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf",
+      "parent_id": "296582ae9b3a3489e83c79c8e4f6b2c7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e85ef14e8c8da1c514460229d9a3f267",
+    "text": "https://huiclaims2.hawaii.gov/UI_ClaimWEB/pages/calculator/calculator.jsf",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf",
+      "parent_id": "296582ae9b3a3489e83c79c8e4f6b2c7"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9a20ac985993fe1b2f7aeb7f1a44aaed",
+    "text": "WAITING WEEK",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "215ae85db9f0c6c641e68f50984545af",
+    "text": "All individuals must serve a waiting week and it is usually the first week of the benefit year. You must file a weekly claim request and meet all eligibility requirements for the waiting week, but you will not be paid. Your payments will start the following week, assuming you are still eligible for benefits and fulfill all requirements.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf",
+      "parent_id": "9a20ac985993fe1b2f7aeb7f1a44aaed"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "64435bd97f5b66b262f4f158f9ca29f5",
+    "text": "For example, consider a situation where John lost his job on the first Monday of the month and filed an initial claim for UI benefits on the same day. Even though John submits a certification for the first week of benefits, he will not be paid for this waiting week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf",
+      "parent_id": "9a20ac985993fe1b2f7aeb7f1a44aaed"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "64963b5d01e18b52e0e088befed76c9f",
+    "text": "The next week, if John fulfills all eligibility requirements, he will be eligible to receive payment. See the Maintaining Your UI Eligibility section for more details on the continuing eligibility requirements.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Maintaining Your UI Eligibility",
+          "url": null,
+          "start_index": 110
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf",
+      "parent_id": "9a20ac985993fe1b2f7aeb7f1a44aaed"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "770650988509c5475d4d14e6adef7469",
+    "text": "DEDUCTIONS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cb519123eb5b309772ae3dc24c5be54e",
+    "text": "Your benefits may be reduced under the following circumstances:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf",
+      "parent_id": "770650988509c5475d4d14e6adef7469"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cd23b7297797d6a0c4ed4f7777eb4570",
+    "text": "Separation Pay",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7a639b3fb5656a1ca58b5eee7ab1cbbb",
+    "text": "A severance package, pay in lieu of notice, or a continuation of pay with full benefits from an employer may affect UI benefits. Be sure to report any separation payments when you file your [bi-]weekly claim. You may be contacted by the agency for additional details to help determine if your separation pay is deductible.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf",
+      "parent_id": "cd23b7297797d6a0c4ed4f7777eb4570"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "fd157d0f8a78cb5c95d673f8fc9e16c5",
+    "text": "9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1995387fc2edc787e323417fe76e3aa2",
+    "text": "Retirement Income",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5ab571b11ac817a7f83470e5b3f54f3e",
+    "text": "Retirement income from a base period employer, military pension, disability payments, or government retirement payments, may affect your weekly benefit amount (WBA). You must tell us if you receive or applied to receive payment from your retirement plan.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "disability payments , or government retirement payments , may affect your weekly benefit amount ( WBA ).",
+          "url": null,
+          "start_index": 65
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "hawaii.pdf",
+      "parent_id": "1995387fc2edc787e323417fe76e3aa2"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2aa536557080ee89dcc226e6027e5dcf",
+    "text": "Other Earnings",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7e3a762d6e48a006bccfd20ae1f83a0f",
+    "text": "If you are working part-time, on-call or less than full-time, you may still be eligible for partial UI benefits. Be sure to report your gross earnings from employment during any week claimed. See the Reporting Earnings section for more information.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "working part - time , on - call or less than full - time , you may still be eligible for partial UI benefits",
+          "url": null,
+          "start_index": 11
+        },
+        {
+          "text": "your gross earnings from employment during any week claimed . See the Reporting Earnings",
+          "url": null,
+          "start_index": 131
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "hawaii.pdf",
+      "parent_id": "2aa536557080ee89dcc226e6027e5dcf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e597a45193eba65789411b9cb7d7ecf1",
+    "text": "Money Owed",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "edb5587ef9e5efc14ef144718c313e3b",
+    "text": "Some or all of your unemployment benefits may be reduced if you:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "hawaii.pdf",
+      "parent_id": "e597a45193eba65789411b9cb7d7ecf1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ebdc35aa14506c989ac57f4bf08f31c2",
+    "text": "Owe court-ordered child support (questions about child support deductions call: Oahu – (808) 692-8265 or out of state 1 (888) 317-9081.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "hawaii.pdf",
+      "parent_id": "e597a45193eba65789411b9cb7d7ecf1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8561071d55d4956a8be1f82b5c996c09",
+    "text": "Previously received unemployment benefits that you were not entitled to, and did not repay the Overpayment. See Appendix C for repayment or overpaid benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Overpayment",
+          "url": null,
+          "start_index": 231
+        },
+        {
+          "text": "that you were not entitled to , and did not repay the Overpayment . See Appendix C",
+          "url": null,
+          "start_index": 178
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "hawaii.pdf",
+      "parent_id": "e597a45193eba65789411b9cb7d7ecf1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b479e6a83858d3026d2ae1a4ef9fa6f2",
+    "text": "You will be notified by the respective agency if your UI benefits will be applied to any of these types of debts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "hawaii.pdf",
+      "parent_id": "e597a45193eba65789411b9cb7d7ecf1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c15db4ed480507132bee518101f92b78",
+    "text": "Taxes",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6eee362fd699798f7005f0ea8b8fcc4e",
+    "text": "Your UI benefits are taxable by the federal and state government. You may choose to have taxes withheld from your weekly payment (10% for federal taxes and 5% for state taxes). If you elect not to have taxes withheld, you will be responsible for the full taxable amount at the end of the year. Questions about taxes on UI payments should be directed to the Internal Revenue Service (IRS) or your tax professional.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "of the year . Questions about taxes on UI payments should be directed to the Internal Revenue",
+          "url": "https://www.irs.gov/",
+          "start_index": 281
+        },
+        {
+          "text": "about taxes on UI payments should be directed to the Internal Revenue Service ( IRS )",
+          "url": "https://www.irs.gov/",
+          "start_index": 304
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "hawaii.pdf",
+      "parent_id": "c15db4ed480507132bee518101f92b78"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a343a5aa979224ac2f8590dacf87ad07",
+    "text": "By the end of January each year, the Unemployment Insurance Division will mail you IRS form 1099-G. This form shows the amount of benefits you were paid during the previous year and the amount of income tax withheld, if you selected that option. If you moved, be sure to report your new address to receive your form.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "hawaii.pdf",
+      "parent_id": "c15db4ed480507132bee518101f92b78"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7c58301f48669dd6fc54b143191328a9",
+    "text": "The 1099-G information is available for viewing at: huiclaims.hawaii.gov. Log in to your online account and select “Claim Inquiry” from the main menu. Then select “Display 1099 Information.\"",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "hawaii.pdf",
+      "parent_id": "c15db4ed480507132bee518101f92b78"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "034419190da7f049cfd98d4052074ff1",
+    "text": "10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "648d5be7e7a1f3a15b98298792111298",
+    "text": "MAINTAINING YOUR UI ELIGIBILITY",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3eabc9d58b23e9f66fabeac28b22fc94",
+    "text": "Every week that you claim benefits, you must complete 3 tasks to remain eligible:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf",
+      "parent_id": "648d5be7e7a1f3a15b98298792111298"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2d651ade290caae67431dca24cdb776d",
+    "text": "1. Searching for work (minimum of 3 work search contacts per week)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf",
+      "parent_id": "648d5be7e7a1f3a15b98298792111298"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9242b926620b24d6c91b31140733f4c9",
+    "text": "2. Completing and submitting a [bi-]weekly claim certification within the time specified",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Completing and submitting a [ bi -] weekly claim certification within the time specified",
+          "url": null,
+          "start_index": 64
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf",
+      "parent_id": "648d5be7e7a1f3a15b98298792111298"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cf46609eb89dc0fd8329ad8e7fab22f8",
+    "text": "3. Reporting earnings (any money you earned during the claim week)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf",
+      "parent_id": "648d5be7e7a1f3a15b98298792111298"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6cdc588c1a1f2644f3377354039c9172",
+    "text": "Failure to complete any of these actions can disqualify you from future benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf",
+      "parent_id": "648d5be7e7a1f3a15b98298792111298"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "34de6c97c3a1ef6b424f78ea2f56de73",
+    "text": "SEARCHING FOR WORK",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2abdb1f80284a481d04e6e453d192580",
+    "text": "You are required to actively search for work every week you file a claim for UI benefits by completing at least three (3) work search activities. Below are examples of work search activities that fulfill this requirement, along with activities that are not considered valid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf",
+      "parent_id": "34de6c97c3a1ef6b424f78ea2f56de73"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c825cfab46b4566f8446de2f6cb17564",
+    "text": "Qualifying Work Search Activities:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c7e523be177856d9b60ba6fde213bee8",
+    "text": "Applying for a job that fits your skills, availabilities, qualifications",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf",
+      "parent_id": "c825cfab46b4566f8446de2f6cb17564"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b09784c425500ae0f13880b3844ecd31",
+    "text": "Interviewing for a job",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf",
+      "parent_id": "c825cfab46b4566f8446de2f6cb17564"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1884e06c85b54d8694ba37c77f12ca9e",
+    "text": "Reporting to a union hiring hall if you are a registered member of that union",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf",
+      "parent_id": "c825cfab46b4566f8446de2f6cb17564"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9f7b412fe42f6b283a5dde5eeb964e6c",
+    "text": "Participating in reemployment services at your state workforce center",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf",
+      "parent_id": "c825cfab46b4566f8446de2f6cb17564"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "983011864d7bd9687f7a256bdbb53988",
+    "text": "Invalid Work Search Activities:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c71355ee64334477473283cb79220899",
+    "text": "Applying for job you are unqualified for",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf",
+      "parent_id": "983011864d7bd9687f7a256bdbb53988"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f2ddd240b24a8927e47d4d0e26fa628f",
+    "text": "Viewing jobs leads without applying",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf",
+      "parent_id": "983011864d7bd9687f7a256bdbb53988"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d9f5903fe19a083b9385e5b990109047",
+    "text": "Failing to apply for a job in the manner directed by an employer (e.g., failing to submit an online application when an employer tells you to apply online)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf",
+      "parent_id": "983011864d7bd9687f7a256bdbb53988"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "004e8aeb54c29c07b3b05de55c9b654b",
+    "text": "All work search activities must be documented and verifiable.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf",
+      "parent_id": "983011864d7bd9687f7a256bdbb53988"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6c13bd3bdf7ca37d94bcc16647d25cb4",
+    "text": "You can keep an up-to-date log of your work search activities via your online claimant portal at http://uiclaims.hawaii.gov. This log will automatically transfer to your weekly or bi-weekly claim certification, saving you time. See Appendix D for an overview of this feature.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Appendix D",
+          "url": null,
+          "start_index": 232
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf",
+      "parent_id": "983011864d7bd9687f7a256bdbb53988"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "74210a4f3a3952ead4a9e2dcfb7fc1c6",
+    "text": "11",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "40e1285806c1dde6b2d477371ba58b42",
+    "text": "SEARCHING FOR WORK – IN ANOTHER STATE",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "15d9667e4552352810691d9ffd5fbab0",
+    "text": "If you travel to another state to look for work, you may file courtesy claims online for 2 consecutive weeks. The online system will ask you to share your location. Please respond promptly or benefits may be delayed or denied for improper filing. If you are relocating, please perform an address change and a reactivation of your claim. If you travel outside the United States, you may not be eligible to benefits until your return to the States.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf",
+      "parent_id": "40e1285806c1dde6b2d477371ba58b42"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "52bb5dc4466e0c50dce3d7e1d45255cb",
+    "text": "COMPLETING A [BI-]WEEKLY CLAIM CERTIFICATION",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "56d7745848d73047ae2e6cc71ea9d7eb",
+    "text": "To request for benefit payments, you will need to file a [bi-]weekly claim certification to tell the Unemployment Insurance Division you are still unemployed. The claim certification includes a series of questions that help determine if you are eligible to continue receiving UI benefits. For example, you will be asked if you:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf",
+      "parent_id": "52bb5dc4466e0c50dce3d7e1d45255cb"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9b636d7b0270267900f7a01066207b75",
+    "text": "Were able and available to accept work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf",
+      "parent_id": "52bb5dc4466e0c50dce3d7e1d45255cb"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "252add2586d7b6d8787bb14274771f7d",
+    "text": "Looked for work, along with details about your work search efforts",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf",
+      "parent_id": "52bb5dc4466e0c50dce3d7e1d45255cb"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b71966e156493aa784c9dbc4a30e0042",
+    "text": "Refused any jobs or offers of work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf",
+      "parent_id": "52bb5dc4466e0c50dce3d7e1d45255cb"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "84b59c4240c365104c212375a06e910e",
+    "text": "Worked during the week, and if so, how much money you earned for that work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf",
+      "parent_id": "52bb5dc4466e0c50dce3d7e1d45255cb"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ecdf1264ad9f36874d1443d043cc7e8c",
+    "text": "Under penalty of law, you are required to truthfully answer the questions for each week you claim UI benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf",
+      "parent_id": "52bb5dc4466e0c50dce3d7e1d45255cb"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6bd18b35d41272568cd9ae43f4177e93",
+    "text": "When to File Your [Bi-]Weekly Claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d604544e02e7fe604c02a59493663bee",
+    "text": "The [Sunday] after you initially apply for benefits is the first day that you can submit a [bi-]weekly claim. [Bi-]Weekly claims must be completed by 11:59 pm on [Saturday] of each week you are claiming benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf",
+      "parent_id": "6bd18b35d41272568cd9ae43f4177e93"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a13d4f1083acd9ab42af6e8a88f8aaf4",
+    "text": "For example, if you lost your job on Monday the 3rd of the month, you could file an initial claim for UI benefits on the same day or on any other day that week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf",
+      "parent_id": "6bd18b35d41272568cd9ae43f4177e93"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "db812448ee0e9220c4ee5ab4c782f4ff",
+    "text": "Then you could submit a weekly claim for your first week starting on Sunday the 9th.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf",
+      "parent_id": "6bd18b35d41272568cd9ae43f4177e93"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "1c19f1c72ae7e660f99de89ddf8a924a",
+    "text": "xiih",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "33bd0e8532af89bbfced23db9e6589e2",
+    "text": "Month",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "942f49f4520134dcdc6cf4b2e4a01198",
+    "text": "Failure to submit the weekly claim before 11:59 pm on Saturday the 15th may result in delay or a denial for that week because you filed late.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "378df31b83cf66c4fd8ea64e299ad051",
+    "text": "Sun  2  Mon  3  Tue Wed  4  5  Thu  6  9  10  11  12  13  Fri  7  14  Sat  8  15 ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e7995f5ea31e06c2ece86372fc8e5944",
+    "text": "12",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e88017440df91ae855a1c70f4dd3937e",
+    "text": "How to File Your [Bi-]Weekly Claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "59e5c4ec26683223482fb1ccd2f88dfa",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "dd709031888836d46637115dd5508bd5",
+    "text": "Online",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d7f56da59e040c1f353329434870f456",
+    "text": "For fastest service, visit: huiclaims.hawaii.gov",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf",
+      "parent_id": "dd709031888836d46637115dd5508bd5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2695a130f38e86ebc804bf41a0db578d",
+    "text": "Important Reminder: When filing your bi-weekly claim, you must file for each week separately. You will need to answer the same set of questions twice, once for the first week and again for the second week of the biweekly period.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf",
+      "parent_id": "dd709031888836d46637115dd5508bd5"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b0f1157830de91e023fe26f7614f41b9",
+    "text": "REPORTING EARNINGS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "473c5c5d8b9cdb9c1424fc85925e129e",
+    "text": "If you are working while claiming UI benefits, you must report how much money you made. The amount you must report is your gross earnings (before any deductions), not your net earnings.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "report how much money you made . The amount you must report is your gross earnings",
+          "url": null,
+          "start_index": 56
+        },
+        {
+          "text": "net earnings",
+          "url": null,
+          "start_index": 172
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf",
+      "parent_id": "b0f1157830de91e023fe26f7614f41b9"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "69cce1955d5c3cb1f102f1f7ef8276c4",
+    "text": "Sample Pay Stub",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "565a9d7954ccee8f8ca6c467ca5c3212",
+    "text": "REPORT WEEKLY DURING THE PAY PERIOD, NOT WHEN YOU GET THE CHECK PAYSLIP C RATE URRENT PAY REGULAR $20 STATUTORY DEDUCTIONS OVERTIME $30 FICA-MEDICARE $8.71 $130.65 BONUS FICA SOCIAL SECURITY $3.70 $565.5 FEDERAL TAX $40.15 $602.25 STATE TAX $26.05 $390.75 YTD GROSS YTD DEDUCTIONS YTD NET PAY 1689.15 7324.95",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><thead><tr><th colspan=\"3\"></th><th colspan=\"4\">OR EKY DURING THE PAY PERIOD, NOT WHEN YOU GET THE CHECK</th></tr><tr><th rowspan=\"2\">PAYSLIP INCOME</th><th colspan=\"2\"></th><th rowspan=\"2\">CURRENT PAY</th><th colspan=\"2\"></th><th rowspan=\"2\"></th></tr><tr><th>RATE</th><th></th><th>DEDUTIO IS</th><th>TOTAL</th></tr></thead><tbody><tr><td rowspan=\"5\">REGULAR OVERTIME BONUS</td><td>$20</td><td></td><td></td><td>STATUTORY DEDUCTIONS</td><td></td><td></td></tr><tr><td>$30</td><td></td><td></td><td>FICA-MEDICARE</td><td>$8.71</td><td>$130.65</td></tr><tr><td></td><td></td><td></td><td>FICA SOCIAL SECURITY</td><td>$3.70</td><td>$565.5</td></tr><tr><td></td><td></td><td></td><td>FEDERAL TAX</td><td>$40.15</td><td>$602.25</td></tr><tr><td></td><td></td><td></td><td>STATE TAX</td><td>$26.05</td><td>$390.75</td></tr><tr><td>YTD GROSS</td><td colspan=\"2\">YTD DEDUCTIONS</td><td>YTD NET PAY</td><td>— GROSS PA)</td><td>DEDUCTIONS</td><td>ET PAY</td></tr><tr><td>9000</td><td colspan=\"2\">1689.15</td><td>7324.95</td><td>00</td><td>11261</td><td>88.33</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf",
+      "parent_id": "69cce1955d5c3cb1f102f1f7ef8276c4"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ceae7ebb7e23d97db4027e08ff7b372a",
+    "text": "REPORT GROSS PAY EACH WEEK",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf",
+      "parent_id": "69cce1955d5c3cb1f102f1f7ef8276c4"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "795bb7b0f022fb6a3a4879f5bcdacd01",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "0430d732c30c55a493fb19a42f712395",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "3aa23730528a4a34cc28431fd86ffd27",
+    "text": "0000 0000 000 000",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "14023611c3c961ebe27ff692ab290ea3",
+    "text": "When to Report Earnings",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0554bce1c5a33fa46953463b7a96c3d6",
+    "text": "Report earnings the week the work is performed when certifying for UI benefits, even if you have not yet been paid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf",
+      "parent_id": "14023611c3c961ebe27ff692ab290ea3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1502d821d625f0947759bc9eaabd76a2",
+    "text": "Use the ‘Wage Reporting Log’ within your claimant portal. See Appendix E for more information on how to access and use this.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Use the ‘ Wage Reporting Log ’ within your claimant portal . See Appendix E",
+          "url": null,
+          "start_index": 117
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf",
+      "parent_id": "14023611c3c961ebe27ff692ab290ea3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1e98fce3fd7202140f5f871347f9c8ab",
+    "text": "What Earnings to Report",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "99fede1ad97cdfaa27804b2af4d4ba0b",
+    "text": "Report any money earned for work done. Common income sources include full- or part-time employment, temporary or odd jobs, self-employment, vacation, holiday, commissions, residual payments, and tips.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf",
+      "parent_id": "1e98fce3fd7202140f5f871347f9c8ab"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d77ec5bb1ff1f06d8bcad64740b0c14e",
+    "text": "How to Calculate Gross Earnings",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a3f4f793e9ae88682a7b4257cd93f955",
+    "text": "Number of Hours Worked during Week x Rate of Pay = Gross Earnings",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8a5dc230d00cc179f39030dcef9d9077",
+    "text": "For instance, if you worked 30 hours in a week at $20 per hour, you would report $600 in gross earnings for the week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf",
+      "parent_id": "a3f4f793e9ae88682a7b4257cd93f955"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "26bc5f511e0911cc12ae27734c111e42",
+    "text": "The ‘Wage Reporting Log’ within your claimant portal includes a ‘Wage Calculator’ to help with this. See Appendix E for more information on how to access and use this.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Appendix E",
+          "url": null,
+          "start_index": 224
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf",
+      "parent_id": "a3f4f793e9ae88682a7b4257cd93f955"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "3f545b3837c3fde7568fb63ec71acd43",
+    "text": "13",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "938c37193e808c422f7b98a34077b099",
+    "text": "GETTING YOU BACK TO WORK",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "63f42fe9e1fccb692fb9053f6e381628",
+    "text": "The Workforce Development Division (WDD) offers a variety of no-cost programs and services – including job leads and career resources – to help you get back to work faster.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "hawaii.pdf",
+      "parent_id": "938c37193e808c422f7b98a34077b099"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c5cd200e0e92057d1b7a2b787a0dbd0d",
+    "text": "MANDATORY JOB SEARCH REGISTRATION",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1e1ddb8c4df433c6ddb29acb64af969b",
+    "text": "To be eligible to receive UI benefits, you must register for work and post an online resume on www.hirenethawaii.com within seven (7) days of filing your claim for UI benefits. You must keep your registration and resume active for the duration you claim benefits. If you are attached to a union hiring hall, you must register for work and your union must submit form UC-226 within seven (7) days of filing your claim, verifying that you are in good standing and referable for work.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "receive UI benefits , you must register for work and post an online resume on www . hirenethawaii . com",
+          "url": "http://www.hirenethawaii.com/",
+          "start_index": 18
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "hawaii.pdf",
+      "parent_id": "c5cd200e0e92057d1b7a2b787a0dbd0d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fbe185e03e32279bca7c2ddc342d511f",
+    "text": "REEMPLOYMENT SERVICES",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a0c9d045d4a86365da7ddb25ed1dff5f",
+    "text": "In addition to job search assistance, the Workforce Development Division can assist you with resume writing, interviewing skills, labor market information, and more. Visit www.labor.hawaii.gov/wdd/",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "resume writing , interviewing skills , labor market information , and more . Visit www . labor . hawaii . gov / wdd /",
+          "url": "http://www.labor.hawaii.gov/wdd/",
+          "start_index": 93
+        },
+        {
+          "text": "skills",
+          "url": "http://www.labor.hawaii.gov/wdd/",
+          "start_index": 122
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "hawaii.pdf",
+      "parent_id": "fbe185e03e32279bca7c2ddc342d511f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2eb324cb4851580b22aa90a4be863202",
+    "text": "Additional Services to Assist You",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "27420c0e9b6d4554b1d2bb006e541809",
+    "text": "Training Programs - You may be eligible for training or education programs to help you upgrade your skills or complete a certificate program. To learn more about whether you might qualify, visit: labor.hawaii.gov/wdd.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "program . To learn more about whether you might qualify , visit : labor . hawaii . gov / wdd",
+          "url": "http://www.labor.hawaii.gov/wdd/",
+          "start_index": 133
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "hawaii.pdf",
+      "parent_id": "2eb324cb4851580b22aa90a4be863202"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c2c51511fe6945779ad6b48d56ac3942",
+    "text": "Veterans’ Assistance – We have employment assistance programs specifically designed for veterans. If you are a veteran, get started at: labor.hawaii.gov/wdd.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "specifically designed",
+          "url": "http://www.labor.hawaii.gov/wdd/",
+          "start_index": 62
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "hawaii.pdf",
+      "parent_id": "2eb324cb4851580b22aa90a4be863202"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "becc51a9bf5db4731d38136dec80df31",
+    "text": "Free or Low-Cost Health Coverage – As an unemployed worker, you and your family may qualify for free or low-cost health coverage. To see if you are eligible or to learn how to apply, visit: humanservices.hawaii.gov/mqd.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "see if you are eligible or to learn how to apply , visit : humanservices . hawaii . gov / mqd",
+          "url": "http://www.humanservices.hawaii.gov/mqd/",
+          "start_index": 133
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "hawaii.pdf",
+      "parent_id": "2eb324cb4851580b22aa90a4be863202"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "89a4357c80d99850060f723d28e8c143",
+    "text": "American Job Center Hawaii – Services for job-seekers include career counseling, HireNet Hawaii support, skills training, job search assistance and a resource center; while businesses can receive recruiting and job training assistance, along with labor market information. To learn more and schedule an appointment, visit labor.hawaii.gov/wdd.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "information . To learn more and schedule an appointment , visit labor . hawaii . gov / wdd .",
+          "url": "https://labor.hawaii.gov/wdd/",
+          "start_index": 260
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "hawaii.pdf",
+      "parent_id": "2eb324cb4851580b22aa90a4be863202"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "7ce13ce2cf1b149fd0bff119b6ac3bbc",
+    "text": "14",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6d725d11f6a1099859f75e2998b4611e",
+    "text": "WHEN YOU FIND A NEW JOB",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d80dcc74af7f0632f5e28442ab714b1d",
+    "text": "Full-Time Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d5bd043b3eb8de852f1e41afb276395d",
+    "text": "After you start a new full-time job, notify our office that you found work. Simply stop submitting [bi]weekly claim certification to request UI benefit payments when you start your new job (even if you will not be paid for a week or more). Should you start the new job in the middle of the week, be sure to report your earnings on your [bi-]weekly claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "hawaii.pdf",
+      "parent_id": "d80dcc74af7f0632f5e28442ab714b1d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e3e407072db5190edd3a353af931fe55",
+    "text": "Part-Time Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2dd1b6df3a06cb9d9265af0566d5f28b",
+    "text": "If you find part-time work, you may still be eligible for reduced UI benefit payments. Be sure to report your new employment and any earnings from part-time work. See the Reporting Earnings section for more information.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Reporting Earnings",
+          "url": null,
+          "start_index": 171
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "hawaii.pdf",
+      "parent_id": "e3e407072db5190edd3a353af931fe55"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "f769869544ab3018e2c4ffecb2116926",
+    "text": "15",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b3bab193e73c53c8f85714a64d263355",
+    "text": "UI FRAUD",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ff71efb6825198e098db5665c6d4d25a",
+    "text": "Fraud is a serious crime. Detecting and preventing unemployment insurance fraud is a priority for our agency. Claims are audited regularly to ensure benefits were paid according to state and federal law.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf",
+      "parent_id": "b3bab193e73c53c8f85714a64d263355"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1f39c688ccea16e2d13eac71b93759f0",
+    "text": "EXAMPLES OF UI FRAUD",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6de5f444d332f50f3c3b1bb98f9c05e3",
+    "text": "Some examples of fraud include:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf",
+      "parent_id": "1f39c688ccea16e2d13eac71b93759f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4b6bc82f56602ad2b630c1362b890e29",
+    "text": "Failing to report money earned while collecting benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf",
+      "parent_id": "1f39c688ccea16e2d13eac71b93759f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5500c622b3d8bca783466b518eec64ea",
+    "text": "Being dishonest about why you are no longer working for a previous employer.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf",
+      "parent_id": "1f39c688ccea16e2d13eac71b93759f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4195b6387b388ca465c155528b875d9f",
+    "text": "Saying you are able and available when you are ill, traveling, or otherwise unable or unavailable to work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf",
+      "parent_id": "1f39c688ccea16e2d13eac71b93759f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3ce61675c4f564d46ebc618b7b8d0d7d",
+    "text": "Reporting that you looked for work when you did not make valid work search efforts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf",
+      "parent_id": "1f39c688ccea16e2d13eac71b93759f0"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "72948631d6492845da948fab7828e47a",
+    "text": "To Avoid Committing Fraud",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f54473eb6034d26f7596f50731b7cd05",
+    "text": "The most important thing is to be honest. If you intentionally make false statements or hide information to gain or maintain UI benefits, you are committing fraud. If you are confused about what you are supposed to do or report, call (808) 762-5752 or (833) 901-2272 and press (4) on the main menu. We are here to help!",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf",
+      "parent_id": "72948631d6492845da948fab7828e47a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "41e6b5b37e84c79d6260a9500c29e6c8",
+    "text": "PENALTIES FOR UI FRAUD",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7527874d41ebeea7d935d768a961386c",
+    "text": "Penalties for fraud can include:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf",
+      "parent_id": "41e6b5b37e84c79d6260a9500c29e6c8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "86dbffc2a8bc8b2570e0c32f5afa4443",
+    "text": "Repayment of all UI benefits that you were not eligible to receive.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf",
+      "parent_id": "41e6b5b37e84c79d6260a9500c29e6c8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7a4ea018014bbee4ad323c8ed8f511a3",
+    "text": "A 15% penalty on top of the benefits you should not have received.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf",
+      "parent_id": "41e6b5b37e84c79d6260a9500c29e6c8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "36a52fa48ca3de47beef12620160f0ba",
+    "text": "Disqualification from receiving future benefits for up to 109 weeks.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf",
+      "parent_id": "41e6b5b37e84c79d6260a9500c29e6c8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "89d76d674cc2d06eecf81214f2be1b92",
+    "text": "Being convicted of a crime in state and/or federal court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf",
+      "parent_id": "41e6b5b37e84c79d6260a9500c29e6c8"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "f6b199aa5ec5caa0d3912b8664be4ceb",
+    "text": "16",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "be40170bb5b89213b881de9272f82d86",
+    "text": "WHAT WE DO TO STOP UI FRAUD",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7075b93e547857fb18cb62f7c6c5cde7",
+    "text": "These are just some of the ways we identify people who are committing fraud:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "hawaii.pdf",
+      "parent_id": "be40170bb5b89213b881de9272f82d86"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ac484e2b211fd83f024dad72948e81fe",
+    "text": "Comparing earnings reported by workers and their employers",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "hawaii.pdf",
+      "parent_id": "be40170bb5b89213b881de9272f82d86"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bab68b3fa8a06970c3ed674496c4e13d",
+    "text": "Auditing claims",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "hawaii.pdf",
+      "parent_id": "be40170bb5b89213b881de9272f82d86"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "15998cf71bd86606fcf41beb491d2f7b",
+    "text": "Checking state and national databases of recently hired individuals to make sure people are not collecting UI benefits after they start working again",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "hawaii.pdf",
+      "parent_id": "be40170bb5b89213b881de9272f82d86"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "27e96ab93b69d38bad9b2a50bdc19519",
+    "text": "Verifying job search contacts",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "hawaii.pdf",
+      "parent_id": "be40170bb5b89213b881de9272f82d86"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7207627d70f844ebd294ebe1b4800e31",
+    "text": "Reviewing union attached status",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "hawaii.pdf",
+      "parent_id": "be40170bb5b89213b881de9272f82d86"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bb4c3cb2f162d4196039d3109c0b4e78",
+    "text": "Incarceration crossmatch",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "hawaii.pdf",
+      "parent_id": "be40170bb5b89213b881de9272f82d86"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "af4fbe2ff0237b6d70752be902e13793",
+    "text": "Report Suspected Fraud",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8820279d2fe4acd6d9821bcefc0b38c0",
+    "text": "To report fraud through our toll-free Fraud Hotline, please call the UI Call Center at (808) 762-5752 or (833) 901-2272 and press (4) on the main menu for the the Internal Security Section (Special Activities Unit).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "hawaii.pdf",
+      "parent_id": "af4fbe2ff0237b6d70752be902e13793"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ac2e81be904ad7d1cb83f8478b12351d",
+    "text": "Tips about possible fraud are pursued by our team of Investigators.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "hawaii.pdf",
+      "parent_id": "af4fbe2ff0237b6d70752be902e13793"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "178d5b6d25a75193bb6df62d4cb58714",
+    "text": "17",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "95d6fa12e06b4f0191f4eaa1239b44d9",
+    "text": "APPEAL RIGHTS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f86976b1fc23eb215c06e3bc66d87102",
+    "text": "If you or your employer disagree with a decision regarding your UI claim, you each have the right to request reconsideration and/or file an appeal to the Employment Security Appeals Referees’ Office (ESARO) within 10 calendar days after the determination or redetermination was mailed to you. The appeal period may be extended to 30 calendar days for good cause by ESARO.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf",
+      "parent_id": "95d6fa12e06b4f0191f4eaa1239b44d9"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "dcc64485e2f706a59e892fa6ea357dad",
+    "text": "HOW TO SUBMIT AN APPEAL",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "708513164e1a4956c53b1ec229afcf80",
+    "text": "To submit an appeal online, go to: huiclaims.hawaii.gov or you may use the appeal form at your local claims office or write your own letter to submit to your local claims office or ESARO. Attach a copy of the decision(s) with which you disagree with.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf",
+      "parent_id": "dcc64485e2f706a59e892fa6ea357dad"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "f1f010ae511f0daf3fb952328a58c2be",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a48efb76b11f251185ed0cb98d5f293a",
+    "text": "Online",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a03e8a1f805a56dfa2f31fe3c7fae637",
+    "text": "huiclaims.hawaii.gov",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "bc782500949ae4b50d211f986dead5fd",
+    "text": "<)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b0eece8e74410b7a9b62df2d4126a7b0",
+    "text": "By Mail",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f38185c7c6e73cbb2ae800e0b44a6fdb",
+    "text": "Employment Security Appeals Referees’ Office (ESARO) 830 Punchbowl Street, Room 429, Honolulu, HI 96813",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf",
+      "parent_id": "b0eece8e74410b7a9b62df2d4126a7b0"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b4740b89d81d4c42c25a7c5675d93d8c",
+    "text": "THE APPEAL PROCESS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "240e4119d8be2ff31347593b65ea05b9",
+    "text": "After your appeal is received, you will be sent a Notice of Hearing in the mail or through some other authorized method of contacting you. It will inform you of the date and time of your appeal hearing. You must participate in your hearing to protect your benefit rights. An impartial hearing officer is responsible for the appeal hearing.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "appeal hearing",
+          "url": null,
+          "start_index": 187
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf",
+      "parent_id": "b4740b89d81d4c42c25a7c5675d93d8c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f19be9e4fd9bbf8af242393566ca6c83",
+    "text": "The hearing officer will issue a written decision that is mailed (or emailed if that is the customary method of contacting you) after the hearing to you and any other interested parties, such as your employer. If you disagree with a hearing officer's decision, you may appeal that decision.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf",
+      "parent_id": "b4740b89d81d4c42c25a7c5675d93d8c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "598a70471d2cc58bcff83b36df3c445b",
+    "text": "For more information about appeals, visit www.labor.hawaii.gov/esaro/",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf",
+      "parent_id": "b4740b89d81d4c42c25a7c5675d93d8c"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "29ec62ef2d897afc9a7fa80efd15b7e3",
+    "text": "WHILE WAITING FOR YOUR APPEAL",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b10961aa2381dd8ecd8e85a74af0fce9",
+    "text": "Continue to search for work, complete and submit your [bi-]weekly claim certification, and report any money you earned during the claim week while your appeal is pending. If the appeal is decided in your favor, you will only be paid for the weeks for which you submitted claims and met the eligibility requirements.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf",
+      "parent_id": "29ec62ef2d897afc9a7fa80efd15b7e3"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2fb0d624f39abdb87b8281b12a23ff44",
+    "text": "18",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bb97f680cb35058f48bb810c45a259e0",
+    "text": "APPENDIX",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "decf2f2ec5dd02b64ef7a7dc813e6193",
+    "text": "APPENDIX A– LEGAL DISCLOSURES",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "57ee73141ce039e887ebb5157b3c7b74",
+    "text": "Equal Opportunity Information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "417182a2844c472adceff50e032c5589",
+    "text": "It is against the law for this agency to discriminate against any individual on the basis of race, color, religion, sex, national origin, age, disability, or political affiliation or belief, or against any beneficiary of, applicant to, or participant in programs financially assisted under Title I of the Workforce Innovation and Opportunity Act (WIOA), on the basis of the individual’s citizenship status or participation in any WIOA Title I–financially assisted program or activity.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "hawaii.pdf",
+      "parent_id": "57ee73141ce039e887ebb5157b3c7b74"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a389d18a7531eda9cc332c2e466c1093",
+    "text": "What to Do if You Experience Discrimination",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2c5f21254d061b178368578d8eca7b3f",
+    "text": "If you think that you have been subjected to discrimination under a WIOA Title I–financially assisted program or activity, you may file a complaint within 180 days from the date of the alleged violation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "hawaii.pdf",
+      "parent_id": "a389d18a7531eda9cc332c2e466c1093"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "63897d877e2d4657f8a9aa680622984f",
+    "text": "\\ (1)) < N",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8d5d5e616bd5f5664bc145a7163e56c6",
+    "text": "To File a Complaint Online",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5da3041791ee2fe9e3a5434570907b4d",
+    "text": "www.dol.gov/oasam/programs/crc/complaint.htm",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "hawaii.pdf",
+      "parent_id": "8d5d5e616bd5f5664bc145a7163e56c6"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "e43dfef5ab216511e9ca0babc510ba3e",
+    "text": "X",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4724168bcb888726cfa6112da45ea8bf",
+    "text": "To File a Complaint by Mail",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2bc7a732f0da990677bdebd8b0a6b8b8",
+    "text": "The Director - Civil Rights Center U.S. Department of Labor 200 Constitution Avenue, NW, Room N-4123 Washington, DC 20210",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "hawaii.pdf",
+      "parent_id": "4724168bcb888726cfa6112da45ea8bf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "589d0752ff3e83250760bfae5d860b47",
+    "text": "Accommodations for Individuals with Disabilities",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5dbe2caf5599dd12b43dc26a6753fd4e",
+    "text": "We will make accommodations to allow your participation in all UI programs, activities, and services. To request an accommodation for a disability, please contact us at: (808) 762-5752 or (833) 901-2272 TDD/TTY Dial 711 then ask for 808-586-8844.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "hawaii.pdf",
+      "parent_id": "589d0752ff3e83250760bfae5d860b47"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "15ab2de0fc289981856ef4779fe9e760",
+    "text": "19",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "472c4e24d4babcf46499082baa872611",
+    "text": "Your Privacy Matters to Us",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f1391f486477087babc77f5824974160",
+    "text": "We follow all state and federal laws that protect your private information. To help connect you with programs designed to get you back to work, we share some of your information with our partners, such as the Workforce Development Division, and they are not allowed to share it with anyone else. We give them your:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "hawaii.pdf",
+      "parent_id": "472c4e24d4babcf46499082baa872611"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8f1764080842f446bcca4e94fe53a669",
+    "text": "Name and Contact information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "hawaii.pdf",
+      "parent_id": "472c4e24d4babcf46499082baa872611"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e55d2fc0963b9ee3d3189e82e48c1b0a",
+    "text": "Employment and job search history",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "hawaii.pdf",
+      "parent_id": "472c4e24d4babcf46499082baa872611"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "eca34adc6c8246b62377a9693b2d7dcf",
+    "text": "Demographics (such as age or gender)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "hawaii.pdf",
+      "parent_id": "472c4e24d4babcf46499082baa872611"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c6c9473fc771d00f281ea04ae3a086f2",
+    "text": "Your previous employers and other state or local government agencies may release to our agency any information, including your Social Security number, required for the proper administration of your claim. We also use your Social Security number to report the amount of UI benefits you receive to the Internal Revenue Service (IRS) as taxable income.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "hawaii.pdf",
+      "parent_id": "472c4e24d4babcf46499082baa872611"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d241c66d2fab3b51c2e1aa434634e1f2",
+    "text": "20",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "528e1ea44a90d29427efcbc43efa59d7",
+    "text": "APPENDIX B – GLOSSARY",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f5d3e9a967cfcffbb537169cd93bb8d8",
+    "text": "This section defines commonly used terms and acronyms.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf",
+      "parent_id": "528e1ea44a90d29427efcbc43efa59d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f8862354f70240822995d85a559f6e2b",
+    "text": "Able and Available – You must be ready and willing to seek and accept suitable work. If you become ill or disabled while claiming benefits which is evidenced by a physician’s certificate, a medical waiver provision may be applied.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf",
+      "parent_id": "528e1ea44a90d29427efcbc43efa59d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "582209d42bac96afd1f34865133c8a90",
+    "text": "Appeal – A process for requesting a formal review of a prior UI decision.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf",
+      "parent_id": "528e1ea44a90d29427efcbc43efa59d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ba84443e81ce53bcaf299230807a3ba0",
+    "text": "Appeal Hearing – A meeting to consider an Unemployment Insurance benefit appeal. Each party (you and the employer, in most cases) can tell an impartial hearing officer what they believe the relevant facts are related to the issue on appeal. You may have witnesses testify. You may ask questions of the other party. All testimony is given under oath.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf",
+      "parent_id": "528e1ea44a90d29427efcbc43efa59d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b073eff45baa43ca5a4433707fce8df6",
+    "text": "Base Period – The window of time used to determine UI benefit eligibility. At the time an initial claim for benefits is filed, wages from the first four of the last five completed calendar quarters are reviewed to determine UI benefit eligibility. Your Weekly Benefit Amount (WBA) is also based on how much you earned during this time. An alternative base period (4 most recent completed calendar quarters) will be used if you cannot establish a weekly benefit amount using the regular base period.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf",
+      "parent_id": "528e1ea44a90d29427efcbc43efa59d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d17cb91e915bada8c4da724865586411",
+    "text": "Benefit Week – A seven-day period during which you have an active claim. The benefit week begins on Sunday and ends at midnight the following Saturday.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf",
+      "parent_id": "528e1ea44a90d29427efcbc43efa59d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7bf6de51d028046366b599592d45a186",
+    "text": "Benefit Year – Also referred to as a Claim Year, this is the 52 weeks from the Claim Effective Date to the Claim End Date.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf",
+      "parent_id": "528e1ea44a90d29427efcbc43efa59d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8f4ff04f912d60ea30726683e090da15",
+    "text": "Benefits – The money given to eligible individuals.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf",
+      "parent_id": "528e1ea44a90d29427efcbc43efa59d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4ce63484659844e951230fc030a582d0",
+    "text": "Claim – An application for UI benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf",
+      "parent_id": "528e1ea44a90d29427efcbc43efa59d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "207cea9bd0ca1c76bdc4ba8c764ed614",
+    "text": "Claim Effective Date – Your benefit year begins the Sunday of the week in which your initial claim for benefits is filed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf",
+      "parent_id": "528e1ea44a90d29427efcbc43efa59d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "354ee644b021755a4a31305e113f4be5",
+    "text": "Claim End Date – Also referred to as a Benefit Year End (BYE), this is the last Saturday of a Benefit Year. This falls 52 weeks after the Claim Effective Date.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf",
+      "parent_id": "528e1ea44a90d29427efcbc43efa59d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5ccf397baa5aa4cb63ade1e78d288fd8",
+    "text": "Fraud – Making false statements, knowingly withholding material information, or claiming or accepting UI benefits illegally. Fraud is a crime.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf",
+      "parent_id": "528e1ea44a90d29427efcbc43efa59d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b6ae23231b45738a0e72f95b2f0acee2",
+    "text": "Full-time Work – Working 40 or more hours per week or as otherwise considered by standard practice, custom or agreement in a particular trade, occupation or business.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf",
+      "parent_id": "528e1ea44a90d29427efcbc43efa59d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "642b4aa32a0bc38da6f4b5a7bf30cdf1",
+    "text": "Gross Earnings – The amount of money you get for work before taxes and deductions are taken out.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf",
+      "parent_id": "528e1ea44a90d29427efcbc43efa59d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "79a368725adbd6df6d66b3ffdea3725d",
+    "text": "Identification (ID) Verification – UI Claimants can verify their ID digitally through Login.gov, a secure government website. Individuals who verify their identity through Login.gov are asked to create an account and securely provide their information for validation. Claimants can also provide proof of ID at most post offices across the state.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf",
+      "parent_id": "528e1ea44a90d29427efcbc43efa59d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "46518e2cc68be5001eb69c5488cd721a",
+    "text": "Maximum Benefit Amount (MBA) – The maximum amount of benefits you may receive during a benefit year is 26 times your weekly benefit amount. This amount is listed in your Monetary Determination notice.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf",
+      "parent_id": "528e1ea44a90d29427efcbc43efa59d7"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "880b4cd1510fd1ae9fc7261a7855c7c1",
+    "text": "21",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7e63bb21c7dc29c808de8b7759999fc6",
+    "text": "Misconduct – Willful disregard of the employer’s interest or careless or deliberate behavior that results in being fired or suspended from your job. Examples include dishonesty related to employment, unexcused absences, or violation of a company policy.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3f0ae9a543de7aff8f89cb44153dabd5",
+    "text": "Monetary Determination – A form mailed to you after you file an initial claim for UI benefits. It explains if you are eligible for UI benefits, how much your payment will be each week (WBA), the Maximum Benefit Amount (MBA), and other details for that Claim Year. This form lists all employers you worked for during the Base Period and the wages each employer reported each quarter. Be sure to check it for accuracy and notify Unemployment Insurance Division of any errors at (833) 901-2272 or (808) 762-5751.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9b68b5dafbaf3f8d1c936c0bdb13f025",
+    "text": "Multi-Factor Authentication (MFA) – UI Claimants are required to use Multi-Factor Authentication (MFA) when logging into the UI web portal. The MFA feature adds an extra layer of security to the existing fraud detection and prevention measures.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9a8df1fa3bcb7a5d4c547a5aa77d9ffe",
+    "text": "Net Earnings – Your take-home pay, after taxes and deductions are taken out.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8412475637161e17d6d35ba5557434f5",
+    "text": "Online Payment System – UI Claimants who must return overpaid unemployment benefits can now make payments online using a credit card, debit card, or eCheck. This online option supplements existing payment methods, which include paying in person or by mail.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a8fad30c340321fb82c44d7a95a811f4",
+    "text": "Overpayment – UI benefits you received, but were not entitled to, under state law.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c13d23e1aa7cd8514bf407c1c65084dc",
+    "text": "Partial UI Benefits – The amount of UI benefits you may receive while working reduced hours (less than your typical work hours).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3e86c7111c794021f99ae2ac301c4760",
+    "text": "Separation – When you or your employer end the working relationship. This can be due to a quit, discharge, suspension, or layoff.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9c51b7ae97677ec517f9e763aa8efa13",
+    "text": "UI – Unemployment Insurance, which is the benefit program for workers who become unemployed through no fault of their own.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2e1a5bee265f651490f700ed4f061214",
+    "text": "Union Attached – An active union member who gets work through a union hiring hall. If you are on the out-of-work list and in good standing, as verified by your union, you may be eligible for UI benefits by remaining available and referable for work through your union.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "22eec0cc255538a22b4ab9c95d56dcc7",
+    "text": "Wage Calculator – The wage calculator tool helps partially unemployed claimants calculate and report any wages they earn while collecting unemployment benefits. Claimants must weekly report all work performed and wages earned for the department to determine their benefit amount for that week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f9370e1d6b56fe66fbee4820faf85878",
+    "text": "Weekly Benefit Amount (WBA) – The amount of money you may be eligible to receive for one week. This amount is listed in your Monetary Determination notice.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c0d009fb3ca8bc035d1a4ea268357c46",
+    "text": "22",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "adc5415e371ad6be301c565eea85f3e4",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "2e8a8f9ea0ee7635249c9c432940c94e",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "b96da934237b16fb302b22cd1309d040",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "27db38cfb9b2922cabacf0f6d924e6e1",
+    "text": "‘e",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "873fcaaa7e53ccb4674d02cc19759744",
+    "text": "APPENDIX C – REPAYMENT OF OVERPAID BENEFITS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d0522a239dccc391825765dcbc74c712",
+    "text": "If you receive an Overpayment Notice, you can repay online, by mail, or in-person.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf",
+      "parent_id": "873fcaaa7e53ccb4674d02cc19759744"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e699faa1f17f7ccf6270ab3780e273fd",
+    "text": "Online Payments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bacfffd03ed25e38bf0b1b7180a7e203",
+    "text": "Visit https://huiclaims.hawaii.gov to login to your account.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf",
+      "parent_id": "e699faa1f17f7ccf6270ab3780e273fd"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5c5fdee17915e1b70f806e668c523e5e",
+    "text": "1. Your dashboard will have messages to inform you of your overpayment notice. Select either message to proceed to make the payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf",
+      "parent_id": "e699faa1f17f7ccf6270ab3780e273fd"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c454b611b00e7dbb2fe125e74b99bdd9",
+    "text": "Choose ‘Make a Payment’. You will be redirected to a secure payment portal. 2. You can make your payment online by credit card, debit card, or eCheck.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf",
+      "parent_id": "e699faa1f17f7ccf6270ab3780e273fd"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "655d2f441f802520da049ce3b743365e",
+    "text": "Unemployment Insurance ‘State of Hawa, Department of Labor and Industrial Relations Tagalg BE Bocano oan Tagakg Tagalog Chuukese Kapasen Chuuk Kajn May Marshaese Spansh Espafiol Vietnamese. Mg Vit P Chinese Korean e3 as Japanese c t Name] iy uic My Ac Logout Dashbo Welcome, [Claimant Name]! Task List A You received an overpayment notice. ea< click here 10 make a payment File Now Claim Certiication for 7/3/2021 s Gue between 7/4/2021 and 7/102021 File Weekly Claim Certification [Claimant Name] Daily Task: Ul Claim My Account Logout Overpayment As of 03/16/2024, 1:00am HST Outstanding Balance: $1,173.00 * To repay overpayment by Credit Card, Debit Card, al, or eCheck, select “Make a Payment” below. If you choose Fee of 2.5% by the pay ll lr -refundable 0 make a r refundable e/Transaction of processor. The ransaction Fee is payable in addition 1o the Payment Amount and any bala Return to Dashboard",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8c95546523b56a43eefe07dfd5d7d48e",
+    "text": "Mail-in Payments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "023e620d9bd9b26256014e7d3051e348",
+    "text": "You will be mailed an Overpayment Notice. To pay by mail:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf",
+      "parent_id": "8c95546523b56a43eefe07dfd5d7d48e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c484654c8552ad0c59f113159a70a09e",
+    "text": "Make your check payable to: Unemployment Insurance Division",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf",
+      "parent_id": "8c95546523b56a43eefe07dfd5d7d48e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8e3553b8de5ee41f9fcaffddb01908a9",
+    "text": "Mail the payment coupon with your check or money order to:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf",
+      "parent_id": "8c95546523b56a43eefe07dfd5d7d48e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "864d49125a1e7bb5d759e64ae611688b",
+    "text": "Hawaii Department of Labor and Industrial Relations",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf",
+      "parent_id": "8c95546523b56a43eefe07dfd5d7d48e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "299951b88bad59643b7386d50004c205",
+    "text": "Unemployment Insurance Division",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf",
+      "parent_id": "8c95546523b56a43eefe07dfd5d7d48e"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "28abe9aee222e93c577fdeed2dcb8e4e",
+    "text": "Attn: Internal Security Section (formerly known as Special Activities Unit)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf",
+      "parent_id": "8c95546523b56a43eefe07dfd5d7d48e"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "048e4fc2409d9430ea5bc1935e181fd3",
+    "text": "830 Punchbowl Street, Room 340",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf",
+      "parent_id": "8c95546523b56a43eefe07dfd5d7d48e"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "73418e04acd2507735e269dc0b6a6b1e",
+    "text": "Honolulu, HI 96813",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf",
+      "parent_id": "8c95546523b56a43eefe07dfd5d7d48e"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "d444d48584f48a8788710d75ec31f523",
+    "text": "Telephone: (808) 586-8947",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "998a70b286d0cca63ab90ed9b4ec0bc8",
+    "text": "Please include the last four (4) digits of your Social Security Number with your mailed payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9287b2295639667d6c63ec175e9106c3",
+    "text": "In-person Payments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f9013517ea9a4ce43795a9a210c2705c",
+    "text": "Visit your local claims office and submit your payment via check, cash, or credit card.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf",
+      "parent_id": "9287b2295639667d6c63ec175e9106c3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ce4d29c9229f0cd128b331cdb22492fe",
+    "text": "If You Cannot Repay In Full",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8277a2f9705f6ceb01a687cac8ae8f52",
+    "text": "You may qualify for monthly payment plans that allow you to repay your overpayment over the course of several months instead of paying the full amount in one payment. To request a payment plan, please contact us by email at dlir.ui.sa@hawaii.gov.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "dlir . ui . sa @ hawaii . gov",
+          "url": "mailto:dlir.ui.sa@hawaii.gov",
+          "start_index": 252
+        },
+        {
+          "text": ".",
+          "url": "mailto:dlir.ui.sa@hawaii.gov",
+          "start_index": 273
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf",
+      "parent_id": "ce4d29c9229f0cd128b331cdb22492fe"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "299a6d3c15efb07ecd30370b1a9ac0d3",
+    "text": "23",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c31ab30311ec5e1f911c39e8a648f070",
+    "text": "APPENDIX D – WORK SEARCH LOG",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "92ad7f8a1da3b2188d76f3ed115f7899",
+    "text": "Recording your work search activities is easier than ever with the ‘Weekly Work Search Log’ included within your claimant portal. Visit",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "hawaii.pdf",
+      "parent_id": "c31ab30311ec5e1f911c39e8a648f070"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b9b960573c22790eb3aa66ec60451c1e",
+    "text": "https://huiclaims.hawaii.gov to login to your account and access this feature. To get started, review the functions below:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "hawaii.pdf",
+      "parent_id": "c31ab30311ec5e1f911c39e8a648f070"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "25ff7a604323860642ba7dc870018f54",
+    "text": "1. Access the Weekly Work Search Log from your Claimant Dashboard by selecting ‘Daily Tasks’ and ‘Record Work Search Activity’. You can record your work search activities anytime.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "hawaii.pdf",
+      "parent_id": "c31ab30311ec5e1f911c39e8a648f070"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f86798f5f2d5d4368a38c2dbf160ba98",
+    "text": "2. View instructions for how to use this log, your work search requirements, and a link to complete your weekly certification.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "hawaii.pdf",
+      "parent_id": "c31ab30311ec5e1f911c39e8a648f070"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c7d766f56859b9e06350e8ad6f19ec12",
+    "text": "3. Select ‘View’ in the ‘What to Record’ section to review eligible work search activities.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "hawaii.pdf",
+      "parent_id": "c31ab30311ec5e1f911c39e8a648f070"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b9d73e903ef9a4db4c4ede72b1de622b",
+    "text": "4. Select ‘Add Activity’ to add a work search activity.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "hawaii.pdf",
+      "parent_id": "c31ab30311ec5e1f911c39e8a648f070"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0d7b07297d990124683fd93719ab2a90",
+    "text": "5. Previously saved work search activities will appear in the log.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "hawaii.pdf",
+      "parent_id": "c31ab30311ec5e1f911c39e8a648f070"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "74a1d6b461fe2fd5f7db79008774e17b",
+    "text": "State of Hawail, Department of Labor and Industrial Relations. B HAS Unemployment Insurance okano Tagaiog Kapasen Chu Kapn Mag Espafiol ng idt 30 88 cano Tagag Chuese Marshasese Spanish Vietnamese Korean Japanese [Claimant Name) I Claim My Account ~ Logout ly Work Search Log 'HOW TO USE THIS LOG Close ' How to use this activities throughout the week. Your entries will appear on your weekly claim 1o save you time during your weekly certifica You must complete and report at least three work search activities for every week you claim Ul benefits. till need to complete your weekly certification. If you wish to exit this log and your weekly certification, piease cick 'WHAT TO RECORD @ -« ADD ACTIVITY Press the \"Add Activity” button to record a new work search activity into your work search log below: e @) 'WORK SEARCH LOG Date Range: | Last7Days Employer Name Result/ Outcome Available Actions. 02/13/2023 (HireNet) Fire Gri Waikik Appication/Resume Submitted Save & Exit",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a5c9f3082799da3f2094fcc1268e44a8",
+    "text": "24",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c87f63d9bc5c0e1bd7c54173cd3d0828",
+    "text": "APPENDIX D – WORK SEARCH LOG (CONTINUED)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5e7c0ab6998f420645698528f1fd114b",
+    "text": "For record keeping purposes, you can download a PDF form, as shown below, to keep track of the work search activities you complete each week. Be sure to document the details of each action (what, when, where, and with whom). If possible, save a screenshot, email confirmation, or any other evidence of your work search action. Please note: this form is not intended to replace the online recording of your work search activities through your claimant portal. After completing this form, ensure that the information is entered online via your claimant portal.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "hawaii.pdf",
+      "parent_id": "c87f63d9bc5c0e1bd7c54173cd3d0828"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc870f37c8e88303d6e3414ad2c23017",
+    "text": "UC-253 (07/24) State of Hawaii 1959 Department of Labor and Industrial Relations UNEMPLOYMENT INSURANCE DIVISION Z RECORD OF WORK SEARCH ACTIVITIES Record the contacts you made to obtain work that you reported on your continued claims. Please give this information to the interviewer during your Eligibility Review Interview or as requested. Your \"Record of Contacts Made for Work\" is subject to verification by the Unemployment Insurance Division. What qualifies as a work search activity? 1.Contacted a potential employer in-person or over the phon 2.Applied for a job online (E.g., HireNet, LinkedIn, Indeed, Glassdoor, Monster, etc.) 4 Participated in a Reemployment Assessment (RESEA) workshop or career center activity 3.Attended a job fair, hiring event, or networking activity 5.Uploading resume to Hawaii’s online job search website HireNet Please provide the information requested or check the appropriate response. Employer’s name, address, & phone number Activity type: Contact method: Position applied for: ) Telephone 7 In-Person Result of contact for work: Name: Online [ Telephone Address: [ Job fair/Event [ Email [ Follow-up scheduled [J Application/Resume Submitted [ RESEA [ Physical Mail 0 Interviewed Email: [ HireNet ) Other ) Hired upload only) sume 0 Employer not hiring Date of contact: Phone: Website name: Job posting #: Employer’s name, address, & phone number Activity type: Contact method: Position applied for: Name: Telephone [ In-Person Result of contact for work: Address: ) Online [) Telephone [J Application/Resume Submitted [ RESEA [ Job fair/Event ) Email Physical Mail [ Follow-up scheduled [ HireNet [ Other [ Interviewed Email: (resume [ Hired Date of contact: Phone: u pload only) 7 Employer not hiring Website name: Job posting #: Contact method: Employer’s name, address, & phone number Activity type: Position applied for: Name: ) Telephone [ In-Person Result of contact for work: ) Online [) Telephone [J Application/Resume Submitted Address: [ Job fair/Event [ Email () Follow-up scheduled [ RESEA Physical Mail ) Interviewed Email: [ HireNet [ Other [ Hired Date of contact: Phone: load only) 7 Employer not hiring Website name: Job posting #: OVER - CONTINUE YOUR RECORD OF WORK SEARCH ACTIVITIES ON THE BACK OF THIS FORM",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "hawaii.pdf",
+      "parent_id": "c87f63d9bc5c0e1bd7c54173cd3d0828"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "020aef5623008db2308ea25990ddebb5",
+    "text": "_",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c12e7403b01cf45f54649ef42dcc140e",
+    "text": "Tip for documenting work search activities: Store your documentation in a single location, such as one folder on your computer.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "7473b6d8757d786b6f55579129b8543b",
+    "text": "25",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7e05f08d95a134abb85cbf9ff6ad27fc",
+    "text": "APPENDIX E – WAGE REPORTING LOG",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e4f0ac2dad0f94cb29ce53418bfe84ad",
+    "text": "Record your earnings with the ‘Wage Reporting Log’ included within your claimant portal. Visit https://huiclaims.hawaii.gov to log in to your account and access this feature. To get started, review the functions below:",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "https :// huiclaims . hawaii . gov",
+          "url": "https://huiclaims.hawaii.gov/",
+          "start_index": 95
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "hawaii.pdf",
+      "parent_id": "7e05f08d95a134abb85cbf9ff6ad27fc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7606ef291f829301c019f65b77babc48",
+    "text": "1. Access this feature from your Claimant Dashboard by selecting ‘Daily Tasks’ and ‘Record Hours Worked’. You can record your hours worked and earnings anytime.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "hawaii.pdf",
+      "parent_id": "7e05f08d95a134abb85cbf9ff6ad27fc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "adc8d6eca46730044730691cbe2bd065",
+    "text": "2. View instructions for how to use this log, the wage reporting requirements, and a link to complete your weekly certification.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "hawaii.pdf",
+      "parent_id": "7e05f08d95a134abb85cbf9ff6ad27fc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4703f92696d83874a58863aacc845cc6",
+    "text": "Select ‘View’ in the ‘What to Record’ section to review what type of income 3. to report.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "hawaii.pdf",
+      "parent_id": "7e05f08d95a134abb85cbf9ff6ad27fc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3d9e7a753310aa30e4688b47d98aa69b",
+    "text": "In the ‘Create New Entry’ section, add the details to enter the work 4. performed. As you add details here, more prompts will appear (see next page).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "hawaii.pdf",
+      "parent_id": "7e05f08d95a134abb85cbf9ff6ad27fc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9fdf3266e2a2be5c1aebf9381e211018",
+    "text": "5. Work and earning activities saved will be populated in the ‘Wage Reporting Log’ section.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "hawaii.pdf",
+      "parent_id": "7e05f08d95a134abb85cbf9ff6ad27fc"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "70dcb0eeb54258e33145bd997d01d9c9",
+    "text": "(Continued on next page)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "9d7970d6e480e8c2a2dbede1ecd27ad6",
+    "text": "Unemployment Insurance State of Hawal, Department of Labor and Industrial Reations HAS ocano kano Tagakog Tagaiog Chuukese Kapasen Chuuk Kag May Marshaese Spansh Espal M Vit winamese Korean of am panese (Claimant Name) Daily Tasks Claim My Account Logou Reporting Log HOW TO USE THIS LOG Close / How to use this You ust report the work you parform each week siong with im Ul benefits. Use this your weekly certification. Please note: entering your wages in s 100! Goes Ot sutomatically satisty your weekly certification requirements. You wil still ed to compete your woekly certification. If you wish to exit this log and complete your woekly certification, please cick here. HAT TO RECORD < REATE NEW ENTRY Use this form 10 creste a new work entry fecord. Press the “Save” button to 3dd your entry 10 the log below. OMMYYYY Date Worked ork Type: St Cancel = [ No wage entries on file. Please use the form above 10 add new entres, as needed.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "ad773a69d31c56da736619ad67488f1a",
+    "text": "26",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "02d340ca4b6a25ee6c8c3f4b16ad65db",
+    "text": "APPENDIX E – WAGE REPORTING LOG (CONTINUED)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 29,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7c839db793cf8e00800f45ab37396fc7",
+    "text": "6. Answer all the prompts that appear in the ‘Create New Entry’ section.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 29,
+      "filename": "hawaii.pdf",
+      "parent_id": "02d340ca4b6a25ee6c8c3f4b16ad65db"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b2d972ba9d1d51e1d4494d7a82adc873",
+    "text": "Select the calculator icon to access the Wage Calculator. The Calculator fields 7. will appear.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 29,
+      "filename": "hawaii.pdf",
+      "parent_id": "02d340ca4b6a25ee6c8c3f4b16ad65db"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "acfcdd130a696604d6215ec294f33337",
+    "text": "8. Enter the prompts from the Calculator to view and confirm your ‘Total Gross Pay’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 29,
+      "filename": "hawaii.pdf",
+      "parent_id": "02d340ca4b6a25ee6c8c3f4b16ad65db"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d1636d15911fa5a819a48812d4d27794",
+    "text": "Select ‘Continue’ to complete your entry. 9.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 29,
+      "filename": "hawaii.pdf",
+      "parent_id": "02d340ca4b6a25ee6c8c3f4b16ad65db"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a96741623674187dc5e6aa454ff55344",
+    "text": "10. View successfully entered activity in the ‘Wage Reporting Log’ section.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 29,
+      "filename": "hawaii.pdf",
+      "parent_id": "02d340ca4b6a25ee6c8c3f4b16ad65db"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "5602cd8f55f2785e981b1ee7eeb5cae5",
+    "text": "CREATE NEW ENTRY Use this form to create a new work entry record. Press the “Save button to add your entry to the log below. Date Worked: 22024 Work Type: Full-Time Please select an employer from opt f your employer' name is not listed, select other: Atlas Construction, Inc. v Enter your hours worked for below: Type: Pay Rate: (for full-time saaried empioyees) rate includes hoiday pay, tps, Earmed Pay*: Total Gross Pay (UsO):",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 29,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "2419240d305e43cec417afa44935e94a",
+    "text": "employer name is not sted, select other: select an employer from Attas Construction, Inc. v Enter your hours worked for below: Type: Pay | Regular Pay 800 Calculate hourly rate (for sataried Enter Gross. Amount* of Pay: $173333 r A 4 o yo e w e Select Payroll () Once a week FIOUency: nce every two weeks @ Twice a month © Once 3 month Hourly Rate: $2000 nchudes holiday pay, tps, amea o $160.00 Total",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 29,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "732c68ee5d2f9886c492efd0e3f0b043",
+    "text": "s @ Date Range: Last 7 Days Employer Name Gross Wages vailable Actions. 2122024 Atias Construction Inc. $160.00 Edit | Delete Save & Exit",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 29,
+      "filename": "hawaii.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "45075051441f98df3b719b8fdcf882b2",
+    "text": "27",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 29,
+      "filename": "hawaii.pdf"
+    }
+  }
+]

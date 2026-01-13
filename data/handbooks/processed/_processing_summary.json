@@ -1,0 +1,68 @@
+{
+  "processedAt": "2026-01-11T13:15:57.245Z",
+  "totalFiles": 12,
+  "successful": 12,
+  "failed": 0,
+  "results": [
+    {
+      "state": "CO",
+      "status": "success",
+      "chunks": 43
+    },
+    {
+      "state": "HI",
+      "status": "success",
+      "chunks": 102
+    },
+    {
+      "state": "LA",
+      "status": "success",
+      "chunks": 41
+    },
+    {
+      "state": "MN",
+      "status": "success",
+      "chunks": 58
+    },
+    {
+      "state": "NE",
+      "status": "success",
+      "chunks": 65
+    },
+    {
+      "state": "NV",
+      "status": "success",
+      "chunks": 119
+    },
+    {
+      "state": "NM",
+      "status": "success",
+      "chunks": 76
+    },
+    {
+      "state": "SC",
+      "status": "success",
+      "chunks": 119
+    },
+    {
+      "state": "TN",
+      "status": "success",
+      "chunks": 24
+    },
+    {
+      "state": "TX",
+      "status": "success",
+      "chunks": 69
+    },
+    {
+      "state": "UT",
+      "status": "success",
+      "chunks": 70
+    },
+    {
+      "state": "WI",
+      "status": "success",
+      "chunks": 96
+    }
+  ]
+}

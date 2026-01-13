@@ -1,0 +1,5133 @@
+[
+  {
+    "type": "UncategorizedText",
+    "element_id": "77783d6bf9e54c4c5a38278ed435befc",
+    "text": "Minnesota Unemployment Insurance",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "c321f66742380d4821cc3e742a1d4c8e",
+    "text": "MY MiINNesOTA UNEMPLOYMENT INSURANCE",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "057ef488d45ee78982c81a84d1f0612b",
+    "text": "Information Handbook",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ebad76622710dcd232cdc2a36c933d88",
+    "text": "What you need to know about Unemployment Insurance",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "minnesota.pdf",
+      "parent_id": "057ef488d45ee78982c81a84d1f0612b"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "2135bcf848ceb3640eaa85f4e6a41c66",
+    "text": "Yy L",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "a87db73c53d4e967dfc6583bd0d9a257",
+    "text": "! \\ ©",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6b1a7bba9376f4975c31e74455687b40",
+    "text": "October 26, 2025 through October 24, 2026",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "b9cd94f7a152d309685cf228dbf578ea",
+    "text": "o [] ot [=] 1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b916ecff542590a2d2ed2b27084f193f",
+    "text": "www.uimn.org",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "81ea41a55f709cd5399ba3d1d51dad0d",
+    "text": "Apply for benefits, request benefit payments, check your account — online or by phone (see pages 5, 8, and 9 for schedules).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "eaab5e6016e3dec7f6fbbad282d89d53",
+    "text": "S",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6d9b8710937b92cc74bcbac36b58cfb6",
+    "text": "www.uimn.org",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ced9970a64badc3a50d0ad2c85662c0b",
+    "text": "Select Applicants and then Apply for Benefits or Log in to My Account.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "minnesota.pdf",
+      "parent_id": "6d9b8710937b92cc74bcbac36b58cfb6"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "b49f056bd332838d0c70d1019901ac28",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "e3c0b14915b8bc4d7e72e3dbbf5ae016",
+    "text": "Twin Cities calling area: 651-296-3644 Greater Minnesota: 1-877-898-9090 Teletypewriter (TTY) users: 1-866-814-1252",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "231153490ac53cb33ae36478e583dd62",
+    "text": "We can help! Speak to a Customer Service Representative Monday through Friday, 8:00 a.m. to 4:30 p.m.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "c25baebc10a64f73dae7d80b630ed907",
+    "text": "Twin Cities calling area: 651-296-3644 Greater Minnesota: 1-877-898-9090 Teletypewriter (TTY) users: 1-866-814-1252",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "461cdd4047ba9420dacf35c86f9498f9",
+    "text": "=",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f272cb4f29e78769e06ad9daffe3aa95",
+    "text": "1. Select a language: 1 for English, 2 for Spanish, 3 for Hmong, or 4 for Somali. If you need a different language, press 1 and follow the steps below to speak to a representative and request an interpreter.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bcdc63b396556b44fee80adb5be5b4ef",
+    "text": "2. Enter your Social Security number.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0f4cea1a29d1615a10771008067a63e4",
+    "text": "3. Enter your password and then press the # key. If you are not asked to enter your password, press 2, and then press 0 to speak to a representative.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e1caa694348f19f9b32964f39ab3aab8",
+    "text": "4. Press 2 for other options.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b667cf895641e4013b6d5e1bd09833b5",
+    "text": "5. Press 3 for answers to commonly asked questions. To speak with a representative, press 0.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0c8d7ea28e7dd5047164dba03f4d4e47",
+    "text": "If you need an interpreter, tell the representative. 6.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "60d7a3662545fb12e76092abc2388bbe",
+    "text": "Visit www.uimn.org for updates and answers to common questions.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "51fbe492ea0fb4cc4e199a34b585218b",
+    "text": "Minnesota Unemployment Insurance",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "18a287d0295bd18e4c07ba55c1a387a5",
+    "text": "Unemployment Insurance (UI) Checklist",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0450bf209bd3434833330a8eb8ef3f20",
+    "text": "Apply as soon as you are unemployed. Look for work and be ready to accept it. Request a benefit payment every week until you return to work full-time. Remember your password, keep it private, and do not use your UI password anywhere else. Read this handbook. Respond to all requests for information. Keep the address on your account up to date for at least four years after your last request for a benefit payment. Call UI Customer Service if you have questions (see page 19).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "minnesota.pdf",
+      "parent_id": "18a287d0295bd18e4c07ba55c1a387a5"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2fb7d41c4d5dcf5a59cc2cd329c9d152",
+    "text": "DID YOU KNOW…",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fdb776e89c458649713ad71f947a722d",
+    "text": "…to receive a benefit payment, you first have to make a payment request? See pages 8 and 9 for more information.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "minnesota.pdf",
+      "parent_id": "2fb7d41c4d5dcf5a59cc2cd329c9d152"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c6e0cd32ef742db8b241b30c3d3696b1",
+    "text": "…benefits are not paid for the first week? See page 10 for more information.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "minnesota.pdf",
+      "parent_id": "2fb7d41c4d5dcf5a59cc2cd329c9d152"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "f18a74e1e9d01268222b90da8e69f52b",
+    "text": "== MY MINNesOTA L UNEMPLOYMENT INSURANCE e Seerch Applicants Employers & Agents Welcome to the Minnesota Unemployment Insurance (Ul) Program This is the official website of the Minnesota Unemployment Insurance Program, administerad by the Department of Employment and Economic Development (DEED) Select who you are o) ALY E . Espafiol Hmoob Somali",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4118ef3582e765d73b9884c02a4e4256",
+    "text": "www.uimn.org is the official website of the Minnesota Unemployment Insurance Program.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "334f618d1a261a00b903d1adee7e5b9f",
+    "text": "Here you will find answers to these questions, and more:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5efc42f734f31de193eac4a25d90a8b6",
+    "text": "• How do I apply?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1b6efcdf8e0f2f1d2ab32ed63131ae15",
+    "text": "• How do I get paid?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0619c5582f679c4399cd9dc46d9468e0",
+    "text": "• What affects my benefits?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a85ae7637a82d8f509546b0376a2c5e2",
+    "text": "• What do I need to know?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e28f82cf18138b9e92bb852fc13d141b",
+    "text": "• How do I appeal?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5a6f191d99939290601c38b0ee0500c8",
+    "text": "Watch and listen! Videos on unemployment topics are available online.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b76b76ea4e6bcc5f16793327440d2c16",
+    "text": "Minnesota Unemployment Insurance",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1487a0c939e1ed7c6772eaa9d92f872b",
+    "text": "Protect your private information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e6ed1047b8592d0bfcfe7d950e5751eb",
+    "text": "Report a potential imposter account immediately",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1f87f26bc70851ca398233aa230f1983",
+    "text": "Unfortunately, identity theft is now commonplace. If an identity thief obtains your private information, they may use it to create an imposter unemployment insurance account in your name. They do this to try to steal money from the Unemployment Insurance Program.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf",
+      "parent_id": "e6ed1047b8592d0bfcfe7d950e5751eb"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "97d88a93887560e6eae79507d88b5ed8",
+    "text": "If you received this handbook in the mail, but did not apply for a benefit account, please submit a fraud report on our website. You can find the form at: www.uimn.org/fraud-report",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf",
+      "parent_id": "e6ed1047b8592d0bfcfe7d950e5751eb"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "884e53c17a8add3bd93f6caafa3b7ab6",
+    "text": "E T - < @ ) € ey We noticed an error in your Unemployment Claim, click http://www.fakebadwebsite.com uimn/applicants/login.htm to review your claim. Minnesota Department of Employment & Economic Development",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a3a103622ec0e57d735a831d25ffb742",
+    "text": "Be cautious of phishing scams",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "03973f58990cef91c13e1d8c4a116ad7",
+    "text": "In a phishing scam, an identity thief will create a large list of email addresses or phone numbers. The identity thief then sends out a mass email or text message (like the image on the right).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf",
+      "parent_id": "a3a103622ec0e57d735a831d25ffb742"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1069926a7d1cb16ffe4b546097111f0c",
+    "text": "Phishing messages usually sound like they came from an organization you trust. They will often mention some kind of urgent problem, like:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf",
+      "parent_id": "a3a103622ec0e57d735a831d25ffb742"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9327fb4e46b11ab9fd01d66f2237e5c7",
+    "text": "• “There is an error or problem with your account”",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf",
+      "parent_id": "a3a103622ec0e57d735a831d25ffb742"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d1368ab526823b63e04ed187554a151f",
+    "text": "• “Your application for benefits is incomplete”",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf",
+      "parent_id": "a3a103622ec0e57d735a831d25ffb742"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3ff87f975312dcb73662d4c20abd251a",
+    "text": "• “You were a victim of fraud”",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf",
+      "parent_id": "a3a103622ec0e57d735a831d25ffb742"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "473772df32b642b85303c2b192621ef4",
+    "text": "Phishing messages usually include a link or attachment. Sometimes these links/attachments will cause malicious software to download to your device. In other cases, phishing links/attachments will lead you to a fake website designed to steal your information.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf",
+      "parent_id": "a3a103622ec0e57d735a831d25ffb742"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ee61a722d65eb961805ded13b95218e8",
+    "text": "Here are a few tips to protect yourself from phishing scams:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf",
+      "parent_id": "a3a103622ec0e57d735a831d25ffb742"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "677f09e071d0142748400026b6e7d69b",
+    "text": "• You should ALWAYS assume text messages or social media messages about your unemployment account are fraudulent. We will NEVER contact you on Facebook, Twitter, Instagram, or text message.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf",
+      "parent_id": "a3a103622ec0e57d735a831d25ffb742"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c0b4439c78ffac4df129c0cd597ce684",
+    "text": "• We do send emails occasionally, but our emails NEVER include web links. Be very cautious about clicking any link you get via email.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf",
+      "parent_id": "a3a103622ec0e57d735a831d25ffb742"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f5b0d4fdd7d80fb47474e5dacc858af1",
+    "text": "• If you need to apply for benefits or request benefit payments, ALWAYS start by going to our official website (www.uimn.org).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf",
+      "parent_id": "a3a103622ec0e57d735a831d25ffb742"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1cc0f8cf189bf348d255760f889db36e",
+    "text": "• We will NEVER call you to ask you for your username, password, Social Security number, or bank account information.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "minnesota.pdf",
+      "parent_id": "a3a103622ec0e57d735a831d25ffb742"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fc6f5db87196274d71977f5a77726499",
+    "text": "Table of Contents",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "9ba0f0129a005e6f15b8144c16d80e24",
+    "text": "Introduction ...................................................................................... 4 Applying for benefits ......................................................................... 5 When do I apply? How do I apply? What if I’m unemployed for a reason other than layoff? Using your password .......................................................................... 6 After you apply ………………………………………………………………………………… 7 How much will I receive? Requesting benefit payments ....................................................... 8 - 9 When do I request benefit payments? When can I expect my first payment? ............................................... 10 Nonpayable week How will I be paid? ........................................................................... 11 How does direct deposit work? How does the unemployment debit card work? Report work when requesting benefit payments............................... 12 What work do I need to report? How does working affect my benefits?.............................................. 13 What if my hours vary week to week? What happens if I fail to report my hours and earnings? Income that may affect benefits ............................................... ...…. 14 Understanding weekly eligibility requirements ………………….…………… 15 What do I need to do each week? How does going to school affect my benefits? Stopping and starting benefit payments ........................................... 16 What if I go back to work? What if I’m unemployed again? Withholdings from benefit payments ............................................... 17 Income taxes, overpayments, child support Reemployment Assistance ............................................................... 18 Contact customer service ................................................................. 19 Help finding your next job ................................................................ 20 Online job search eLearning classes Financial help and community services ............................................. 21 CareerForce - Help for Job Hunters & Career Seekers …Inside back cover",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Introduction ...................................................................................... 4",
+          "url": null,
+          "start_index": 0
+        },
+        {
+          "text": "Applying for benefits  ......................................................................... 5",
+          "url": null,
+          "start_index": 103
+        },
+        {
+          "text": "Using your password ..........................................................................",
+          "url": null,
+          "start_index": 0
+        },
+        {
+          "text": "How much will I receive ?",
+          "url": null,
+          "start_index": 0
+        },
+        {
+          "text": "Requesting benefit payments .......................................................   8",
+          "url": null,
+          "start_index": 0
+        },
+        {
+          "text": "When can I expect my first payment ? ............................................... 10",
+          "url": null,
+          "start_index": 0
+        },
+        {
+          "text": "Nonpayable week",
+          "url": null,
+          "start_index": 0
+        },
+        {
+          "text": "How will I be paid ? ........................................................................... 11",
+          "url": null,
+          "start_index": 0
+        },
+        {
+          "text": "How does direct deposit work ?",
+          "url": null,
+          "start_index": 0
+        },
+        {
+          "text": "How does the unemployment debit card work ?",
+          "url": null,
+          "start_index": 31
+        },
+        {
+          "text": "Report work when requesting benefit payments ............................... 12",
+          "url": null,
+          "start_index": 0
+        },
+        {
+          "text": "What happens if I fail to report my hours and earnings ?",
+          "url": null,
+          "start_index": 37
+        },
+        {
+          "text": "Income that may affect benefits ............................................... ...…. 14",
+          "url": null,
+          "start_index": 0
+        },
+        {
+          "text": "Understanding weekly eligibility requirements ………………….…………… 15",
+          "url": null,
+          "start_index": 90
+        },
+        {
+          "text": "What do I need to do each week ?",
+          "url": null,
+          "start_index": 0
+        },
+        {
+          "text": "How does going to school affect my benefits ?",
+          "url": null,
+          "start_index": 33
+        },
+        {
+          "text": "Stopping and starting benefit payments ........................................... 16",
+          "url": null,
+          "start_index": 0
+        },
+        {
+          "text": "Withholdings from benefit payments ............................................... 17",
+          "url": null,
+          "start_index": 0
+        },
+        {
+          "text": "Reemployment Assistance ...............................................................",
+          "url": null,
+          "start_index": 0
+        },
+        {
+          "text": "Contact customer service ................................................................. 19",
+          "url": null,
+          "start_index": 92
+        },
+        {
+          "text": "Help finding your next job ................................................................ 20",
+          "url": null,
+          "start_index": 187
+        },
+        {
+          "text": "Financial help and community services ............................................. 21",
+          "url": null,
+          "start_index": 0
+        }
+      ],
+      "text_as_html": "<table><thead><tr><th>Introduction</th><th></th></tr></thead><tbody><tr><td>Applying for benefits N</td><td></td></tr><tr><td colspan=\"2\">When do | apply?</td></tr><tr><td colspan=\"2\">How do | apply?</td></tr><tr><td colspan=\"2\">What if I’'m unemployed for a reason other than layoff?</td></tr><tr><td>Using your password e</td><td></td></tr><tr><td>After you apply</td><td></td></tr><tr><td colspan=\"2\">How much will | receive?</td></tr><tr><td>Requesting benefit payments</td><td>8-9</td></tr><tr><td colspan=\"2\">When do | request benefit payments?</td></tr><tr><td colspan=\"2\">When can | expect my first payment?.......cc 10</td></tr><tr><td colspan=\"2\">Nonpayable week</td></tr><tr><td>How will | be paid?....... ee</td><td>11</td></tr><tr><td colspan=\"2\">How does direct deposit work</td></tr><tr><td>How does the unemployment debit card work?</td><td></td></tr><tr><td>ne Report work when requesting benefit payments</td><td>12</td></tr><tr><td colspan=\"2\">What work do | need to report?</td></tr><tr><td>How does working affect my benefits?.......cc</td><td>13</td></tr><tr><td colspan=\"2\">What if my hours vary week to week?</td></tr><tr><td colspan=\"2\">What happens if | fail to report my hours and earnings?</td></tr><tr><td>Income that may affect benefits</td><td>14</td></tr><tr><td>Understanding weekly eligibility requirements</td><td>15</td></tr><tr><td colspan=\"2\">What do | need to do each week?</td></tr><tr><td colspan=\"2\">How does going to school affect my benefits?</td></tr><tr><td>Stopping and starting benefit payments</td><td>16</td></tr><tr><td colspan=\"2\">What if | go back to work?</td></tr><tr><td colspan=\"2\">What if ’'m unemployed again?</td></tr><tr><td>Withholdings from benefit payments esn</td><td>17</td></tr><tr><td colspan=\"2\">Income taxes, overpayments, child support</td></tr><tr><td>Reemployment Assistance n</td><td>18</td></tr><tr><td>Contact customer service</td><td>19</td></tr><tr><td>e Help finding your next job</td><td>20</td></tr><tr><td colspan=\"2\">Online job search eLearning classes</td></tr><tr><td colspan=\"2\">Financial help and community services cne ee 21</td></tr><tr><td>Inside CareerForce - Help for Job Hunters &amp; Career Seekers</td><td>back cover</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "minnesota.pdf",
+      "parent_id": "fc6f5db87196274d71977f5a77726499"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "ebce1f3ee2124df1a8b370de16d74e52",
+    "text": "MY MiINNesoOTA UNEMPLOYMENT INSURANCE",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c880b099f05d3b726d6584c1b3c40701",
+    "text": "Introduction",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "15123d3f09342ad28c38d6bb5630d7f0",
+    "text": "This handbook provides important information about unemployment benefits, including:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "minnesota.pdf",
+      "parent_id": "c880b099f05d3b726d6584c1b3c40701"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7cc537072ec14df1dff85dcdffef3fa3",
+    "text": "• How to apply",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "minnesota.pdf",
+      "parent_id": "c880b099f05d3b726d6584c1b3c40701"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bd2cfe459ed9e79b332168a931b0941d",
+    "text": "• How your eligibility is determined",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "minnesota.pdf",
+      "parent_id": "c880b099f05d3b726d6584c1b3c40701"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bc2d19d2817d71cfda08456c950efa74",
+    "text": "• What you must do each week to receive a benefit payment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "minnesota.pdf",
+      "parent_id": "c880b099f05d3b726d6584c1b3c40701"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6fac05a5b13f4132c61d233ffce4a06e",
+    "text": "The information in this handbook is an overview of unemployment insurance benefits. It does not cover every topic, answer all questions, or take the place of the law. It is your responsibility to read this handbook and all information you receive from Minnesota Unemployment Insurance. The Unemployment Insurance Program is administered by the Minnesota Department of Employment and Economic Development (DEED). DEED provides free assistance to all applicants and employers who have questions about unemployment insurance. You should never pay a third party to help you apply for or request unemployment benefits. You should also be careful when reading information on social media, which may not always be accurate. Benefits are funded by a tax paid only by employers. Tax deductions from employees’ paychecks are not used for unemployment insurance benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "minnesota.pdf",
+      "parent_id": "c880b099f05d3b726d6584c1b3c40701"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "4d1db2f4fcb50e7072f0e0c052b4446d",
+    "text": "Minnesota Unemployment Insurance Information Handbook | 4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3c1338cfce0c3df84a8cb87ae9904365",
+    "text": "Applying for benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3786402918fb3a105684fb97f8b638b2",
+    "text": "When do I apply?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f498e46ccb81c3ed4c5f3c1468382522",
+    "text": "Apply for benefits the week you become unemployed or your hours are significantly reduced.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "minnesota.pdf",
+      "parent_id": "3786402918fb3a105684fb97f8b638b2"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3f13f8ee3a63a130c2a2d39ecffd0ace",
+    "text": "How do I apply?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "28236e31923162e8270ea3b8404bbf14",
+    "text": "Apply online or by phone following the instructions and schedules below. After you apply, we will mail you information about how to request benefit payments (see pages 8 - 9). If you are eligible for benefits, we will also notify you of your weekly benefit amount (see page 7). Online – You can apply online Sunday - Friday from 6:00 a.m. to 8:00 p.m. Go to www.uimn.org, select Applicants, and then Apply for Benefits. By phone – Call on Monday - Friday from 8:00 a.m. to 4:30 p.m. Choose English, Spanish, Hmong, or Somali. If you need another language, follow the steps on page 19 to speak to a representative and request an interpreter. Twin Cities calling area: 651-296-3644 Greater Minnesota: 1-877-898-9090 Teletypewriter (TTY) users: 1-866-814-1252",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "minnesota.pdf",
+      "parent_id": "3f13f8ee3a63a130c2a2d39ecffd0ace"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "67b223217d63d532df6cb7d6e3c543a1",
+    "text": "What if I’m unemployed for a reason other than layoff?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "97c4d97a65295dd6b1a3c885464fdd24",
+    "text": "If you are unemployed for any reason other than lack of work, state law requires that we follow a specific process to determine if you are eligible for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "minnesota.pdf",
+      "parent_id": "67b223217d63d532df6cb7d6e3c543a1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "48a07e43669efc4e33ff03afb1cd3c8d",
+    "text": "1. During the application, we ask questions about why you are unemployed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "minnesota.pdf",
+      "parent_id": "67b223217d63d532df6cb7d6e3c543a1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "976617a1d75125bab8ffd5220a49ec96",
+    "text": "2. We will ask your employer the same questions.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "minnesota.pdf",
+      "parent_id": "67b223217d63d532df6cb7d6e3c543a1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6c02c5459aa3d743a76e077a4cc778ab",
+    "text": "3. We will review your answers and your employer’s answers to determine if you are eligible for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "minnesota.pdf",
+      "parent_id": "67b223217d63d532df6cb7d6e3c543a1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b1e0bb8fb6ed1c38590d15cae86ae510",
+    "text": "4. We will mail you and your employer a determination that tells you if you are eligible for unemployment benefits. Either you or your employer can appeal the determination.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "minnesota.pdf",
+      "parent_id": "67b223217d63d532df6cb7d6e3c543a1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f870bab088a37dab3b7c8ac49e4cb32e",
+    "text": "It is important that you provide detailed information about the way your employment ended. If we do not have enough information, we may not be able to determine your eligibility for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "minnesota.pdf",
+      "parent_id": "67b223217d63d532df6cb7d6e3c543a1"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "fb07f48a65deb8ac1e3ad0dd5c43b76c",
+    "text": "5 | Minnesota Unemployment Insurance Information Handbook",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6b87a24f5e928a65479b086e2ca0db37",
+    "text": "Using your password",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4320605766c647f9fe3a43a70e360ada",
+    "text": "Your password and Social Security number give you secure access to your benefit account and serve as your electronic signature. If you forget your password, you can reset it.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "minnesota.pdf",
+      "parent_id": "6b87a24f5e928a65479b086e2ca0db37"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "acb0c894532182c5b8f7ed64cfee9f6b",
+    "text": "Reset your password online at www.uimn.org",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d9b83066da4b647465c6fd23b10fd03a",
+    "text": "1 Select Applicants and then Log in to my Account.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "minnesota.pdf",
+      "parent_id": "acb0c894532182c5b8f7ed64cfee9f6b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "63d37abca8f5bd83763bbafca05d8c85",
+    "text": "2 In the Existing Applicants section, select the Forgot your password link and follow the prompts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "minnesota.pdf",
+      "parent_id": "acb0c894532182c5b8f7ed64cfee9f6b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "afbe74c72e374e2f71282facd9204eb9",
+    "text": "If you forgot the answer to your security question, use the phone and follow the instructions below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "minnesota.pdf",
+      "parent_id": "acb0c894532182c5b8f7ed64cfee9f6b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e1812df4690bb4c5972036d9af603460",
+    "text": "Reset your password by phone",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fb5dc460f3d448255d2c6dc4d785d8b2",
+    "text": "1. Call the automated phone system.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "minnesota.pdf",
+      "parent_id": "e1812df4690bb4c5972036d9af603460"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "48244e447fb17903d14d80c07f8ae934",
+    "text": "Twin Cities calling area: 651-296-3644 Greater Minnesota: 1-877-898-9090 Teletypewriter (TTY) users: 1-866-814-1252",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "af847dadc45336730f573de3aa07d1ca",
+    "text": "2. Select a language.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a4ab55d582a671f0dfaf8c253af72d7d",
+    "text": "3. Enter your Social Security number. When you hear the prompt to enter your password, press the # key.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "79ad70edb54e0b45870abac85709bb23",
+    "text": "4. Answer your security question using the keypad on your phone (up to 8 characters) and then press the # key. Follow the prompts to reset your password.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "612c71814c193d52ddb5d5808a99dd10",
+    "text": "o If you do not have a security question on file, you will be connected to a representative. If you need an interpreter, tell the representative.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "872d7c537c6a2f62fb70e90fa895a05b",
+    "text": "o If you forgot the answer to your security question, after multiple attempts, you will either be connected to a representative or you will hear: “Press 2 to speak to a representative.” If you need an interpreter, tell the representative.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "599c61d4a68ea72cfb6d0fd85fde2754",
+    "text": "Minnesota Unemployment Insurance Information Handbook | 6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "78e22f6dd792f82aa3d2e3d50b5ac8af",
+    "text": "After you apply",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "9450ba6411549e59e02b028ff117497f",
+    "text": "4 | i , l \\ \\ &",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "31f0aadd21af3d38ed538c50e13c9af6",
+    "text": "How much will I receive?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6ce4c96a13821cfe5d93cb5b30044f62",
+    "text": "Your weekly benefit amount will be about 50 percent of your average weekly wage up to a state maximum of $948.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "minnesota.pdf",
+      "parent_id": "31f0aadd21af3d38ed538c50e13c9af6"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0203f1b1dba675d64169a268c2102c05",
+    "text": "We will mail you a Determination of Benefit Account that shows your weekly benefit amount and total amount of benefits available.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "minnesota.pdf",
+      "parent_id": "31f0aadd21af3d38ed538c50e13c9af6"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "80c0bd11835c0017edc05385511a05b6",
+    "text": "• The determination does not necessarily mean you will receive unemployment benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "minnesota.pdf",
+      "parent_id": "31f0aadd21af3d38ed538c50e13c9af6"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d30a734d9a9fe042b9c491212893bb92",
+    "text": "• We will mail you a separate determination if we need to make a decision about your eligibility for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "minnesota.pdf",
+      "parent_id": "31f0aadd21af3d38ed538c50e13c9af6"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "08540f69da4efe623f7bcffb6fa4c318",
+    "text": "7 | Minnesota Unemployment Insurance Information Handbook",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "aeaf5e79acc68649afb13b8cd0bb1dae",
+    "text": "Requesting benefit payments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a75fbb43ca831df62be5b2df51554274",
+    "text": "When do I request benefit payments?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "886c73872eec2f2bcb529a9cef249b03",
+    "text": "• You must request a payment for each week you are unemployed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "minnesota.pdf",
+      "parent_id": "a75fbb43ca831df62be5b2df51554274"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "04f7ad064b2737f375acfa995e4633c3",
+    "text": "• Request a payment even if we are deciding your eligibility or you are waiting for an appeal hearing or decision.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "minnesota.pdf",
+      "parent_id": "a75fbb43ca831df62be5b2df51554274"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c0ebf1b42e989111eebb6768e4f90a95",
+    "text": "• You may lose payments for weeks you do not request on time.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "minnesota.pdf",
+      "parent_id": "a75fbb43ca831df62be5b2df51554274"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "f8a6b2fecfb71fb9a4776076dc5df557",
+    "text": "I\\ Al £ T\\ 4",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e515c0377643ab62e8d125b78f1aa1fe",
+    "text": "Request a benefit payment online",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b0a016a2b73b171fc49432690f26191e",
+    "text": "You can request a payment online Sunday - Friday, 6:00 a.m. to 8:00 p.m.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "minnesota.pdf",
+      "parent_id": "e515c0377643ab62e8d125b78f1aa1fe"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b96447b9700429f294341644f7074f63",
+    "text": "1. Go to www.uimn.org",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "minnesota.pdf",
+      "parent_id": "e515c0377643ab62e8d125b78f1aa1fe"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b7a8c26a993fbcd2cc6b4023afa1dc41",
+    "text": "2. Select Applicants and then Log in to My Account.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "minnesota.pdf",
+      "parent_id": "e515c0377643ab62e8d125b78f1aa1fe"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2556e1480d1e424da6a7b702eea4ce80",
+    "text": "3. Log in to your account using your Social Security number and password.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "minnesota.pdf",
+      "parent_id": "e515c0377643ab62e8d125b78f1aa1fe"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "982ec90efdd5806029914d1df832a716",
+    "text": "4. Select Request Benefit Payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "minnesota.pdf",
+      "parent_id": "e515c0377643ab62e8d125b78f1aa1fe"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6dfc787e6257a06afb41234841befb73",
+    "text": "Request a benefit payment by phone",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e43f6c9c67cf1a1508b9660be600b751",
+    "text": "To request a benefit payment over the phone, please follow the instructions on the next page.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "minnesota.pdf",
+      "parent_id": "6dfc787e6257a06afb41234841befb73"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2712d18e587b87167a0a0c1bdd882343",
+    "text": "Minnesota Unemployment Insurance Information Handbook | 8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3210905ab80c286606f943958cf73043",
+    "text": "Request a benefit payment by phone",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f5619da3fac28d911efacf057de60dfd",
+    "text": "The table below lists the day and time to request your benefit payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "minnesota.pdf",
+      "parent_id": "3210905ab80c286606f943958cf73043"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2814c94b2e6b4b62cdcb7d6c5a5f203d",
+    "text": "1. Call the automated phone system:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "minnesota.pdf",
+      "parent_id": "3210905ab80c286606f943958cf73043"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "20faf2bcda90fb68824afb383abac6e1",
+    "text": "Twin Cities calling area: 651-296-3644 Greater Minnesota: 1-877-898-9090 Teletypewriter (TTY) users: 1-866-814-1252",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6b7f67b81b378d947712afe00a9c2688",
+    "text": "2. Select a language: English, Spanish, Hmong, or Somali. If you need another language, follow the steps on page 19 to speak to a representative and request an interpreter.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a574512d3455d588fa3d2b8493ba6b08",
+    "text": "3. Enter your Social Security number.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "09e3e85863148f5977e1dddb2ae69b95",
+    "text": "4. Enter your password and then press the # key.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4285ea0120e1ccda6c26b607cf8c4a32",
+    "text": "5. You may hear important messages about your account.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e0ae108eb820c7c140445a728ca41d53",
+    "text": "6. After the messages, listen to your options and choose Request Benefit Payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b5eec5df2723043756e3710e91f860c1",
+    "text": "Phone schedule to request benefit payments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d7e864bd4ea808cc3c9a1fe85aac7ab7",
+    "text": "If your Social Security number ends in: Call on: 1, 3, or 5 Tuesday 6 a.m. to noon 7 or 9 Tuesday noon to 6 p.m. 0, 2, or 4 Wednesday 6 a.m. to noon 6 or 8 Wednesday noon to 6 p.m. Any Thursday or Friday 6 a.m. to 6 p.m.",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><thead><tr><th>If your Social Security number ends in:</th><th>Call on:</th></tr></thead><tbody><tr><td>1,3,0r5</td><td>Tuesday 6 a.m. to noon</td></tr><tr><td>70r9</td><td>Tuesday noon to 6 p.m.</td></tr><tr><td>0,2,04d</td><td>Wednesday 6 a.m. to noon</td></tr><tr><td>6or8</td><td>Wednesday noon to 6 p.m.</td></tr><tr><td>Any</td><td>Thursday or Friday 6a.m.to 6 p.m.</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "minnesota.pdf",
+      "parent_id": "b5eec5df2723043756e3710e91f860c1"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "96f3de8b88be23ec3bffba48f8451cbd",
+    "text": "9 | Minnesota Unemployment Insurance Information Handbook",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "018a581e62ee78ebbdca6a424ab9cbe1",
+    "text": "When can I expect my first payment?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b03f54eb4313189b4d521532babe3533",
+    "text": "The soonest you will receive a payment is the third week after your benefit account is established.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "018a581e62ee78ebbdca6a424ab9cbe1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b406aa019406276945def2576d9b43c9",
+    "text": "• You always request your benefit payment for a previous week. You cannot request benefits for the current week or a week in the future.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "018a581e62ee78ebbdca6a424ab9cbe1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1fea5024ae54d40f65529cdc08d8e368",
+    "text": "• The first week you are eligible for benefits is your “nonpayable week” (see explanation below).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "018a581e62ee78ebbdca6a424ab9cbe1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "401c3db1b5349fd9481d2cff768c8fe4",
+    "text": "• For most applicants, the second week you are eligible for benefits will be the first week for which you can receive a payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "018a581e62ee78ebbdca6a424ab9cbe1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "736e6ee7b78333b59eb16c8d963b4225",
+    "text": "• Most applicants request payment for their first payable week the third week after their benefit account is established.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "018a581e62ee78ebbdca6a424ab9cbe1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "73d955abae5e1c3862046d8501b7fca9",
+    "text": "Your first payment may be delayed beyond the third week if:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "018a581e62ee78ebbdca6a424ab9cbe1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8d957dd9ff679561006b0f2806cfba35",
+    "text": "• You had earnings greater than your weekly benefit amount or worked 32 or more hours (see pages 13 and 14).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "018a581e62ee78ebbdca6a424ab9cbe1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "53fa8eda9a30e54e7ffc1186fc3325f4",
+    "text": "• You are receiving other types of payments/income (see page 14).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "018a581e62ee78ebbdca6a424ab9cbe1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "51caf37145348ea1404e35f0556c4183",
+    "text": "• You are not eligible for a week (see page 15).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "018a581e62ee78ebbdca6a424ab9cbe1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "03a1e52efe4c949ac819f8dc7be2557a",
+    "text": "• We are unable to confirm your identity based on the information you provided.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "018a581e62ee78ebbdca6a424ab9cbe1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "70eda20f1faa451a5f10dc3d0a9dfdf3",
+    "text": "• We need more time to obtain information to decide your eligibility for benefits (see page 5).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "018a581e62ee78ebbdca6a424ab9cbe1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4dfdf8d0516fd893a161fdaaf308a1a6",
+    "text": "Nonpayable week",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e0c44d1c2b4ab945a6ab382bc3ddcdb3",
+    "text": "The first week you are eligible for unemployment benefits is your nonpayable week. Minnesota law requires a nonpayable week before you can be paid benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "4dfdf8d0516fd893a161fdaaf308a1a6"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bdc05418da1429d85360f1d27e594f1b",
+    "text": "For a week to qualify as your nonpayable week, you must:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "4dfdf8d0516fd893a161fdaaf308a1a6"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c51d185cfd44bbf24930b16853a799d3",
+    "text": "• Submit an application for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "4dfdf8d0516fd893a161fdaaf308a1a6"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4b56549cc32b17dbda22a8a4dba3c552",
+    "text": "• Submit a timely Request for Benefit Payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "4dfdf8d0516fd893a161fdaaf308a1a6"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "36e71da353ff90ee20c5c17de5af6542",
+    "text": "• Be eligible for benefits for the week requested.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "4dfdf8d0516fd893a161fdaaf308a1a6"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a2ec7a6ddeac1f3d20e5041e27c0ad64",
+    "text": "You will have only one nonpayable week in the 52 weeks after you apply. If you are unemployed again within one year of your account date, you will not have another nonpayable week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf",
+      "parent_id": "4dfdf8d0516fd893a161fdaaf308a1a6"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "3abbb19f113e6f505e773d3ed8ce94eb",
+    "text": "Minnesota Unemployment Insurance Information Handbook | 10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ce2e9b3c156680e0d214e6653f927384",
+    "text": "How will I be paid?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "377e7ca02a076febc421e91f474dcb25",
+    "text": "When you apply, you choose how you want to receive your benefit payments:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "minnesota.pdf",
+      "parent_id": "ce2e9b3c156680e0d214e6653f927384"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cb00e251ed9a61cd5a70193c3eb95819",
+    "text": "• Direct deposit to your checking or savings account, or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "minnesota.pdf",
+      "parent_id": "ce2e9b3c156680e0d214e6653f927384"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "772f3306cabeb65a9660babbe275087e",
+    "text": "• U.S. Bank ReliaCard® Visa® (unemployment debit card)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "minnesota.pdf",
+      "parent_id": "ce2e9b3c156680e0d214e6653f927384"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "549200780486fb393f45f3db4ded63f8",
+    "text": "You can change your payment method by logging in to your account online or by calling customer service.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "minnesota.pdf",
+      "parent_id": "ce2e9b3c156680e0d214e6653f927384"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8d6f500c07b08bd6f810284e4d0ead87",
+    "text": "How does direct deposit work?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ce75d761c5b13d6c5eda6dfa2f0f751c",
+    "text": "If you select direct deposit, your unemployment benefits will be deposited in your personal checking or savings account. Most applicant use direct deposit because it is the quickest way to get paid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "minnesota.pdf",
+      "parent_id": "8d6f500c07b08bd6f810284e4d0ead87"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8ca37a6de9759b0a053abecab1e56700",
+    "text": "• Once you set up direct deposit, payments should reach your account within three business days after you request a payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "minnesota.pdf",
+      "parent_id": "8d6f500c07b08bd6f810284e4d0ead87"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ece6c9d97b98ce1aa349d1ce39cde4ac",
+    "text": "• When you complete a new application for benefits, you must also complete a new direct deposit request.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "minnesota.pdf",
+      "parent_id": "8d6f500c07b08bd6f810284e4d0ead87"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e71c97752528b6712f176ce7e77196be",
+    "text": "• If you change your bank or bank account, remember to update this information in your benefit account to avoid a delay in payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "minnesota.pdf",
+      "parent_id": "8d6f500c07b08bd6f810284e4d0ead87"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3b3c06f13354faf5615e0119a6e1bdbd",
+    "text": "How does the unemployment debit card work?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ed999312f880d2884210ffc0ffea1e54",
+    "text": "You can use your unemployment debit card to get cash at any bank that accepts Visa® or any U.S. Bank ATM without a fee. You can also make purchases with the card at any business that accepts Visa® debit cards. You will receive your debit card in the mail in a plain white envelope about seven to ten business days after your first payment is made. If you do not receive your card and a payment was made, call U.S. Bank ReliaCard customer service at 1-855-233-8379. Once your card is mailed, deposits are usually made within three business days after you request a payment. Keep your debit card — it can be used for future unemployment benefits for up to three years. Read the information included with your card for terms, fees, and conditions. You are responsible for any fees charged. It is your responsibility to monitor the balance in your account to avoid overdrafts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "minnesota.pdf",
+      "parent_id": "3b3c06f13354faf5615e0119a6e1bdbd"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "df7bb7a735f8ade8a3086fd62ea58054",
+    "text": "11 | Minnesota Unemployment Insurance Information Handbook",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "acb70cf3e56100441aa96b9da98f90d2",
+    "text": "Report work when requesting benefit payments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3153eaf356994b5c545f8db3cef42678",
+    "text": "Each time you request a benefit payment, we ask if you worked during the week you are requesting.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf",
+      "parent_id": "acb70cf3e56100441aa96b9da98f90d2"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "3b4a9bb48bb029420cb3fa627d7c7bd9",
+    "text": "| L ]",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c789dba0187e9db845bc5017f2693c5d",
+    "text": "If you worked in any job, you must report all the hours you worked and all the money you earned — every single week. There are no exceptions.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9f0b9825fe836beb4c3b767d1055b1a9",
+    "text": "You must always report:",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4c930ec28c383fd124a87c057e34c974",
+    "text": "• Total hours worked each week",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6fb9b4bb030781edd5411bf2b5913f42",
+    "text": "• Total gross earnings each week, before deductions and taxes. Earnings include wages, tips, salary, commissions, or cash; self- employment income; or the value of any rent, goods, or services you received for working.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6100aec67df0d9e14722b7c4f5a61e30",
+    "text": "You must report your earnings for the week you performed the work, not the week when you are paid. Keep a record of your hours worked (Sunday through Saturday) regardless of when you will be paid for those hours. If you worked for more than one employer in a week, combine your earnings and hours from all employers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "13aee56412b6b04b17cd479e0affa2a0",
+    "text": "For self-employment, report your weekly earnings after you deduct your direct business expenses for that week. For more information about reporting self-employment, go to www.uimn.org.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "541b20b3bc7cdda519ae3c74c31fb6dc",
+    "text": "What work am I required to report?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8b87b42c18c90691d886a9a20d1bfed4",
+    "text": "Any hourly wages",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf",
+      "parent_id": "541b20b3bc7cdda519ae3c74c31fb6dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ff3dd65d63bda16549e0c8f083526ff7",
+    "text": "Any salary payments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf",
+      "parent_id": "541b20b3bc7cdda519ae3c74c31fb6dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3d0718dece7b9a3fa68478814c452feb",
+    "text": "Any tips / commissions",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf",
+      "parent_id": "541b20b3bc7cdda519ae3c74c31fb6dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7170cddc0f5ee803e596634dedab6c32",
+    "text": "Earnings from a part-time or on-call job, even if you had that job before you became unemployed from your main job",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf",
+      "parent_id": "541b20b3bc7cdda519ae3c74c31fb6dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "733629d4394576ab9b0bf988470a6c9b",
+    "text": "Earnings from a temporary job or a job outside your usual occupation",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf",
+      "parent_id": "541b20b3bc7cdda519ae3c74c31fb6dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c5ceefb148259044029cb53a76332722",
+    "text": "Self-employment, working for cash, or volunteer work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf",
+      "parent_id": "541b20b3bc7cdda519ae3c74c31fb6dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "56555c8687b49f1b73e1c597b6cebb16",
+    "text": "Pay received from your last week at your old job",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf",
+      "parent_id": "541b20b3bc7cdda519ae3c74c31fb6dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a7767749166108913eae1ed7ba7dbb2a",
+    "text": "Pay received from your first week at your new job",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf",
+      "parent_id": "541b20b3bc7cdda519ae3c74c31fb6dc"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8bda511f5a27f5ead72e354ac8075896",
+    "text": "A training or trial period at a new employer, paid or unpaid",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf",
+      "parent_id": "541b20b3bc7cdda519ae3c74c31fb6dc"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "cb33702e00d3586d1c28d202c0f21d3e",
+    "text": "Minnesota Unemployment Insurance Information Handbook | 12",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "99799023875fa70dda257f63cb5f561f",
+    "text": "How does working affect my benefits?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7814a3712b1951b5bddb4753cdcb9c2f",
+    "text": "You are not eligible for benefits in any week you work 32 or more hours or when your gross earnings for the week are equal to or greater than your weekly benefit amount.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "minnesota.pdf",
+      "parent_id": "99799023875fa70dda257f63cb5f561f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0dc3d655abc3dda877baef59c3e05e8b",
+    "text": "A partial benefit payment may be made for any week you work fewer than 32 hours and your earnings are less than your weekly benefit amount.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "minnesota.pdf",
+      "parent_id": "99799023875fa70dda257f63cb5f561f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5660c6cb1f5e5829ca9365493a9f7413",
+    "text": "What if my hours vary week to week?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b998a6d0d750f6f621c842a9fb4126f1",
+    "text": "If the number of hours you work varies week to week, you should request benefits every week. Report the gross earnings and hours you worked each week. The system will automatically determine whether you are eligible for a payment (and the payment amount).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "minnesota.pdf",
+      "parent_id": "5660c6cb1f5e5829ca9365493a9f7413"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "98761b321243ad1ef6f2ff00fd8ff0ac",
+    "text": "What happens if I fail to report my hours and earnings?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5e23eb408800696c18707d92ca0825f4",
+    "text": "• If you did not report your hours and earnings, call us immediately to correct your mistake.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "minnesota.pdf",
+      "parent_id": "98761b321243ad1ef6f2ff00fd8ff0ac"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "eda883293ff1e2fa4354f7809ef7920a",
+    "text": "• If you do not report all hours worked and all earnings, you will be held overpaid and required to repay the benefits you received.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "minnesota.pdf",
+      "parent_id": "98761b321243ad1ef6f2ff00fd8ff0ac"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5011b8bcd94d31db6ebdb2bfd94bf452",
+    "text": "• If we determine that your overpayment is due to fraud, you will be charged a 40 percent penalty and interest on the overpaid amount. You will not be eligible for benefits until your overpayment, penalties, and interest are paid in full. In some cases, there may be criminal penalties.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "minnesota.pdf",
+      "parent_id": "98761b321243ad1ef6f2ff00fd8ff0ac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "03d14a079e2ab27c8d6d2762e289d3d7",
+    "text": "Your earnings will be verified! We will verify the earnings and hours you report with information reported by your employers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "minnesota.pdf",
+      "parent_id": "98761b321243ad1ef6f2ff00fd8ff0ac"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0538bcbc3da2b2d9b0fb9971d59b48f3",
+    "text": "13 | Minnesota Unemployment Insurance Information Handbook",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6823ea0fdcc4b499114fbdcd78587efd",
+    "text": "Income that may affect benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "59cfe0a7a355b6f7bb393ef17538c340",
+    "text": "In addition to earnings, income from other sources may affect your unemployment benefits. When you first apply, and every week you make a request for payment, we ask if you applied for or are receiving other types of income.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "minnesota.pdf",
+      "parent_id": "6823ea0fdcc4b499114fbdcd78587efd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ac30481cd6b1589432bda5504d33a055",
+    "text": "The most common types of income that may affect unemployment benefits are listed below. Your former employer may have had different terms for some of these, such as calling vacation pay “paid leave,” “PTO,” or “personal time off.” The name of the income is less important than how, why, or from whom the payment is made.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "minnesota.pdf",
+      "parent_id": "6823ea0fdcc4b499114fbdcd78587efd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dd70fb55bb679958635535dc898e707c",
+    "text": "Types of income include, but are not limited to:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "minnesota.pdf",
+      "parent_id": "6823ea0fdcc4b499114fbdcd78587efd"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e806e6d039c587b9cb197c1b7edac362",
+    "text": "• Severance, notice pay, retention pay, or any other payments made because of your separation from employment",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "minnesota.pdf",
+      "parent_id": "6823ea0fdcc4b499114fbdcd78587efd"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2878ea053ae20c823caf99908e23b97f",
+    "text": "• Sick pay and holiday pay",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "minnesota.pdf",
+      "parent_id": "6823ea0fdcc4b499114fbdcd78587efd"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "41b7229e095c65d2ef1fd6280a825aa9",
+    "text": "• Vacation pay",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "minnesota.pdf",
+      "parent_id": "6823ea0fdcc4b499114fbdcd78587efd"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0d7f558472f786cad52e4f32580924cc",
+    "text": "• Pension or 401K payments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "minnesota.pdf",
+      "parent_id": "6823ea0fdcc4b499114fbdcd78587efd"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0b7420ee9d4fca5f4544bdd3c7632d8d",
+    "text": "• Workers’ compensation or other employer-contributed insurance for loss of wages",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "minnesota.pdf",
+      "parent_id": "6823ea0fdcc4b499114fbdcd78587efd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5032bf389183b75919659a287d33b358",
+    "text": "Report all income that you have not previously reported to us. If you have questions about whether a type of income must be reported, call Customer Service (see page 19).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "minnesota.pdf",
+      "parent_id": "6823ea0fdcc4b499114fbdcd78587efd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "114930a39c4ed6ffb24c9047fce7020b",
+    "text": "If your benefit payments are affected by any income, we will mail you a determination explaining the effect.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "minnesota.pdf",
+      "parent_id": "6823ea0fdcc4b499114fbdcd78587efd"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b9f2565d6de3150944d0b4e2c6cfea25",
+    "text": "Minnesota Unemployment Insurance Information Handbook | 14",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "35928f0c6387a14b5b59e904d1281dee",
+    "text": "Understanding weekly eligibility requirements",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d48f1b12b17a0039e616a295b7a2b88d",
+    "text": "What do I need to do each week?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aebdf89f5c3134b6346bf96e6f90f6b3",
+    "text": "To be eligible for benefits for any week, you must:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "minnesota.pdf",
+      "parent_id": "d48f1b12b17a0039e616a295b7a2b88d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "37acd4b778e349449ce5e45409929e64",
+    "text": "• Submit a timely Request for Benefit Payment (see page 8).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "minnesota.pdf",
+      "parent_id": "d48f1b12b17a0039e616a295b7a2b88d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "83bdc44b98b0dbb024fe5953f78b8b1c",
+    "text": "• Be able and willing to immediately accept work in your usual occupation or other suitable employment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "minnesota.pdf",
+      "parent_id": "d48f1b12b17a0039e616a295b7a2b88d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "aa1d93559acaa37a501cb0639829bb57",
+    "text": "• Look for work and be willing to accept the hours, wage, commuting distance, and other conditions of employment that are normal for someone in your occupation with your skills and experience.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "minnesota.pdf",
+      "parent_id": "d48f1b12b17a0039e616a295b7a2b88d"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "08b35e0a15eb7148b3144492fdc6aa9a",
+    "text": "M",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b34b94a0743e15e3a56359a3c32a16c9",
+    "text": "You are not eligible for weeks you:",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "79c836eb08071aa40e4137e62251bbc1",
+    "text": "• Are traveling outside your commuting area, unless you are traveling to actively seek work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e2c9ed1779f879a980f48c7842111f7d",
+    "text": "• Have a medical condition or other circumstances that prevent you from working or looking for work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "984f1cc4783ca2c387c00590c8ab6aef",
+    "text": "You must actively look for work even if you have a part-time job or expect to return to a seasonal job. You must make a serious effort to find work every week you request a benefit payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c585a27cf11c991f696ed4e53d6d7085",
+    "text": "How does going to school affect my benefits?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "abe358b7ef2e0cdfbbb35b9853a768e9",
+    "text": "If you are taking classes, you must continue to look for work and be willing to rearrange or quit classes if necessary to accept work. If we approve full time training, your training will be in place of the work search requirement.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "minnesota.pdf",
+      "parent_id": "c585a27cf11c991f696ed4e53d6d7085"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "9d008225aa20df4865656984e2d47644",
+    "text": "15 | Minnesota Unemployment Insurance Information Handbook",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "250705be57fb8b7de023973b36a9808b",
+    "text": "Stopping and starting benefit payments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d256752bc0612029f5b0ab6b0f77c2c1",
+    "text": "What if I go back to work?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "67073b8bad5920ac109977a466e47769",
+    "text": "• When you return to full-time work or want to stop requesting payments for any reason, make your final request and then stop requesting. You do not need to notify us that you returned to work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "minnesota.pdf",
+      "parent_id": "d256752bc0612029f5b0ab6b0f77c2c1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2dd2d74e5d4d263554ea1297ba5887e7",
+    "text": "• If you start work at your new job in the middle of a week, report your hours worked and your earnings for the week, even if you haven’t been paid yet. You may be eligible to receive a partial benefit payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "minnesota.pdf",
+      "parent_id": "d256752bc0612029f5b0ab6b0f77c2c1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5d063c9dda78846234b78b85e0a92df5",
+    "text": "• Remember to report your hours worked and earnings, even if you haven’t been paid yet. This includes your hours worked and earnings from part-time or temporary jobs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "minnesota.pdf",
+      "parent_id": "d256752bc0612029f5b0ab6b0f77c2c1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f83beb8fa3d7d16f5f672a86085b2263",
+    "text": "• Be sure to keep your password and unemployment debit card (if you have one) in a safe place in case you need to start requesting benefits again.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "minnesota.pdf",
+      "parent_id": "d256752bc0612029f5b0ab6b0f77c2c1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c8a44f0b1a6baca407968ee4ac4d6559",
+    "text": "• Keep the address on your account up to date for at least four years after your last request for a payment. Even after you stop requesting benefits, your account may be audited or we may need to contact you for other reasons. If we can’t reach you, audit findings will be made without your input and you will be responsible for any overpayments that might result.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "minnesota.pdf",
+      "parent_id": "d256752bc0612029f5b0ab6b0f77c2c1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "069460c457c9e0ca33e2d0a98d2cc30c",
+    "text": "What if I become unemployed again?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f0afc93ccbffcf1067ddadd77008d682",
+    "text": "Log in to your account at www.uimn.org or call the automated phone system (see page 19). You will be guided to either reactivate your account or apply for a new account. Either way you should be ready to provide details about your most recent employment. Remember to make sure your contact information, tax withholding, and direct deposit information is up to date.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "minnesota.pdf",
+      "parent_id": "069460c457c9e0ca33e2d0a98d2cc30c"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "4c61be1156ede5f75a0ed9863ef935b8",
+    "text": "Minnesota Unemployment Insurance Information Handbook | 16",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "43532d8a00c53d4755a0449b608089d7",
+    "text": "Withholdings from benefit payments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5aaf4c9538916bb619b6fe8bb087abab",
+    "text": "Income taxes",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "07e3565b017c79b350b6879ff0588d95",
+    "text": "Unemployment benefits are taxable income under federal and Minnesota state law. View or change your income tax withholding by logging in to your account online at www.uimn.org or by calling the automated phone system (see page 19).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "minnesota.pdf",
+      "parent_id": "5aaf4c9538916bb619b6fe8bb087abab"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0d3f14c753b7ddc037def5640495c1f7",
+    "text": "No later than January 31, an IRS Form 1099-G will be mailed to your last known address, showing the total benefits paid to you during the prior year and the federal and state income taxes withheld. You can view and print your 1099-G form online by logging in to your account at www.uimn.org.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "minnesota.pdf",
+      "parent_id": "5aaf4c9538916bb619b6fe8bb087abab"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "50e495268855083a78941fc204ae5847",
+    "text": "Overpayments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2c3630b908328d971c5161a45017fce8",
+    "text": "If you were overpaid unemployment benefits in Minnesota or another state that you have not repaid, we will deduct either 50 or 100 percent of each weekly benefit payment and apply it to the balance you owe.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "minnesota.pdf",
+      "parent_id": "50e495268855083a78941fc204ae5847"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c74ac836aa6e864381ecb1e82226349e",
+    "text": "Child support",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d886b2ef69164e27fd0c42b9fdcfc7a5",
+    "text": "If you are required to pay child support by a court or other enforcement agency, child support payments will be deducted from your weekly benefit amount and sent to the child support agency. If you believe that too much child support is being deducted or if you have questions, contact the child support agency that is enforcing the support order.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "minnesota.pdf",
+      "parent_id": "c74ac836aa6e864381ecb1e82226349e"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "7537f8fb28945fc9fc83982049d2c21d",
+    "text": "17 | Minnesota Unemployment Insurance Information Handbook",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a3dc74e5474a46d061fe34b49e481972",
+    "text": "Reemployment Assistance",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c313f54a5e851dea5540251274c02b37",
+    "text": "You may be required to participate in a Reemployment Session. These sessions are designed to help prepare you to find your next job by connecting you to resources such as CareerForce – Minnesota’s career development and jobs resource.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf",
+      "parent_id": "a3dc74e5474a46d061fe34b49e481972"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "218bfea34a743498f6a4e33fb730bef3",
+    "text": "Looking for work is your full-time job while",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf",
+      "parent_id": "a3dc74e5474a46d061fe34b49e481972"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "3464fa7e40262d898abde2e34b901ab1",
+    "text": "y | N",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "58982eb94b8e9482108ced3bb969a63d",
+    "text": "you receive unemployment benefits. Finding your next job may be a challenge. You need to know the most up-to-date work search methods and keep up with labor market changes. Reemployment assistance is available to make sure that you have the tools you need to get back to work quickly.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2cdc2b8f6f97f2b5382d7eb5326fa0a6",
+    "text": "If you are scheduled for a Reemployment Session:",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "87366ec7c586d425b8ad5e68994937a3",
+    "text": "• Participation is mandatory. Failure to participate will result in denial of benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c2dd7648631d582df943043f69b36332",
+    "text": "• You will be notified in a letter mailed to you, through messages in your online account, and when accessing your account by phone.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f38878d06c4abc7ce16ee9214c67c298",
+    "text": "• You will also receive a message on your account requiring you to complete a Job Search Self-assessment and Work Search Plan.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "592a7125a9249876907b7207c300a4b9",
+    "text": "CareerForce staff will help you:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9a6208677d55ea70f0a3765e8ff6020f",
+    "text": "• Assess your job seeking needs",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf",
+      "parent_id": "592a7125a9249876907b7207c300a4b9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8c586eb206a9d130caad0e6970a5ca7a",
+    "text": "• Prepare a reemployment plan",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf",
+      "parent_id": "592a7125a9249876907b7207c300a4b9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d2f938f6c0068c5f9a167b307aa49a4e",
+    "text": "Resources and workshops in CareerForce locations are available at no cost and can help you with:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf",
+      "parent_id": "592a7125a9249876907b7207c300a4b9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "44b76b4f62dcba3d00c8bf06534aa0b4",
+    "text": "• Resume writing",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf",
+      "parent_id": "592a7125a9249876907b7207c300a4b9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fe3f7ca0f1c38aa3030f3a13887e797d",
+    "text": "• Interviewing",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf",
+      "parent_id": "592a7125a9249876907b7207c300a4b9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "01c1adf3479d1a69c561dc1ab5309070",
+    "text": "• Other job-seeking activities",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf",
+      "parent_id": "592a7125a9249876907b7207c300a4b9"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "53069e836f648a2750527c7306b1f086",
+    "text": "Minnesota Unemployment Insurance Information Handbook | 18",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8f1cd9085d837e635e6b1c6c9b46eb55",
+    "text": "Contact customer service",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cfe140da50f0fcf8c1d192e18721e9ad",
+    "text": "If you have a question, talk to an Unemployment Insurance (UI) Customer Service Representative. Only UI Customer Service Representatives can provide accurate answers to your unemployment insurance questions.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "minnesota.pdf",
+      "parent_id": "8f1cd9085d837e635e6b1c6c9b46eb55"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d8d427110217fd624c05083f8bc8937b",
+    "text": "Customer Service is available Monday - Friday, 8:00 a.m. to 4:30 p.m. The automated phone system is available Monday - Friday, 6:00 a.m. to 6:00 p.m.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "minnesota.pdf",
+      "parent_id": "8f1cd9085d837e635e6b1c6c9b46eb55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c3e16ab37a6cb4ed90bf0b80ba5882a7",
+    "text": "To speak to a representative:",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "minnesota.pdf",
+      "parent_id": "8f1cd9085d837e635e6b1c6c9b46eb55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "abe572958cdc03f37c617919b45730df",
+    "text": "1. Call the automated phone system:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "minnesota.pdf",
+      "parent_id": "8f1cd9085d837e635e6b1c6c9b46eb55"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "924f12173637888a10f55b2168803ef4",
+    "text": "Twin Cities calling area: 651-296-3644 Greater Minnesota: 1-877-898-9090 Teletypewriter (TTY) users: 1-866-814-1252",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "91406be1f17a78c4ac25647716790617",
+    "text": "2. Select a language: English, Spanish, Hmong, or Somali. If you need another language, you can request an interpreter when you speak to a representative.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "380d5c16a22ffa37f3121e8d2142be60",
+    "text": "3. Enter your Social Security number.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "52acf50d37d1812001cc3061087857c3",
+    "text": "4. Enter your password and then press the # key. OR - If you are not asked to enter your password, press 2, and then press 0 to speak to a representative.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5a29dcfa6b2f4fec3e872be489ad105d",
+    "text": "5. Press 2 for other options.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d819808935103f689cc982fc3d33319a",
+    "text": "6. Press 3 for answers to commonly asked questions. To speak with a representative, press 0.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e8b2775b3c91843f2baeb1dcde6f3a24",
+    "text": "Visit www.uimn.org for answers to common questions. This is the only official source for information about unemployment benefits. Be careful when reading information on social media, which may not always be accurate.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1d6071398d822af5de4eb3a46df00a40",
+    "text": "Mailing Address and Fax Number",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c85353c33a402318949a03ab20cb82c2",
+    "text": "UI Customer Service P.O. Box 4629 St. Paul, MN 55101-4629",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "minnesota.pdf",
+      "parent_id": "1d6071398d822af5de4eb3a46df00a40"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "e8a2621b047996e70b962b1d34353823",
+    "text": "Fax: 651-205-4007",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2f36a002f5fb67172f83f8d691b3ccff",
+    "text": "19 | Minnesota Unemployment Insurance Information Handbook",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f1b07ef96f07627298e80008c8df7155",
+    "text": "Help finding your next job",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "373ce8a14c64b8e43c62a315a049da3d",
+    "text": "Successful job seekers have mastered the skills and knowledge needed to win that next job. They:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "minnesota.pdf",
+      "parent_id": "f1b07ef96f07627298e80008c8df7155"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fd5c92181f4c0ff5ab19ced8ed121a54",
+    "text": "• Treat their job search like a job.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "minnesota.pdf",
+      "parent_id": "f1b07ef96f07627298e80008c8df7155"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8ebcf7f79a72a063918b63a4be06aeb6",
+    "text": "• Think like an employer and know what the employer is looking for.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "minnesota.pdf",
+      "parent_id": "f1b07ef96f07627298e80008c8df7155"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "94f41a721269896b5b5103ddb4040fa8",
+    "text": "• Put in as much time looking for work as they would on the job.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "minnesota.pdf",
+      "parent_id": "f1b07ef96f07627298e80008c8df7155"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4f2ce92aaf8751eded645105c2935902",
+    "text": "• Plan their job search activities.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "minnesota.pdf",
+      "parent_id": "f1b07ef96f07627298e80008c8df7155"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ac6d967987ad71675c350003034c257e",
+    "text": "• Network to find jobs in the hidden job market.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "minnesota.pdf",
+      "parent_id": "f1b07ef96f07627298e80008c8df7155"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8e364c29350bf3f298798528b4d5c0f3",
+    "text": "Online job search eLearning classes",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ea74f7cbcd5894ee1d89012f9ac834f7",
+    "text": "Go to www.uimn.org/applicants and select Find a Job.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "minnesota.pdf",
+      "parent_id": "8e364c29350bf3f298798528b4d5c0f3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "065d9d1cec6aa153e9f82932963d5d0b",
+    "text": "Interactive eLearning classes are available that teach job search skills. Each class is broken into topics that include instruction, interaction, and learning activities.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "minnesota.pdf",
+      "parent_id": "8e364c29350bf3f298798528b4d5c0f3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a6442cc1c00ff45ce7b39731c963cef4",
+    "text": "Introduction to Job Search - Looking for work can be stressful. An effective job search requires knowledge and skill. Learn about where people find jobs, what employers expect, how to manage job loss and change, and strategies for a successful job search.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "minnesota.pdf",
+      "parent_id": "8e364c29350bf3f298798528b4d5c0f3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "458106312a622f4af329ce7fde957c02",
+    "text": "Resume Class - Your resume is an important tool to market your qualifications to employers. Learn how to write a resume and use it in your job search.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "minnesota.pdf",
+      "parent_id": "8e364c29350bf3f298798528b4d5c0f3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ac7aeb751f2436b44e8c6eb546984bb6",
+    "text": "Networking - Networking is one of the most effective job search strategies you will use. Learn about the benefits of networking and ways to network in this class.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "minnesota.pdf",
+      "parent_id": "8e364c29350bf3f298798528b4d5c0f3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0ffe498eb98045b58b7e25a99a1bf035",
+    "text": "Interviewing - An employment interview is simply a meeting between you and a potential employer to discuss your qualifications. The employer has a chance to learn about you and how you fit into the organization and you have a chance to learn about the company and whether it’s right for you. Learn how to interview effectively and win the job.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "minnesota.pdf",
+      "parent_id": "8e364c29350bf3f298798528b4d5c0f3"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "cbcdffe933322be0ae9a965c8228dccd",
+    "text": "Minnesota Unemployment Insurance Information Handbook | 20",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "51b40163e27725d483574ac3332e62bc",
+    "text": "Financial help and community services",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a0e2c0df62d470e39c5104e1a68919e1",
+    "text": "Unemployment Insurance benefits can help while you are looking for your next job. There is other help available if you need it.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "minnesota.pdf",
+      "parent_id": "51b40163e27725d483574ac3332e62bc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e16423381a1dcf9516d089a929f9c33a",
+    "text": "Go to www.uimn.org, select Applicants, then select Help and Support, and then Financial Help & Community Services.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "minnesota.pdf",
+      "parent_id": "51b40163e27725d483574ac3332e62bc"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "3ce49f12d8611d1e5bab3472efce353e",
+    "text": "MmiNNesoTA UNEMPLOTMENT INSURANCE e Wnatda Howdo1ppy We provide financial help to thousands of qualified How do getpai ersons out of work. Wihataffects my benefis? = om ppe Video ary -1: — T > comactus 0= itanc o ghie appcanc. Yourbankimay e e Welcome Applicants! Quick Link st mployme - - o [r r",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9d5ad882541e9f07e2ff86ff1ae733c6",
+    "text": "Here are some of the resources highlighted on that page:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0650f7548a4838d5bf4ba72f05c9bad6",
+    "text": "• Food – learn about Minnesota food resources at www.hungersolutions.org or by calling the Minnesota Food Helpline at 1-888-711-1151.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d8a95a2e279195273ef8d82214c785b6",
+    "text": "Healthcare — MNsure is here to help all Minnesotans get covered and stay covered with affordable, comprehensive health insurance. MNsure.org is the only place you can access discounts to lower your costs and see if you qualify for low or no-cost coverage through Medical Assistance or MinnesotaCare. Find free, expert help with your application and enrollment at www.mnsure.org.free-help or call 1-855-366-7873.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d2acad0518ebf8fd8fde81e90454102b",
+    "text": "• Energy assistance – the Energy Assistance Program (EAP) helps pay home heating costs and furnace repairs for income-qualified households. Call 1-800-657-3710 or go to www.mn.gov/commerce, select Consumers, and then select Consumer Assistance.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7a19d34f6d761244b86aca2bb9ceef66",
+    "text": "Veteran Services — the Minnesota Department of Veterans Affairs (MDVA) is a state agency dedicated to serving veterans and their families. Learn more at www.mn.gov/mdva or by calling 1-888-546-5838.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "606556ba3f3b0ba10a70150e0d51c53a",
+    "text": "21 | Minnesota Unemployment Insurance Information Handbook",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4d00c310827f2f235d041391042787a9",
+    "text": "Discrimination",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "81927f0066f510d8a1e25ea5bb425b15",
+    "text": "The Minnesota Department of Employment and Economic Development is committed to equal opportunity, affirmative action, and diversity.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "minnesota.pdf",
+      "parent_id": "4d00c310827f2f235d041391042787a9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ece52dbc1066e08f630290a35e4d947f",
+    "text": "If you think the Minnesota Department of Employment and Economic Development (DEED) discriminated against you on the basis of race, color, creed religion, sex (including but not limited to sex stereotyping, transgender status, or gender identity), marital status, familial status, national origin (including limited English proficiency) age, disability, or status with regard to public assistance during the unemployment insurance process, you can contact the DEED Office of Diversity and Equal Opportunity at:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "minnesota.pdf",
+      "parent_id": "4d00c310827f2f235d041391042787a9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7c87c834dd89d3a0e29bdf9cc249dea3",
+    "text": "MN Department of Employment and Economic Development Office of Diversity and Equal Opportunity Great Northern Building - 13th Floor 180 East Fifth Street St. Paul, MN 55101-1678",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "minnesota.pdf",
+      "parent_id": "4d00c310827f2f235d041391042787a9"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "4a5db58cfc7c1e8f32fabcb6c69a210e",
+    "text": "Phone: 651-259-7094 | Fax: 651-297-5343 DEED.ODEO@state.mn.us",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d83599805723c294290ca2a42a0fea95",
+    "text": "For more information go to:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "22c5903e3c4fec18e6da1b711c7a5b9d",
+    "text": "https://mn.gov/deed/about/what-guides-us/equal-opportunity",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "29a0128ebe3decf19bba3ff98a882d06",
+    "text": "DEED is an equal opportunity employer and service provider.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "fa0e92fe738420c15812856928fe13c8",
+    "text": "Minnesota Unemployment Insurance Information Handbook | 22",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 25,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7795ec6b6eb40922c144c1d249d1e9de",
+    "text": "Privacy rights",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fbbcec8988170baa8956238c25fd340d",
+    "text": "The Minnesota Unemployment Insurance Program is committed to protecting your privacy. The information you provide will be used to determine your eligibility for unemployment insurance benefits and help you look for work. Information that is classified as private cannot be disclosed without your written permission except as specified by state or federal law.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "minnesota.pdf",
+      "parent_id": "7795ec6b6eb40922c144c1d249d1e9de"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f8a85e93b387d7b37c667675d89e6761",
+    "text": "Alternative (accessible) formats",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b2112bebaff513d5513681305e363774",
+    "text": "The Unemployment Insurance Program is committed to providing access to everyone. The information in this handbook is available in alternative formats by calling 651-259-7223 or email ui.mn@state.mn.us.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "minnesota.pdf",
+      "parent_id": "f8a85e93b387d7b37c667675d89e6761"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d88854cde431a52cda4127258173690c",
+    "text": "Let us know how we can make this handbook better",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "654af55905d1cadc2ccfb9c38022350a",
+    "text": "Send us an email: ui.mn@state.mn.us. Or write to: Minnesota Unemployment Insurance Program Attn: Communications Unit P.O. Box 4629 St. Paul, MN 55101-4629",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8eab9fc825134f7b398add9dae9a2f26",
+    "text": "23 | Minnesota Unemployment Insurance Information Handbook",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 26,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b962934021d9e9bdf6ffc52413544137",
+    "text": "CareerForc",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f950a0043607fd0b8ad6000f2d06a063",
+    "text": "Minnesota’s Career Resource",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "82ce8843b9a56f4f75a954d5d892cdfb",
+    "text": "—",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a427d589dbd272591ee25380f640ac59",
+    "text": "Get FREE help exploring your career options and launcing your job search",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "50a87ab1fa9662e45f72a0546147bc77",
+    "text": "Whether you’re looking to get hired as soon as possible or want to explore your career options, CareerForce can help you.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf",
+      "parent_id": "a427d589dbd272591ee25380f640ac59"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a881b32788fcaa319d096b77ee92f997",
+    "text": "CareerForce is the state's official career exploration and job search resource. There are more than 50 CareerForce locations throughout Minnesota.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf",
+      "parent_id": "a427d589dbd272591ee25380f640ac59"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a682697b473ee46530a8bfff5e9e03b8",
+    "text": "CareerForce services are available online, over the phone, and in person - at no cost to you!",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf",
+      "parent_id": "a427d589dbd272591ee25380f640ac59"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b1fcce6a4584e00e078685a3f277a70e",
+    "text": "CareerForce offers a broad range of programs and services",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c55471c6527c29bcba3ea572c5f8c797",
+    "text": ". Online postings for thousands of current job openings through the state",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf",
+      "parent_id": "b1fcce6a4584e00e078685a3f277a70e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cd086dcc5606bf8feb145242a7e2fe0c",
+    "text": ". Job fairs where you can meet employers who are hiring now",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf",
+      "parent_id": "b1fcce6a4584e00e078685a3f277a70e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "54c4e7bf1a8be7324dc54fa827770a0a",
+    "text": ". Workshops on resume writing, interviewing, and other job search skills",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf",
+      "parent_id": "b1fcce6a4584e00e078685a3f277a70e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1503be6ae066c62c1b81c33771de26ba",
+    "text": "Personalized assistance from CareerForce specialists, including resume review, and interview prep",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf",
+      "parent_id": "b1fcce6a4584e00e078685a3f277a70e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "01214bc43e37d9d29f24fb34948c54fd",
+    "text": "Customized career goal planning, including assessment of your skills and interests",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf",
+      "parent_id": "b1fcce6a4584e00e078685a3f277a70e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0cd4846c761db212057ae1f5ed435f45",
+    "text": "Labor market information to help guide your career planning",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf",
+      "parent_id": "b1fcce6a4584e00e078685a3f277a70e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "75bd60ac1bf49c40a8bbb7a0c33aaa35",
+    "text": "• Training opportunities for in-demand occupations",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf",
+      "parent_id": "b1fcce6a4584e00e078685a3f277a70e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "671899537c9158af52e4ca97436751ad",
+    "text": "• Financial assistance for counselor-approved training and education through the Dislocated Worker Program for eligible Minnesotans",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf",
+      "parent_id": "b1fcce6a4584e00e078685a3f277a70e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a390368b21c0be2295aa02c0832f10d9",
+    "text": "Tailored resources for military veterans, people with disabilities, new Americans, young people, people over 55, and people with a criminal record",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf",
+      "parent_id": "b1fcce6a4584e00e078685a3f277a70e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bb6011a4296d0987dd6163d2ebddffef",
+    "text": "• And more!",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf",
+      "parent_id": "b1fcce6a4584e00e078685a3f277a70e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a9322e97b1048ac8c4d1e3af2cfcfcc8",
+    "text": "Visit https://careerforce.mn.gov/locations to find contact information for a CareerForce location near you!",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf",
+      "parent_id": "b1fcce6a4584e00e078685a3f277a70e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9e77d325a861209de817d83c3f6d8f7c",
+    "text": "Or call 651-259-7500 for assistance",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf",
+      "parent_id": "b1fcce6a4584e00e078685a3f277a70e"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "10cfd0320840eccc05384c7b81e9d204",
+    "text": "Find a CareerForce location near you at CareerForceMN.com/locations or call 651-259-7500 for assistance",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 27,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "52493b392f31d446329c900d94f3f2e2",
+    "text": "MY MINNesOTA UNEMPLOYMENT INSURANCE",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8d204bab8e54f4d90204bb30e53cc25d",
+    "text": "P.O. Box 4629 St. Paul, MN 55101-4629",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4b9e56192e516ece74297ac0966f4df5",
+    "text": "PRESORTED FIRST-CLASS MAIL U.S. POSTAGE PAID TWIN CITIES, MN PERMIT NO. 8717",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4e2c923609c3ae0f2c7a68f27a8c890b",
+    "text": "Get more information online at:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c29885dd597c0a5b97d3ba6e5e922c4d",
+    "text": "www.uimn.org",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "008bfeccf730a0b8a5a4b49b2305fc6e",
+    "text": "Español",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d31c669f2aaacd94b7a5a1629b29fbc7",
+    "text": "Esta información está disponible en Español en el internet a www.uimn.org/applicants/language/spanish.jsp",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "minnesota.pdf",
+      "parent_id": "008bfeccf730a0b8a5a4b49b2305fc6e"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "66a8e86e13a0f8f63c05cb5cba4105ef",
+    "text": "Hmoob",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "127dc2538501aadc4f0557dde4f37a8c",
+    "text": "Cov ntaub ntawv no tseem muaj sau uas ntawv hmoob nyob rau txoj sab internet ntawm www.uimn.org/applicants/language/hmong.jsp",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "minnesota.pdf",
+      "parent_id": "66a8e86e13a0f8f63c05cb5cba4105ef"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4f1a9d5441014a0f979c05296165781c",
+    "text": "Soomaliga",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "minnesota.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4dd95e61ca1de738d9b1bad91b662c08",
+    "text": "Akhbaarkan oo Af Somaali ah waxaad ka heli kartaa internetka www.uimn.org/applicants/language/somali.jsp",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "minnesota.pdf",
+      "parent_id": "4f1a9d5441014a0f979c05296165781c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "416ef248c589cce3999e41dfbfd6b7ce",
+    "text": "The information in this handbook is available in an alternative (accessible) format by calling 651-259-7223.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "minnesota.pdf",
+      "parent_id": "4f1a9d5441014a0f979c05296165781c"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6985b0de543714f921cb09ff575a51b4",
+    "text": "DEED-22A / DEED-00590-31 Rev. 10/2025",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 28,
+      "filename": "minnesota.pdf",
+      "parent_id": "4f1a9d5441014a0f979c05296165781c"
+    }
+  }
+]

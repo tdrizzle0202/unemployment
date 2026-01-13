@@ -1,0 +1,833 @@
+[
+  {
+    "section_id": "IN-0",
+    "content": "L'D\n) )\nUNEMPLOYMENT INSURANCE\nCLAIMANT\nHANDBOOK\nVersion Jul-25\n1\nBabel Notice for LEP Individuals",
+    "metadata": {
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "IN-1",
+    "content": "IMPORTANT! This document(s) contains important information about your unemployment compensation rights, responsibilities, and/or benefits. It is critical that you understand the information in this document.\nIMMEDIATELY: If needed, call 1-800-891-6499 for assistance in the translation and understanding of the information in the document(s) you have received. If you are hearing impaired, call 1-317-232- 7560 for assistance.",
+    "metadata": {
+      "section_title": "English",
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "IN-2",
+    "content": "¡IMPORTANTE! Este(s) documento(s) contiene(n) información importante sobre sus derechos, responsabilidades y/o beneficios de compensación por desempleo. Es fundamental que comprenda la información de este documento.\nINMEDIATAMENTE: si es necesario, llame al 1-800-891-6499 para obtener asistencia en la traducción y comprensión de la información en los documentos que ha recibido. Si tiene problemas de audición, llame al 1-317-232-7560 para obtener ayuda.",
+    "metadata": {
+      "section_title": "Spanish",
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "IN-3",
+    "content": "重要！本文件包含有关您的失业补偿权利、责任和/或福利的重要信息。了解本文档中的信息至关重要。\n立即：如果需要，请致电 1-800-891-6499 寻求翻译和理解您收到的文档中信息的帮助。 如果您有听力障碍， 请致电 1-317-232-7560 寻求帮助。",
+    "metadata": {
+      "section_title": "Chinese",
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "IN-4",
+    "content": "IMPORTANT! Ce document contient des informations importantes sur vos droits, responsabilités et/ou prestations en matière d’indemnisation du chômage. Il est essentiel que vous compreniez les informations contenues dans ce document.\nIMMÉDIATEMENT : Au besoin, composez le 1-800-891-6499 pour obtenir de l’aide dans la traduction et la compréhension de l’information contenue dans le(s) document(s) que vous avez reçu(s). Si vous avez une déficience auditive, composez le 1-317-232-7560 pour obtenir de l’aide.",
+    "metadata": {
+      "section_title": "French",
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "IN-5",
+    "content": "WICHTIG! Dieses Dokument enthält wichtige Informationen über Ihre Ansprüche, Pflichten und/oder Leistungen zur Arbeitslosenunterstützung. Es ist wichtig, dass Sie die Informationen in diesem Dokument verstehen.\nSOFORT: Rufen Sie bei Bedarf 1-800-891-6499 an, um Hilfe bei der Übersetzung und dem Verständnis der Informationen in den Dokumenten zu erhalten, die Sie erhalten haben. Wenn Sie hörgeschädigt sind, rufen Sie 1-317- 232-7560 an, um Hilfe zu erhalten.",
+    "metadata": {
+      "section_title": "German",
+      "page_number": 2
+    }
+  },
+  {
+    "section_id": "IN-6",
+    "content": "MAHALAGA! Ang (mga) dokumentong ito ay naglalaman ng mahahalagang impormasyon tungkol sa iyong mga karapatan, responsibilidad, at/o benepisyo sa unemployment compensation. Mahalaga na maunawaan mo ang impormasyon sa dokumentong ito.\nAGAD: Kung kinakailangan, tumawag sa 1-800-891-6499 para sa tulong sa pagsasalin at pag-unawa sa impormasyon sa (mga) dokumentong natanggap mo. Kung may kapansanan ka sa pandinig, tumawag sa 1-317-232-7560 para sa tulong.\n2",
+    "metadata": {
+      "section_title": "Tagalog",
+      "page_number": 3
+    }
+  },
+  {
+    "section_id": "IN-7",
+    "content": "IMPORTANTE! Questo documento contiene informazioni importanti sui diritti, le responsabilità e/o i benefici dell'indennità di disoccupazione. È fondamentale comprendere le informazioni contenute in questo documento.\nIMMEDIATAMENTE: Se necessario, chiamare il numero 1-800-891-6499 per assistenza nella traduzione e nella comprensione delle informazioni contenute nei documenti ricevuti. Se hai problemi di udito, chiama il numero 1-317- 232-7560 per assistenza.",
+    "metadata": {
+      "section_title": "Italian",
+      "page_number": 3
+    }
+  },
+  {
+    "section_id": "IN-8",
+    "content": "QUAN TRỌNG! (Các) tài liệu này chứa thông tin quan trọng về các quyền, trách nhiệm và / hoặc trợ cấp của trợ cấp thất nghiệp của quý vị. Điều quan trọng là bạn phải hiểu thông tin trong tài liệu này.\nNGAY LẬP TỨC: Nếu cần, hãy gọi 1-800-891-6499 để được hỗ trợ dịch thuật và hiểu thông tin trong (các) tài liệu bạn đã nhận được. Nếu quý vị bị khiếm thính, hãy gọi 1-317-232-7560 để được hỗ trợ.",
+    "metadata": {
+      "section_title": "Vietnamese",
+      "page_number": 3
+    }
+  },
+  {
+    "section_id": "IN-9",
+    "content": "중요하다! 이 문서에는 실업 수당 권리, 책임 및/또는 혜택에 대한 중요한 정보가 포함되어 있습니다. 이 문서의 정보를 이해하는 것이 중요합니다.\n즉시: 필요한 경우 1-800-891-6499로 전화하여 받은 문서의 정보를 번역하고 이해하는 데 도움을 받으십시오. 청각 장애가 있는 경우 1-317-232-7560으로 전화하여 도움을 받으십시오.",
+    "metadata": {
+      "section_title": "Korean",
+      "page_number": 3
+    }
+  },
+  {
+    "section_id": "IN-10",
+    "content": "WAŻNY! Ten dokument (y) zawiera ważne informacje na temat Twoich praw, obowiązków i/lub świadczeń z tytułu zasiłku dla bezrobotnych. Bardzo ważne jest, aby zrozumieć informacje zawarte w tym dokumencie.\nNATYCHMIAST: W razie potrzeby zadzwoń pod numer 1-800-891-6499, aby uzyskać pomoc w tłumaczeniu i zrozumieniu informacji zawartych w otrzymanym dokumencie. Jeśli jesteś niedosłyszący, zadzwoń pod numer 1-317- 232-7560, aby uzyskać pomoc.",
+    "metadata": {
+      "section_title": "Polish",
+      "page_number": 3
+    }
+  },
+  {
+    "section_id": "IN-11",
+    "content": "ВАЖНЫЙ! Этот документ (документы) содержит важную информацию о ваших правах, обязанностях и/или пособиях по безработице. Очень важно, чтобы вы понимали информацию, содержащуюся в этом документе.\nНЕМЕДЛЕННО: При необходимости позвоните по телефону 1-800-891-6499 для получения помощи в переводе и понимании информации в документе (документах), который вы получили. Если вы страдаете нарушениями слуха, позвоните по телефону 1-317-232-7560 для получения помощи.",
+    "metadata": {
+      "section_title": "Russian",
+      "page_number": 3
+    }
+  },
+  {
+    "section_id": "IN-12",
+    "content": "مهفت نأ ناكمب ةيمهلأا ف دنتسملا اذه ةدراولا نم . ةلاطبلا تامولعملا . ف ضيوعت كايازم و / وأ كتايلوؤسمو كقوقح لوح ةمهم تامولعم ) لىع تادنتسملا ( ةقيثولا هذه يوتحت ! مهم\nتلا ) تادنتسملا ( دنتسملا ف ةدراولا تامولعملا مهفو ةمجرت ف ةدعاسملا لىع ةدعاسملا لىع لوصحلل 7560 - -232 1-317 مقرلاب لصتاف ،عمسلا نم فعض لوصحلل 6499 ناعت تنك اذإ . - 891 - 1-800 اهتيقلت . مقرلاب لصتا ،رملأا مزل اذإ : روفلا لىع\n3",
+    "metadata": {
+      "section_title": "Arabic",
+      "page_number": 4
+    }
+  },
+  {
+    "section_id": "IN-13",
+    "content": "အရ ေးပါ! ဒီစာ ွက်စာတမ်ေး (s) မ ာ အလုပ်လက်မ ဲ့ ရလ ာ်ရ ကေးရပေးပ ုင်ခွငဲ့ ်ရတွ၊ တာဝန်ရတွန ဲ့ အက ေးရက ေးဇ ေးရတွန ဲ့ပတ်သက်တ အရ ေးကကီေးတ ဲ့ အခ က်အလက်ရတွ ပါဝင်ပါတယ်။ ဒီစာ ွက်စာတမ်ေးထ က သတင်ေးအခ က်အလက်ရတွက ု နာေးလည်ဖ ဲ့ အရ ေးပါပါတယ်။\nခ က်ခ င်ေး – လ ုအပ် င် ၁-၈၀၀-၈၉၁-၆၄၉၉၉ က ု ပပန်ဆ ုဖ ဲ့အတွက် ၁-၈၀၀-၈၉၁-၆၄၉၉ က ု ဖုန်ေးဆက်ပါ။ စာ ွက်စာတမ်ေးထ က သတင်ေးအခ က်အလက်ရတွက ု နာေးလည်မှုန ဲ့ နာေးလည်မှုအတွက် ၁-၈၀၀-၈၉၁-၆၄၉၉ က ု ဖုန်ေးဆက်ပါ။ အ ကာေးအာသာ ခ ျို့တ ဲ့ရနတယ်ဆ ု င် အက အညီအတွက် ၁-၃၁၇-၂၃၂-၇၅၆၀ ရခေါ်ပါ။\nဲ့",
+    "metadata": {
+      "section_title": "Burmese",
+      "page_number": 5
+    }
+  },
+  {
+    "section_id": "IN-14",
+    "content": "Table of Contents\nTable of Contents ..................................................................................................................................................................................................... 5 INTRODUCTION ...................................................................................................................................................................................................... 6 About this Handbook ...................................................................................................................................................................................... 6 Who Pays for Unemployment Insurance? .................................................................................................................................................... 6 Interstate Claimants ........................................................................................................................................................................................ 6 Quality Control Audits .................................................................................................................................................................................... 6 Unemployment Insurance Fraud.................................................................................................................................................................... 6 If you need to:How Do I File For Benefits? ........................................................................................................................................................... 8 Apply................................................................................................................................................................................................................ 8 Information You Must Provide ....................................................................................................................................................................... 8 Work Registration ........................................................................................................................................................................................... 9 Verifying Your Identity ................................................................................................................................................................................... 9 What To Expect ............................................................................................................................................................................................... 9 Waiting Period ............................................................................................................................................................................................... 10 Required WorkOne In-Person Visit for Re-employment Services (RESEA) ............................................................................................. 10 DO I QUALIFY FOR BENEFITS? .......................................................................................................................................................................... 10 1) How Much Money Did You Earn in Your Base Period? ......................................................................................................................... 10 2) Why Are You Unemployed? ..................................................................................................................................................................... 11 3) Are you Able, Available, and Actively Seeking Full-Time Work? .......................................................................................................... 12 What is an Offer of Suitable Work? ............................................................................................................................................................. 13 READING THE MONETARY DETERMINATION .................................................................................................................................................. 13 Determination of Eligibility ........................................................................................................................................................................... 14 HOW MUCH WILL MY BENEFITS BE? ................................................................................................................................................................ 18 How Long May I Receive Benefits? ............................................................................................................................................................. 18 Is There a Limit to the Total Amount of My Benefits? ................................................................................................................................ 18 How Much Will My Weekly Payment Be? .................................................................................................................................................... 18 What is the Maximum Weekly Benefit Amount? ......................................................................................................................................... 19 Will Child Support I Owe Be Automatically Deducted From My Benefits? ............................................................................................... 19 PARTIAL BENEFITS ............................................................................................................................................................................................. 19 How Partial Benefits are Calculated ............................................................................................................................................................ 20 Partial Benefit Exclusions ............................................................................................................................................................................ 20 HOW DO I GET MY BENEFIT PAYMENT? ........................................................................................................................................................... 21 Claim Voucher............................................................................................................................................................................................... 21 Work Search Information ............................................................................................................................................................................. 22 How Can I Get Work Search Help? .............................................................................................................................................................. 23 Special Job Search Assistance (Re-Employment Services known as RESEA) ...................................................................................... 23 After You File Your Initial Claim ................................................................................................................................................................... 23 Overpayments ............................................................................................................................................................................................... 24 What If You or Your Employer Filed an Appeal? ........................................................................................................................................ 24 WHAT IF I DISAGREE WITH A BENEFIT DECISION? ......................................................................................................................................... 24 How Do I File an Appeal? ............................................................................................................................................................................. 24 The ALJ Hearing ........................................................................................................................................................................................... 25 If Your Former Employer Files an Appeal ................................................................................................................................................... 25 If You Cannot Attend a Scheduled Hearing ................................................................................................................................................ 25 After the Hearing ........................................................................................................................................................................................... 26 FREQUENTLY ASKED QUESTIONS .................................................................................................................................................................... 27 UI BENEFITS PROCESS ....................................................................................................................................................................................... 30 GLOSSARY OF TERMS ........................................................................................................................................................................................ 31 FOR MORE INFORMATION .................................................................................................................................................................................. 32",
+    "metadata": {
+      "section_title": "Table of Contents",
+      "page_number": 5
+    }
+  },
+  {
+    "section_id": "IN-15",
+    "content": "5",
+    "metadata": {
+      "section_title": "Table of Contents",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "IN-16",
+    "content": "Unemployment Insurance decisions are made without regard to race, color, sex, national origin, religion, age, or disability. Contact the Indiana Department of Workforce Development (DWD) or the U.S. Department of Labor (USDOL) if you believe you are the victim of discrimination concerning a claim.\nDo not risk being disqualified or losing your benefits because you do not understand your rights and responsibilities. If you have questions, contact DWD’s Equal Opportunity Officer at:\n• 317-233-4380\n• 317-234-3535 (TDD)\nTo contact USDOL, call 312-596-7010",
+    "metadata": {
+      "section_title": "INTRODUCTION",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "IN-17",
+    "content": "Read this handbook carefully and completely. The sections in this handbook will help answer questions you may have about your rights and responsibilities concerning your Unemployment Insurance (UI) claim. It provides general information and should not be used as law or as legal advice.",
+    "metadata": {
+      "section_title": "About this Handbook",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "IN-18",
+    "content": "Unemployment Insurance (UI) benefits are paid by employer premiums. No money is deducted from your paycheck or taxes to pay UI benefits. Under the Federal Unemployment Tax Act of 1939, employers are required to pay premiums that pay for the cost of administering Unemployment Insurance and employment service programs at the state and federal levels.",
+    "metadata": {
+      "section_title": "Who Pays for Unemployment Insurance?",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "IN-19",
+    "content": "The contents of this handbook apply to Indiana residents who have filed an Indiana UI claim. If you have moved out of Indiana, you must register for work in your new state. If your address changes, you must notify DWD by changing your address online through Uplink, the UI online filing system.",
+    "metadata": {
+      "section_title": "Interstate Claimants",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "IN-20",
+    "content": "DWD conducts random claimant quality control audits. Audits review claimant eligibility, payroll records, and work search contacts. If you are selected for an audit, you will be contacted by an auditor for an interview.",
+    "metadata": {
+      "section_title": "Quality Control Audits",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "IN-21",
+    "content": "DWD aggressively pursues any act of fraud committed against the Unemployment Insurance Program. DWD cooperates with other state agencies to check employment and unreported earnings.\nYou commit fraud when you:\n• Knowingly fail to report any earnings during your waiting period, benefit period, or extended benefit period weeks; or\n• Hide or falsify any fact that would make you ineligible for benefits or reduce your benefit amount; or\n• Assume someone else’s identity to file for or receive benefits.",
+    "metadata": {
+      "section_title": "Unemployment Insurance Fraud",
+      "page_number": 6
+    }
+  },
+  {
+    "section_id": "IN-22",
+    "content": "• You must repay the benefits you received because of the fraud plus any applicable interest on those benefits; and\n• You must pay a penalty in addition to the overpayment in an amount of:\n25% of the overpayment for the first fraudulent claim;\n50% of the overpayment for the second fraudulent claim; or\n100% of the overpayment for the third fraudulent claim and all fraudulent claims thereafter.\n• You may face criminal prosecution, including a fine and/or a jail term.\n6\nFailure to repay this money may result in civil legal action, wage garnishment referral, and criminal prosecution. If you know of any UI fraud taking place, you can report it anonymously at https://www.in.gov/dwd/indiana-unemployment/fraud/\n7",
+    "metadata": {
+      "section_title": "What happens if you commit fraud",
+      "page_number": 8
+    }
+  },
+  {
+    "section_id": "IN-23",
+    "content": "• File your claim for Unemployment Insurance benefits;\n• Reapply for benefits after a period of employment; or\n• Resume filing after any period of claim inactivity\nDo so as soon as possible. You can only claim benefits for weeks you file. If you are re-opening an existing claim or transitioning from one claim level to another, check your Uplink Claimant Self-Service homepage frequently. You generally cannot re-open or transition to a new claim level on the same day you file a weekly voucher. You cannot go back and file for weeks before your initial claim filing. The date you filed cannot be “backdated” for weeks that you may have missed.\nYour claim for benefits must be completed by 8:59 p.m. Eastern Time (ET) on Saturday of the week you become unemployed to receive a voucher to file for benefits for that week. Make sure you start and finish all information on your claim with plenty of time before 8:59 p.m. ET on Saturday. Late claims will not be accepted and if you fail to file your claim by 8:59 p.m. ET on Saturday, you will not receive a voucher to file for benefits for that week. If you fail to complete all information on your claim timely on Saturday, you will have to re-enter all information on different day and your claim will not be backdated.",
+    "metadata": {
+      "section_title": "If you need to:",
+      "page_number": 8
+    }
+  },
+  {
+    "section_id": "IN-24",
+    "content": "• You may file your application for benefits at DWD: Indiana Unemployment.\n• Watch the online filing tutorial(s) before filing to prevent errors that may delay your claim.\n• Follow the instructions given for filing a claim.\n• If you do not have internet access, you can apply online at your local WorkOne during their normal business hours.\n• Be sure to turn off any pop-up blocker on the computer you are using. Important information may appear in pop-up windows, both at the time of initially filing and when completing weekly vouchers.\n• Want to receive paper mail regarding your claim? Call 1-800-891-6499 to find out how.",
+    "metadata": {
+      "section_title": "Apply",
+      "page_number": 8
+    }
+  },
+  {
+    "section_id": "IN-25",
+    "content": "You will need to provide DWD with the following information to file your claim. If you are visiting a WorkOne to use their public computers to complete your online application, please bring this information with you on your first visit:\n• A valid email address and a password you can use for Uplink, the unemployment insurance online filing system;\n• Your complete name, date of birth, and address, including zip code;\n• Your Social Security number (your claim will not be processed without it);\n• Driver’s license or state identification card;\n• Name, address, and telephone number of all your employers for the last 2 years;\n• Dates worked (start and end dates) for all your employers for the last 2 years;\n• The reason you are no longer employed by all of your employers for the last two years;\n• Check stubs for your current or most recent employer(s);\n• Information about your pension, retirement, 401(K), or other payments;\n• If you have received or will receive any type of pay other than regular wages (such as vacation pay, severance/dismissal pay, PTO pay-outs) from your current or most recent employer(s), information about the amount(s) of money you have received or will receive;\n• If you have had out of state employment in the last two years, the state where you physically worked and your employer’s payroll address;\n• If you are a member of a union hiring hall, information about your hiring hall and your “dues paid through date”; and,\n• If you received Worker’s Compensation, information about the last day you were able to work because of your injury.",
+    "metadata": {
+      "section_title": "Information You Must Provide",
+      "page_number": 8
+    }
+  },
+  {
+    "section_id": "IN-26",
+    "content": "8",
+    "metadata": {
+      "section_title": "Information You Must Provide",
+      "page_number": 9
+    }
+  },
+  {
+    "section_id": "IN-27",
+    "content": "Once you file a claim for UI benefits, DWD will automatically create an account for you in Indiana Career Connect based on the information you entered for your Uplink account. You must then log into Indiana Career Connect, using the same login information that you used to access your Uplink account. You can log into Indiana Career Connect at https://www.indianacareerconnect.com or by following the link to Indiana Career Connect on DWD’s website at https://www.in.gov/dwd/. Once logged in, you should complete your profile and create a resume. You may use Indiana Career Connect to create an employer-searchable resume and search for work among the job listings in the Indiana Career Connect database. You can also upload an existing resume.\nIf you fail to become registered for work within 10 days of filing an initial claim for benefits, DWD will not award UI benefits to you.",
+    "metadata": {
+      "section_title": "Work Registration",
+      "page_number": 9
+    }
+  },
+  {
+    "section_id": "IN-28",
+    "content": "You will not be eligible for UI benefits until you meet the requirement of registering for work.\nIf you live outside of Indiana, you must register for work in the job matching service available in the state where you live. If you fail to become registered for work in that state within 10 days of filing an initial claim for UI benefits, DWD will not award benefits to you. You will not be eligible for UI benefits until you meet the requirement of registering for work. If requested by DWD staff, you must produce sufficient evidence showing that you are registered for work in the state where you live.\nYou will be excused from the requirement to register for work if you have a work search waiver. A work search waiver is awarded to a claimant whom DWD determines is:\n1) Enrolled in training approved by DWD (regardless of whether the training is paid for by DWD); or\n2) A job-attached worker with a specific recall date that is not more than 60 days from the date the claimant was separated from employment; or\n3) A member in good standing of a DWD-authorized union hiring hall.",
+    "metadata": {
+      "section_title": "Work Registration",
+      "page_number": 9
+    }
+  },
+  {
+    "section_id": "IN-29",
+    "content": "You MUST verify your identity to be eligible for unemployment benefits. Your CSS homepage will have a link you can click to start the identity verification process. You can also verify your identity by clicking your name at the top of the CSS homepage and selecting “Verify Your Identity”.\nYou may choose between verifying your identity online with ID.me or in-person with the U.S. Postal Service. You can find more information in CSS and at https://www.in.gov/dwd/indiana-unemployment/fraud/id.me/.",
+    "metadata": {
+      "section_title": "Verifying Your Identity",
+      "page_number": 9
+    }
+  },
+  {
+    "section_id": "IN-30",
+    "content": "• After filing your initial claim, you do not need to contact DWD or your local WorkOne, unless otherwise instructed. Eligibility will be determined during this period.\n• Within 10 days of filing, you will receive a Monetary Determination of Eligibility in the Correspondence History section of your CSS homepage. You will also receive an email telling you that this new documentation can be reviewed on your CSS account. This determination is only a statement providing a possible weekly benefit and overall maximum benefit amount. It does not show eligibility to receive these benefits, nor does it guarantee that you will receive the full benefit amounts shown. If the wages shown on this statement are incorrect, please follow the appeal instructions on the document. For more information, please visit DWD: File an Appeal (in.gov)\n• Continue to monitor your Uplink Claimant Self-Service (CSS) homepage for updates including determinations of eligibility and whether your vouchers have paid or not.",
+    "metadata": {
+      "section_title": "What To Expect",
+      "page_number": 9
+    }
+  },
+  {
+    "section_id": "IN-31",
+    "content": "You may be asked to upload documents and will be notified to do so while speaking to an investigator. You will also receive an email that says a document upload session has begun. If you are asked to upload a document, please log into your CSS account, click the document upload “To Do” link and follow the instructions. More information can be found in the FAQs section of the website.\n• Unless you specifically request notices be sent to you by the U.S. Postal Service, DWD will deliver notices and decisions regarding your eligibility to receive benefits by posting them in the Correspondence History section of your Claimant Self- Service (CSS) homepage. After a notice or decision has been posted, you will receive an email notification at the email address you provided when you filed your initial application for benefits.\n9",
+    "metadata": {
+      "section_title": "What To Expect",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "IN-32",
+    "content": "A one week waiting period will occur after you file your initial claim. You must file a voucher to serve this waiting period. Do not wait to file your claim. File as soon as you become unemployed. You will not receive benefits during the waiting period. Any wages earned during your waiting period must be reported.",
+    "metadata": {
+      "section_title": "Waiting Period",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "IN-33",
+    "content": "Hoosiers receiving unemployment insurance benefits must visit their local WorkOne for a review of their work search records and an orientation to WorkOne services after their 4th week of benefits. You are also required by law to keep records of your weekly work search activities for six (6) months after the work search activity occurred and be able to show a record of work search activities when requested by DWD. You are responsible for keeping a log of your weekly work search activities and may be required to produce that log at any time to DWD. If your record of work search activities cannot be readily verified by DWD when requested, weekly benefits could be withheld, and you will be required to pay back any benefits received for any weeks in which your work search activities cannot be verified. If you fail to comply, you risk losing your unemployment insurance benefits. Additional information is available in the Special Job Search Assistance section (Re-Employment Services known as RESEA).",
+    "metadata": {
+      "section_title": "Required WorkOne In-Person Visit for Re-employment Services (RESEA)",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "IN-34",
+    "content": "You only qualify for unemployment benefits if you are unemployed through no fault of your own. When filing your claim for benefits, be sure to give complete and accurate information about why you are no longer working.\nSome factors that determine if you qualify for benefits:\n1) How much money you earned in the base period.\n2) Why you are unemployed.\n3) If you are able, available, and actively seeking full‐time work.",
+    "metadata": {
+      "section_title": "DO I QUALIFY FOR BENEFITS?",
+      "page_number": 10
+    }
+  },
+  {
+    "section_id": "IN-35",
+    "content": "Your benefit amount depends on how much money you earned while working during your base period. The base period divides the year into four quarters of three months each.\nBase Period: Your base period includes the first four of the last five completed calendar quarters before the week you file an initial claim application for a new benefit year. The wages you earned during this period are used to determine if you qualify for benefits and to calculate how much you can be paid. The last quarter worked is called the lag quarter, and no wages from that quarter count in your base period.\nThe following chart explains a base period.\nWeekly Benefit Amount Calculation for Initial Claims Filed\n10",
+    "metadata": {
+      "section_title": "1) How Much Money Did You Earn in Your Base Period?",
+      "page_number": 11
+    }
+  },
+  {
+    "section_id": "IN-36",
+    "content": "Your base period consists of these calendar quarters\n2024 2025 2025 2025 2025 JULY OCTOBER JANUARY APRIL OCTOBER _—| AUGUST NOVEMBER FEBRUARY MAY T NOVEMBER SEPTEMBER DECEMBER MARCH JUNE TEMB DECEMBER Not Counted Not Counted Atleast $2500 betw een JAN 2025 and JUN 2025 (Lag Quarter) (Quarter Claim Filed)\nAtleast $4200 betw een JUL 2024 and June 2025\nDuring your base period months, you must have wages of $4200 of which $2500 must be in the last 6 months of the base period; also your total wages in the base period must be at least 1.5 times the wage credits in the calendar quarter of the base period in which wage credits are the highest\nSuppose the wages reported by your employer were\n| 2024 [ 2024 | 2025 2025 2025 2025 | APR-MAY-JUN JULY-AUG-SEPT | OCT-NOV-DEC |APR-MAY-JUNE OCT-NOV-DEC [ AUGS $7,000.00 $8,500.00 $9,250.00 $9,250.00 | — $850000 |\nNot Counted\nNot Counted\nThese 4 quarters determine your weekly benefit amount (see below)\n(Lag Quarter)\n(Quarter Claim Filed)\nTo determine your weekly payment, divide the total wages earned in these 4 quarters by 52 Then, multiply the sum by 0.47.",
+    "metadata": {
+      "section_title": "Please See The Sample Base Period Below",
+      "page_number": 11
+    }
+  },
+  {
+    "section_id": "IN-37",
+    "content": "For example: $30,000 + 52 = $576.92 x 0.47 = $271 (weekly benefit amount). The weekly benefit amount should be rounded down to the next whole dollar amount and should not exceed $390.00\nFunding is provided by the United States Department of Labor . This material does not necessarily reflect the views or policies of the United States Department of Labor, nor does mention of trade names, commercial products, or organizations imply endorsement by the United States Government.\nTo meet the minimum eligibility for UI, your total base period wages must be equal to at least one and one-half (1.5) multiplied by your wages in the highest quarter of your base period. Your total base period wages must also total at least $4,200.00, with at least $2,500.00 of those wages earned in the last six (6) months of the base period.",
+    "metadata": {
+      "section_title": "Please See The Sample Base Period Below",
+      "page_number": 11
+    }
+  },
+  {
+    "section_id": "IN-38",
+    "content": "• If you file your initial claim application for UI between January 5, 2020, and April 4, 2020, your base period will be Q4 2018, Q1 2019, Q2 2019, and Q3 2019, which covers the dates from October 1, 2018, through September 30, 2019. You must have earned total base period wages that are 1.5 times greater than your highest quarter wages.",
+    "metadata": {
+      "section_title": "Example:",
+      "page_number": 11
+    }
+  },
+  {
+    "section_id": "IN-39",
+    "content": "You only qualify for Unemployment Insurance benefits if you are unemployed through no fault of your own.\n11\nIf You Quit or Were Fired: A claims investigator within the agency’s administrative office will decide whether you are eligible for benefits. You must provide fact-finding information when prompted or contacted. You may be asked to upload documents and will be notified to do so while speaking to an investigator. You will also receive an email that says a document upload session has begun. If you are asked to upload a document, please log into your CSS account, click the document upload link “To Do” and follow the instructions. More information can be found in the FAQs section of the website.\nFact-finding questions are specific who, what, when, where, why, or how questions to gather more information from you.",
+    "metadata": {
+      "section_title": "2) Why Are You Unemployed?",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "IN-40",
+    "content": "For example: what happened that caused your separation from employment? Your benefit eligibility determination will be based on the fact-finding information you provide, as well as information provided by your employer(s). Your most recent employer and your base period employer(s) will be contacted for information regarding your claim. When this process is complete, you will be sent a Determination of Eligibility.\nIf You Quit Voluntarily without good, work-related reasons, you may not qualify for benefits.\nGood, work-related reasons include, but are not limited to:\n• Your employer arbitrarily (unreasonably) changes the terms or conditions of your work\n• Safety violations at your work site\n• Harassment\n• Domestic or family violence\n• Moving to follow a spouse who accepted a new job\n• Military service\nNot good, work-related reasons include, but are not limited to:\n• Accepting payment in exchange for voluntarily resigning or retiring\n• Giving false information on a job application\n• Knowingly breaking an employer’s rules\n• Unexcused absence or tardiness\n• Purposely damaging the employer’s property\n• Refusal to obey employer instructions\n• Reporting to work in a state of intoxication because of drugs and/or alcohol\n• Consuming drugs and/or alcohol in connection with work without the employer’s permission\n• Conduct that threatens the safety of others\n• Conviction and imprisonment for a serious crime\n• Breach of a duty you owed your employer",
+    "metadata": {
+      "section_title": "2) Why Are You Unemployed?",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "IN-41",
+    "content": "• On-call and as-needed workers if they receive pay OR refuse work during any week.\n• On-call or as-needed workers are defined as workers who are regularly and customarily employed on an on-call or as-needed basis and are paid during any week for services directly or by an employer. If working for an employer, the individual works whenever the employer requires and there is no set work schedule.\n• Workers employed at a business during a short-term shutdown or vacation whether paid or unpaid.\n• Workers who volunteer for a temporary layoff, reduction in hours, furlough, leave due to short-term shutdown, or vacation, whether paid or unpaid.",
+    "metadata": {
+      "section_title": "The following individuals are not considered unemployed and are not eligible for unemployment insurance benefits:",
+      "page_number": 12
+    }
+  },
+  {
+    "section_id": "IN-42",
+    "content": "Your benefits could be denied or reduced for reasons including, but not limited to, the following:\n• Refuse or fail a pre-employment drug screening.\n• Refuse an offer of suitable work.\n• Fail to go to a job referral made by your local WorkOne.\n• Cannot show proof that you are actively searching for work according to work search requirements.\n• You are temporarily not available for work due to illness, injury, or a leave of absence.\n• You are on suspension due to work-related misconduct.\nYou may be asked to upload documents and will be notified to do so while speaking to an investigator. You will also receive an email that says a document upload session has begun. If you are asked to upload a document, please log into your CSS account, click the\n12\ndocument upload link “To Do” and follow the instructions.",
+    "metadata": {
+      "section_title": "3) Are you Able, Available, and Actively Seeking Full-Time Work?",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "IN-43",
+    "content": "More information can be found in the FAQs section of the website.\nEven if you have a work search waiver, you must be mentally and physically able and available to work. Your benefits can be reduced by 1/3 of your weekly benefit amount for each day you are unavailable.\nThese situations will be reviewed by a claims investigator:\n• A claimant, who is determined eligible to receive UI benefits pursuant to the statutory modification regarding domestic or family violence, may restrict availability for work because of the claimant’s need to address the effects of being a victim of domestic or family violence.\n• Claimants enrolled in training approved by DWD, regardless of whether the training is paid for by DWD, are exempt from the requirement that claimants must be able to work full-time and available to work full-time, if the reason the claimant is not able to work full-time and available to work full-time because the claimant must be at the DWD-approved training during all full-time work hours.",
+    "metadata": {
+      "section_title": "3) Are you Able, Available, and Actively Seeking Full-Time Work?",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "IN-44",
+    "content": "Unemployment Insurance recipients must accept any offer of suitable work. An offer of work will be suitable if it is reasonably similar in location, type of work, and pay to your previous work experience. The longer you remain unemployed, the more likely it becomes that an offer of work will be considered suitable. You must be willing to expand your work search beyond your normal trade or occupation and to accept work at a lower rate of pay to remain eligible for benefits as the length of your unemployment grows. During weeks 5-8 of receiving unemployment insurance benefits, you must accept work that pays at least 90% of your previous wage. After 8 weeks of collecting benefits, you must accept work that pays at least 80% of your previous wage.",
+    "metadata": {
+      "section_title": "What is an Offer of Suitable Work?",
+      "page_number": 13
+    }
+  },
+  {
+    "section_id": "IN-45",
+    "content": "Soon after you file your claim you should receive a Monetary Determination of Eligibility in the Correspondence History section of your CSS homepage (see example below). You will also receive an email telling you that this new documentation can be reviewed on your CSS account. Receiving this notice does not guarantee that you will receive benefits. Read the notice carefully. Make sure the information on the front and back are correct because this information will be used in determining your eligibility for benefits.\nCheck the following information on your Monetary Determination of Eligibility:\n• Are your name and address correct?\n• Is your Social Security Number correct?\n• Are wages listed under your name?\n• Are the employers listed correctly and completely?\n• Are the wage amounts correct?\n• Do wages appear that are not yours?\n13\nT MONETARY DETERMINATION OF ELIGIBILITY link SENT DATE £ nempioymen progams 03/10/2020 Is your name and address correct? Are the last 4 Thomas J Jefferson digits of your 100 N Capitol Social Security BYE MM/DD/YYYY Indianapolis, IN 46204 Is your email CLAIM LEVEL: VI Number address correct? correct? Claimant Email: The below is a chart listing your wages as reported by employers for the period that your claim covers.",
+    "metadata": {
+      "section_title": "READING THE MONETARY DETERMINATION",
+      "page_number": 14
+    }
+  },
+  {
+    "section_id": "IN-46",
+    "content": "Review the listed wages 1o ensure they are correcl. You must have sufficient wages for your claim to continue. If you do net, your claim will not be reviewed for benefit eligibility. Q4/2018: 10/01/2018 - 12/31/2018 Q1/2019: 01/01/2019 - 03/31/2019 Q2/2019: 04/01/2019 - 06/30/2019 Q3/2019: 07/01/2019 - 09/30/2019 Employer Names Q1/2019 Q 0 Are the th ] EE O wage $29.00 $886.32 CATery amounts $29.00 $886.32 Total Wages | $1,286.58 correct?\nContact DWD immediately if any of the non-wage information is wrong on your Monetary Determination of Eligibility.\nCall DWD toll-free at 1-800-891-6499.\nIf you are hearing impaired, please call us at 317-232-7560.\nIf the wages shown on this statement are wrong, please follow the appeal instructions on the Monetary Determination document. For more information, please visit DWD: File an Appeal (in.gov)\nRemember—you only have 10 days to request corrections to this information. You will be held responsible for\nany overpayment if benefits were paid to you based upon incorrect information.",
+    "metadata": {
+      "section_title": "READING THE MONETARY DETERMINATION",
+      "page_number": 14
+    }
+  },
+  {
+    "section_id": "IN-47",
+    "content": "You will receive this notice after a claims investigator reviews the fact-finding information you and your previous employer(s) have provided. It states whether you qualify for benefits. It also explains how and why the decision was made. Please review the information in the Determination of Eligibility carefully (see example below). If the legal result of the case for the claimant reads “no penalty” or “no disqualification”, then you are eligible for benefits from the listed issue.\n14\n&5 Qe ¥ s/\nINDIANA DEPARTMENT OF WORKFORCE DEVELOPMENT 10 N. SENATE AVE. INDIANAPOLIS. IN 46204 CONFIDENTIAL RECORD PURSUANT TO IC 4-1-6. IC 22-4-19-6\nI lllll lll lll llllllllllllllll1l11111111111111111   000128011 \n02/17/2025\nName and Address of Employer ABC COMPANY 123 ABC DRIVE INDIANAPOLIS IN 46204\nRE: JOHN DOE SSN: XXX-XX- 6789 BYE: 11/15/2025 Claim Level: UI Separation Date: 11/01/2024 Employer Acct#: 555555 ID: 12345678\nIssue Involved: Discharged for just cause.",
+    "metadata": {
+      "section_title": "Determination of Eligibility",
+      "page_number": 15
+    }
+  },
+  {
+    "section_id": "IN-48",
+    "content": "The claimant was discharged. The employer has failed to provide sufficient information to establish the discharge was the result of willful misconduct.",
+    "metadata": {
+      "section_title": "Circumstances of Case",
+      "page_number": 15
+    }
+  },
+  {
+    "section_id": "IN-49",
+    "content": "The claimant was not discharged for just cause. Insufficient information has been provided to establish that the employer had just cause to discharge the claimant. In accordance with IC-22-4-15-1, no penalty is imposed under these circumstances. No disqualification.",
+    "metadata": {
+      "section_title": "Conclusion of Case",
+      "page_number": 15
+    }
+  },
+  {
+    "section_id": "IN-50",
+    "content": "CLAIMANT: NO PENALTY APPLIES AS A RESULT OF THIS ISSUE.\nDate Determination Sent Department Signature of Claims Investigator 02/17/2025 DWD ADJUDICATION CENTER Claims Investigator\nRIGHT OF APPEAL: THIS DETERMINATION WILL BECOME FINAL ON 03/04/2025 IF NOT APPEALED. EITHER PARTY MAY APPEAL THIS DETERMINATION AND REQUEST A HEARING BEFORE AN ADMINISTRATIVE LAW JUDGE WITHIN FIFTEEN DAYS OF THE DATE THIS DETERMINATION WAS SENT. PLEASE SEE REVERSE SIDE FOR APPEAL PROCEDURE.\n15\nI\nIIIIIIIIIIIIIIIIIIIIIIIII IIIIIIIIIIIIIIIIII IIIIII \nClaimant Name: JOHNDOE Employer Name: ABC COMPANY\nI\n000128012\nSocial Security: XXX-XX- 6789 Account Number: 555555",
+    "metadata": {
+      "section_title": "Legal Result of Case",
+      "page_number": 16
+    }
+  },
+  {
+    "section_id": "IN-51",
+    "content": "CLAIMANT: If the legal result of your case states that your weekly benefits have been reduced or suspended, or if your maximum benefit amount has been reduced, you have the right to appeal this decision.\nEMPLOYER: If the legal result of this case states that no penalty has been imposed, you have the right to appeal this decision.\nAll appeals are handled by Administrative Law Judges assigned to the Appeals Division. Information on how to file an appeal may be found either at a WorkOne Center or by visiting the following website address:",
+    "metadata": {
+      "section_title": "APPEAL RIGHTS",
+      "page_number": 16
+    }
+  },
+  {
+    "section_id": "IN-52",
+    "content": "All appeals will be filed with the UI Appeals Division, which is headquartered at Indiana Department of Workforce Development, 10 N. Senate Ave., Indianapolis, IN 46204-2201. Claimants may appeal online by going to the Issue History section on their Uplink Claimant Self-Service (CSS) Homepage and selecting “File Appeal.” Appeals may also be faxed to (317) 233-6888. Appeals must be filed within the statutorily required fifteen (15) day time limit from the date the department sent this Determination of Eligibility. Any appeal not filed within the timeframe allowed by Indiana law will be dismissed.\nAll cases are scheduled in the order they are received. Scheduling of hearings generally occurs within eight to ten weeks, although the actual time may be shorter or longer depending on case volume. If you do not participate in a hearing before the Administrative Law Judge, a decision could be issued that may be unfavorable to you. Claimants, this may result in an overpayment and you may have to pay back any benefits you have received. Employers, this could result in charges to your account for any benefits paid.\nCLAIMANT: If you have been disqualified you should continue to file vouchers on-line. You must continue to track your work searches and maintain all necessary documents should you win your case on your appeal.\n16\n17",
+    "metadata": {
+      "section_title": "http://www.in.gov/dwd/2456.htm",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "IN-53",
+    "content": "Your benefits are limited by a few factors:\n1) Length of time you may receive benefits\n2) Maximum benefit amount\n3) Weekly benefit amount",
+    "metadata": {
+      "section_title": "HOW MUCH WILL MY BENEFITS BE?",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "IN-54",
+    "content": "• You may draw regular unemployment insurance benefits for up to 26 weeks or until your maximum benefit amount (MBA) has been reached (see below). During periods of high unemployment, emergency extensions may be offered to extend your weeks of eligibility.\nBased on the earnings in the chart of wages, your weekly benefit amount is listed below. If you have an amount listed, your claim moves on to the next step in the process and will be reviewed to determine your eligibility to receive benefits (i.e. did you lose your job through no fault of your own).\n$213.00 Per Week I | |\n• Your claim is good through your benefit year end (BYE) date.\n• Your benefit year consists of the 52 weeks beginning with the first week you filed your claim.\n• Your BYE date is listed on your home page.\n• You may re-open your claim if you become unemployed more than once before your BYE date. You will need to provide updated dates of employment when filing your voucher if you have worked since the last time you filed for benefits.",
+    "metadata": {
+      "section_title": "How Long May I Receive Benefits?",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "IN-55",
+    "content": "The total amount of your claim is limited by your maximum benefit amount (MBA). It is shown on your Monetary Determination of Eligibility (see number 7 in the example above).\nYour MBA will be 26 times your weekly benefit amount (WBA).",
+    "metadata": {
+      "section_title": "Is There a Limit to the Total Amount of My Benefits?",
+      "page_number": 18
+    }
+  },
+  {
+    "section_id": "IN-56",
+    "content": "Your weekly benefit amount (WBA) is shown on your Monetary Determination of Eligibility (see number 6 in the example above). Your WBA is based on total wages you earned in the base period.\n18\nYou can determine your weekly benefit amount by dividing your total base period wages by 52. Then, multiply that number by 0.47. Your weekly benefit amount should be rounded down to the next whole dollar amount. Your WBA is based on your total wages earned in the base period.\nFor example, if your total wages in the base period was $30,000.00 then your WBA would be:\n$30,000.00 ÷ 52 = $576.92 × 0.47 = $271.00 (weekly benefit amount rounded down to the next whole dollar amount)",
+    "metadata": {
+      "section_title": "How Much Will My Weekly Payment Be?",
+      "page_number": 19
+    }
+  },
+  {
+    "section_id": "IN-57",
+    "content": "The maximum weekly benefit amount is $390.00. This amount is set by Indiana law.",
+    "metadata": {
+      "section_title": "What is the Maximum Weekly Benefit Amount?",
+      "page_number": 19
+    }
+  },
+  {
+    "section_id": "IN-58",
+    "content": "Federal law requires state child support agencies to enforce the payment of child support in Title IV‐D cases through withholding from unemployment benefits. If you owe current child support, past‐due child support, or both AND you have a Title IV‐D child support case, up to 50% of your benefits may be withheld and applied towards your current support payment and any arrears you owe.\nFor additional information about Indiana’s Title IV‐D Child Support Program, visit the Indiana Child Support Bureau online at www.in.gov/dcs/support.htm. For specific information about the amount of child support withheld from your benefits, contact your county Title IV‐D Prosecutor’s child support program. Contact information for local child support programs can be viewed online at https://www.in.gov/dcs/child-support/contact-us/local-child-support-offices/.",
+    "metadata": {
+      "section_title": "Will Child Support I Owe Be Automatically Deducted From My Benefits?",
+      "page_number": 19
+    }
+  },
+  {
+    "section_id": "IN-59",
+    "content": "You may qualify for partial benefits if your employer reduces your work hours to less than your regular full-time work week hours. If you take a part-time job AND you earn less than your weekly benefit amount (WBA), you may also qualify for partial benefits. You must report any wages, including your part-time wages, on your voucher the week you earn them. The wages must be reported on the voucher for the week you worked, even if you do not receive the money from the employer until some future date. If you take a part-time job after filing a claim for benefits, then you must continue to search for full-time work each week.\nA claims investigator from the DWD administrative office will review your circumstances and determine your eligibility.",
+    "metadata": {
+      "section_title": "PARTIAL BENEFITS",
+      "page_number": 19
+    }
+  },
+  {
+    "section_id": "IN-60",
+    "content": "• Severance/dismissal pay for all individuals will be deducted from unemployment insurance benefits.\n• Severance pay also includes sub pay and private unemployment benefit payments where the individual signs an agreement to release claims against the employer before receiving payment.",
+    "metadata": {
+      "section_title": "Severance Pay:",
+      "page_number": 19
+    }
+  },
+  {
+    "section_id": "IN-61",
+    "content": "A dollar-for-dollar deduction will be taken from your weekly benefit payment if you receive any distribution from a pension, retirement, or annuity plan. Deductions will not occur if you receive payments from a pension, retirement, or annuity plan when:\no The Department decides the issue on or after 07/02/2023,\no The decision affects benefit weeks on and after 07/08/2023, and\no You made a contribution to the plan.\n• Any decision made before 07/02/2023 will affect every benefit week of your claim.\n• Exceptions may be made if the money is used to satisfy a severe financial hardship resulting from an unforeseeable emergency due to events beyond your control (as determined by the department).\n19\nFor All Work Done for Any Employers:\nYou must report ALL income, including cash payments for work done.",
+    "metadata": {
+      "section_title": "Distributions from a pension, retirement, or annuity plan:",
+      "page_number": 20
+    }
+  },
+  {
+    "section_id": "IN-62",
+    "content": "Wages Earned During the Week:\n• If you worked during the week, a dollar-for-dollar deduction will be taken from your weekly benefit payment for all wages earned above $100.00.\nExample 1: Your WBA is $200.00. You earn $50.00 one week working from working. Since your earnings are less than $100.00, your weekly benefit amount will not be reduced.\nExample 2: Your WBA is $200.00. You earn $130.00 one week working from working. Since your earnings are more than $100.00, your weekly benefit amount will be reduced by the amount that is over $100. Since $130.00 minus $100.00 is $30.00, your payable amount will be reduced to $170.00 ($200.00 minus the $30.00 that was over $100.00)",
+    "metadata": {
+      "section_title": "How Partial Benefits are Calculated",
+      "page_number": 20
+    }
+  },
+  {
+    "section_id": "IN-63",
+    "content": "You DO NOT qualify for benefits if you are working full-time. This includes:\n• Working full-time on commission.\n• Working full-time but earning less than your WBA.\n20",
+    "metadata": {
+      "section_title": "Partial Benefit Exclusions",
+      "page_number": 21
+    }
+  },
+  {
+    "section_id": "IN-64",
+    "content": "You must file your application from a computer with Internet access at DWD: Indiana Unemployment or at any WorkOne center. You will need the following information when filing your initial application:\n• Address, social security number, date of birth, and phone number\n• Last employer’s name, mailing address, phone number, dates of employment, and reason unemployed\n• TIP: Bring your latest check stub from this employer with you.",
+    "metadata": {
+      "section_title": "HOW DO I GET MY BENEFIT PAYMENT?",
+      "page_number": 21
+    }
+  },
+  {
+    "section_id": "IN-65",
+    "content": "Your claim voucher is what you use to request payment of benefits. Vouchers must be submitted each week following your initial application. Weeks run from Sunday to Saturday. A voucher covers the previous week and may be filed starting on Sunday. Your voucher must be completed by 8:59 p.m. Eastern Time (ET) each Saturday to receive benefits for the preceding week. Make sure you start and finish your weekly voucher with plenty of time before 8:59 p.m. ET on Saturday. Late vouchers will not be accepted and if you fail to file your voucher timely on Saturday, you will not receive any benefits for the preceding week. Unemployment claims are based on a calendar week beginning with Sunday and ending with Saturday – this is sometimes referred to as the Calendar Week End (CWE).\nVouchers must be submitted each week at DWD: Indiana Unemployment.",
+    "metadata": {
+      "section_title": "Claim Voucher",
+      "page_number": 21
+    }
+  },
+  {
+    "section_id": "IN-66",
+    "content": "If you do not have Internet access, you can file online at any WorkOne, during normal business hours for that WorkOne. The online system will provide you with step-by-step instructions. Please read each question carefully and review your responses before you submit your voucher. You also can call the Contact Center at 1-800-891-6499 to get help filing your vouchers.\nIf you have an issue delaying your benefits, you must continue to submit a weekly voucher by 8:59 p.m. ET each Saturday. Once the issue has been resolved, payments will be made if you are eligible to receive benefits, if you submitted all of your weekly vouchers correctly and on-time.\nAs mentioned earlier, note there is a one-week waiting period after you file your initial claim when you will not receive benefits. You must file an on-time claim voucher during this waiting period to remain eligible for monetary benefits.",
+    "metadata": {
+      "section_title": "Claim Voucher",
+      "page_number": 21
+    }
+  },
+  {
+    "section_id": "IN-67",
+    "content": "• Registered for work on IndianaCAREERconnect.com and that you completed your work search requirements.\n• Have reported any and all work, earnings, and self-employment activity for this week, even if you have not received payment for it yet.\n• Have reported anything that interfered with your ability to work full-time this week.\n• Have given only true and accurate answers and information in the application for benefits.\n• Are aware that if you knowingly or purposely fail to disclose information or make false statements to receive unemployment benefits, you may:\n• Lose your unemployment benefits.\n• Be required to repay benefits received improperly with interest and penalty. That may include referral of your account to a collection agency.\n• Eliminate your chance to use the wages for future benefits.\n• Be subject to civil and criminal prosecution.\n21",
+    "metadata": {
+      "section_title": "Every time you submit a claim voucher, you are certifying that you:",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "IN-68",
+    "content": "The claim voucher also asks you to verify that you met your weekly work search requirements. A work search is a course of action that would ordinarily lead to full-time employment for someone in the same or similar position as you, the claimant. You must do a work search that would be customary in your field of work. Your weekly search for work must include at least two work search activities during every week in which you file a weekly claim for UI benefits. Any work search activity that is an application for employment may be done online, by telephone, or in person. A qualifying work search activity includes:\nJob Preparedness Employer WorkOne Activities Online Activities & Networking Contact Activities Activities • Create a resume • Submit a job application for • Attend WorkOne (RESEA) • Upload your resume to • • • Create a cover letter Create/Update a LinkedIn account or an account on another professional networking website Attend a Job Fair/Networking Event an employer that has, or is expected to have, job openings. • Follow through on job referrals or job development attempts as directed by state workforce or unemployment insurance staff • Make contact or in- person visits to • • • • Orientation Create a Re‐employment Plan @ WorkOne Attend WorkOne Initial Interview or Follow‐Up Meeting Complete a WorkOne Workshop Complete an • • • Indiana Career Connect Register for Work with Indiana Career Connect Click on Pivot, an Indiana Workforce Engine, in CSS Search for jobs online (IndianaCareerConnect, Indeed, LinkedIn, employers who Assessment/Test (TABE, Monster, etc.) have, or are Accuplacer, WorkKeys, etc.) expected to have, • Complete a Career job openings • Apply for or participate in Related Assessment employment and training (through Indiana Career • • Interview for a job Job Shadowing services provided by partner programs at WorkOne Connect, Indiana Career Explorer, etc.) • Discover Labor Market Information • Complete an online Workshop",
+    "metadata": {
+      "section_title": "Work Search Information",
+      "page_number": 22
+    }
+  },
+  {
+    "section_id": "IN-69",
+    "content": "t, Indiana Career Explorer, etc.) • Discover Labor Market Information • Complete an online Workshop\nYou are encouraged to complete any work search activity which secures full-time work or positions you to secure full-time work. Other activities reported will be reviewed to determine if the activity constitutes a valid work search activity.\nYou are responsible for keeping a log of your weekly work search activities and must save the log for six (6) months after the activities occurred. You may be required to produce that log at any time to DWD. If your record of work search activities cannot be readily verified by DWD when requested, weekly benefits could be withheld, and you will be required to pay back any benefits received for any weeks in which your work search activity cannot be verified. If you fail to comply, you risk losing your unemployment insurance benefits.\nDWD will excuse the requirement that you try to secure full-time work if you are given a work search waiver because you are:\n1) enrolled in training approved by DWD (whether or not the training is paid for by DWD);\n2) a job-attached worker with a specific recall date that is not more than 60 days from the date the claimant was separated from employment; or\n22\n3) a member in good standing of a DWD-authorized union hiring hall.",
+    "metadata": {
+      "section_title": "Work Search Information",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "IN-70",
+    "content": "Using a DWD-approved hiring service, referral service, or other job placement service may excuse you from the reporting requirement for no more than 60 days. You are still required to complete a weekly online voucher to receive UI benefits.\nYou must not take any action that would be inconsistent with an attempt to find suitable work, including, but not limited to, failure to pass a drug test, arriving at an interview inappropriately dressed, or searching solely for positions for which you are either over- or under-qualified. DWD will find that you failed to try to secure full-time work in any week where you followed a course of action designed to discourage prospective employers from offering you suitable full-time work.\nIf DWD finds that you failed to try to secure full-time work in a given week, DWD will find you ineligible for UI benefits for that week. If UI benefits for the weeks in which you are found to be ineligible were already paid to you, DWD will establish an overpayment and you must repay those benefits to DWD.",
+    "metadata": {
+      "section_title": "Work Search Information",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "IN-71",
+    "content": "All UI recipients are required to register with IndianaCAREERconnect.com. To continue receiving benefits, you must complete a work search activity each week in which you file a weekly claim for UI benefits. You are not required to use IndianaCAREERconnect.com for your weekly work search, but it will help you track where you looked for work. Remember you are required to affirm on your weekly voucher that you completed a work search activity each week to receive unemployment benefits.\nEmployment Services: The task of finding a new job can be difficult. Your local WorkOne Center can help give you the competitive edge you need to be successful in your job search. WorkOne can offer you a computer lab, Internet access, fax machine, copier, telephone, and information about high-wage and high-demand careers. You can also access thousands of job postings at IndianaCAREERconnect.com, the official career site of the State of Indiana. Visit www.workoneworks.com for more information about WorkOne services and to find the nearest WorkOne location. You can also access resources from DWD at the following sites:\n• Indiana Career Explorer (https://indianacareerexplorer.com)\n• Career Connect (https://www.indianacareerconnect.com/)\n• Career Ready (https://www.indianacareerready.com/)",
+    "metadata": {
+      "section_title": "How Can I Get Work Search Help?",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "IN-72",
+    "content": "Federal legislation requires DWD to identify claimants who are at high risk of exhausting regular Unemployment Insurance benefits and would benefit from job search assistance and training. The information you give us when you apply for benefits can help determine whether you may have difficulty finding a new job.\nInformation used to determine selection for RESEA includes, but is not limited to:\n• Whether or not you are on recall status with your employer\n• Your ability to use a union referral service with your employer\n• Your occupation and work history\n• Your education\n• The unemployment rate in your geographical area\nIf you are selected for RESEA, you will receive a letter notifying you that you qualify and instructing you what to do next.\nWhen you file an Unemployment Insurance (UI) claim, an account is automatically created for you in Indiana Career Connect. The account is created using the information you provided when you filed your UI claim. You can use Indiana Career Connect to create an employer-searchable resume and search for work. To log into Indiana Career Connect, use the same username and password that you use for your UI claim.\nIf you are selected for RESEA, it is very important that you participate as required. Failure to respond to this letter and participate in re-employment assistance (RESEA) will result in suspension of your benefits.",
+    "metadata": {
+      "section_title": "Special Job Search Assistance (Re-Employment Services known as RESEA)",
+      "page_number": 23
+    }
+  },
+  {
+    "section_id": "IN-73",
+    "content": "23\nReceipt of Payment: If you are eligible for benefits, you will be able to choose between: (1) Direct Deposit to a U.S. checking/savings account, or (2) a prepaid debit card. You will be able to make this payment choice immediately after you file your initial claim. You may update this choice anytime by logging in to your Uplink Claimant Self-Service (CSS) account. If you do not choose a payment option, you will automatically be issued a prepaid debit card after 14 days.\nFor more information on your payment options, visit DWD: Indiana Unemployment, then select Payment Options.",
+    "metadata": {
+      "section_title": "After You File Your Initial Claim",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "IN-74",
+    "content": "It is very important that all information you give is accurate and truthful. You will have to pay back any money you receive because of incomplete and/or inaccurate information on your claim. Additionally, if your overpayment is a result of fraud, you will be required to pay a penalty amount in addition to your overpayment.",
+    "metadata": {
+      "section_title": "Overpayments",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "IN-75",
+    "content": "You must continue to file your weekly vouchers online during the Appeal process. If the decision is in your favor, you will receive benefits for your qualifying weeks after the judge’s decision is final.",
+    "metadata": {
+      "section_title": "What If You or Your Employer Filed an Appeal?",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "IN-76",
+    "content": "If your claim for benefits is denied or your benefits are reduced and you disagree with that decision, you have the right to an appeal. Your appeal will be heard by an Administrative Law Judge (ALJ). Your employers also have the right to appeal. Regardless of which party appeals the decision, your former employer will also have the right to be present at the hearing. There is no charge to either party for filing an appeal to an ALJ or the Review Board.",
+    "metadata": {
+      "section_title": "WHAT IF I DISAGREE WITH A BENEFIT DECISION?",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "IN-77",
+    "content": "After you have filed your claim and submitted any additional information requested of you by DWD staff, a Determination of Eligibility will be posted to the Correspondence History section of your CSS homepage. You will also receive an email telling you that this new documentation can be reviewed on your CSS account. This notice will state whether you qualified for benefits and explain how/why the decision was made. If the decision denies or reduces your benefits you may appeal the decision.\n• o File an Appeal Online:\n• Go to the Issue History Section on your CSS homepage. Click on the \"Disqualified\" hyperlink to view your decision. Please note the deadline to file an appeal when viewing your decision. If you disagree with your decision, click on the \"File Appeal\" hyperlink to start your Online appeal.\n• Confirm on the Claimant Information screen that your contact information is correct.",
+    "metadata": {
+      "section_title": "How Do I File an Appeal?",
+      "page_number": 24
+    }
+  },
+  {
+    "section_id": "IN-78",
+    "content": "If your contact information is not correct, please follow the directions to update your contact information.\n• Complete the questions on the Appeal /Hearing Information screen. Please confirm that all information is correct on the Appeal Filing screen, add your signature, and click, “Submit my appeal.”\n• When your Appeal has been successfully submitted, you will be taken to the Appeal Filing-Post Submission Instructions screen and you will receive an Appeal ID. Please reference this Appeal ID if you have any questions about the status of your appeal.\n• To File an Appeal by fax, mail, or in-person:\n• Complete a written statement of Appeal that includes:\n1) your reason why you disagree with the Determination of Eligibility;\n2) your name;\n3) your mailing address; your telephone number; and\n4) a copy of the Determination of Eligibility you are appealing.\n• File the request to the attention of the Appeals Division in one of the following ways:\n• by fax to (317) 233-6888\n• by mail to:\nIndiana Department of Workforce Development Attn: Appeals Division 10 North Senate Avenue Indianapolis, Indiana 46204\n• in-person at:\n24\nIndiana Department of Workforce Development Attn: Appeals Division 10 North Senate Avenue Indianapolis, Indiana 46204\nFor more information, please visit DWD: File an Appeal.\n*Please note you are not able to file an appeal Online to your Claimant Monetary Determination, Determination of Waiver Eligibility, Wage Garnishment, or claims against your State Tax Refund.",
+    "metadata": {
+      "section_title": "How Do I File an Appeal?",
+      "page_number": 25
+    }
+  },
+  {
+    "section_id": "IN-79",
+    "content": "If an appeal has been filed on your claim, you will receive a Notice of Hearing, General Instructions, and an Acknowledgement Sheet before the scheduled hearing date. If you need language translation assistance, interpreters are available upon request by calling the Appeals office at 317-232-7170 at least three days prior to your hearing.\nIf you filed the appeal, you must attend the hearing, or your appeal will be dismissed.\nThe Notice of Hearing will have information on the place, date, and time of your hearing. The time indicated on the Notice of Hearing is Eastern Time. Most hearings are conducted by telephone. Your Notice of Hearing and General Instructions will state the date and time and provide you with instructions on how to participate, which includes instructions for completing and submitting the Acknowledgment Sheet to provide appropriate contact information for you to attend.",
+    "metadata": {
+      "section_title": "The ALJ Hearing",
+      "page_number": 25
+    }
+  },
+  {
+    "section_id": "IN-80",
+    "content": "nd submitting the Acknowledgment Sheet to provide appropriate contact information for you to attend. The Notice of Hearing also identifies the subject of the hearing.\nAt the scheduled date and time of your hearing, the judge will call you at the telephone number listed on the Acknowledgment sheet. If this telephone number is not correct, please return the Acknowledgment Sheet with your updated telephone number at least 48 hours prior to the hearing. If you have documents you want the judge to consider you MUST deliver them by mail, fax, or in person to the Appeals office AND the other party or parties. Mailing addresses for the parties are provided on the first page of the Notice of Hearing. If you wish to fax or email documents to the other parties, you will need to reach out to the locations listed on the Notice of Hearing. All documents must be received at least 48 hours BEFORE the date of the scheduled hearing.",
+    "metadata": {
+      "section_title": "The ALJ Hearing",
+      "page_number": 25
+    }
+  },
+  {
+    "section_id": "IN-81",
+    "content": "If you have additional questions about the appeal process you can contact the Appeals office at the telephone number provided in the Notice of Hearing, 317-232-7170.\nThe ALJ calls all parties at the time specified, or within 60 minutes after the scheduled time. The ALJ’s phone number generally shows on caller ID as blocked, restricted, or unavailable. Be sure to disable Privacy Manager or similar screening devices. You will be considered as failing to appear if the ALJ cannot reach you at the time of the hearing or you fail to show up for an in-person hearing. If you fail to appear, your case will be dismissed.\nDuring the hearing, the ALJ will ask questions of all parties involved and consider evidence presented during that time. It is very important that you provide all evidence relating to your separation whether you have previously provided it to the department or not. This might include items such as: timecards, medical statements, disciplinary notices, separation notices, written communication between you and your employer relating to your separation, and any other relevant documentation.\nRecords of the Department that were used to decide this issue may be considered during the hearing as evidence. You must log into your Claimant Self-Service (CSS) account to view these documents. They will be located in your Correspondence History as “Department Ack sheets & Exhibits.”",
+    "metadata": {
+      "section_title": "The ALJ Hearing",
+      "page_number": 25
+    }
+  },
+  {
+    "section_id": "IN-82",
+    "content": "If your former employer(s) disagrees with the decision to give you benefits, the employer may appeal DWD’s decision as well. If this should happen, a Notice of Hearing, General Instructions and an Acknowledgement Sheet will be sent to you before the scheduled hearing date.\nIf you were receiving Unemployment Insurance benefits and your employer wins the appeal, you will have to pay back any benefits you may have already received. This is called an overpayment. Regardless of the reason for the overpayment, you are required to repay all benefits. Therefore, it is in your best interest to give accurate and complete information regarding your claim at all times.",
+    "metadata": {
+      "section_title": "If Your Former Employer Files an Appeal",
+      "page_number": 25
+    }
+  },
+  {
+    "section_id": "IN-83",
+    "content": "25\nYou may request a postponement by providing the ALJ with a reason for your request for postponement by fax or letter no later than three days before the scheduled hearing. You must also send a copy of your request to the other party and state in your request for postponement that you have done so. Be sure to keep a copy of your letter or fax for your records. Do not assume that your request has been granted. Postponements are granted at the sole discretion of the ALJ. If you have not received confirmation of a postponement, assume the hearing is proceeding as scheduled.",
+    "metadata": {
+      "section_title": "If You Cannot Attend a Scheduled Hearing",
+      "page_number": 26
+    }
+  },
+  {
+    "section_id": "IN-84",
+    "content": "The ALJ will review all the evidence and issue a decision within two weeks after the hearing. The decision will be based entirely upon the evidence and statements made at the hearing.\nREMEMBER: If you do not participate in the hearing, the ALJ could issue a decision that could be unfavorable to you. This also could result in you having to pay back any benefits you have already received.",
+    "metadata": {
+      "section_title": "After the Hearing",
+      "page_number": 26
+    }
+  },
+  {
+    "section_id": "IN-85",
+    "content": "• Go to DWD: File an Appeal (in.gov)\n• Call the DWD Contact Center toll-free at 1-800-891-6499\n• If you are hearing impaired, please call us at 317-232-7560.\nOnce the Review Board has rendered a decision on your case, your next opportunity for appeal is to appeal to the Indiana Court of Appeals. Appeals to the Court of Appeals are entirely out of the department’s control. The Court of Appeals has its own rules of procedure, costs, and requirements. The Clerk of the Supreme Court can provide additional information. For further information regarding how to initiate your appeal to the Indiana Court of Appeals, access the Pro Se Guide to Appellate Procedure at www.in.gov/judiciary/cofc/.\n26",
+    "metadata": {
+      "section_title": "You may appeal the ALJ’s decision to the UI Review Board within 15 days after the date the ALJ decision was sent. For further information on this option:",
+      "page_number": 27
+    }
+  },
+  {
+    "section_id": "IN-86",
+    "content": "How soon can I expect my first payment? The first payment is issued the first week you are deemed eligible after the mandatory one-week waiting period. If you elect direct deposit, your benefits will be deposited in the bank account you provided, generally within two business days of your voucher being approved. If you elect the prepaid debit card, the card will be mailed by regular first-class mail within two days after you make the election. Please allow 7-10 days for mail time.\nRemember you must timely file your initial claim and file a weekly voucher to be eligible for the mandatory one-week waiting period. You can file online at DWD: Indiana Unemployment. Be sure to disable pop-up blocker and use the scroll bars on your browser to see all information displayed. If you do not have Internet access, you can file online by using a public computer at your local WorkOne Center during their regular business hours.",
+    "metadata": {
+      "section_title": "FREQUENTLY ASKED QUESTIONS",
+      "page_number": 27
+    }
+  },
+  {
+    "section_id": "IN-87",
+    "content": "online by using a public computer at your local WorkOne Center during their regular business hours.\nCan I collect benefits from more than one claim at a time? You can only receive benefits from one claim at a time. This includes claims from other states.\nCan school employees collect benefits during school vacations? Not usually. If teachers and other school employees expect to return to school at the end of scheduled breaks, they may not qualify for benefits. Exceptions apply if you have sufficient wages from a non-educational institution or school.\nCan I get benefits if I am a seasonal worker? If your employer has been granted seasonal status by DWD, you may not be eligible for benefits during the off season. Wages earned from employers reporting the wages as seasonal employment may not be included in your Monetary Determination. Seasonal wages will be identified on the Monetary Determination and will not be used to calculate your weekly benefit amount.",
+    "metadata": {
+      "section_title": "FREQUENTLY ASKED QUESTIONS",
+      "page_number": 27
+    }
+  },
+  {
+    "section_id": "IN-88",
+    "content": "entified on the Monetary Determination and will not be used to calculate your weekly benefit amount.\nAm I eligible for benefits if I am an on-call worker? On-call and as-needed workers are not eligible for unemployment benefits if they receive pay OR refuse work during any week. On-call or as-needed workers are defined as workers who are customarily employed in an on-call or as-needed capacity and who are also paid for employment services during any week benefits are filed. If working for an employer, the individual works whenever the employer requires and there is no set work schedule.\nAm I eligible for benefits during a short-term shutdown or vacation period at my place of work?\nWorkers employed at a business during a short-term shutdown or vacation period may not be eligible for benefits as determined by the department. A short-term shutdown or vacation period is defined as an employer-mandated vacation period with or without pay.",
+    "metadata": {
+      "section_title": "FREQUENTLY ASKED QUESTIONS",
+      "page_number": 27
+    }
+  },
+  {
+    "section_id": "IN-89",
+    "content": "shutdown or vacation period is defined as an employer-mandated vacation period with or without pay.\nAm I eligible for benefits if I take a voluntary buyout or receive money to resign or retire? Employees who accept payment in exchange for voluntarily resigning or retiring are not eligible for unemployment insurance.\nCan DWD give out information about my claim? Some state and federal agencies can get some information, but only what they need to do their jobs. We will not give out information to your friends or family. Specifically, pursuant to 20 CFR § 603.11, confidential claimant unemployment compensation information and employer wage information may be requested and utilized for other governmental purposes, including, but not limited to, verification of eligibility under other government programs.\nCan I get benefits if I quit my job? If you quit your job without good cause you cannot get UI benefits, although there are some exceptions.",
+    "metadata": {
+      "section_title": "FREQUENTLY ASKED QUESTIONS",
+      "page_number": 27
+    }
+  },
+  {
+    "section_id": "IN-90",
+    "content": "you quit your job without good cause you cannot get UI benefits, although there are some exceptions. Occasionally when good cause is established you may receive benefits.\nWhat if I stop claiming benefits to go back to work temporarily? If you return to work, stop submitting your vouchers. If you become unemployed again, begin filing vouchers again and report your new separation at DWD: Indiana Unemployment. You will need to reopen your claim the week that you are no longer employed in order to receive benefits for that week. You cannot go back and claim benefits for weeks you did not file, and claims cannot be backdated.\nWhat is an overpayment? Overpayments are benefits that were paid to a claimant and it is later determined the claimant is not eligible for those benefits. Overpayments occasionally occur when a claimant is paid benefits and an appeal by an employer reverses that decision.",
+    "metadata": {
+      "section_title": "FREQUENTLY ASKED QUESTIONS",
+      "page_number": 28
+    }
+  },
+  {
+    "section_id": "IN-91",
+    "content": "sionally occur when a claimant is paid benefits and an appeal by an employer reverses that decision. The claimant is then found ineligible for all benefits received and those amounts must be returned. Overpayments may also result from other circumstances. It is important to note the federal government mandates that benefits should be paid until the point a claimant is determined to be not eligible for benefits.\n27\nDo I have to pay back overpayments? Yes. Anytime claimants receive benefits for which they are not eligible, the claimant must pay back the same amount of benefits, plus any taxes or deductions withheld. If any overpayment is a result of fraudulent activity, penalties and interest could also be added to the overpayment balance. This can be done on a payment schedule. Regardless of the reason for the overpayment, all affected benefits must be paid back unless a waiver has been granted.",
+    "metadata": {
+      "section_title": "FREQUENTLY ASKED QUESTIONS",
+      "page_number": 28
+    }
+  },
+  {
+    "section_id": "IN-92",
+    "content": "eason for the overpayment, all affected benefits must be paid back unless a waiver has been granted. The State of Indiana has the right to withhold state and federal income tax returns, lottery winnings, and future benefits in order to recover any overpayments that have not been repaid. The State also could garnish your wages to recover any overpayments that have not been repaid.\nCan my overpayment be waived? In certain circumstances, a claimant may be eligible to have their overpayment waived. In accordance with Ind. Code §22-4-13-1(i), an overpayment may be waived upon the request of the individual only if the following criteria are met:\n1. Payment of the benefits was without fault of the individual, regardless of intent; AND\n2. Repayment would be contrary to equity and good conscience.\nRepayment is contrary to equity and good conscience when the claimant’s combined household income is 65% or less of the Federal Poverty Guidelines.",
+    "metadata": {
+      "section_title": "FREQUENTLY ASKED QUESTIONS",
+      "page_number": 28
+    }
+  },
+  {
+    "section_id": "IN-93",
+    "content": "ence when the claimant’s combined household income is 65% or less of the Federal Poverty Guidelines. When calculating household income, the Departments looks at income from the first two of the last three completed calendar quarters before the date the request is reviewed.\nClaimants must submit an Overpayment Waiver Request application for consideration. The application must be submitted to the Department within 15 days of the date the decision creating the overpayment becomes final.\nThe Department will evaluate the request and issue a determination to the claimant. The application can be found at DWD: Indiana Unemployment under “Forms and Downloads.” Certain exclusions apply. Please see DWD Policy 2020-04 for more information about the waiver process. More FAQs on overpayments can be found at: DWD: Indiana Unemployment.\nWhat happens if I move? If your address changes, you must notify DWD by changing your address online through your Uplink CSS Homepage.",
+    "metadata": {
+      "section_title": "FREQUENTLY ASKED QUESTIONS",
+      "page_number": 28
+    }
+  },
+  {
+    "section_id": "IN-94",
+    "content": "dress changes, you must notify DWD by changing your address online through your Uplink CSS Homepage. Due to security reasons, changes of address cannot be done over the telephone. NOTE: If your address changes while you have an appeal pending, please contact the Appellate Division to update your address as well. Address changes in Uplink do NOT automatically update the Appellate Division’s records.\nDo I have to report earnings if I am working in another state while claiming benefits in Indiana? Yes, you must report any wages earned while claiming benefits. Even if you are working in another state and claiming benefits in Indiana, reporting earnings is required. Self-employment wages earned in any state must also be reported. DWD routinely cross-checks records in Indiana and other states.\nWhat is an appeal? An appeal is the right of any claimant or employer to ask for a review of a decision made by a claims investigator, ALJ, or the Review Board.",
+    "metadata": {
+      "section_title": "FREQUENTLY ASKED QUESTIONS",
+      "page_number": 28
+    }
+  },
+  {
+    "section_id": "IN-95",
+    "content": "employer to ask for a review of a decision made by a claims investigator, ALJ, or the Review Board. If you or your employer do not agree with a decision to allow/disallow Unemployment Insurance benefits, either party can ask for an appeal.\nWhat if I have questions about my claim, payment, voucher, or forms? If you have questions regarding the status of your claim or filling out forms:\n• Review the FAQs at DWD: Indiana Unemployment\n• Call DWD Contact Center toll-free at 1-800-891-6499\n• If you are hearing impaired, please call us at 317-232-7560\nIf you have questions about UI payments, go to DWD: Indiana Unemployment, selection Payment Options.\nWhat if I go out of town? If you are out of town/state, you may file conveniently at DWD: Indiana Unemployment. If you are out of state looking for work, you may be required to register with the employment services agency nearest you. While looking for work out of town be sure to keep a record of your job search contacts in your weekly work search log.",
+    "metadata": {
+      "section_title": "FREQUENTLY ASKED QUESTIONS",
+      "page_number": 29
+    }
+  },
+  {
+    "section_id": "IN-96",
+    "content": "ork out of town be sure to keep a record of your job search contacts in your weekly work search log.\nIf you are out of town but not seeking work (e.g. vacation, etc.) you should report this on your weekly voucher for that time period.\nCan money be deducted from my benefits if I receive a distribution from a pension, retirement, or annuity plan? Yes.\n28\nCan money be deducted from my benefits if I receive severance/dismissal pay? Yes. Severance/dismissal pay for all individuals will be deducted from unemployment insurance benefits. However, immediately after becoming unemployed those receiving severance pay must apply for unemployment insurance benefits. Severance pay also includes sub pay and private unemployment benefit payments where the individual signs an agreement to release claims against the employer before receiving payment.\nDo I have to pay taxes on my unemployment insurance benefits? Yes.",
+    "metadata": {
+      "section_title": "FREQUENTLY ASKED QUESTIONS",
+      "page_number": 29
+    }
+  },
+  {
+    "section_id": "IN-97",
+    "content": "Unemployment Insurance benefits are taxable income and are subject to federal, state, and local income taxes. DWD will send you an IRS Form 1099-G for tax reporting purposes, which you should receive in late January. When you file your initial claim in Uplink, Indiana’s online filing system, you may choose to have 10% of your weekly benefit payment withheld for federal income taxes and 4% withheld for state income taxes, for a total of 14%. For example, if you are eligible to receive the maximum benefit of $390 per week, $39 (10%) will be withheld for federal income taxes and $16 (4%) will be withheld for state income taxes, for a total of $55 per week. You must choose to have income taxes withheld when filing your initial claim. If you choose to have income taxes withheld from your weekly benefits, taxes will be withheld from every weekly benefit payment. You cannot choose to stop withholding at any point during your current unemployment insurance claim.\nCan I be denied benefits if I fail a pre-employment drug test for a new job? Yes. Unemployment Insurance benefit recipients can be denied benefits if they fail or refuse a drug screening as a condition of any employment.\n29",
+    "metadata": {
+      "section_title": "FREQUENTLY ASKED QUESTIONS",
+      "page_number": 30
+    }
+  },
+  {
+    "section_id": "IN-98",
+    "content": "The chart below illustrates the Unemployment Insurance claims process from the moment a claim is filed with the potential outcomes at each step of the process.\n[ Clean Claims Claims System processes claims Disputed claims are routed to the automatically. Payments begin in 2 - 3 weeks. Claims Adjudication Center. | 1 —— & - 1 | Administrative Law Judge (AUJ) Appeal AU holds appeals hearing ——\n30",
+    "metadata": {
+      "section_title": "UI BENEFITS PROCESS",
+      "page_number": 31
+    }
+  },
+  {
+    "section_id": "IN-99",
+    "content": "Administrative Law Judge (ALJ): The Department of Workforce Development official who conducts impartial Unemployment Insurance hearings.\nAppeal: The process through which interested parties in the claim of an employee shall be entitled to a hearing before an ALJ, Review Board review, or the Indiana Court of Appeals.\nBase Period: The first 4 calendar quarters out of the last 5 completed quarters. The last quarter is called the lag quarter.\nBase Period Employer: Any employer for whom an individual worked during the base period.\nBenefit Period: The 52 consecutive week period beginning with the first week an initial unemployment claim is filed.\nBenefits: The compensation made to individuals who are eligible for unemployment insurance benefits.\nBenefit Year Ending (BYE): The date an unemployment insurance claim expires.",
+    "metadata": {
+      "section_title": "GLOSSARY OF TERMS",
+      "page_number": 31
+    }
+  },
+  {
+    "section_id": "IN-100",
+    "content": "ent insurance benefits.\nBenefit Year Ending (BYE): The date an unemployment insurance claim expires.\nCalendar Quarter: A period of 3 consecutive calendar months; for example, January 1 - March 31, April 1 - June 30, July 1 - September 30, or October 1 - December 31.\nClaim: An application made by an individual for UI benefits.\nFraud: The act of knowingly making false statements or concealing information to receive UI benefits.\nJust Cause: The term used to describe acceptable reasons for being fired/dismissed by an employer.\nLag Quarter: The most recent quarter out of the last 5 completed quarters. The lag quarter is not counted in the base period.\nMaximum Benefit Amount (MBA): The maximum dollar amount of payable benefits for an unemployment insurance claim.\nMonetary Determination of Eligibility: The notice that explains how claim and benefit amounts are calculated and compensated.\nOverpayment: Unemployment insurance benefits that are paid to a claimant and later determined to have been paid in error.",
+    "metadata": {
+      "section_title": "GLOSSARY OF TERMS",
+      "page_number": 31
+    }
+  },
+  {
+    "section_id": "IN-101",
+    "content": "These overpayments must be paid back unless a waiver has been granted.\nPartial Benefits: The weekly benefit amount of an eligible individual who is partially unemployed.\nReemployment Services and Eligibility Assessments (RESEA): Special job search assistance (required by federal law) for those at high risk for exhausting regular UI benefits.\nReview Board: This is the second step in the appeal process after an ALJ hearing. The Review Board consists of three individuals appointed by the governor. These individuals impartially review the recording of Unemployment Insurance appeals after receiving an appeal of an ALJ decision.\nVoluntary Quit: Leaving employment with or without good work-related reasons.\nWages: All compensation for services, including but not limited to: commissions, bonuses, severance, dismissal, vacation, sick, payments in lieu of compensation, earnings for time worked, self-employment earnings, etc.\nWaiting Period: The mandatory one-week period required after a claim is filed and before benefits are paid.\nWeekly Benefit Amount (WBA): The maximum amount of weekly benefits an eligible individual can receive for a week of total unemployment.\nWork Search: The effort to find employment required to qualify for Unemployment Insurance benefits. Work search information must be recorded each week on a Work Search Log and saved for six (6) months after the work search activity occurred.\n31",
+    "metadata": {
+      "section_title": "GLOSSARY OF TERMS",
+      "page_number": 32
+    }
+  },
+  {
+    "section_id": "IN-102",
+    "content": "ALJ = Administrative Law Judge BYE = Benefit Year End CWE = Calendar Week End DWD = Indiana Department of Workforce Development MBA = Maximum Benefit Amount UI = Unemployment Insurance USDOL = United States Department of Labor WBA = Weekly Benefit Amount",
+    "metadata": {
+      "section_title": "Acronyms",
+      "page_number": 32
+    }
+  },
+  {
+    "section_id": "IN-103",
+    "content": "For general information:\n• 1-800-891-6499\n• 1-317-232-7560 (TDD)\nThe DWD Unemployment Insurance Program is an equal opportunity program. Auxiliary aids and services are available upon request to people with disabilities. For information contact the EO:\n• 317-233-4380\n• 317-234-3535 (TDD)\n32",
+    "metadata": {
+      "section_title": "FOR MORE INFORMATION",
+      "page_number": 32
+    }
+  }
+]

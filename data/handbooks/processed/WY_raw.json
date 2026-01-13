@@ -1,0 +1,5561 @@
+[
+  {
+    "type": "Image",
+    "element_id": "bf25913637ddbe8dbaf6105e80dae6b7",
+    "text": "O SERVICE",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "77993601674242e9f299007fbd5123cd",
+    "text": "Wyoming UI Claimant Guidebook",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7725fa494c9bd5431e1c53eb3c513826",
+    "text": "Your Guide to Unemployment Beneﬁts",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "wyonming.pdf",
+      "parent_id": "77993601674242e9f299007fbd5123cd"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b1a916cc482e1467bb11630eec7f77d2",
+    "text": "Bets",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "wyonming.pdf",
+      "parent_id": "77993601674242e9f299007fbd5123cd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "49f016de3c18071cf09c09d109a8272b",
+    "text": "Updated 10/16/25",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "wyonming.pdf",
+      "parent_id": "77993601674242e9f299007fbd5123cd"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b1b0fbd9b9ec8e1247bd266c58caa5f5",
+    "text": "Contents",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "4b16017bdb4f8b4331db1ae6e4215eb4",
+    "text": "Overview Getting Started: What is Unemployment Insurance? How do I apply for Unemployment Insurance Beneﬁts? Steps to successfully ﬁle an initial claim for unemployment insurance beneﬁts: 1. Establish an online user account with WYUI 2. Create your Personal Identiﬁcation Number (PIN) 3. File your Initial Claim 4. Verify your Identity 5. Register for Work 6. File your Weekly (Continued) Claim Withdrawal of Initial Claims Vacation, Severance, Pension Qualifying for Beneﬁts Stage 1: Verifying Your Wages for Monetary Eligibility Work in Other States Federal or Military Wages Determine Your Base Period Stage 2: Meeting Other Eligibility Criteria A. Job Separation B. Register for Work C. Able and Available to Work D. Actively Seeking Work Reemployment Services and Eligibility Assessment (RESEA) Union Members Wage Credit Freeze Processing Your Payments Processing Your Claim Payment Methods Working and Reporting Your Hours and Wages Child Support Self-Employment Wages 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 7 7 7 7 7 8 8 8 8 9 9 Maintaining Your Eligibility for Beneﬁts 10 How To Maintain Your Eligibility for Beneﬁts 10 Accepting Suitable Work Job Attached Understanding Overpayments and Fraud Overpayments Repaying Overpayments Understanding Your Appeal Rights Appeals Who Can Appeal? Hearing Participation How to File an Appeal Further Appeals Resources and Quick Links Services Available Frequently Asked Questions WYUI Claimant Portal Wyoming Workforce Centers Work Search Log Wages Log Contact Information 10 10 11 11 11 12 12 12 12 12 12 13 13 13 13 13 14 15 16",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><thead><tr><th colspan=\"2\">Overview</th><th></th><th>Maintaining Your Eligibility for Benefits</th><th>10</th></tr></thead><tbody><tr><td colspan=\"2\">Getting Started: What is Unemployment</td><td></td><td></td><td></td></tr><tr><td>Insurance?</td><td></td><td></td><td>How To Maintain Your Eligibility for Benefits</td><td>10</td></tr><tr><td colspan=\"2\">How do | apply for Unemployment Insurance</td><td></td><td>Accepting Suitable Work Job Attached</td><td>10</td></tr><tr><td>Benefits?</td><td>file initial claim for</td><td></td><td></td><td>10</td></tr><tr><td colspan=\"2\">Steps to successfully an unemployment insurance benefits:</td><td></td><td>Understanding Overpayments and Fraud</td><td>il</td></tr><tr><td>1</td><td>Establish an online user account with</td><td></td><td>Overpayments Repaying</td><td>11</td></tr><tr><td rowspan=\"3\"></td><td>wyul</td><td></td><td>Overpayments</td><td>11</td></tr><tr><td>Create your Personal Identification</td><td></td><td></td><td></td></tr><tr><td>Number (PIN)</td><td></td><td>Understanding Your Appeal Rights</td><td>12</td></tr><tr><td></td><td>File your Initial Claim</td><td></td><td></td><td>12</td></tr><tr><td>W</td><td>Verify your Identity</td><td>N</td><td>Appeals Who Can Appeal?</td><td>12</td></tr><tr><td></td><td>Register for Work</td><td></td><td>Hearing Participation</td><td>12</td></tr><tr><td>o</td><td>File your Weekly (Continued) Claim</td><td></td><td>How to File an Appeal</td><td>12</td></tr><tr><td>Withdrawal</td><td>of Initial Claims</td><td>U</td><td>Further Appeals</td><td>12</td></tr><tr><td colspan=\"2\" rowspan=\"2\">Vacation, Severance, Pension Qualifying for Benefits</td><td></td><td></td><td>13</td></tr><tr><td></td><td>Resources and Quick Links</td><td></td></tr><tr><td colspan=\"2\" rowspan=\"2\">Stage 1: Verifying Your Wages for Monetary</td><td></td><td>Services Available</td><td>13</td></tr><tr><td></td><td>Frequently Asked Questions</td><td>13</td></tr><tr><td>Eligibility</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>WYUI Claimant Portal</td><td>13</td></tr><tr><td>Work in</td><td>Other States</td><td>o</td><td></td><td></td></tr><tr><td colspan=\"2\" rowspan=\"3\">Federal or Military Wages</td><td></td><td>Wyoming Workforce Centers</td><td>13</td></tr><tr><td>N O</td><td></td><td></td></tr><tr><td></td><td>Work Search Log</td><td>14</td></tr><tr><td colspan=\"2\" rowspan=\"4\">Determine Your Base Period Stage 2: Meeting Other Eligibility Criteria</td><td></td><td></td><td></td></tr><tr><td></td><td>Wages Log</td><td>15</td></tr><tr><td></td><td></td><td></td></tr><tr><td>NN</td><td></td><td></td></tr><tr><td>A. Job</td><td>Separation</td><td></td><td>Contact Information</td><td>16</td></tr><tr><td>B. Register</td><td>for Work</td><td>N</td><td></td><td></td></tr><tr><td>C. Able</td><td>and Available to Work</td><td>N</td><td></td><td></td></tr><tr><td>D. Actively</td><td>Seeking Work</td><td>N</td><td></td><td></td></tr><tr><td>Reemployment</td><td>Services and Eligibility</td><td></td><td></td><td></td></tr><tr><td>Assessment</td><td>(RESEA)</td><td></td><td></td><td></td></tr><tr><td>Union</td><td>Members</td><td>~</td><td></td><td></td></tr><tr><td colspan=\"2\">Wage Credit Freeze</td><td>~N</td><td></td><td></td></tr><tr><td>Processing</td><td>Your Payments</td><td>0</td><td></td><td></td></tr><tr><td>Processing</td><td>Your Claim</td><td></td><td></td><td></td></tr><tr><td>Payment</td><td>Methods</td><td>0</td><td></td><td></td></tr><tr><td colspan=\"2\" rowspan=\"2\">Working and Reporting Your Hours and Wages Child Support</td><td></td><td></td><td></td></tr><tr><td>W</td><td></td><td></td></tr><tr><td colspan=\"2\">Self-Employment Wages</td><td>O</td><td></td><td></td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "wyonming.pdf",
+      "parent_id": "b1b0fbd9b9ec8e1247bd266c58caa5f5"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e1bfb764be9a10521ffc0e62ff0a694b",
+    "text": "Page | 2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "59be92e27a4ef37e7d5a770f6d014aa1",
+    "text": "Overview",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0623f9628fcf5d3a9ef2581cbd9608d6",
+    "text": "The purpose of this guide is to give you general information about Unemployment Insurance (UI) benefits. It is not meant to give you legal advice. You are responsible for knowing the information in this booklet.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "wyonming.pdf",
+      "parent_id": "59be92e27a4ef37e7d5a770f6d014aa1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "87d073ba613b64ea0a69b72510ef0d53",
+    "text": "The UI program is administered by the Wyoming Department of Workforce Services (DWS). DWS provides free assistance to all applicants and employers who have questions about unemployment insurance. After reading this guide, if you do not understand or have questions, please contact our agency for help. Refer to the Contact Information Section for information on how to contact us.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "wyonming.pdf",
+      "parent_id": "59be92e27a4ef37e7d5a770f6d014aa1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a737dc208692191cd6eb98fc5e3e3d00",
+    "text": "Getting Started: What is Unemployment Insurance?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c1f00e3e6d409ec3a31c175ff725acfc",
+    "text": "Unemployment insurance is a program that provides temporary ﬁnancial support to people who lose their job through no fault of their own – for example, due to a layoff, plant closure, or lack of available work. Beneﬁts are not available to all workers. For instance, workers who are ﬁred from their job for misconduct may not be able to receive UI beneﬁts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "wyonming.pdf",
+      "parent_id": "a737dc208692191cd6eb98fc5e3e3d00"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "abb65003565b28c74e2a6013b70ffbb9",
+    "text": "Employers throughout the state pay taxes to fund the unemployment insurance program. You do not pay into this program.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "wyonming.pdf",
+      "parent_id": "a737dc208692191cd6eb98fc5e3e3d00"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "35cc33569ffd4553170e5013830a19ba",
+    "text": "If you need to ﬁle for unemployment, visit wyui.wyo.gov or call (307) 473-3789 for information.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "wyonming.pdf",
+      "parent_id": "a737dc208692191cd6eb98fc5e3e3d00"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7ba0efae8c53a3652db97608507fce57",
+    "text": "How do I apply for Unemployment Insurance Benefits?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b16fed7bf154378905674aa7f6ad04b6",
+    "text": "There are essentially four (4) steps to successfully file a n initial claim for unemployment insurance benefits:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "wyonming.pdf",
+      "parent_id": "7ba0efae8c53a3652db97608507fce57"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d446633632120e2260782f16ff308da1",
+    "text": "1. Establish an online user account with WYUI",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "wyonming.pdf",
+      "parent_id": "7ba0efae8c53a3652db97608507fce57"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f02920c175186f51c5e314a45ae90e8e",
+    "text": "WN",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "wyonming.pdf",
+      "parent_id": "7ba0efae8c53a3652db97608507fce57"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4f510af080634bbf278f6b831b41d8c7",
+    "text": "2. Create your Personal Identification Number (PIN)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "wyonming.pdf",
+      "parent_id": "7ba0efae8c53a3652db97608507fce57"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ee06679d4e054f0b129545b1dbc967b0",
+    "text": "3. File your initial claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "wyonming.pdf",
+      "parent_id": "7ba0efae8c53a3652db97608507fce57"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bfc5715365352aab638b97ad44ac28b2",
+    "text": "4. Verify your identity",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "wyonming.pdf",
+      "parent_id": "7ba0efae8c53a3652db97608507fce57"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f092a6c88c8bcd587f66b0806b547ae4",
+    "text": "Before you begin, you will need the following information to submit your Initial Claim: Your full name as it appears on legal documents. Your Social Security Number. Your authorization to work if you are not a US citizen. Employment history for the past eighteen (18) months, including: Name and address of each employer you worked for during the past 18 months. Dates of employment. Records showing year-to-date earnings from each employer you worked with during the past 18 months (check stubs, bank statements, tax forms). DD-214 Member 4 form if you separated from military employment in the past eighteen (18) months.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "wyonming.pdf",
+      "parent_id": "7ba0efae8c53a3652db97608507fce57"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a9bd5b10d002c70052c22a5902ac69f9",
+    "text": "Page | 3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "d7577b3afdee34f292385e0228db5900",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d61b95b7ff6a5749c39621184f6a96d0",
+    "text": "Create your Personal Identiﬁcation Number (PIN)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "01fc682ee1805bf4863fc37c9f936b5c",
+    "text": "To complete your signup with WY DWS, you will need a Personal Identiﬁcation Number (PIN) for your UI account. You can make one yourself, or we can create it for you. This PIN will help us keep your account secure.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "d61b95b7ff6a5749c39621184f6a96d0"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8cf3adf305a0fb5ec4af2dcb63275549",
+    "text": "If you want to create your own PIN:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "d61b95b7ff6a5749c39621184f6a96d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f3ace52a039222417da982d6e9601f92",
+    "text": "1. You will be asked to create your PIN as part of the account creation process.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "d61b95b7ff6a5749c39621184f6a96d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "af5368dc15ced214d44f9cfae23df3e4",
+    "text": "2. To change your PIN later:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "d61b95b7ff6a5749c39621184f6a96d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9517a85a02301eace46b5deac6f5ed25",
+    "text": "a. Log in to your WYUI account online.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "d61b95b7ff6a5749c39621184f6a96d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8793caa24ce7b4673c9eb02199c21e90",
+    "text": "b. Click on the ‘Update Address’ option on your home screen.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "d61b95b7ff6a5749c39621184f6a96d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ad1489cd5259bda54f3346d7e1bb3dde",
+    "text": "c. Update your PIN, making sure to save all changes.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "d61b95b7ff6a5749c39621184f6a96d0"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "e2bac91554f0bed8796062d8f2b6818e",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9b0c373f8c55a96b4275e10fa6723ca3",
+    "text": "Establish an online user account with WYUI",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1a35462d92f07471e2890ab8b799abc2",
+    "text": "To receive unemployment beneﬁts, WY recommends you set up a WYUI online user account at wyui.wyo.gov. By setting up an online user account with WYUI, you can ﬁle a claim, check the status, review important documents, and more. WYUI is available 24 hours a day, 7 days a week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "9b0c373f8c55a96b4275e10fa6723ca3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ee620315e3405d0e76acafc30cfe7746",
+    "text": "To set up a new user account:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "9b0c373f8c55a96b4275e10fa6723ca3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6b006507a6c024bb34a87868d13918d5",
+    "text": "1. Open your internet browser and navigate to wyui.wyo.gov",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "9b0c373f8c55a96b4275e10fa6723ca3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "334e1934c5edb69ebbe41c312e7233e8",
+    "text": "2. Click the ‘Unemployed Worker New Account Sign Up’ link, located on the righthand side of the web page under the Unemployed Worker Services menu.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "9b0c373f8c55a96b4275e10fa6723ca3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2e799d0aa99917f8571e6553f383c93e",
+    "text": "3. Follow the instructions on the screen to create your account.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "9b0c373f8c55a96b4275e10fa6723ca3"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "87ef67c851d3f923aa0a95f2e4fd7132",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "acdf487e2fb97831ef2e907a5cd7386a",
+    "text": "File your Initial Claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4cfeac0957d2e7701043c9199bbe6b10",
+    "text": "• your current employment status,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "acdf487e2fb97831ef2e907a5cd7386a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a4d75d3fffae68b1622f0a5b864d398e",
+    "text": "• your most recent employer(s), and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "acdf487e2fb97831ef2e907a5cd7386a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "40f74920865df2d8e19bcc90fc3d870a",
+    "text": "Now that you have set up your WYUI account, you are ready to ﬁle your Initial Claim. The Initial Claim application process requires you to provide us with detailed information about:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "acdf487e2fb97831ef2e907a5cd7386a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ccd3d5741753c9a6c746a98f9fdf1067",
+    "text": "• your availability and ability to pursue new employment opportunities.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "acdf487e2fb97831ef2e907a5cd7386a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b575fd0e56ea30cbe1d71fe48a1ad516",
+    "text": "This information will help us determine your eligibility for beneﬁts. You will be asked to complete questionnaires clarifying the nature of your separation from work. Depending on your individual situation you may also be asked to complete questionnaires related to your medical status, citizenship, enrollment in school or training programs, and/or any other special circumstances. Please dedicate at least one hour to complete and submit your Initial Claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "acdf487e2fb97831ef2e907a5cd7386a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d1f9b67dfa00a9319ca0514289a8e3c5",
+    "text": "1. Submit Your Initial Claim Online - After logging in to your WYUI account, click the ‘Unemployment Claim’ menu option. Follow the screen instructions to submit your initial claim. You will need your WYUI username and password to use this method.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "acdf487e2fb97831ef2e907a5cd7386a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "61801e6591adbcaeb11b751a8e27c87d",
+    "text": "2. Telephone – To file an initial claim by phone, please call (307) 473-3789 and select the option to file an initial claim. We will then connect you with a live customer service representative who will take your claim over the phone.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "acdf487e2fb97831ef2e907a5cd7386a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "49925dafa80525cc349ca8d446586d20",
+    "text": "The effective date of your claim is the Sunday prior to the day that you first filed your claim for unemployment. Your claim cannot be backdated if you wait to file.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "acdf487e2fb97831ef2e907a5cd7386a"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "6953119556f24458dd44cd41e21db0fd",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8f4daafed5a4939e6c98510279a3c083",
+    "text": "Verify your Identity",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "14f76a3d686bda9c1a9b8d9dd4acb7b8",
+    "text": "Help us protect your identity from fraudsters.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1f1dc64db047b10f48b454ef3d4f99eb",
+    "text": "To receive unemployment benefits, you will need to verify your identity. You cannot receive payment until you have completed this step. This step will ensure you are the person who receives benefits if your claim is approved. You will see a link to enter the ID.me identity verification process on the landing page when you log in to your account with wyui.wyo.gov. Please follow all the instructions on the screen to compete this important step. For more information about the identity verification process, please visit dws.wyo.gov.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "14f76a3d686bda9c1a9b8d9dd4acb7b8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dc1b3a16969e1b67b5a2a44ad28b5db2",
+    "text": "Next, you will need to take two (2) additional actions to make sure you are set up to continue filing for unemployment benefits: register for work and file your weekly (continued) claims.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf",
+      "parent_id": "14f76a3d686bda9c1a9b8d9dd4acb7b8"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d2147aaa68690fc90a6790b96f21f411",
+    "text": "Page | 4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "6c5e1998b7b082e6d1bcbd2ec62c0587",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "a85539f4c11f44a522490cfcce589b4a",
+    "text": "Register for Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ad78ab92845e1d6a4966168563fa0725",
+    "text": "In addition to setting up an account with wyui.wyo.gov, you must register for work to receive beneﬁt payments.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "a85539f4c11f44a522490cfcce589b4a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4a921df308a20a77cfb243bc1a62d38d",
+    "text": "To register for work:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "a85539f4c11f44a522490cfcce589b4a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8755e9cdb99933ca2897c64ca2790ddd",
+    "text": "1. Open your web browser and navigate to hire.wyo.gov.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "hire . wyo . gov .",
+          "url": "http://www.wyomingatwork.com/",
+          "start_index": 0
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "a85539f4c11f44a522490cfcce589b4a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "04a6dea59b3f89f9160ac0fcc34a213a",
+    "text": "2. Click the ‘Sign In/Register’ button in the top right corner of the site.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "a85539f4c11f44a522490cfcce589b4a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "39e0412dbd0614185d3c8695da60a25a",
+    "text": "3. Fill in the required information to complete your registration.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "a85539f4c11f44a522490cfcce589b4a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3a8ba13a773fcc66cd8fc72928470724",
+    "text": "You need to register at hire.wyo.gov within fourteen (14) days of submitting your initial claim. If you need assistance or access to a computer, please visit your local Workforce Center. If you live outside of Wyoming, register for work in your state and provide proof to us within 14 days to:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "a85539f4c11f44a522490cfcce589b4a"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "6afc3f3c5983a66007f02a2279f520d0",
+    "text": "Mail: Unemployment Insurance Division P.O. Box 2760 Casper, Wyoming 82602 Fax: (307) 473-3726 Email: dws-csp-uireg@wyo.gov",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "05758b57e23e045e853487b921758635",
+    "text": "Withdrawal of Initial Claims",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d46064f10b8eacd4e0b5276faf44ce4b",
+    "text": "If you have ﬁled a claim and want to remove or withdraw that claim, you need to write to us. Please see the ‘Contact Information’ section at the end of this document for more details.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "05758b57e23e045e853487b921758635"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2b7e7cea8e8e03e6554751ad4aaadab7",
+    "text": "If your claim is based on:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "05758b57e23e045e853487b921758635"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d9e8fff3ade8c768af01b806dfeebff6",
+    "text": "• Working in Wyoming Only: The postmark, e-mail, or fax date for your request for withdrawal must be within 7 days of the mailing date listed on the first eligible Statement of Wages form.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "05758b57e23e045e853487b921758635"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f7ad1b46e010133d0ea2ba14d7652052",
+    "text": "• Working in Two or More States Combined: The postmark, e-mail, or fax date must be within 28 days of the mailing date listed on the most recent Statement of Wages form.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "05758b57e23e045e853487b921758635"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "af228e9ebf07b91516ed55b3882a1dd4",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "d6d20290ed611355a68afcaca769aefd",
+    "text": "File your Weekly (Continued) Claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d938847a7666f86fc5b2a945a39f41a8",
+    "text": "After you submit your Initial Claim, you will need to file for payment each week to continue receiving unemployment beneﬁts. These weekly claims are called Continued Claims.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "d6d20290ed611355a68afcaca769aefd"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cb5be761b00dd958d65ddcb8692ad8c5",
+    "text": "1. Submit Your Continued Claim Online: After logging in to your WYUI account, click the ‘Continued Claim’ menu option. Follow the screen instructions to submit your continued claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "d6d20290ed611355a68afcaca769aefd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c3e5cca2275d2727c255bf51ef8d381e",
+    "text": "You need to provide the following information for the week you are requesting payment:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "d6d20290ed611355a68afcaca769aefd"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3e319394cbfcf5e9b4dae65eb7414eba",
+    "text": "1. Your gross earnings (including tips) if any,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "d6d20290ed611355a68afcaca769aefd"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3e1a09796fe467aa70fb04a9b428081c",
+    "text": "2. The number of hours you worked, if any,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "d6d20290ed611355a68afcaca769aefd"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b596b5234af99eaa4ebebb271d7b0169",
+    "text": "3. Your employer’s name and address if you worked during the week,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "d6d20290ed611355a68afcaca769aefd"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0e7dad3cb59d757b22c26aa6f4fb8b98",
+    "text": "4. The amount of any vacation, severance, wages in lieu of notice, bonus pay, or sick pay you received for the week, and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "d6d20290ed611355a68afcaca769aefd"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8539c7440c0649d2412f2e8720fc78ed",
+    "text": "5. Any separation from an employer that occurred during the week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "d6d20290ed611355a68afcaca769aefd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5864ce17e1e96b9314611614cb0ddd47",
+    "text": "You may contact the Unemployment Claims Center at (307) 473-3789 if you need additional assistance.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "d6d20290ed611355a68afcaca769aefd"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3b4409e1d63f20d72c5382f48ccc4016",
+    "text": "Vacation, Severance, Pension",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "d6d20290ed611355a68afcaca769aefd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9d5855b723e7c28abe522e96fd4bcd7b",
+    "text": "Vacation pay, severance, sick leave, bonuses, and other payments could be considered deductible income. If you receive any of these payments while requesting unemployment beneﬁts, you must report them in the week you receive them.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "3b4409e1d63f20d72c5382f48ccc4016"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cd53aefed24e6a59093b923e8b4f7895",
+    "text": "Each week during your request for payment, you will be asked, “During this week did you receive any vacation, severance, sick leave, bonus, etc.?\" If you received any of the payments, you should answer “yes” and enter the amount you received. Your weekly beneﬁt amount will be reduced by the amount you report.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "3b4409e1d63f20d72c5382f48ccc4016"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ab435661c348e64bef9e46c758841a25",
+    "text": "General Reminders",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "d6d20290ed611355a68afcaca769aefd"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "323b5a55cb50fba6ec515dc104a583ec",
+    "text": "• You must file your continued claim for payment online each week you are unemployed. To be considered timely, your continued claim(s) must be filed no later than fourteen (14) days after the week has ended.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "ab435661c348e64bef9e46c758841a25"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "eaea28c3219329d35895ab5bcfebcea3",
+    "text": "• Be sure to answer all the questions truthfully for the week(s) you are filing.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "ab435661c348e64bef9e46c758841a25"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d114a897298be62434ebac9511a61784",
+    "text": "• Remember to file for payment on time even if your claim is ineligible or if you are filing an appeal.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "ab435661c348e64bef9e46c758841a25"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "feec0fdf2bf806fb9a58ba72fecfd7f7",
+    "text": "Continue to meet these and all other requirements to receive payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf",
+      "parent_id": "ab435661c348e64bef9e46c758841a25"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "40f9e5292b55f5270fc593b059db8d64",
+    "text": "Page | 5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "83816d4ccad39cef8b47bc6f1f84993d",
+    "text": "Qualifying for Beneﬁts",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5a6d526ad2e7275c91c31e86a587e9e6",
+    "text": "There are two stages to determining whether you are eligible for Unemployment Insurance benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf",
+      "parent_id": "83816d4ccad39cef8b47bc6f1f84993d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "28ca38024bdae08c182dc16c06de78c2",
+    "text": "Stage 1: Verifying Your Wages for Monetary Eligibility",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ffcc933f214221696e98d9adc153b475",
+    "text": "One of the ﬁrst things we look at when you apply for UI beneﬁts is whether you have earned enough wages in what we call the “base period” to receive beneﬁts. Your weekly unemployment beneﬁt amount and the number of weeks you are eligible for beneﬁts is determined by your 12-month base period. The base period is the ﬁrst four of the last ﬁve completed quarters before the week you ﬁle your application for beneﬁts. A calendar quarter is a three-month period ending March 31, June 30, September 30 or December 31. For more information on determining your base period, please see the ‘Determine your base period’ section below.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Determine",
+          "url": null,
+          "start_index": 652
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf",
+      "parent_id": "28ca38024bdae08c182dc16c06de78c2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6d2881ffac8313d061ff492090385da3",
+    "text": "After you file an initial claim and verify your identity, you will receive a form called the Statement of Wages. This document will show how much you earned in your base period and how much you will receive in weekly benefits if you meet all the other requirements.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf",
+      "parent_id": "28ca38024bdae08c182dc16c06de78c2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "95a3789528c873035b74e594d3bd6ce7",
+    "text": "Make sure that you review this document closely for accuracy. If any of the information is incorrect, please complete the back of the form and return it by mail or fax.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf",
+      "parent_id": "28ca38024bdae08c182dc16c06de78c2"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5a50b3900d38432884407e704d8a449a",
+    "text": "Work in Other States",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fcfdf87b70eee7715073f1ee9cb5574d",
+    "text": "If you have worked in more than one state, you can choose to include those wages in your Wyoming unemployment claim. Some claimants may choose to do this to ensure they have earned enough wages in the base period to set up a claim or if it will increase their benefit amount. To use wages from other states:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf",
+      "parent_id": "5a50b3900d38432884407e704d8a449a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6ae87bb951e71429a1831b329abc3841",
+    "text": "• You must have also earned wages in Wyoming during the base period.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf",
+      "parent_id": "5a50b3900d38432884407e704d8a449a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "db23dbfc8e70f393db9f5952e342d75a",
+    "text": "• You should add the out-of-state employment when you are entering the employment information on your claim application.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf",
+      "parent_id": "5a50b3900d38432884407e704d8a449a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "03e4fa7d69b20a77d0ce08f971faed16",
+    "text": "• Your out-of-state wages may not show up in your first Statement of Wages form because it may take us some time to verify the work with other states.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf",
+      "parent_id": "5a50b3900d38432884407e704d8a449a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6509451970f4da759168caac5dd092e4",
+    "text": "• Your out-of-state wages will be added later, and you will receive a final Statement of Wages form.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf",
+      "parent_id": "5a50b3900d38432884407e704d8a449a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b475e48513ea695bb141bfb13545f28a",
+    "text": "If you have not already reported a job you worked in another state, call the Claim Center at (307) 473-3789 to add the employer to your claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf",
+      "parent_id": "5a50b3900d38432884407e704d8a449a"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "8ee2a408b4cbf3d6cdf5ac9bb706dcb7",
+    "text": "Statement of o Wages Sete of Wmnz Dpss s Workforc Servio Unemployment Incurance Divion POBox Y gov Wyming 2602 Ml Date: l Do el Clama SSN: Y00 snl eyClumant saeCaa Claat ument Cade: B 5T (1022) Claim Do Caprmt lans Appesom sra Bare Peiod B V W Fer T i oy D chsmtNasee yo wage bistory ad detecioed y earned enzh wages yo base perod 1o be eligitle We ase writing 10 peovade yo with an update ca your application for uemployment insurance beaefits. We reviewed fo ocmgloyen beetts o are not consdercd fully qualifed for beneflt undl we evier and comder oher informane from year spplicaien. the meame coe o fle your weedy cla Please revien the wage table below aud contirm tha all wages and cunglo crs are accurae Record of Your Wages plosse reviw QIR YR s QRYR QRYR s QR Eicyes Nee & Noaber Biyes Nose & Nor Emgicyes Neae & Noaer Epicyes Noae & Noaber mary of Vour Bonfis Prafie Totat Wages s Beneit Weeldy s (eeks) Yo s I Asou Bee NOTE: M there are wages or employess msing o If there s nformation you do et recoguize, 0u can. dispute st n wrinag by compleing the enclozed We appeecaate you tly cooperaa. A A — - W Do of Wrk oc Ser s Rbin Sons Caley, 1 Mark Gordon Fhsboth Gagn, 10 Dy De",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "FigureCaption",
+    "element_id": "15688e6c68abc3beef5baf27f30d6c82",
+    "text": "Figure 1 - Statement of Wages",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6a7d90776915ba4e6ed8a3b506db8b34",
+    "text": "Federal or Military Wages",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "81179bbab469c276bbbc13ade64100a5",
+    "text": "If you worked for the federal government as a civilian employee or served in the military during your base period, these wages may be used to calculate your beneﬁts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf",
+      "parent_id": "6a7d90776915ba4e6ed8a3b506db8b34"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a642b0eb016ed26052138d48c07127f6",
+    "text": "Federal agencies and branches of the US military do not automatically report your wages to DWS. Wyoming will add wages to your claim based on information we receive from your employer, or the Department of Defense on the DD Form 214, Member 4. Your federal and military wages may not appear on your ﬁrst Statement of Wages form. When we add the wages to your claim, you will receive a ﬁnal Statement of Wages form.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf",
+      "parent_id": "6a7d90776915ba4e6ed8a3b506db8b34"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6bef4cd55e79c91c5adfb511a1d40731",
+    "text": "For military employment, we will send you a notice that tells you whether you are eligible for unemployment beneﬁts based upon what your branch of service allows as a reason for separation from service. If you disagree with the notice, you must appeal the decision with your military branch.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf",
+      "parent_id": "6a7d90776915ba4e6ed8a3b506db8b34"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "bb520fe9e826ef86850eb1ba4dc9dc94",
+    "text": "Page | 6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1dd26269a22411d93436b1b3a18701fe",
+    "text": "Determine Your Base Period",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b18c56fb23f870647ecdefd944bdf224",
+    "text": "The base period is the one-year block of time, which we use to determine if you’ve earned enough wages to qualify for beneﬁts. If you qualify, your weekly beneﬁt payment amount depends on how much you earned during your base period.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "1dd26269a22411d93436b1b3a18701fe"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4b089702ced34100c1efd512a9a8028b",
+    "text": "It’s easier to think about it as an 18-month block with three separate sections:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "1dd26269a22411d93436b1b3a18701fe"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a2a951f8c557278f659d08ea454e465d",
+    "text": "I. Quarter F is NOW: You are here, now – the calendar quarter when you apply for beneﬁts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "1dd26269a22411d93436b1b3a18701fe"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d3fb0ed0cd3977f4f42ec9d5c103ed78",
+    "text": "II. Quarter E is the LAG QUARTER: The calendar quarter before this one, which we skip when looking at your wages.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "1dd26269a22411d93436b1b3a18701fe"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e75e537940c3e47d0084b8c9407e6473",
+    "text": "III. Quarters A-D are the BASE PERIOD: The ‘base period’ – the four calendar quarters before the lag quarter, which we use to review your wages.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "1dd26269a22411d93436b1b3a18701fe"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "30c45cc13312961552633b42e33dc0ea",
+    "text": "TL The ‘lag quarter is the calendar quarter before now IL This is the ‘base period’ Exampl These ar ur base period wages Februa 4th Octobr Jarry prd Ta October January ovember February May Angust November February March Se - 2022 02",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "FigureCaption",
+    "element_id": "3111910cc57f27a7a8339412d071b081",
+    "text": "Figure 2 - Determine Your Base Period",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "90a2f47435fe08029fe39dbb195f1978",
+    "text": "Stage 2: Meeting Other Eligibility Criteria",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "779ef378ac54fab041be8c255b2402b4",
+    "text": "If you have earned enough wages in the base period to set up a UI claim, this means you have met the \"monetary requirements” to proceed with your claim. However, to be fully qualified to receive benefits, you must also meet all of these conditions:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "90a2f47435fe08029fe39dbb195f1978"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1962ee2525a4629cf19c898fcc51adb5",
+    "text": "A. Job Separation",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "04340e6ad8f30e88d92608f7285a3904",
+    "text": "To qualify for benefits, you must have lost your job through no fault of your own. This decision will be made by the Unemployment Insurance Division based upon information provided by you and your former employer.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "1962ee2525a4629cf19c898fcc51adb5"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d31c02ea3ea735dc671b006826a22de4",
+    "text": "B. Register for Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6b83365f050117413647f101c69489b9",
+    "text": "Please see the Overview section for instructions on how to register for work.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "register",
+          "url": null,
+          "start_index": 80
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "d31c02ea3ea735dc671b006826a22de4"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "036c3ebb22875a701bb8827f1e012432",
+    "text": "C. Able and Available to Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "77803fd4716d8a9016a7200cfa6abf51",
+    "text": "To qualify for beneﬁts, you must be:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "036c3ebb22875a701bb8827f1e012432"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "028e0993ae21c831b0a8479dec7e7cda",
+    "text": "• Able to work: You must be physically and mentally able to perform work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "036c3ebb22875a701bb8827f1e012432"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "60b2abb9c51ee2ef4f3220d369bfe5d2",
+    "text": "• Available for work: You must be ready and willing to accept suitable work immediately if a job is offered.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "036c3ebb22875a701bb8827f1e012432"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9cf69d073b87e93d465c007bf5fb8809",
+    "text": "D. Actively Seek Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c92b2e11762389937b9035376c97ad43",
+    "text": "• Actively look for work and meet your work search requirements by submitting a resume or application with 2 or more different employers each week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "9cf69d073b87e93d465c007bf5fb8809"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "00b558685e20250c010febb6b5f75202",
+    "text": "o Seeking or performing work for self- employment is NOT an acceptable work search contact for unemployment purposes.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "9cf69d073b87e93d465c007bf5fb8809"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4ed5fa67c9807c7bff507ea04dc5fe38",
+    "text": "Other activities include: meeting with a DWS Career Planner for RESEA or WIOA, interviewing for a job, attending a job fair sponsored by DWS and submitting an application, or attending an appointment with a core WIOA partner.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "9cf69d073b87e93d465c007bf5fb8809"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9361a221df7755b00e95a1adb296fdae",
+    "text": "Reemployment Services and Eligibility Assessment (RESEA)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1570e4ac024ddb27253ecf68b4220076",
+    "text": "RESEA is a program that helps you ﬁnd another job faster. If selected for this program, you must participate or risk the denial of your beneﬁts. You will meet with our staff regularly. They can help by building your resume and interview skills or by matching you with open jobs in your area.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "9361a221df7755b00e95a1adb296fdae"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1d52dc3cf49e83e6d2dba57406c3be71",
+    "text": "Union Members",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "06eb4a76723091ad5cd1cde3aff5bed7",
+    "text": "If you are union attached (in good standing with the hiring hall and on the union’s out-of-work list) you do not have to register for work or look for work during the ﬁrst 12 weeks of your claim. You must still meet all other eligibility requirements to receive beneﬁts. If you are no longer union attached, you must begin actively looking for work, register for work, and following work search requirements.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "1d52dc3cf49e83e6d2dba57406c3be71"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "71e10310259017be9187b1d4ca20977f",
+    "text": "Wage Credit Freeze",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "257cf6f461bb2486fb0e87bd0a9c11ce",
+    "text": "If you received Temporary Total Disability under Wyoming Workers’ Compensation program, you may use wages from before your injury to qualify for Unemployment Insurance. You may be able to use the four completed calendar quarters before your injury date to claim Unemployment Insurance if you:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "71e10310259017be9187b1d4ca20977f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8d7258c1d7f120cc06f2af7e9a5dd0a1",
+    "text": "1. Have been released from Temporary Total Disability",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "71e10310259017be9187b1d4ca20977f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1f24eb9044fef62719fe52a961ee66c3",
+    "text": "2. File for unemployment beneﬁts within 60 days from the mail date of the notice of release.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "71e10310259017be9187b1d4ca20977f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dd697d1f5a781c60a6eddfaf8df95cfa",
+    "text": "3. File for unemployment beneﬁts within 36 months of your injury date.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf",
+      "parent_id": "71e10310259017be9187b1d4ca20977f"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8179d99fdf1a1a1d3be93af9653e8abd",
+    "text": "Page | 7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ddf33277e170b67bc9b024d223de2047",
+    "text": "Processing Your Payments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1e2cf5634813a2cd3f2665bc2c83eeba",
+    "text": "Processing Your Claim",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6f0a4fce64491ad3a886ca497d82d530",
+    "text": "After you apply, we will reach out to your last employer to understand why you stopped working. We may also call you to verify information related to your claim. Please make sure you answer calls from DWS, and have voicemail set up.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf",
+      "parent_id": "1e2cf5634813a2cd3f2665bc2c83eeba"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c8174c284c02795ea06c758a35f302ae",
+    "text": "When processing is complete, you will receive either a payment or a notice explaining why you will not receive beneﬁts, along with possible next steps.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf",
+      "parent_id": "1e2cf5634813a2cd3f2665bc2c83eeba"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6322bac1a697b7e577ba050ead08832b",
+    "text": "Payment Methods",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8aa27aac3693e7d64b81f383066d4694",
+    "text": "1. Prepaid Debit Card",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "43554befa8c1325485f1acf522d7363e",
+    "text": "When you file your initial claim, you will receive a U.S. Bank ReliaCard®, a prepaid debit card issued by U.S. Bank - watch for it in the mail. The card is issued on all Wyoming claims to make sure we can pay you in an emergency where it is not possible to issue a payment to direct deposit.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf",
+      "parent_id": "8aa27aac3693e7d64b81f383066d4694"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a7eb06ec0373fbd70ddf00a6093e9d0b",
+    "text": "When you receive the card, follow the instructions for activating it by calling 1-855-233-8371. You will need to set up a PIN for your prepaid debit card. Instructions to set up your PIN will come by mail with your card. It is very important that you save this PIN as you will need it to access the funds on your debit card.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf",
+      "parent_id": "8aa27aac3693e7d64b81f383066d4694"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7e0448ac1fe6187ea889ee39eee6e070",
+    "text": "You can use the same prepaid debit card for future unemployment insurance claims.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf",
+      "parent_id": "8aa27aac3693e7d64b81f383066d4694"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bf62d53831c0bf44f9d6058104930d6e",
+    "text": "The ReliaCard® is issued by U.S. Bank National Association pursuant to a license from Visa U.S.A. Inc. ©2025 U.S. Bank, Member FDIC.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf",
+      "parent_id": "8aa27aac3693e7d64b81f383066d4694"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "092edf3f3e89af3d8afd39f3a5066ca9",
+    "text": "2. Direct Deposit",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6a864070d19e3da1d30a2a209f0869d9",
+    "text": "You can also choose to have your unemployment beneﬁts deposited directly into your checking or savings account. To do so, you must go to wyui.wyo.gov and log on to your WYUI account to update your payment method. You will need your username and password, bank account, and routing numbers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf",
+      "parent_id": "092edf3f3e89af3d8afd39f3a5066ca9"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "d06d59b28848544ab10ff974441b3242",
+    "text": "@",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "841e43217f225563b621594130c4e97a",
+    "text": "Did you know that you may be eligible for unemployment beneﬁts even if you are working part-time (less than 35 hours a week)?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2e1126066077aec733567035ad034ccb",
+    "text": "Working and Reporting Your Hours and Wages",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8251b9b63fa078797044f5ef5afa1f54",
+    "text": "Important: If you work part-time during your claim, you must report those wages and continue to seek full-time work during each week. If you quit or are ﬁred from a job while you are ﬁling for unemployment beneﬁts, you must contact the Unemployment Insurance Division at (307) 473-3789. If you fail to report earnings, we may consider this to be fraud.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f3c3b48ec44af8cb1c25a1509732f6a6",
+    "text": "You must report all your wages, including tips. You should report all wages in the week you worked, not when you are paid. Holiday pay is considered wages, so it should be included in the week of the holiday as wages (as if you had worked). For unemployment purposes, weeks begin on Sunday and end on Saturday.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b5fa39d10e2c77d1b24224e85a6ec25f",
+    "text": "There is a difference between gross pay and net pay. Net pay is the amount you take home after deductions including taxes. Gross pay is what you have earned before taxes. You must report your gross pay when ﬁling your Continued Claim. You can calculate your gross pay by multiplying your hourly wage by the number of hours you worked. An example of how to calculate your gross pay is shown below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c30adc2d838c8c9d34e275861f7a948c",
+    "text": "If you make over one-half of your weekly beneﬁt amount (WBA), you will not receive full beneﬁts for that week. Any amount over one-half your normal weekly beneﬁt amount will be subtracted from the beneﬁts you will receive for that week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7428c8452fe1ac16f6060d2efb143f63",
+    "text": "You will not be paid beneﬁts if:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "43d7913ea87f3c31fe2cc0998e2e67d0",
+    "text": "• Your wages are the same or more than your weekly beneﬁt amount (WBA);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "de2dea2c986eebec194c07b017864e56",
+    "text": "• You work 35 hours or more during the week; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7dd7f26d2fc8db84d9087303e2831e6f",
+    "text": "• You limit the number of hours you work so you can collect unemployment beneﬁts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9b917d7b3f8b9e39e23dfe3d938ee6e3",
+    "text": "How Payment is Calculated for Gross Pay: Example",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "26d5cc0df9b4649237052c1d4aa2b160",
+    "text": "Imagine you earn $10.75 per hour.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf",
+      "parent_id": "9b917d7b3f8b9e39e23dfe3d938ee6e3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "32cc78ae054e021b98a02982ab5699ad",
+    "text": "Let’s say you worked 18.23 hours in the last claim period.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf",
+      "parent_id": "9b917d7b3f8b9e39e23dfe3d938ee6e3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8fccc8e2086c4720d079172964c7f3b7",
+    "text": "To ﬁnd out how much you have earned, multiply your hourly rate ($10.75) by the hours you worked (18).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf",
+      "parent_id": "9b917d7b3f8b9e39e23dfe3d938ee6e3"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "4180ccf120577b03a8b8f4a3f3016b6f",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "01c770167550091f516649389492b869",
+    "text": "o =,",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "370b2a7df2257a5fef7853723bee451f",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "4c96af3c3212e71a6c06221a958b5051",
+    "text": "O",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "f0c5332773150a7ddf37558686cd68ec",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ca7fc720ebd141393a51cdcc706cd0bd",
+    "text": "$10.75",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a5fc7725a6b6c642cafa19a65968e0c5",
+    "text": "18.23",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3bb629721897c56a435d165e412fcc59",
+    "text": "$10.75 x 18.23",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4dad314c4fe6629ac532c754a45e4103",
+    "text": "= $195.97",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "50ac78c4e0322995140154a3549bb1e3",
+    "text": "When reporting wages, you can round to the nearest whole dollar to make it easier.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "e9db0a07d4d3f5e0cbc7cc56dc20e008",
+    "text": "l",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ef922a7161e535b7a21aae5396e46d5b",
+    "text": "$195",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "9440b53a5bdc16a3532e48d5340adbdf",
+    "text": "Page | 8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1ec4951e02a4ba121f08930ad1a04569",
+    "text": "Processing Your Payments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bb5ab6eadbdcf0833037959a2daabf27",
+    "text": "Child Support",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eecaf57c59765c61c5004c1dc444ca54",
+    "text": "If you owe child support, a portion of your unemployment beneﬁts will be withheld to help with this obligation. The amount withheld is based on the latest court order provided to the Unemployment Insurance Division by the court system.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "bb5ab6eadbdcf0833037959a2daabf27"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2ecdfde6899ccb999f7dadae6df48ccc",
+    "text": "Self-Employment Wages",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a5b8f6865e0873e5fc850915134cb06e",
+    "text": "Reporting your wages has different rules if you are self-",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "2ecdfde6899ccb999f7dadae6df48ccc"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f2e0975dd0726d7243bf86f5a40a9c55",
+    "text": "employed:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "51bc570cd36c223e656e1294ca8ffe34",
+    "text": "1. Self-employment lasting more than 3 days or 24 hours in a week is considered full time work. This disqualiﬁes you from receiving beneﬁts for that week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "f2e0975dd0726d7243bf86f5a40a9c55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "41f7e94de7f40ff65ba70e8d7df1ac0f",
+    "text": "2. If you are self-employed, you will report your net income for the week you worked. Wages should always be reported for the week you worked and not the week you are paid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "f2e0975dd0726d7243bf86f5a40a9c55"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "06ff86ba9b979b5b339006fb69268f34",
+    "text": "3. You must report the hours you worked during the week, even if you don't get paid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "f2e0975dd0726d7243bf86f5a40a9c55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8cfeedb602db7215958c88781d1e16f5",
+    "text": "To determine the amount to report:",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "f2e0975dd0726d7243bf86f5a40a9c55"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "54c9bbe3313bdea8cdfc6aa256ec1731",
+    "text": "Subtract your expenses from the total amount earned that week and report the remaining amount.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "f2e0975dd0726d7243bf86f5a40a9c55"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "944cd8a930ad14f889b22bb7623d1e4b",
+    "text": "The amount of self-employment you earned will be subtracted from your weekly beneﬁt amount dollar for dollar.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "f2e0975dd0726d7243bf86f5a40a9c55"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4debe582126320630b8cd9d4c308e828",
+    "text": "How Payment Is Calculated for Self-Employment:",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "f2e0975dd0726d7243bf86f5a40a9c55"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e908f86e02c5615ea27d43056859316b",
+    "text": "Example",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "20664c7040cff20fdf84aabccafb5827",
+    "text": "Imagine your weekly beneﬁt amount (WBA) is $400 $400.00 Gross self-employment wages (before tax) $200.00 Net self-employment wages (after $50 self-employment charges) $200 – $50 = $150 Wages you would report $150 Hours worked 10 Unemployment beneﬁts you would receive (WBA minus wages you would report) $400 – $150 = $250",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><thead><tr><th>Imagine your weekly benefit amount (WBA) is $400</th><th></th><th>$400.00</th></tr></thead><tbody><tr><td>Gross self-employment wages (before tax)</td><td>=</td><td>$200.00</td></tr><tr><td>Net self-employment wages (after $50 self-employment charges)</td><td>= «</td><td>$200-$50 = $150</td></tr><tr><td>Wages you would report</td><td></td><td>$150</td></tr><tr><td>Hours worked</td><td></td><td>10</td></tr><tr><td>Unemployment benefits you would receive (WBA minus wages you would report)</td><td>= g</td><td>$400 - $150 = $250</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "e908f86e02c5615ea27d43056859316b"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "4f63e77dbec50403e35c6f8cf4a4b3c3",
+    "text": "@",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2a4dfaa6249004e785f95d4ab14fa28c",
+    "text": "Avoid Benefit Delay",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fd2f0e72b1d0a229cbf265e26036774f",
+    "text": "To avoid delays in your unemployment benefits:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "2a4dfaa6249004e785f95d4ab14fa28c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e3e57b025084f1e44ae731b32109abb6",
+    "text": "• You are required to register for work. Contact your local workforce center during the first week of your claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "2a4dfaa6249004e785f95d4ab14fa28c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f60097672e04eb08f228d73bd24e48e5",
+    "text": "• Open any mail and/or emails received from the Department of Workforce Services and respond as directed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "2a4dfaa6249004e785f95d4ab14fa28c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "83a0c5e7b77c505fd6e3464860362cfe",
+    "text": "• Look for your ReliaCard in the mail. This comes directly from U.S. Bank.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "2a4dfaa6249004e785f95d4ab14fa28c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7c22f7436133d0a2cb3a19ecf21f9f63",
+    "text": "• Make sure your address, email, and telephone number are current on your Unemployment Insurance claim. Mail sent by the Department of Workforce Services is not forwarded by the postal service.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "2a4dfaa6249004e785f95d4ab14fa28c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b249755d33b9918e54e2778a9cc2aaa7",
+    "text": "• File for payment(s) during the required time frame.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "2a4dfaa6249004e785f95d4ab14fa28c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "319ca11473ee16c1ac50b2894ce2a9d1",
+    "text": "• Report all earnings and hours worked, even if it is one dollar or one hour. Earnings must be reported when earned, regardless of when paid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "2a4dfaa6249004e785f95d4ab14fa28c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9e5d3127295dd6f23f97c48e6a9e0040",
+    "text": "• Actively search for full-time employment and keep a log of your work searches as you may be required to provide them.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "2a4dfaa6249004e785f95d4ab14fa28c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8f228db71ba774c26c3828b2127eb88c",
+    "text": "• Find work search forms online at dws.wyo.gov.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf",
+      "parent_id": "2a4dfaa6249004e785f95d4ab14fa28c"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b455ef29b64f8b6287c3bfdce9ef67eb",
+    "text": "Page | 9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "77b7c868d83a3c4dc583e765b8030b63",
+    "text": "Maintaining Your Eligibility for Beneﬁts",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "48e4f7f8598d4d7f96e538d0cf088b50",
+    "text": "How To Maintain Your Eligibility for Benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "053808b994a630de3060bc0d0ed6db64",
+    "text": "• Report all information accurately.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "48e4f7f8598d4d7f96e538d0cf088b50"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "eceebb263944025a1d3c89ec857de428",
+    "text": "• File for payment every week.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "48e4f7f8598d4d7f96e538d0cf088b50"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7a38bd4d00755a9e795346de9cfd465a",
+    "text": "• Report any hours you worked.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "48e4f7f8598d4d7f96e538d0cf088b50"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "13cdd2b4e5d69f212512f8723c5d1b43",
+    "text": "• Report any money you earned, including tips.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "48e4f7f8598d4d7f96e538d0cf088b50"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c6cb8719dc94e9591c792d80680e2c09",
+    "text": "• Actively look for work and keep a record of your activities in your Work Search Log in case it is requested (see page 16).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "48e4f7f8598d4d7f96e538d0cf088b50"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a12aa9ac8b99ad0516256b2302f9a378",
+    "text": "• Register for work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "48e4f7f8598d4d7f96e538d0cf088b50"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a3e014eee2963eb621185d55ab663ff2",
+    "text": "• Be physically and mentally able to work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "48e4f7f8598d4d7f96e538d0cf088b50"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cca125b525c443075c7f5667dbd580f2",
+    "text": "• Be willing to accept suitable work. (Suitable work is explained below).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "48e4f7f8598d4d7f96e538d0cf088b50"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "943cfc9a9c896fa96cd78a2de6e2c5e2",
+    "text": "• Be available to begin work immediately if a job is offered.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "48e4f7f8598d4d7f96e538d0cf088b50"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "62953fc3db4cdd0b3fe39a621b64d10f",
+    "text": "Accepting Suitable Work",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dbdd0377514b5a17bbd2d473d57a74ae",
+    "text": "You must be willing to look for and accept suitable work. Suitable work is work that is similar or comparable to your prior work. For example, it should have similar pay, hours, experience, etc. The meaning of suitable work changes after you have received 4 weeks of unemployment beneﬁts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "62953fc3db4cdd0b3fe39a621b64d10f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ef7db3cf48e8cc2a06b2d011d06aa23a",
+    "text": "After 4 weeks, you must be willing to:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "62953fc3db4cdd0b3fe39a621b64d10f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "42947ae7f48abd09c3e3b692f482b340",
+    "text": "1. Look for work outside your usual type of work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "62953fc3db4cdd0b3fe39a621b64d10f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4e2bc83cd2a01e9c04b770bca64de570",
+    "text": "2. Accept either 50% of your last hourly wage, minimum wage, or the normal starting wage for the type of work you are looking for (whichever amount is greater).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "62953fc3db4cdd0b3fe39a621b64d10f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "23debf94f87bd8a47bdaa5e5e3dc7e60",
+    "text": "3. Keep track of your hours, wages, and expenses. You may be required to provide records of your income and expenses.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "62953fc3db4cdd0b3fe39a621b64d10f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5acab4d13cae16e165d5209e6580d194",
+    "text": "Job Attached",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e60313cdc5d56c0a3567f4f3bc81b785",
+    "text": "If you expect to be recalled to your job within twelve (12) weeks from an employer who paid 50% or more of your base period wages, you will not be required to contact other employers or register for work until after the expiration of the twelve (12) weeks. This must be confirmed with your employer and starts from the effective date of the claim. If you are not recalled within the twelve (12) weeks, you must begin an active work search and register for work to continue to receive benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "5acab4d13cae16e165d5209e6580d194"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d423d2f48e16657f4c4e315a4d29d61c",
+    "text": "• Participate in all reemployment or eligibility review appointments we may schedule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "5acab4d13cae16e165d5209e6580d194"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9f9cc96c892b0877e503dbb84b89be70",
+    "text": "• Immediately complete and return any requests from DWS.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "5acab4d13cae16e165d5209e6580d194"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "550494d639d100d9925ec78eae46501c",
+    "text": "o This includes requests you may receive after you have returned to work or have discontinued filing for benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "5acab4d13cae16e165d5209e6580d194"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cbcb32b32a4b8d123d2bd3766eb6b33b",
+    "text": "o Not returning these may affect your benefits or your future ability to claim benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "5acab4d13cae16e165d5209e6580d194"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "56aeaf4c8e7af732471ff20bd806ab81",
+    "text": "o Requests may include: New Hire Information requests, Eligibility Review Program form requests, Benefit Accuracy Measurement reviews, and more.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "5acab4d13cae16e165d5209e6580d194"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "efb4ce642ceda6075e2c65de9a84afa4",
+    "text": "=",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4c1943458b495c3d0b90e2334b19d025",
+    "text": "Sharing Your Information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a0cc15682823dcef12437a3e6c350ec6",
+    "text": "We check the information you give us by communicating with other state and federal agencies. We may check your name, Social Security Number, employer’s name, address, and wages. We may share your information with other government agencies if the law allows.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "4c1943458b495c3d0b90e2334b19d025"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1429b566040432527f9f90f443bc4720",
+    "text": "Additionally, sometimes we request information from employers to verify employment, wages, job search activities and job separations.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf",
+      "parent_id": "4c1943458b495c3d0b90e2334b19d025"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "752a0e0fa95b52da040e42cfedb571da",
+    "text": "Page | 10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2c922509a4884bc7e18493c0e1460fa0",
+    "text": "Understanding Overpayments and Fraud",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "794d8148e0269b9650ccf2c7abe32b1f",
+    "text": "Overpayments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d7a457361105b7ff1b202e264e5ab481",
+    "text": "Overpayments happen when you receive unemployment beneﬁts, and it is later found that you should not have received them. You must pay these unemployment beneﬁts back.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "794d8148e0269b9650ccf2c7abe32b1f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9556439acee131c7d11418e89aaec7ca",
+    "text": "Some common causes of overpayments:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "794d8148e0269b9650ccf2c7abe32b1f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "14e60528926a1ec29a9ba4118b1cfc59",
+    "text": "• Mistakes in reporting wages when you filed your weekly claim, and later corrections show you received more money than you should have.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "794d8148e0269b9650ccf2c7abe32b1f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2efbfccb77ee004e49b7f44c956b920f",
+    "text": "• Your employer reported your wages incorrectly and then corrected them after benefits were paid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "794d8148e0269b9650ccf2c7abe32b1f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0e3705df36bf316d67b088b298f22d75",
+    "text": "• A hearing officer decides you shouldn’t have received benefits after they were paid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "794d8148e0269b9650ccf2c7abe32b1f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "475c985459f06f105e72996d19d268c3",
+    "text": "• Letting someone else use your Personal Identification Number (PIN) or WYUI username and password.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "794d8148e0269b9650ccf2c7abe32b1f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2b62a9df9a60535b9b03ab41c3bdbe5b",
+    "text": "• Claiming benefits while outside the United States.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "794d8148e0269b9650ccf2c7abe32b1f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3148b1d68322573297f44120eb946497",
+    "text": "• Not reporting when you are unable or unavailable for work (like being sick or on vacation).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "794d8148e0269b9650ccf2c7abe32b1f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "70451e0490e4967c58ce82a30c9092be",
+    "text": "If you intentionally mislead DWS to secure beneﬁts, that is fraud. If you commit fraud, you must repay the beneﬁts you fraudulently received plus a penalty. You will not be able to get beneﬁts in the future, and you could face legal action.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "794d8148e0269b9650ccf2c7abe32b1f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f2c686dbef872412dbd882950fbb5462",
+    "text": "Repaying Overpayments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "665f553d428b6799e8b2e2b6a9c55e01",
+    "text": "To set up a repayment plan to pay back what you owe, contact the Department of Workforce Services Beneﬁt Payment Control Unit at:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "f2c686dbef872412dbd882950fbb5462"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "720e4b6a5613d645e831af767577e474",
+    "text": "Wyoming Department of Workforce Services Attn: Beneﬁt Payment Control/Overpayments P.O. Box 2760 Casper, WY 82602 (307) 235-3236",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "f2c686dbef872412dbd882950fbb5462"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "849f62b4e4c6d33b555ff2adf33d5bf2",
+    "text": "Remember!",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "853353d957e250cd61a24ca9a02abd4e",
+    "text": "We frequently check unemployment claims to ensure beneﬁts were paid correctly, following state and federal laws.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "849f62b4e4c6d33b555ff2adf33d5bf2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fe2df835566ccedb0ccdaa669f5c67fa",
+    "text": "NEVER share your PIN with anyone!",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "849f62b4e4c6d33b555ff2adf33d5bf2"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "0cc8c36e5faba9fe1a2dfb3f900cf084",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3ffe39990a109e70c4a3917526631ba3",
+    "text": "Fraud Warnings",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c1fad119c16dbd74238f1da7fdcacd63",
+    "text": "One of the top priorities for the Wyoming Department of Workforce Services is finding and stopping fraud.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "3ffe39990a109e70c4a3917526631ba3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6c0f11e88aff52670873e48ba2f0e1dd",
+    "text": "Attempting to claim and receive benefits by providing false statements can result in a loss of benefits, fines, and jail time. Fraud includes making a false statement to receive or increase benefits. The information you provide will be verified through employer records and other information matching programs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "3ffe39990a109e70c4a3917526631ba3"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "9035c139114cd43f3587ac28e6b8d670",
+    "text": "2",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "445fe893ee10ec39f617f44afcab2871",
+    "text": "Fraud Includes:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1867c1a72d13bf38d3ab8866962eb68e",
+    "text": "• Not reporting your work hours and wages if you work while collecting benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "445fe893ee10ec39f617f44afcab2871"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6ec4f2c232600694d7e9642d3cec24d7",
+    "text": "• Not reporting information about a job, including part-time, commission, temporary, independent contracts, self- employment, or cash jobs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "445fe893ee10ec39f617f44afcab2871"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e7f54cfec0c303c2810af07836a8f633",
+    "text": "• Providing incorrect information about why you left a job.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "445fe893ee10ec39f617f44afcab2871"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e90f41a075f39be4c028b478cf821ff4",
+    "text": "• Receiving services instead of getting paid for your work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "445fe893ee10ec39f617f44afcab2871"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "78554dd6f4d8d4deeb4c01cd9f6d9ce0",
+    "text": "• Making up a job search effort.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "445fe893ee10ec39f617f44afcab2871"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fab43a79d74e9c40ce8b9fcac21f69b2",
+    "text": "• Not telling us if you refused a job offer.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "445fe893ee10ec39f617f44afcab2871"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "033c21d86ba24a3ec107fa586d2e8137",
+    "text": "• Not reporting school attendance while receiving benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "445fe893ee10ec39f617f44afcab2871"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7e559236dbcc217c4f39765546e3539c",
+    "text": "• Using someone else’s name or social security number to work and get benefits.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf",
+      "parent_id": "445fe893ee10ec39f617f44afcab2871"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "4f70930ab696269852f14de3d70b1105",
+    "text": "Page | 11",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "429264df719357014b370a8faf4164fe",
+    "text": "Understanding Your Appeal Rights",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "72f8410265c14954255d63f930987fd3",
+    "text": "Appeals",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bbfce929d35a484d2c81b5b583f38db5",
+    "text": "If we send you a decision stating that you will not receive unemployment beneﬁts and you disagree, you can appeal. You must appeal within 28 days from the mailing date on the decision.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "72f8410265c14954255d63f930987fd3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d2ebd480c6df8efcd338b2998a9c6b44",
+    "text": "Who Can Appeal?",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d3529d20064eae57999210cdceb6afc4",
+    "text": "You and/or your employer can ﬁle an appeal. The appeal may result in an appeal hearing with a hearing ofﬁcer. All interested parties can take part in the hearing. We will mail you a hearing notice packet including:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "d2ebd480c6df8efcd338b2998a9c6b44"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dc4a850b4baf4b84de8669e6cacbc05c",
+    "text": "1. The date and time of your hearing.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "d2ebd480c6df8efcd338b2998a9c6b44"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "42f82aa14c262ae19adb8527d1cc7ff1",
+    "text": "2. Instructions on how to submit any additional documents or evidence you may wish to present. If you have additional evidence you wish to submit, you must send it to the hearing officer and all other interested parties before the day of the hearing.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "d2ebd480c6df8efcd338b2998a9c6b44"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6083c10f0a3e84ef4af5fb4d3d251c63",
+    "text": "Hearing Participation",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "63c793ee51b45c9ed83031059059bf62",
+    "text": "You must take part in your hearing if you want to provide testimony and evidence. The hearing ofﬁcer will make their decision based only on the testimony and evidence given at the hearing. If you cannot attend at the time scheduled, contact the Unemployment Insurance Division of Appeals immediately at (307)235-3246.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "6083c10f0a3e84ef4af5fb4d3d251c63"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "39f51a837ebb90ce8b7734c6fce39797",
+    "text": "If you do not take part in your hearing, it may have a negative effect on your claim.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "6083c10f0a3e84ef4af5fb4d3d251c63"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "81acc0f21cf596ce1ea76f67b75031e3",
+    "text": "You may call witnesses to testify on your behalf. Please contact the Division of Appeals at (307) 235-3246 immediately if you or any of your witnesses:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "6083c10f0a3e84ef4af5fb4d3d251c63"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7a798c06ea75691a7a71681e65ddbecb",
+    "text": "• Do not speak English, or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "6083c10f0a3e84ef4af5fb4d3d251c63"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d649957ff0fe21dae2b0bc78763c53f1",
+    "text": "• Need special services, such as for hearing impaired participants.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "6083c10f0a3e84ef4af5fb4d3d251c63"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a2277bb4a2b710b02c03c99d6b89e341",
+    "text": "To prepare for your hearing, please watch the instructional video here.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "6083c10f0a3e84ef4af5fb4d3d251c63"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d0a1832c9737a1c160602080f72848d4",
+    "text": "Remember!",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "054821e8986909c04f4521a17d2ad357",
+    "text": "•You must complete your appeal within 28 days from the mailing date on the decision letter.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "d0a1832c9737a1c160602080f72848d4"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7921d0dde92f38ca0a29e9d51f10de1a",
+    "text": "•You must complete your appeal online via WYUI, by mail or fax, or deliver it to a Wyoming Workforce Center.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "d0a1832c9737a1c160602080f72848d4"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "edb696902eebd4c0a15255a5983b9157",
+    "text": "•You must continue ﬁling for payment each week while your appeal is being processed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "d0a1832c9737a1c160602080f72848d4"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "666436e4af851a8ef9d8c5da9226b059",
+    "text": "•You must meet all eligibility requirements while your appeal is being processed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "d0a1832c9737a1c160602080f72848d4"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "16d685857c59944b1c979050d06252ec",
+    "text": "Page | 12",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bb44c991c0ea64a6cd7720415c123da7",
+    "text": "How to File an Appeal",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c432cc7bcbe4093626725f831aaac103",
+    "text": "You must submit your appeal in one of the following ways:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "bb44c991c0ea64a6cd7720415c123da7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9c015e0cf2e6c2e783effd8b0f9e18fe",
+    "text": "1. Completing the online appeal form on WYUI (wyui.wyo.gov).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "bb44c991c0ea64a6cd7720415c123da7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9a58d851771af423875a86f69956b65b",
+    "text": "2. Mailing, or faxing a signed statement that you disagree with the decision to the Unemployment Insurance Appeals Division at the address or fax number on the Explanation of Appeal Rights form attached to your decision.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "bb44c991c0ea64a6cd7720415c123da7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3ebb40355845e5e863736ffb690233c0",
+    "text": "3. Delivering your written appeal to a Workforce Center in Wyoming. You can find your nearest Workforce Center by going to: dws.wyo.gov/workforce-centers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "bb44c991c0ea64a6cd7720415c123da7"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "48d2af207562588296e95d0bc71323ae",
+    "text": "Your appeal should include:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2d352669b3c15bc00044774d71add3cc",
+    "text": "• Your name and Social Security Number.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "48d2af207562588296e95d0bc71323ae"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cfaac7669ca60b4f90300e4162a62349",
+    "text": "• Your current mailing address and phone number.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "48d2af207562588296e95d0bc71323ae"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "53075aba32bca2603da21988e514ba52",
+    "text": "• A copy of the decision that you are appealing. The",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "48d2af207562588296e95d0bc71323ae"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "68e3219f930d5aff7b1497c08cc25903",
+    "text": "• reason you disagree with the decision you are appealing.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "48d2af207562588296e95d0bc71323ae"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d7a0dc8b4f8ee1157d39ab3264f3714a",
+    "text": "• Your signature.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "48d2af207562588296e95d0bc71323ae"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d8b71ad1ae9c1f459b1e4fb602832f91",
+    "text": "If you complete your appeal online, the submitted date will be used to determine if you ﬁled your appeal within the time requirements.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "48d2af207562588296e95d0bc71323ae"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "862a1e0b2bdfb29f680f96461b97832a",
+    "text": "If you mail your appeal, the postmark date will be used to determine if you ﬁled your appeal within the time requirements.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "48d2af207562588296e95d0bc71323ae"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4798cde9596cfa230fe263786d012b1f",
+    "text": "If you fax your appeal, the date the fax is stamped “RECEIVED” will be used to determine if you ﬁled your appeal within the time requirements.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "48d2af207562588296e95d0bc71323ae"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "375de355ad0dadf54dfbd3592b64ee30",
+    "text": "You can use a fax machine at your local workforce center. Ask a workforce center representative to date stamp the appeal before faxing it.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "48d2af207562588296e95d0bc71323ae"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9842e8055d5a66070b870a67cd3646cb",
+    "text": "Further Appeals",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4f43c6b5a8d7c4a510d0e740a12aa800",
+    "text": "After your hearing, you will receive the hearing ofﬁcer’s decision in the mail. If you do not agree with this decision, you may appeal that decision to the Unemployment Insurance Commission. Information about how to appeal is included at the end of the hearing ofﬁcer’s decision you will receive.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "9842e8055d5a66070b870a67cd3646cb"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9d57bc9cb8bde41bf77730f7f616754b",
+    "text": "You must appeal within 28 days of the mail date on the hearing ofﬁcer's decision. If you do not appeal, the hearing ofﬁcer’s decision will become the ﬁnal decision. For more information about the Appeals process, please: Visit dws.wyo.gov , Call (307) 235-3246, or Fax (307) 235-3215.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "wyonming.pdf",
+      "parent_id": "9842e8055d5a66070b870a67cd3646cb"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5e7401578d2b0fdc94629f02bde077fd",
+    "text": "Resources and Quick Links",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2f45e55ad3d150f19c365ca126824e11",
+    "text": "Our website has information to assist you while you are unemployed and looking for work. Please visit dws.wyo.gov to explore these resources.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "5e7401578d2b0fdc94629f02bde077fd"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "513630609b1878b14c454421ee91acf0",
+    "text": "Services Available",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "64030124d93c8652148da4a961a55c90",
+    "text": "• Job search tools",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "513630609b1878b14c454421ee91acf0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b879bf6ffc1b63cbebc5e9c69787d34f",
+    "text": "• Self-service resource guide",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "513630609b1878b14c454421ee91acf0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1cfb63fdebf9a8f4312c769d3a2c46d3",
+    "text": "• Work registration",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "513630609b1878b14c454421ee91acf0"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cae809a51c586b4ae5be42ec9a052db0",
+    "text": "Frequently Asked Questions",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "26d726cd59e657cc95487b58d5a80232",
+    "text": "We have the following FAQ’s on our website:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "cae809a51c586b4ae5be42ec9a052db0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1714cf1c90653e9f3683e28ab24a459e",
+    "text": "• General unemployment benefits",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "cae809a51c586b4ae5be42ec9a052db0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8be80eb8baf88208acff639674253c85",
+    "text": "• Appeals",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "Appeals",
+          "url": "https://dws.wyo.gov/dws-division/unemployment-insurance/appeals/",
+          "start_index": 103
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "cae809a51c586b4ae5be42ec9a052db0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "889c8c60646ce517124092431e263948",
+    "text": "• Prepaid debit card",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "cae809a51c586b4ae5be42ec9a052db0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ef2eee6d6752c3f57b745bd23058f7cf",
+    "text": "• Overpayments",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "cae809a51c586b4ae5be42ec9a052db0"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e65cc2db07ca220d5168a0b4b45a2fcb",
+    "text": "WYUI Claimant Portal",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bbe4d2d1918e36bf782a7eb7dbfed78c",
+    "text": "Your WYUI online account allows you to promptly and securely:",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "e65cc2db07ca220d5168a0b4b45a2fcb"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f23688ab53ba2d63e2ec7ef3edceaccf",
+    "text": "• File a UI claim,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "e65cc2db07ca220d5168a0b4b45a2fcb"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5e6a9b6eb0954e35da03b7b1861f9b35",
+    "text": "• View UI documentation and correspondence,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "e65cc2db07ca220d5168a0b4b45a2fcb"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dfdd6fae49d5cecd158cb389bc7223fe",
+    "text": "• File an appeal,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "e65cc2db07ca220d5168a0b4b45a2fcb"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "950a4bd9800a1f048635fc6427956b26",
+    "text": "• Update contact information,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "e65cc2db07ca220d5168a0b4b45a2fcb"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "43a433302609cf1ec58214e29b48f74f",
+    "text": "• Update preferred payment methods,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "e65cc2db07ca220d5168a0b4b45a2fcb"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4ceb6d7cbab465c0ed2d53e5fa467f9e",
+    "text": "• File for payment,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "e65cc2db07ca220d5168a0b4b45a2fcb"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "166ca51f1860401e7f06c16433faf507",
+    "text": "• Reset your Personal Identification Number (PIN),",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "e65cc2db07ca220d5168a0b4b45a2fcb"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "05beef5c9344afb8a0f3eafc407402f4",
+    "text": "• Pay an overpayment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "e65cc2db07ca220d5168a0b4b45a2fcb"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4f30ec1d9d07d7faada2603cb478e24b",
+    "text": "Wyoming Workforce Centers",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bebf54a8692c3f605833b5dae716fb42",
+    "text": "You can ﬁnd a variety of job seeker services at a Workforce Center near you or at www.dws.wyo.gov.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf",
+      "parent_id": "4f30ec1d9d07d7faada2603cb478e24b"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "4adde3be804ca04d6af4d8fefce06e8f",
+    "text": "Casper (307) 234-4591 444 W. Collins Dr., Ste. 1100 Cheyenne (307) 777-3700 5221 Yellowstone Road Cody (307) 587-4241 1026 Blackburn Ave., Ste. 1 Douglas (307) 358-2147 311 Russell Ave. #B Evanston (307) 789-9802 98 Independence Dr. Gillette (307) 682-9313 551 Running W Dr., Ste. 100 Jackson (307) 733-4091 155 West Gill Ave. Kemmerer (307) 877-5501 20 Adaville Rd. (Diamondville) Lander (307) 335-9224 1295 12th Street Laramie (307) 742-2153 3817 Beech St., Ste. 100 Powell (307) 754-6436 559 N. Cheyenne St. (Northwest College, Frisby Building) Rawlins (307) 324-3485 1703 Edinburgh St. Riverton (307) 856-9231 422 E. Fremont Ave. Rock Springs (307) 382-2747 2451 Foothill Blvd., Ste. 100 Sheridan (307) 672-9775 247 Grinnell Plaza Suite 200 Torrington (307) 532-4171 1610 East M St. Wheatland (307) 322-4741 1958 W. Mariposa Pkwy. Worland (307) 347-8173 1200 Culbertson Ave., Ste. F If you live outside of Wyoming, ﬁnd your state’s Workforce Center at careerstop.com",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "3927f68139db68442eb0ca627e71d2ee",
+    "text": "Page | 13",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "60891ab45da0262354f3cb71da94b069",
+    "text": "Resources and Quick Links",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5650c947f04e4017c64d3afaad9c94ff",
+    "text": "Work Search Log",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "798cd0385f85cd04bd9a137568c65106",
+    "text": "Here is an example work search log you may save or print to use as you seek your next employment opportunity. You will need to record two (2) work search activities on each of your (weekly) continued claims. If you choose to use another format to log your work search activity, please be sure to gather all the information included in the form below. This form is for your records only – you do not need to submit it to us. Please save a record of your work search activities in case we need to review your claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "wyonming.pdf",
+      "parent_id": "5650c947f04e4017c64d3afaad9c94ff"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "ff3ecbaeaf6e35de59eb0e2b1b85fe1b",
+    "text": "Date Company Name, Address and Phone Number Method of Contact In person Name and Title of Contact Position Applied For City, State Job # Application or Resume Submitted? None Phone/Fax Application Mail/Email Resume Website Both In person None Phone/Fax Application Mail/Email Resume Website Both Result Not Hiring Pending Interviewed Hired Not Hiring Pending Interviewed Hired",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><thead><tr><th>Date</th><th>Company Name, Address and Phone Number</th><th>Method of Contact</th><th>Name and Title of Contact</th><th>Position Applied Fol</th><th>City, State</th><th>Job #</th><th>Application or Resume Submitted?</th><th>Result</th></tr></thead><tbody><tr><td></td><td></td><td>in person O Phone/Fax O Mail/Email O Website</td><td></td><td></td><td></td><td></td><td>0 None O Application O Resume O Both</td><td>[T Not Hiring O Pending O Interviewed O Hired</td></tr><tr><td></td><td></td><td>O'In person O Phone/Fax O Mail/Email [0 Website</td><td></td><td></td><td></td><td></td><td>O None O Application O Resume O Both</td><td>0 Not Hiring O Pending O Interviewed O Hired</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "wyonming.pdf",
+      "parent_id": "5650c947f04e4017c64d3afaad9c94ff"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b6b2d4b4ac890e6de540642f54f5846d",
+    "text": "Date Company Name, Address and Phone Number Method of Contact Name and Title of Contact Position Applied For City, State Job # Application or Resume Submitted? In person None Phone/Fax Application Mail/Email Resume Website Both In person None Phone/Fax Application Mail/Email Resume Website Both Result Not Hiring Pending Interviewed Hired Not Hiring Pending Interviewed Hired",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><thead><tr><th>Date</th><th>Company Name, Address and Phone Number</th><th>Method of Contact</th><th>Name and Title of Contact</th><th>Position Applied Fol</th><th>City, State</th><th>Job #</th><th>Application or Resume Submitted?</th><th>Result</th></tr></thead><tbody><tr><td rowspan=\"2\"></td><td></td><td>O n person O Phone/Fax O Mail/Email [0 Website</td><td></td><td></td><td></td><td></td><td>O None O Application O Resume O Both</td><td>O Not Hiring O Pending O Interviewed O Hired</td></tr><tr><td></td><td>in person O Phone/Fax O Mail/Email [0 Website</td><td></td><td></td><td></td><td></td><td>0 None O Application O Resume O Both</td><td>[T Not Hiring O Pending O Interviewed O Hired</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "wyonming.pdf",
+      "parent_id": "5650c947f04e4017c64d3afaad9c94ff"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "9483a4f0730330317a9ba30d8ca141f3",
+    "text": "Page | 14",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "024873ec88d49c3fc01626327dc41b7c",
+    "text": "Resources and Quick Links",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "41f1cbd75a51778785d0fed4b4682575",
+    "text": "Wages Log",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "848d50ee39834878619c7d0a7233451e",
+    "text": "Here is a Wages Log you can use to record your gross (before tax) pay each week you are claiming unemployment benefits. Reporting your daily earnings on a calendar or a log like this will help you report your earnings correctly. This log is for your reference and use – you do not need to submit it to us. Please save your wage information for your records in case we need to review your claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "wyonming.pdf",
+      "parent_id": "41f1cbd75a51778785d0fed4b4682575"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d8d6aa027addb2b0ec9b7354db383795",
+    "text": "• Report all your earnings from any source, including National Guard pay, in the week earned, not when paid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "wyonming.pdf",
+      "parent_id": "41f1cbd75a51778785d0fed4b4682575"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "08d8acae77bf34d96a5d9d9be4f34f45",
+    "text": "• Ask your employer if you are unsure of the number of hours worked, the rate per hour, or the total earned. Do not guess.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "wyonming.pdf",
+      "parent_id": "41f1cbd75a51778785d0fed4b4682575"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "06261dc55c238c315638398b25748be2",
+    "text": "• You will report total gross pay before deductions, not the amount that you take home. Multiply your “Total Hours” by “Pay Rate” to determine your “Gross Pay” for each row. Adding each “Gross Pay” number together will give your “Total Wages” to report.",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "gross pay",
+          "url": null,
+          "start_index": 22
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "wyonming.pdf",
+      "parent_id": "41f1cbd75a51778785d0fed4b4682575"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b02360fc66dea089e41ba5f5104c4421",
+    "text": "Sunday Monday Tuesday Wednesday Thursday Friday Saturday Total Hours Pay Rate Regular Hours $ Overtime Hours $ Hours at Other Rate $ Week Ending Date: Date Filed: Date Received: Payment: Amount of Unemployment Insurance Beneﬁt Payment: Total Hours: Total Wages: __ / __ / ____ __ / __ / ____ __ / __ / ____ $ $ $ Gross Pay $ $ $",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><thead><tr><th></th><th></th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th><th>Saturday</th><th>Total Hours</th><th>Pay Rate</th><th>Gross Pay</th></tr></thead><tbody><tr><td>Regular Hours</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Overtime Hours</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Hours at Other Rate</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Week Ending Date:</td><td>Date Filed:</td><td>Date</td><td>Received</td><td>Payment:</td><td>Insurance</td><td>Amount of Unemployment Benefit Payment:</td><td>Total Hours:</td><td colspan=\"3\">Total Wages:</td></tr><tr><td>]</td><td>l</td><td></td><td></td><td>CH</td><td></td><td>C</td><td></td><td></td><td></td><td></td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "wyonming.pdf",
+      "parent_id": "41f1cbd75a51778785d0fed4b4682575"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "e37ee60e9520e935645d04d4f8125689",
+    "text": "Sunday Monday Tuesday Wednesday Thursday Friday Saturday Total Hours Pay Rate Regular Hours $ Overtime Hours $ Hours at Other Rate $ Week Ending Date: Date Filed: Date Received: Payment: Amount of Unemployment Insurance Beneﬁt Payment: Total Hours: Total Wages: __ / __ / ____ __ / __ / ____ __ / __ / ____ $ $ $ Gross Pay $ $ $",
+    "metadata": {
+      "is_extracted": "true",
+      "text_as_html": "<table><thead><tr><th></th><th></th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th><th>Saturday</th><th>Total Hours</th><th>Pay Rate</th><th>Gross Pay</th></tr></thead><tbody><tr><td>Regular Hours</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Overtime Hours</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Hours at Other Rate</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Week Ending Date:</td><td>Date Filed:</td><td>Date</td><td>Received</td><td>Payment:</td><td>Insurance</td><td>Amount of Unemployment Benefit Payment:</td><td>Total Hours:</td><td colspan=\"3\">Total Wages:</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "wyonming.pdf",
+      "parent_id": "41f1cbd75a51778785d0fed4b4682575"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "4c3dddf7827ec0ac8a72143e84c832e6",
+    "text": "Page | 15",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bf4517b99956c6bcc3b91754faee1e29",
+    "text": "Contact Information",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "15298521332bd31f044203726b4284ca",
+    "text": "The following links will be helpful throughout your UI journey:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf",
+      "parent_id": "bf4517b99956c6bcc3b91754faee1e29"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5408fb5c0c7bac876bc06713a547ec0a",
+    "text": "Website",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e4307aa976c03dc2b2ab0970be74aacb",
+    "text": "Description",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "a3cfd2b5a080dd58bf31fcc5dbe47056",
+    "text": "Wyoming Workforce Services: dws.wyo.gov/ui WYUI: https://wyui.wyo.gov/beneﬁts/home.do Hire WYO: https://hire.wyo.gov/employer- jobseeker/job-seeker/registration",
+    "metadata": {
+      "is_extracted": "true",
+      "links": [
+        {
+          "text": "https :// wyui . wyo . gov / beneﬁts / home . do",
+          "url": "https://wyui.wyo.gov/benefits/home.do",
+          "start_index": 6
+        },
+        {
+          "text": "jobseeker",
+          "url": "https://hire.wyo.gov/employer-jobseeker/job-seeker/registration",
+          "start_index": 41
+        }
+      ],
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "72a8a0acc36805e8f49c22b7963c9002",
+    "text": "You can go here for more information about the UI process. Here, you will ﬁnd Frequently Asked Questions (FAQs), a Glossary of UI Terms, Identity Veriﬁcation steps, and more. You must go here to create a username and password for WYUI. Here, you will ﬁle your claim, view correspondence, ﬁle for weekly payment, etc.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7bc2bf49748e1f831eeeb07d08c34ab2",
+    "text": "You must go here to create a username and password for Hire WYO. Here, you will register for work. This is a requirement to receive UI beneﬁts. You can also use this site to look for jobs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ac6e571f6b74edaf7c916e59a4d127d6",
+    "text": "Contact Us",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "6a841ed389d3b6a571f791720658eaa5",
+    "text": "\\",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "ae7ccace208f2ec9f9f8f85d4d7bb0be",
+    "text": "=",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "45b6319b6b1932241d68a02fbc2ad265",
+    "text": "Claims (307) 473-3789",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "29929457afca4bd0f4ccc1ce3b996cb1",
+    "text": "Mon, Tues, Thurs, Fri 8:00 AM-4:00 PM Wed 8:00 AM-12:00 PM",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "36727164485e138bb2761bf0a5db8ac6",
+    "text": "Appeals (307) 235-3246 Mon-Fri 8:00 AM-5:00 PM",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "FormKeysValues",
+    "element_id": "6c855fef4c1939a79be0d1f4300323a6",
+    "text": "Claims Fax: (307) 473-3726 Appeals Fax: (307) 235-3215",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "272435434361a0cef77f2158eef0b12f",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f3c6c2715f96ddfe65d39f76fdbb5705",
+    "text": "Mail:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ca9d05c508819d99d6b2e287de11494f",
+    "text": "Unemployment Insurance Division P.O. Box 2760 Casper, WY 82602-2760",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fa16952b42aa88afb6306ba38e75fe75",
+    "text": "Follow Us on Social Media",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a8e446ccca715d7530e8dbaff6de5967",
+    "text": "You can stay updated on items that may affect your beneﬁts by following us on Facebook and LinkedIn.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf",
+      "parent_id": "fa16952b42aa88afb6306ba38e75fe75"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "c5534c2847c5f962ca47f77922619c69",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "373c35c6292bd04b5e1b9daea82f901d",
+    "text": "facebook.com/wyomingworkforce",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "0d83a0d4760d5c36a4b7daf5b66ee485",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c4e78b51b071f1a01a80a9ffcacab439",
+    "text": "@wyoming-workforce-services",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e489232429fcaf9266f58ad3accb9be1",
+    "text": "Equal Opportunity",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "be856566dea152375d044b9b57c55f5a",
+    "text": "The U.S. Equal Opportunity Commission enforces laws that make discrimination illegal. Discrimination means mistreating a person because of their race, religion, sex, age, etc.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf",
+      "parent_id": "e489232429fcaf9266f58ad3accb9be1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ecf305adf912a64ad28b5f4a6858411f",
+    "text": "If you think that the WY Department of Workforce Services (DWS) has discriminated against you, contact the EEOC at 1 (800) 669-4000.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf",
+      "parent_id": "e489232429fcaf9266f58ad3accb9be1"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "9638ed539ee96674a34bf049fc46ae06",
+    "text": "Page | 16",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f7c902d11c47582542b396050d43e9b1",
+    "text": "&",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7ee1554bd73b159112d92d083c1c13e6",
+    "text": "For more information, visit dws.wyo.gov/ui",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "wyonming.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c041c53abe63565f0b2d581c8a372b7a",
+    "text": "Page | 17",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "wyonming.pdf"
+    }
+  }
+]

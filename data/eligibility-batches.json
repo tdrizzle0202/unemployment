@@ -1,0 +1,1247 @@
+{
+  "metadata": {
+    "description": "State UI eligibility batch logic configuration",
+    "version": "2025-01",
+    "source_file": "state-ui-rules-2025.json"
+  },
+  "modules": {
+    "HQ_MULTIPLIER": {
+      "id": "hq_multiplier",
+      "name": "High Quarter Multiplier",
+      "description": "Total base period wages must be >= multiplier × highest quarter wages",
+      "formula": "BPW >= multiplier × HQW",
+      "required_inputs": ["base_period_wages", "quarterly_wages"],
+      "params": ["multiplier"]
+    },
+    "WBA_MULTIPLIER": {
+      "id": "wba_multiplier",
+      "name": "WBA Multiple",
+      "description": "Total base period wages must be >= multiplier × weekly benefit amount",
+      "formula": "BPW >= multiplier × WBA",
+      "required_inputs": ["base_period_wages", "weekly_benefit_amount"],
+      "params": ["multiplier"],
+      "note": "WBA must be calculated first before eligibility can be determined"
+    },
+    "FLAT_FLOOR": {
+      "id": "flat_floor",
+      "name": "Flat Dollar Floor",
+      "description": "Minimum dollar amount required in base period",
+      "formula": "BPW >= min_amount",
+      "required_inputs": ["base_period_wages"],
+      "params": ["min_amount"]
+    },
+    "HQ_FLOOR": {
+      "id": "hq_floor",
+      "name": "High Quarter Dollar Floor",
+      "description": "Minimum dollar amount required in highest quarter",
+      "formula": "HQW >= min_amount",
+      "required_inputs": ["quarterly_wages"],
+      "params": ["min_amount"]
+    },
+    "MULTI_QUARTER": {
+      "id": "multi_quarter",
+      "name": "Multiple Quarters Required",
+      "description": "Wages must be present in multiple quarters",
+      "formula": "quarters_with_wages >= min_quarters",
+      "required_inputs": ["quarterly_wages"],
+      "params": ["min_quarters"]
+    },
+    "OUTSIDE_HQ": {
+      "id": "outside_hq",
+      "name": "Wages Outside High Quarter",
+      "description": "Minimum wages required outside the highest quarter",
+      "formula": "BPW - HQW >= min_amount OR (BPW - HQW) >= percentage × BPW",
+      "required_inputs": ["base_period_wages", "quarterly_wages"],
+      "params": ["min_amount", "min_percentage"]
+    },
+    "HOURS_WORKED": {
+      "id": "hours_worked",
+      "name": "Hours Worked",
+      "description": "Minimum hours of employment required",
+      "formula": "hours >= min_hours",
+      "required_inputs": ["hours_worked"],
+      "params": ["min_hours"]
+    },
+    "WEEKS_WORKED": {
+      "id": "weeks_worked",
+      "name": "Weeks Worked",
+      "description": "Minimum weeks of employment required",
+      "formula": "weeks >= min_weeks",
+      "required_inputs": ["weeks_worked"],
+      "params": ["min_weeks"]
+    },
+    "MIN_WAGE_MULTIPLIER": {
+      "id": "min_wage_multiplier",
+      "name": "Minimum Wage Multiplier",
+      "description": "Wages tied to state/federal minimum wage",
+      "formula": "wages >= multiplier × minimum_wage",
+      "required_inputs": ["base_period_wages", "state_minimum_wage"],
+      "params": ["multiplier", "wage_type"]
+    },
+    "STATE_AWW": {
+      "id": "state_aww",
+      "name": "State Average Weekly Wage",
+      "description": "Wages tied to state average weekly/annual wage",
+      "formula": "wages >= percentage × state_aww",
+      "required_inputs": ["base_period_wages", "state_average_wage"],
+      "params": ["percentage", "wage_period"]
+    }
+  },
+  "state_batches": {
+    "AL": {
+      "state_code": "AL",
+      "state_name": "Alabama",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "AK": {
+      "state_code": "AK",
+      "state_name": "Alaska",
+      "primary_module": "FLAT_FLOOR",
+      "modules": [
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 2500 },
+          "required": true
+        },
+        {
+          "module": "MULTI_QUARTER",
+          "params": { "min_quarters": 2 },
+          "required": true
+        },
+        {
+          "module": "OUTSIDE_HQ",
+          "params": { "min_amount": 250 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "AZ": {
+      "state_code": "AZ",
+      "state_name": "Arizona",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        },
+        {
+          "module": "MIN_WAGE_MULTIPLIER",
+          "params": { "multiplier": 390, "wage_type": "quarterly" },
+          "required": true
+        }
+      ],
+      "alternate_path": {
+        "description": "Alternative: wages in 2 qtrs with 1 qtr sufficient for max WBA and BPW >= TWB",
+        "modules": [
+          {
+            "module": "MULTI_QUARTER",
+            "params": { "min_quarters": 2 },
+            "required": true
+          }
+        ]
+      },
+      "logic": "ALL_OR_ALTERNATE"
+    },
+    "AR": {
+      "state_code": "AR",
+      "state_name": "Arkansas",
+      "primary_module": "WBA_MULTIPLIER",
+      "modules": [
+        {
+          "module": "WBA_MULTIPLIER",
+          "params": { "multiplier": 35 },
+          "required": true
+        },
+        {
+          "module": "MULTI_QUARTER",
+          "params": { "min_quarters": 2 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "CA": {
+      "state_code": "CA",
+      "state_name": "California",
+      "primary_module": "HQ_FLOOR",
+      "modules": [
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 1300 },
+          "required": true
+        }
+      ],
+      "alternate_path": {
+        "description": "$900 in HQ with BPW = 1.25x HQ",
+        "modules": [
+          {
+            "module": "HQ_FLOOR",
+            "params": { "min_amount": 900 },
+            "required": true
+          },
+          {
+            "module": "HQ_MULTIPLIER",
+            "params": { "multiplier": 1.25 },
+            "required": true
+          }
+        ]
+      },
+      "logic": "PRIMARY_OR_ALTERNATE"
+    },
+    "CO": {
+      "state_code": "CO",
+      "state_name": "Colorado",
+      "primary_module": "WBA_MULTIPLIER",
+      "modules": [
+        {
+          "module": "WBA_MULTIPLIER",
+          "params": { "multiplier": 40 },
+          "required": false
+        },
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 2500 },
+          "required": false
+        }
+      ],
+      "logic": "GREATER_OF"
+    },
+    "CT": {
+      "state_code": "CT",
+      "state_name": "Connecticut",
+      "primary_module": "WBA_MULTIPLIER",
+      "modules": [
+        {
+          "module": "WBA_MULTIPLIER",
+          "params": { "multiplier": 40 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "DE": {
+      "state_code": "DE",
+      "state_name": "Delaware",
+      "primary_module": "WBA_MULTIPLIER",
+      "modules": [
+        {
+          "module": "WBA_MULTIPLIER",
+          "params": { "multiplier": 36 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "DC": {
+      "state_code": "DC",
+      "state_name": "District of Columbia",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5, "tolerance": 70 },
+          "required": true
+        },
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 1950, "quarters": 2 },
+          "required": true
+        },
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 1300 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "FL": {
+      "state_code": "FL",
+      "state_name": "Florida",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        },
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 3400 },
+          "required": true
+        },
+        {
+          "module": "MULTI_QUARTER",
+          "params": { "min_quarters": 2 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "GA": {
+      "state_code": "GA",
+      "state_name": "Georgia",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        },
+        {
+          "module": "MULTI_QUARTER",
+          "params": { "min_quarters": 2 },
+          "required": true
+        },
+        {
+          "module": "WBA_MULTIPLIER",
+          "params": { "multiplier": 40, "quarters": 2 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "HI": {
+      "state_code": "HI",
+      "state_name": "Hawaii",
+      "primary_module": "WBA_MULTIPLIER",
+      "modules": [
+        {
+          "module": "WBA_MULTIPLIER",
+          "params": { "multiplier": 26 },
+          "required": true
+        },
+        {
+          "module": "MULTI_QUARTER",
+          "params": { "min_quarters": 2 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "ID": {
+      "state_code": "ID",
+      "state_name": "Idaho",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.25 },
+          "required": true
+        },
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 1872 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "IL": {
+      "state_code": "IL",
+      "state_name": "Illinois",
+      "primary_module": "FLAT_FLOOR",
+      "modules": [
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 1600 },
+          "required": true
+        },
+        {
+          "module": "OUTSIDE_HQ",
+          "params": { "min_amount": 440 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "IN": {
+      "state_code": "IN",
+      "state_name": "Indiana",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        },
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 2500, "quarters": "last_2" },
+          "required": true
+        },
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 4200 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "IA": {
+      "state_code": "IA",
+      "state_name": "Iowa",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.25 },
+          "required": true
+        },
+        {
+          "module": "STATE_AWW",
+          "params": { "percentage": 3.5, "wage_period": "annual", "apply_to": "hq" },
+          "required": true
+        },
+        {
+          "module": "OUTSIDE_HQ",
+          "params": { "min_percentage": 50, "of": "hqw" },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "KS": {
+      "state_code": "KS",
+      "state_name": "Kansas",
+      "primary_module": "WBA_MULTIPLIER",
+      "modules": [
+        {
+          "module": "WBA_MULTIPLIER",
+          "params": { "multiplier": 30 },
+          "required": true
+        },
+        {
+          "module": "MULTI_QUARTER",
+          "params": { "min_quarters": 2 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "KY": {
+      "state_code": "KY",
+      "state_name": "Kentucky",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        },
+        {
+          "module": "WBA_MULTIPLIER",
+          "params": { "multiplier": 8, "quarters": "last_2" },
+          "required": true
+        },
+        {
+          "module": "OUTSIDE_HQ",
+          "params": { "min_amount": 1500 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "LA": {
+      "state_code": "LA",
+      "state_name": "Louisiana",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 1200 },
+          "required": true
+        },
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        },
+        {
+          "module": "MULTI_QUARTER",
+          "params": { "min_quarters": 2 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "ME": {
+      "state_code": "ME",
+      "state_name": "Maine",
+      "primary_module": "STATE_AWW",
+      "modules": [
+        {
+          "module": "STATE_AWW",
+          "params": { "multiplier": 2, "wage_period": "weekly", "min_quarters": 2 },
+          "required": true
+        },
+        {
+          "module": "STATE_AWW",
+          "params": { "multiplier": 6, "wage_period": "weekly", "apply_to": "bpw" },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "MD": {
+      "state_code": "MD",
+      "state_name": "Maryland",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        },
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 1176.01 },
+          "required": true
+        },
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 1800, "quarters": 2 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "MA": {
+      "state_code": "MA",
+      "state_name": "Massachusetts",
+      "primary_module": "WBA_MULTIPLIER",
+      "modules": [
+        {
+          "module": "WBA_MULTIPLIER",
+          "params": { "multiplier": 30 },
+          "required": true
+        },
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 6300 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "MI": {
+      "state_code": "MI",
+      "state_name": "Michigan",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        },
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 4097 },
+          "required": true
+        },
+        {
+          "module": "MULTI_QUARTER",
+          "params": { "min_quarters": 2 },
+          "required": true
+        }
+      ],
+      "alternate_path": {
+        "description": "Wages in 2 qtrs; BPW >= 20x State AWW",
+        "modules": [
+          {
+            "module": "MULTI_QUARTER",
+            "params": { "min_quarters": 2 },
+            "required": true
+          },
+          {
+            "module": "STATE_AWW",
+            "params": { "multiplier": 20, "wage_period": "weekly" },
+            "required": true
+          }
+        ]
+      },
+      "logic": "ALL_OR_ALTERNATE"
+    },
+    "MN": {
+      "state_code": "MN",
+      "state_name": "Minnesota",
+      "primary_module": "STATE_AWW",
+      "modules": [
+        {
+          "module": "STATE_AWW",
+          "params": { "percentage": 5.3, "wage_period": "annual" },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "MS": {
+      "state_code": "MS",
+      "state_name": "Mississippi",
+      "primary_module": "WBA_MULTIPLIER",
+      "modules": [
+        {
+          "module": "WBA_MULTIPLIER",
+          "params": { "multiplier": 40 },
+          "required": true
+        },
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 780 },
+          "required": true
+        },
+        {
+          "module": "MULTI_QUARTER",
+          "params": { "min_quarters": 2 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "MO": {
+      "state_code": "MO",
+      "state_name": "Missouri",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        },
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 1500, "any_quarter": true },
+          "required": true
+        }
+      ],
+      "alternate_path": {
+        "description": "Wages in 2 qtrs of BP = 1.5x maximum TWB",
+        "modules": [
+          {
+            "module": "MULTI_QUARTER",
+            "params": { "min_quarters": 2 },
+            "required": true
+          }
+        ]
+      },
+      "logic": "ALL_OR_ALTERNATE"
+    },
+    "MT": {
+      "state_code": "MT",
+      "state_name": "Montana",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        },
+        {
+          "module": "STATE_AWW",
+          "params": { "percentage": 7, "wage_period": "annual" },
+          "required": true
+        }
+      ],
+      "alternate_path": {
+        "description": "BPW > 50% of AAW",
+        "modules": [
+          {
+            "module": "STATE_AWW",
+            "params": { "percentage": 50, "wage_period": "annual" },
+            "required": true
+          }
+        ]
+      },
+      "logic": "ALL_OR_ALTERNATE"
+    },
+    "NE": {
+      "state_code": "NE",
+      "state_name": "Nebraska",
+      "primary_module": "FLAT_FLOOR",
+      "modules": [
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 5297 },
+          "required": true
+        },
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 1850 },
+          "required": true
+        },
+        {
+          "module": "OUTSIDE_HQ",
+          "params": { "min_amount": 800, "any_other_quarter": true },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "NV": {
+      "state_code": "NV",
+      "state_name": "Nevada",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        },
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 400 },
+          "required": true
+        }
+      ],
+      "alternate_path": {
+        "description": "Wages in 3 of 4 qtrs in BP and $400 in HQ",
+        "modules": [
+          {
+            "module": "MULTI_QUARTER",
+            "params": { "min_quarters": 3 },
+            "required": true
+          },
+          {
+            "module": "HQ_FLOOR",
+            "params": { "min_amount": 400 },
+            "required": true
+          }
+        ]
+      },
+      "logic": "ALL_OR_ALTERNATE"
+    },
+    "NH": {
+      "state_code": "NH",
+      "state_name": "New Hampshire",
+      "primary_module": "FLAT_FLOOR",
+      "modules": [
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 2800 },
+          "required": true
+        },
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 1400, "min_quarters": 2 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "NJ": {
+      "state_code": "NJ",
+      "state_name": "New Jersey",
+      "primary_module": "WEEKS_WORKED",
+      "modules": [
+        {
+          "module": "WEEKS_WORKED",
+          "params": { "min_weeks": 20, "min_wage_multiplier": 20 },
+          "required": false
+        },
+        {
+          "module": "MIN_WAGE_MULTIPLIER",
+          "params": { "multiplier": 1000, "wage_type": "state_hourly" },
+          "required": false
+        }
+      ],
+      "logic": "ANY"
+    },
+    "NM": {
+      "state_code": "NM",
+      "state_name": "New Mexico",
+      "primary_module": "HQ_FLOOR",
+      "modules": [
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 2698 },
+          "required": true
+        },
+        {
+          "module": "MULTI_QUARTER",
+          "params": { "min_quarters": 2 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "NY": {
+      "state_code": "NY",
+      "state_name": "New York",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        },
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 3400 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "NC": {
+      "state_code": "NC",
+      "state_name": "North Carolina",
+      "primary_module": "STATE_AWW",
+      "modules": [
+        {
+          "module": "STATE_AWW",
+          "params": { "multiplier": 6, "wage_period": "weekly" },
+          "required": true
+        },
+        {
+          "module": "MULTI_QUARTER",
+          "params": { "min_quarters": 2 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "ND": {
+      "state_code": "ND",
+      "state_name": "North Dakota",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        },
+        {
+          "module": "MULTI_QUARTER",
+          "params": { "min_quarters": 2 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "OH": {
+      "state_code": "OH",
+      "state_name": "Ohio",
+      "primary_module": "WEEKS_WORKED",
+      "modules": [
+        {
+          "module": "WEEKS_WORKED",
+          "params": { "min_weeks": 20 },
+          "required": true
+        },
+        {
+          "module": "STATE_AWW",
+          "params": { "percentage": 27.5, "wage_period": "weekly", "apply_to": "weekly_avg" },
+          "required": true
+        },
+        {
+          "module": "MULTI_QUARTER",
+          "params": { "min_quarters": 2 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "OK": {
+      "state_code": "OK",
+      "state_name": "Oklahoma",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 1500 },
+          "required": true
+        },
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        }
+      ],
+      "alternate_path": {
+        "description": "Any taxable wages if total wages >= TWB for year claim was effective",
+        "modules": []
+      },
+      "logic": "ALL_OR_ALTERNATE"
+    },
+    "OR": {
+      "state_code": "OR",
+      "state_name": "Oregon",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 1000 },
+          "required": true
+        },
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        }
+      ],
+      "alternate_path": {
+        "description": "500 hours of employment in BP",
+        "modules": [
+          {
+            "module": "HOURS_WORKED",
+            "params": { "min_hours": 500 },
+            "required": true
+          }
+        ]
+      },
+      "logic": "ALL_OR_ALTERNATE"
+    },
+    "PA": {
+      "state_code": "PA",
+      "state_name": "Pennsylvania",
+      "primary_module": "HQ_FLOOR",
+      "modules": [
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 1688 },
+          "required": true
+        },
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 2718 },
+          "required": true
+        },
+        {
+          "module": "OUTSIDE_HQ",
+          "params": { "min_percentage": 37 },
+          "required": true
+        },
+        {
+          "module": "WEEKS_WORKED",
+          "params": { "min_weeks": 18, "type": "credit_weeks" },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "PR": {
+      "state_code": "PR",
+      "state_name": "Puerto Rico",
+      "primary_module": "WBA_MULTIPLIER",
+      "modules": [
+        {
+          "module": "WBA_MULTIPLIER",
+          "params": { "multiplier": 40 },
+          "required": true
+        },
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 280 },
+          "required": true
+        },
+        {
+          "module": "MULTI_QUARTER",
+          "params": { "min_quarters": 2 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "RI": {
+      "state_code": "RI",
+      "state_name": "Rhode Island",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        },
+        {
+          "module": "MIN_WAGE_MULTIPLIER",
+          "params": { "multiplier": 200, "wage_type": "state_hourly", "apply_to": "one_quarter" },
+          "required": true
+        },
+        {
+          "module": "MIN_WAGE_MULTIPLIER",
+          "params": { "multiplier": 400, "wage_type": "state_hourly", "apply_to": "bp" },
+          "required": true
+        }
+      ],
+      "alternate_path": {
+        "description": "1,200x minimum hourly wage in BP",
+        "modules": [
+          {
+            "module": "MIN_WAGE_MULTIPLIER",
+            "params": { "multiplier": 1200, "wage_type": "state_hourly", "apply_to": "bp" },
+            "required": true
+          }
+        ]
+      },
+      "logic": "ALL_OR_ALTERNATE"
+    },
+    "SC": {
+      "state_code": "SC",
+      "state_name": "South Carolina",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        },
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 4455 },
+          "required": true
+        },
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 1092 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "SD": {
+      "state_code": "SD",
+      "state_name": "South Dakota",
+      "primary_module": "HQ_FLOOR",
+      "modules": [
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 728 },
+          "required": true
+        },
+        {
+          "module": "WBA_MULTIPLIER",
+          "params": { "multiplier": 20, "apply_to": "outside_hq" },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "TN": {
+      "state_code": "TN",
+      "state_name": "Tennessee",
+      "primary_module": "WBA_MULTIPLIER",
+      "modules": [
+        {
+          "module": "WBA_MULTIPLIER",
+          "params": { "multiplier": 40 },
+          "required": true
+        },
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 780.01, "quarters": "highest_2_avg" },
+          "required": true
+        },
+        {
+          "module": "OUTSIDE_HQ",
+          "params": { "min_wba_multiplier": 6, "min_amount": 900, "logic": "lesser_of" },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "TX": {
+      "state_code": "TX",
+      "state_name": "Texas",
+      "primary_module": "WBA_MULTIPLIER",
+      "modules": [
+        {
+          "module": "WBA_MULTIPLIER",
+          "params": { "multiplier": 37 },
+          "required": true
+        },
+        {
+          "module": "MULTI_QUARTER",
+          "params": { "min_quarters": 2 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "UT": {
+      "state_code": "UT",
+      "state_name": "Utah",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 5300 },
+          "required": true
+        },
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "VT": {
+      "state_code": "VT",
+      "state_name": "Vermont",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.4 },
+          "required": true
+        },
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 3739 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "VA": {
+      "state_code": "VA",
+      "state_name": "Virginia",
+      "primary_module": "FLAT_FLOOR",
+      "modules": [
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 3000, "quarters": "highest_2" },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "VI": {
+      "state_code": "VI",
+      "state_name": "Virgin Islands",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.5 },
+          "required": true
+        },
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 858 },
+          "required": true
+        }
+      ],
+      "alternate_path": {
+        "description": "$858 in HQ and 39x WBA in BP",
+        "modules": [
+          {
+            "module": "HQ_FLOOR",
+            "params": { "min_amount": 858 },
+            "required": true
+          },
+          {
+            "module": "WBA_MULTIPLIER",
+            "params": { "multiplier": 39 },
+            "required": true
+          }
+        ]
+      },
+      "logic": "ALL_OR_ALTERNATE"
+    },
+    "WA": {
+      "state_code": "WA",
+      "state_name": "Washington",
+      "primary_module": "HOURS_WORKED",
+      "modules": [
+        {
+          "module": "HOURS_WORKED",
+          "params": { "min_hours": 680 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "WV": {
+      "state_code": "WV",
+      "state_name": "West Virginia",
+      "primary_module": "FLAT_FLOOR",
+      "modules": [
+        {
+          "module": "FLAT_FLOOR",
+          "params": { "min_amount": 2200 },
+          "required": true
+        },
+        {
+          "module": "MULTI_QUARTER",
+          "params": { "min_quarters": 2 },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "WI": {
+      "state_code": "WI",
+      "state_name": "Wisconsin",
+      "primary_module": "WBA_MULTIPLIER",
+      "modules": [
+        {
+          "module": "WBA_MULTIPLIER",
+          "params": { "multiplier": 35 },
+          "required": true
+        },
+        {
+          "module": "HQ_FLOOR",
+          "params": { "min_amount": 1350 },
+          "required": true
+        },
+        {
+          "module": "WBA_MULTIPLIER",
+          "params": { "multiplier": 4, "apply_to": "outside_hq" },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    },
+    "WY": {
+      "state_code": "WY",
+      "state_name": "Wyoming",
+      "primary_module": "HQ_MULTIPLIER",
+      "modules": [
+        {
+          "module": "HQ_MULTIPLIER",
+          "params": { "multiplier": 1.4 },
+          "required": true
+        },
+        {
+          "module": "STATE_AWW",
+          "params": { "percentage": 8, "wage_period": "annual" },
+          "required": true
+        }
+      ],
+      "logic": "ALL"
+    }
+  },
+  "batch_index": {
+    "by_primary_module": {
+      "HQ_MULTIPLIER": ["AL", "AZ", "DC", "FL", "GA", "ID", "IN", "IA", "KY", "LA", "MD", "MI", "MO", "MT", "NV", "ND", "NY", "OK", "OR", "RI", "SC", "UT", "VT", "VI", "WY"],
+      "WBA_MULTIPLIER": ["AR", "CO", "CT", "DE", "HI", "KS", "MA", "MS", "PR", "TN", "TX", "WI"],
+      "FLAT_FLOOR": ["AK", "IL", "NE", "NH", "VA", "WV"],
+      "HQ_FLOOR": ["CA", "NM", "PA", "SD"],
+      "HOURS_WORKED": ["WA"],
+      "WEEKS_WORKED": ["NJ", "OH"],
+      "STATE_AWW": ["ME", "MN", "NC"]
+    },
+    "by_secondary_module": {
+      "MULTI_QUARTER": ["AK", "AR", "FL", "GA", "HI", "KS", "LA", "MI", "MS", "NC", "ND", "NM", "OH", "PR", "TX", "WV"],
+      "HQ_FLOOR": ["AZ", "DC", "ID", "MD", "MI", "MO", "MS", "NE", "NH", "NV", "NY", "SC", "VI", "VT", "WI"],
+      "FLAT_FLOOR": ["CO", "DC", "FL", "IN", "LA", "MA", "MD", "NE", "OK", "OR", "PA", "PR", "SC", "TN", "UT"],
+      "OUTSIDE_HQ": ["AK", "IL", "IA", "KY", "NE", "PA", "TN"],
+      "STATE_AWW": ["IA", "ME", "MI", "MT", "OH", "WY"],
+      "HOURS_WORKED": ["OR"],
+      "WEEKS_WORKED": ["PA"],
+      "MIN_WAGE_MULTIPLIER": ["AZ", "NJ", "RI"]
+    },
+    "has_alternate_path": ["AZ", "CA", "MI", "MO", "MT", "NJ", "NV", "OK", "OR", "RI", "VI"]
+  }
+}
