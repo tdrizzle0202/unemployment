@@ -4,7 +4,7 @@ import { buildEligibilityPrompt, ELIGIBILITY_SYSTEM_PROMPT } from '../prompts/el
 import { grokComplete } from '../grok';
 
 export const AssessmentResultSchema = z.object({
-  assessment: z.enum(['most_likely', 'likely', 'uncertain']),
+  assessment: z.enum(['most_likely', 'likely', 'unlikely', 'uncertain']),
   confidence_score: z.number().min(0).max(100),
   risk_factors: z.array(z.string()),
   reasoning_summary: z.string(),
@@ -15,6 +15,7 @@ export type AssessmentResult = z.infer<typeof AssessmentResultSchema>;
 
 export interface UserInputs {
   state_code: string;
+  separation_type?: string;
   separation_reason: string;
   employment_dates?: {
     start: string;

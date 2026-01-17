@@ -1,112 +1,97 @@
 import { config } from 'dotenv';
 config({ path: '.env.local' });
 
-import OpenAI from 'openai';
-import { createClient } from '@supabase/supabase-js';
+import { retrieveHandbookSections } from '../lib/engine/pipeline/retrieve';
+import { buildEligibilityPrompt, ELIGIBILITY_SYSTEM_PROMPT } from '../lib/engine/prompts/eligibility';
+import { grokComplete } from '../lib/engine/grok';
 
-const openai = new OpenAI();
+async function testRetrieval() {
+  const stateCode = 'CA';
+  const separationNarrative = 'I was laid off due to company downsizing. My entire department was eliminated.';
 
-const supabase = createClient(
-  process.env.NEXT_PUBLIC_SUPABASE_URL!,
-  process.env.SUPABASE_SERVICE_ROLE_KEY!
-);
+  console.log('=== Testing RAG Retrieval ===\n');
+  console.log(`State: ${stateCode}`);
+  console.log(`Narrative: ${separationNarrative}\n`);
 
-interface RetrievalResult {
-  id: string;
-  state_code: string;
-  section_id: string;
-  content: string;
-  metadata: Record<string, unknown>;
-  similarity: number;
-}
+  // Test 1: Check what's being retrieved
+  console.log('--- 1. Retrieval Results ---');
+  const query = `${separationNarrative} unemployment eligibility ${stateCode}`;
+  console.log(`Query: "${query}"\n`);
 
-async function testQuery(
-  query: string,
-  state: string,
-  options: { matchCount?: number; matchThreshold?: number } = {}
-) {
-  const { matchCount = 5, matchThreshold = 0.7 } = options;
+  const sections = await retrieveHandbookSections(
+    query,
+    stateCode,
+    { matchCount: 5, matchThreshold: 0.65 }
+  );
 
-  console.log('\n' + '='.repeat(60));
-  console.log(`Query: "${query}"`);
-  console.log(`State: ${state}`);
-  console.log(`Threshold: ${matchThreshold}, Max results: ${matchCount}`);
-  console.log('='.repeat(60));
+  console.log(`Retrieved ${sections.length} sections:\n`);
 
-  // Generate embedding
-  const embeddingResponse = await openai.embeddings.create({
-    model: 'text-embedding-3-small',
-    input: query,
-  });
+  if (sections.length === 0) {
+    console.log('⚠️  NO SECTIONS RETRIEVED! This is the problem.');
+    console.log('\nTrying with lower threshold (0.4)...\n');
 
-  const queryEmbedding = embeddingResponse.data[0].embedding;
+    const sectionsLow = await retrieveHandbookSections(
+      query,
+      stateCode,
+      { matchCount: 10, matchThreshold: 0.4 }
+    );
 
-  // Search
-  const { data, error } = await supabase.rpc('match_handbook_sections', {
-    query_embedding: queryEmbedding,
-    match_threshold: matchThreshold,
-    match_count: matchCount,
-    filter_state: state,
-    filter_year: 2025, // TODO: make configurable
-  });
-
-  if (error) {
-    console.error('Error:', error.message);
-    return;
-  }
-
-  const results = data as RetrievalResult[];
-
-  if (results.length === 0) {
-    console.log('\nNo results found. Try lowering the threshold.');
-    return;
-  }
-
-  console.log(`\nFound ${results.length} results:\n`);
-
-  for (const result of results) {
-    console.log(`[${result.section_id}] Similarity: ${(result.similarity * 100).toFixed(1)}%`);
-    if (result.metadata?.section_title) {
-      console.log(`Title: ${result.metadata.section_title}`);
+    console.log(`With threshold 0.4: Retrieved ${sectionsLow.length} sections`);
+    for (const s of sectionsLow) {
+      console.log(`  - [${s.section_id}] similarity=${s.similarity.toFixed(3)}`);
+      console.log(`    "${s.content.substring(0, 150)}..."\n`);
     }
-    console.log(`Content: ${result.content.substring(0, 200)}...`);
-    console.log('-'.repeat(40));
-  }
-}
-
-async function runTests() {
-  const testQueries = [
-    { query: 'voluntary quit eligibility good cause', state: 'CA' },
-    { query: 'fired for misconduct disqualification', state: 'CA' },
-    { query: 'how to calculate weekly benefit amount', state: 'CA' },
-    { query: 'base period earnings requirement', state: 'CA' },
-    { query: 'appeal process denied claim', state: 'CA' },
-  ];
-
-  for (const test of testQueries) {
-    await testQuery(test.query, test.state);
-  }
-}
-
-// Allow single query from command line
-async function main() {
-  const args = process.argv.slice(2);
-
-  if (args.length >= 2) {
-    const query = args[0];
-    const state = args[1].toUpperCase();
-    const threshold = args[2] ? parseFloat(args[2]) : 0.7;
-    await testQuery(query, state, { matchThreshold: threshold });
-  } else if (args[0] === '--all') {
-    await runTests();
   } else {
-    console.log('Usage:');
-    console.log('  npx tsx scripts/test-retrieval.ts "<query>" <STATE> [threshold]');
-    console.log('  npx tsx scripts/test-retrieval.ts --all');
-    console.log('\nExamples:');
-    console.log('  npx tsx scripts/test-retrieval.ts "quit job eligibility" CA');
-    console.log('  npx tsx scripts/test-retrieval.ts "weekly benefit calculation" TX 0.6');
+    for (const s of sections) {
+      console.log(`  - [${s.section_id}] similarity=${s.similarity.toFixed(3)}`);
+      console.log(`    "${s.content.substring(0, 150)}..."\n`);
+    }
+  }
+
+  // Test 2: Build the prompt
+  console.log('\n--- 2. Built Prompt ---');
+  const userInputs = {
+    state_code: stateCode,
+    separation_reason: separationNarrative,
+    quarterly_earnings: [15000, 12000, 12000, 11000],
+  };
+
+  const prompt = buildEligibilityPrompt(userInputs, sections);
+  console.log('User prompt preview:');
+  console.log(prompt.substring(0, 500) + '...\n');
+
+  // Test 3: Call Grok
+  console.log('\n--- 3. Grok Response ---');
+  try {
+    const response = await grokComplete(
+      ELIGIBILITY_SYSTEM_PROMPT,
+      prompt,
+      { model: 'grok-4-1-fast-reasoning', maxTokens: 2000, temperature: 0.2 }
+    );
+
+    console.log('Raw response:');
+    console.log(response);
+
+    // Try to parse
+    let jsonText = response;
+    const jsonMatch = jsonText.match(/\`\`\`(?:json)?\s*([\s\S]*?)\`\`\`/);
+    if (jsonMatch) {
+      jsonText = jsonMatch[1].trim();
+    }
+
+    try {
+      const parsed = JSON.parse(jsonText);
+      console.log('\n--- Parsed Assessment ---');
+      console.log(`Assessment: ${parsed.assessment}`);
+      console.log(`Confidence: ${parsed.confidence_score}`);
+      console.log(`Risk factors: ${parsed.risk_factors?.join(', ') || 'none'}`);
+      console.log(`Reasoning: ${parsed.reasoning_summary}`);
+    } catch (e) {
+      console.log('Failed to parse JSON:', e);
+    }
+  } catch (e) {
+    console.error('Grok error:', e);
   }
 }
 
-main().catch(console.error);
+testRetrieval().catch(console.error);

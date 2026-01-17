@@ -1,7 +1,7 @@
 'use client';
 
-import { Questionnaire } from '@/components/assessment/Questionnaire';
+import { ConversationalAssessment } from '@/components/assessment/ConversationalAssessment';
 
 export default function AssessPage() {
-  return <Questionnaire />;
+  return <ConversationalAssessment />;
 }

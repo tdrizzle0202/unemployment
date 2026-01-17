@@ -1,6 +1,6 @@
 'use client';
 
-import { cn } from '@/lib/utils/cn';
+import { type getStrings } from '@/lib/i18n/strings';
 
 export interface BenefitData {
     weekly_benefit_amount: number;
@@ -12,9 +12,10 @@ export interface BenefitData {
 interface BenefitsDisplayProps {
     benefits: BenefitData;
     stateCode: string;
+    strings: ReturnType<typeof getStrings>;
 }
 
-export function BenefitsDisplay({ benefits, stateCode }: BenefitsDisplayProps) {
+export function BenefitsDisplay({ benefits, stateCode, strings }: BenefitsDisplayProps) {
     const formatCurrency = (amount: number) => {
         return new Intl.NumberFormat('en-US', {
             style: 'currency',
@@ -29,44 +30,43 @@ export function BenefitsDisplay({ benefits, stateCode }: BenefitsDisplayProps) {
                 <svg className="w-6 h-6 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
-                Maximum Potential Benefits
+                {strings.maxPotentialBenefits}
             </h3>
 
-            <div className="grid grid-cols-3 gap-4">
+            <div className="grid grid-cols-3 gap-2 sm:gap-4">
                 {/* Weekly Amount */}
-                <div className="bg-white rounded-lg p-4 text-center">
-                    <div className="text-3xl font-bold text-emerald-700">
+                <div className="bg-white rounded-lg p-3 sm:p-4 text-center">
+                    <div className="text-lg sm:text-2xl font-bold text-emerald-700">
                         {formatCurrency(benefits.weekly_benefit_amount)}
                     </div>
-                    <div className="text-sm text-gray-600 mt-1">
-                        Weekly Payment
+                    <div className="text-xs sm:text-sm text-gray-600 mt-1">
+                        {strings.weekly}
                     </div>
                 </div>
 
                 {/* Duration */}
-                <div className="bg-white rounded-lg p-4 text-center">
-                    <div className="text-3xl font-bold text-emerald-700">
+                <div className="bg-white rounded-lg p-3 sm:p-4 text-center">
+                    <div className="text-lg sm:text-2xl font-bold text-emerald-700">
                         {benefits.max_duration_weeks}
                     </div>
-                    <div className="text-sm text-gray-600 mt-1">
-                        Weeks Available
+                    <div className="text-xs sm:text-sm text-gray-600 mt-1">
+                        {strings.weeksLabel}
                     </div>
                 </div>
 
                 {/* Total */}
-                <div className="bg-white rounded-lg p-4 text-center">
-                    <div className="text-3xl font-bold text-emerald-700">
+                <div className="bg-white rounded-lg p-3 sm:p-4 text-center">
+                    <div className="text-lg sm:text-2xl font-bold text-emerald-700">
                         {formatCurrency(benefits.total_potential)}
                     </div>
-                    <div className="text-sm text-gray-600 mt-1">
-                        Total Maximum
+                    <div className="text-xs sm:text-sm text-gray-600 mt-1">
+                        {strings.totalMax}
                     </div>
                 </div>
             </div>
 
             <p className="mt-4 text-sm text-emerald-700 text-center">
-                Based on {stateCode}&apos;s 2025 unemployment benefit rates.
-                Actual benefits depend on your earnings history.
+                {strings.benefitsDisclaimer(stateCode)}
             </p>
         </div>
     );

@@ -17,6 +17,7 @@ const ChatRequestSchema = z.object({
   })),
   state_code: z.string().length(2).toUpperCase(),
   session_id: z.string().uuid().optional(),
+  language: z.enum(['en', 'es']).optional().default('en'),
 });
 
 export async function POST(req: NextRequest) {
@@ -35,10 +36,15 @@ export async function POST(req: NextRequest) {
     );
 
     // Build system prompt with handbook context
-    const systemPrompt = buildConversationalPrompt(
+    let systemPrompt = buildConversationalPrompt(
       validated.state_code,
       handbookSections
     );
+
+    // Add Spanish instruction if language is 'es'
+    if (validated.language === 'es') {
+      systemPrompt += '\n\nIMPORTANT: Respond entirely in Spanish. Be warm and helpful.';
+    }
 
     // Stream response using Grok
     const stream = await grokClient.chat.completions.create({

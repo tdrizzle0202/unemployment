@@ -9,4 +9,3 @@ export {
   capitalizeFirst,
   formatStateName,
 } from './formatting';
-export { logger } from './logger';

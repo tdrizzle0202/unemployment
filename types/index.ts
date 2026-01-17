@@ -8,3 +8,15 @@ export type {
   Outcome,
   AssessmentResponse,
 } from './assessment';
+export type {
+  BrunoState,
+  MouthState,
+  TTSProvider,
+  TTSOptions,
+  TTSVoice,
+  TTSRequest,
+  TTSErrorResponse,
+  BrunoContext,
+  BrunoMessage,
+  AudioPlaybackState,
+} from './bruno';

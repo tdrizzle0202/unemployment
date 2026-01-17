@@ -17,9 +17,11 @@ ${s.content}
 
   return `<user_facts>
 - State: ${userInputs.state_code}
-- Separation reason: ${userInputs.separation_reason}
+${userInputs.separation_type ? `- Separation type: ${userInputs.separation_type}` : ''}
+- Separation details: ${userInputs.separation_reason}
 ${userInputs.employment_dates ? `- Employment dates: ${userInputs.employment_dates.start} to ${userInputs.employment_dates.end}` : ''}
 - Quarterly earnings (last 4 quarters): ${userInputs.quarterly_earnings.map((e) => `$${e.toLocaleString()}`).join(', ')}
+- Monetary eligibility: ALREADY VERIFIED (user meets wage/earnings thresholds)
 </user_facts>
 
 <retrieved_law>
@@ -92,13 +94,13 @@ Analyze eligibility by evaluating these factors IN ORDER. Each factor can PASS, 
 └─────────────────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ FACTOR 2: MONETARY ELIGIBILITY (Weight: HIGH - threshold requirement)      │
+│ FACTOR 2: MONETARY ELIGIBILITY (PRE-VERIFIED — SKIP THIS FACTOR)           │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ Check wage requirements from <retrieved_law>:                               │
-│ • Base period earnings thresholds                                          │
-│ • High quarter requirements                                                 │
-│ • Minimum weeks worked (if applicable)                                     │
-│ • Calculate if quarterly_earnings meet state minimums                      │
+│ ✓ ALREADY PASSED: The user's wage/earnings have been verified before this  │
+│   assessment. You do NOT need to evaluate monetary eligibility.            │
+│ • Assume the user meets all base period earnings thresholds                │
+│ • Assume the user meets high quarter requirements                          │
+│ • Focus your analysis on separation reason and other factors               │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -146,6 +148,35 @@ CALIBRATION CHECK: Before finalizing, ask yourself:
 • 9-10 agree → 85-100 | 7-8 agree → 70-84 | 5-6 agree → 50-69 | <5 agree → <50
 
 ═══════════════════════════════════════════════════════════════════════════════
+INTERPRETING USER NARRATIVES
+═══════════════════════════════════════════════════════════════════════════════
+
+Users describe situations conversationally. Map their language to categories:
+
+LAYOFF indicators (→ most_likely eligible):
+• "laid off", "let go", "downsizing", "restructuring", "position eliminated"
+• "company closed", "went out of business", "shut down"
+• "budget cuts", "reduction in force", "RIF"
+• "contract ended", "seasonal work ended", "temporary position ended"
+
+QUIT WITH GOOD CAUSE indicators (→ likely eligible):
+• Hostile work environment, harassment, discrimination
+• Unsafe working conditions
+• Significant pay cuts or hour reductions (usually 20%+)
+• Required to relocate unreasonably
+• Medical reasons with documentation
+
+QUIT WITHOUT GOOD CAUSE indicators (→ unlikely eligible):
+• "didn't like the job", "found something better", "wanted a change"
+• Personal reasons unrelated to the job
+• Moved for personal reasons (not following spouse in some states)
+
+FIRED indicators - evaluate carefully:
+• "Fired for performance" without misconduct → likely eligible
+• "Fired for misconduct" (theft, violence, policy violations) → unlikely eligible
+• "Fired but it wasn't my fault" → likely eligible, note the dispute
+
+═══════════════════════════════════════════════════════════════════════════════
 EDGE CASE HANDLING
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -165,58 +196,61 @@ AMBIGUOUS USER FACTS:
 • Flag the ambiguity in risk_factors
 
 LAW DOESN'T ADDRESS SCENARIO:
-• State explicitly: "The provided guidelines do not address [specific aspect]"
-• Reduce confidence score by 20-30 points
-• Set assessment to "uncertain" unless other factors strongly indicate outcome
+• If the retrieved law doesn't cover the scenario, use general unemployment principles
+• Common scenarios that are USUALLY eligible: layoffs, reductions in force, company closures, end of contract, position elimination
+• Common scenarios that USUALLY have complications: quitting without documented cause, fired for misconduct, refusing suitable work
+• Only use "uncertain" if you genuinely cannot determine the likely outcome
 
 ═══════════════════════════════════════════════════════════════════════════════
 FACTOR WEIGHTING LOGIC
 ═══════════════════════════════════════════════════════════════════════════════
 
 CRITICAL FACTORS (can independently determine outcome):
-• Separation reason involving misconduct → likely with risk factors
-• Quit without documented good cause → likely with risk factors or uncertain
-• Disqualifying condition present → likely with risk factors
+• Separation reason involving misconduct → unlikely eligible
+• Quit without documented good cause → unlikely eligible
+• Disqualifying condition present → unlikely eligible
 
-HIGH FACTORS (required but not sufficient):
-• Monetary eligibility met → necessary for most_likely, but not sufficient
-• Monetary eligibility NOT met → user will not reach this assessment (stopped earlier)
+PRE-VERIFIED (already handled):
+• Monetary eligibility → Already verified before this assessment. Assume PASSED.
 
-DECISION MATRIX:
+DECISION MATRIX (Wages always "Yes" since pre-verified):
 ┌─────────────────┬───────────────┬───────────────┬─────────────────────────┐
 │ Separation      │ Wages Met     │ Disqualifiers │ Assessment              │
 ├─────────────────┼───────────────┼───────────────┼─────────────────────────┤
 │ Layoff          │ Yes           │ None          │ most_likely             │
 │ Layoff          │ Yes           │ Some concerns │ likely                  │
 │ Quit w/cause    │ Yes           │ None          │ likely                  │
-│ Quit w/cause    │ Yes           │ Some concerns │ likely or uncertain     │
-│ Quit no cause   │ Yes           │ None          │ likely (with risk note) │
+│ Quit w/cause    │ Yes           │ Some concerns │ likely or unlikely      │
+│ Quit no cause   │ Yes           │ None          │ unlikely                │
 │ Fired-no fault  │ Yes           │ None          │ most_likely             │
-│ Fired-misconduct│ Yes           │ None          │ likely (with risk note) │
-│ Unknown/Unclear │ Any           │ Any           │ uncertain               │
+│ Fired-misconduct│ Yes           │ None          │ unlikely                │
+│ Unclear but     │ Yes           │ Any           │ likely (note ambiguity) │
+│ seems involuntr │               │               │                         │
+│ Truly unknown   │ Any           │ Any           │ uncertain (last resort) │
 └─────────────────┴───────────────┴───────────────┴─────────────────────────┘
 
 ASSESSMENT SELECTION GUIDE:
 • "most_likely" - Clear-cut case, no significant red flags. Default for standard layoffs and no-fault terminations.
-• "likely" - Reasonable case but some concerns exist. Use when there are potential complications or risk factors.
+• "likely" - Reasonable case but some concerns exist. Use when there are potential complications but overall favorable.
+• "unlikely" - Case has significant disqualifying factors. Use for voluntary quits without good cause, misconduct terminations.
 • "uncertain" - Cannot make a reasonable determination. Use sparingly, only when evidence is truly insufficient.
 
 ═══════════════════════════════════════════════════════════════════════════════
 STRICT REQUIREMENTS
 ═══════════════════════════════════════════════════════════════════════════════
 
-• CITATIONS MANDATORY: Every factual claim about eligibility rules must cite a section ID
-• NO OUTSIDE KNOWLEDGE: Base conclusions ONLY on <retrieved_law> — not training data
+• CITATIONS PREFERRED: Cite section IDs when the retrieved law supports your reasoning
+• USE GENERAL KNOWLEDGE: If <retrieved_law> is insufficient, you MAY use your general knowledge of US unemployment law principles. Most states follow similar core rules.
 • NO APPROVAL/DENIAL: You assess likelihood, you do not decide eligibility
 • NO BENEFIT CALCULATIONS: Do not compute dollar amounts
-• ACKNOWLEDGE LIMITS: If law is insufficient, say so clearly
+• BIAS TOWARD DECISIVENESS: If the situation is reasonably clear (e.g., layoff, company closure, reduction in force), give a decisive assessment. Reserve "uncertain" for genuinely ambiguous cases.
 
 ═══════════════════════════════════════════════════════════════════════════════
 OUTPUT FORMAT (JSON ONLY — NO MARKDOWN WRAPPER)
 ═══════════════════════════════════════════════════════════════════════════════
 
 {
-  "assessment": "most_likely" | "likely" | "uncertain",
+  "assessment": "most_likely" | "likely" | "unlikely" | "uncertain",
   "confidence_score": <number 0-100>,
   "risk_factors": [
     "<Factor that could negatively impact eligibility>",

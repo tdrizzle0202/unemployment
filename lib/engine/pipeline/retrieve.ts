@@ -26,16 +26,19 @@ export async function retrieveHandbookSections(
   } = {}
 ): Promise<HandbookSection[]> {
   const {
-    matchCount = 5,
-    matchThreshold = 0.7,
-    effectiveYear = new Date().getFullYear(),
+    matchCount = 8,
+    matchThreshold = 0.4, // Lowered from 0.7 - conversational queries have lower similarity
+    effectiveYear = 2026, // Most states have 2026 data (CA has both 2025 and 2026)
   } = options;
 
+  // Enhance query with unemployment-specific keywords for better retrieval
+  const enhancedQuery = `${query} unemployment insurance eligibility benefits disqualification ${stateCode}`;
+
   try {
-    // Generate embedding for the query
+    // Generate embedding for the enhanced query
     const embeddingResponse = await openai.embeddings.create({
       model: 'text-embedding-3-small',
-      input: query,
+      input: enhancedQuery,
     });
 
     const queryEmbedding = embeddingResponse.data[0].embedding;

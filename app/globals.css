@@ -12,15 +12,180 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
+/* Dark mode disabled for clean white UI */
+/* @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
   }
-}
+} */
 
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* ============================================================================
+   BRUNO AVATAR ANIMATIONS
+   ============================================================================ */
+
+/* Breathing: Natural chest rise/fall - runs continuously */
+@keyframes bruno-breathing {
+  0%, 100% {
+    transform: translateY(0) scale(1);
+  }
+  40%, 60% {
+    transform: translateY(-2px) scale(1.008);
+  }
+}
+
+/* Idle: Same as breathing for consistency */
+@keyframes bruno-idle {
+  0%, 100% {
+    transform: translateY(0) scale(1);
+  }
+  50% {
+    transform: translateY(-3px) scale(1.02);
+  }
+}
+
+/* Talking: Subtle Y bounce */
+@keyframes bruno-talking {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+}
+
+/* Thinking: Head tilt side to side */
+@keyframes bruno-thinking {
+  0%, 100% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(-3deg);
+  }
+  75% {
+    transform: rotate(3deg);
+  }
+}
+
+/* Enter: Fade in and scale up */
+@keyframes bruno-enter {
+  0% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Speech bubble appear */
+@keyframes speech-bubble-enter {
+  0% {
+    opacity: 0;
+    transform: scale(0.9) translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+/* Typewriter cursor blink */
+@keyframes cursor-blink {
+  0%, 50% {
+    opacity: 1;
+  }
+  51%, 100% {
+    opacity: 0;
+  }
+}
+
+/* Animation utility classes */
+.animate-bruno-idle {
+  animation: bruno-idle 4s ease-in-out infinite;
+}
+
+.animate-bruno-breathing {
+  animation: bruno-breathing 4s ease-in-out infinite;
+}
+
+.animate-bruno-talking {
+  animation: bruno-talking 0.3s ease-in-out infinite;
+}
+
+.animate-bruno-thinking {
+  animation: bruno-thinking 1s ease-in-out infinite;
+}
+
+.animate-bruno-enter {
+  animation: bruno-enter 0.5s ease-out forwards;
+}
+
+.animate-speech-bubble-enter {
+  animation: speech-bubble-enter 0.3s ease-out forwards;
+}
+
+.animate-cursor-blink {
+  animation: cursor-blink 1s step-end infinite;
+}
+
+/* Bruno floating effect */
+.bruno {
+  filter:
+    drop-shadow(0 18px 40px rgba(0,0,0,0.30))
+    drop-shadow(0 6px 12px rgba(0,0,0,0.20));
+}
+
+/* Blink animation - CSS handles all the timing */
+@keyframes bruno-blink {
+  0% { opacity: 0; }
+  10% { opacity: 1; }
+  30% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 0; }
+}
+
+.bruno-blink-overlay {
+  opacity: 0;
+  will-change: opacity;
+}
+
+.bruno-blink-overlay.blinking {
+  animation: bruno-blink 150ms ease-out forwards;
+}
+
+/* ============================================================================
+   CHAT ANIMATIONS
+   ============================================================================ */
+
+@keyframes bubble-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.chat-bubble {
+  animation: bubble-in 0.25s ease-out;
+}
+
+@keyframes typing-blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+
+.typing-dot {
+  animation: typing-blink 0.8s ease-in-out infinite;
+}
+

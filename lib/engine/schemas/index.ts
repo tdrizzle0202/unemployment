@@ -25,16 +25,6 @@ export {
   type Outcome,
 } from './assessment';
 
-export {
-  FormulaTypeSchema,
-  FormulaSchema,
-  StateRuleSchema,
-  EXAMPLE_STATE_RULES,
-  type FormulaType,
-  type Formula,
-  type StateRule,
-} from './state-rules';
-
 // Monetary eligibility question flow
 export {
   // State data

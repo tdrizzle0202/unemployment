@@ -43,8 +43,6 @@ export {
   buildConversationalPrompt,
 } from './prompts/eligibility';
 
-export { getSystemPrompt } from './prompts/system';
-
 // Schemas for validation
 export * from './schemas';
 
