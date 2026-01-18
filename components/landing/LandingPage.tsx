@@ -1,9 +1,50 @@
 'use client';
 
-import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import { motion } from 'framer-motion';
 import { cn } from '@/lib/utils/cn';
+
+// ============================================================================
+// ANIMATION VARIANTS
+// ============================================================================
+
+const fadeInUp = {
+    hidden: { opacity: 0, y: 30 },
+    visible: { opacity: 1, y: 0 }
+};
+
+const fadeIn = {
+    hidden: { opacity: 0 },
+    visible: { opacity: 1 }
+};
+
+const scaleIn = {
+    hidden: { opacity: 0, scale: 0.9 },
+    visible: { opacity: 1, scale: 1 }
+};
+
+const staggerContainer = {
+    hidden: { opacity: 1 },
+    visible: {
+        opacity: 1,
+        transition: {
+            staggerChildren: 0.1,
+            delayChildren: 0.1
+        }
+    }
+};
+
+const heroStagger = {
+    hidden: { opacity: 1 },
+    visible: {
+        opacity: 1,
+        transition: {
+            staggerChildren: 0.15,
+            delayChildren: 0.2
+        }
+    }
+};
 
 // ============================================================================
 // ICONS
@@ -97,32 +138,29 @@ interface FeatureCardProps {
     icon: React.ReactNode;
     title: string;
     description: string;
-    delay?: number;
 }
 
-function FeatureCard({ icon, title, description, delay = 0 }: FeatureCardProps) {
-    const [isVisible, setIsVisible] = useState(false);
-
-    useEffect(() => {
-        const timer = setTimeout(() => setIsVisible(true), delay);
-        return () => clearTimeout(timer);
-    }, [delay]);
-
+function FeatureCard({ icon, title, description }: FeatureCardProps) {
     return (
-        <div
+        <motion.div
+            variants={fadeInUp}
+            whileHover={{ y: -8, transition: { duration: 0.2 } }}
             className={cn(
                 'group relative bg-white rounded-2xl p-6 shadow-sm border border-gray-100',
-                'hover:shadow-lg hover:border-[#A897C6]/30 hover:-translate-y-1',
-                'transition-all duration-300 ease-out',
-                isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
+                'hover:shadow-lg hover:border-[#A897C6]/30',
+                'transition-shadow duration-300 ease-out'
             )}
         >
-            <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-[#A897C6]/20 to-[#A897C6]/5 flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300">
+            <motion.div
+                className="w-12 h-12 rounded-xl bg-gradient-to-br from-[#A897C6]/20 to-[#A897C6]/5 flex items-center justify-center mb-4"
+                whileHover={{ scale: 1.1, rotate: 5 }}
+                transition={{ type: "spring", stiffness: 300 }}
+            >
                 <div className="text-[#A897C6]">{icon}</div>
-            </div>
+            </motion.div>
             <h3 className="text-lg font-bold text-gray-900 mb-2">{title}</h3>
             <p className="text-gray-600 text-sm leading-relaxed">{description}</p>
-        </div>
+        </motion.div>
     );
 }
 
@@ -139,20 +177,31 @@ interface StepCardProps {
 
 function StepCard({ number, title, description, icon }: StepCardProps) {
     return (
-        <div className="relative flex flex-col items-center text-center">
+        <motion.div
+            variants={fadeInUp}
+            className="relative flex flex-col items-center text-center"
+        >
             {/* Step number badge */}
-            <div className="w-10 h-10 rounded-full bg-[#A897C6] text-white font-bold flex items-center justify-center text-lg mb-4 shadow-lg shadow-[#A897C6]/30">
+            <motion.div
+                className="w-10 h-10 rounded-full bg-[#A897C6] text-white font-bold flex items-center justify-center text-lg mb-4 shadow-lg shadow-[#A897C6]/30"
+                whileHover={{ scale: 1.15 }}
+                transition={{ type: "spring", stiffness: 400 }}
+            >
                 {number}
-            </div>
+            </motion.div>
 
             {/* Icon */}
-            <div className="w-16 h-16 rounded-2xl bg-gradient-to-br from-[#F8F7FC] to-white border border-gray-100 flex items-center justify-center mb-4 shadow-sm">
+            <motion.div
+                className="w-16 h-16 rounded-2xl bg-gradient-to-br from-[#F8F7FC] to-white border border-gray-100 flex items-center justify-center mb-4 shadow-sm"
+                whileHover={{ scale: 1.05, rotate: 3 }}
+                transition={{ type: "spring", stiffness: 300 }}
+            >
                 <div className="text-[#A897C6]">{icon}</div>
-            </div>
+            </motion.div>
 
             <h3 className="text-lg font-bold text-gray-900 mb-2">{title}</h3>
             <p className="text-gray-600 text-sm leading-relaxed max-w-xs">{description}</p>
-        </div>
+        </motion.div>
     );
 }
 
@@ -161,102 +210,134 @@ function StepCard({ number, title, description, icon }: StepCardProps) {
 // ============================================================================
 
 export function LandingPage() {
-    const [mounted, setMounted] = useState(false);
-
-    useEffect(() => {
-        setMounted(true);
-    }, []);
-
     return (
         <div className="min-h-screen bg-white">
             {/* Hero Section */}
-            <section className="relative overflow-hidden">
-                {/* Subtle gradient background */}
-                <div className="absolute inset-0 bg-gradient-to-b from-[#F8F7FC] via-white to-white" />
+            <section className="relative overflow-hidden" style={{ backgroundColor: 'rgb(227, 229, 232)' }}>
+                {/* Logo */}
+                <motion.div
+                    className="absolute top-6 left-6 z-10"
+                    initial={{ opacity: 0, x: -20 }}
+                    animate={{ opacity: 1, x: 0 }}
+                    transition={{ duration: 0.5 }}
+                >
+                    <span className="text-4xl font-black text-black tracking-tight" style={{ fontWeight: 950 }}>bruno</span>
+                </motion.div>
 
-                {/* Decorative circles */}
-                <div className="absolute top-20 left-10 w-64 h-64 bg-[#A897C6]/5 rounded-full blur-3xl" />
-                <div className="absolute top-40 right-10 w-96 h-96 bg-[#A897C6]/5 rounded-full blur-3xl" />
-
-                <div className="relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-20">
+                <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-20 pb-8">
                     {/* Top trust bar */}
-                    <div
-                        className={cn(
-                            'flex flex-wrap items-center justify-center gap-4 sm:gap-8 mb-12 transition-all duration-700',
-                            mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
-                        )}
+                    <motion.div
+                        className="flex flex-wrap items-center justify-center gap-4 sm:gap-8 mb-8"
+                        variants={staggerContainer}
+                        initial="hidden"
+                        animate="visible"
                     >
-                        <div className="flex items-center gap-2 text-sm text-gray-600">
+                        <motion.div variants={fadeInUp} className="flex items-center gap-2 text-sm text-gray-600">
                             <CheckIcon className="w-4 h-4 text-emerald-500" />
                             <span>100% Free</span>
-                        </div>
-                        <div className="flex items-center gap-2 text-sm text-gray-600">
+                        </motion.div>
+                        <motion.div variants={fadeInUp} className="flex items-center gap-2 text-sm text-gray-600">
                             <LockClosedIcon className="w-4 h-4 text-blue-500" />
                             <span>Private & Secure</span>
-                        </div>
-                        <div className="flex items-center gap-2 text-sm text-gray-600">
+                        </motion.div>
+                        <motion.div variants={fadeInUp} className="flex items-center gap-2 text-sm text-gray-600">
                             <BoltIcon className="w-4 h-4 text-amber-500" />
                             <span>Results in Minutes</span>
-                        </div>
-                    </div>
+                        </motion.div>
+                    </motion.div>
 
-                    <div className="flex flex-col items-center text-center max-w-4xl mx-auto">
-                        <h1
-                            className={cn(
-                                'text-4xl sm:text-5xl lg:text-6xl font-extrabold text-gray-900 leading-tight mb-6',
-                                'transition-all duration-700 delay-200',
-                                mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
-                            )}
+                    <div className="flex flex-col lg:flex-row items-center gap-8 lg:gap-12">
+                        {/* Left side - Text content */}
+                        <motion.div
+                            className="flex-1 text-center lg:text-left"
+                            variants={heroStagger}
+                            initial="hidden"
+                            animate="visible"
                         >
-                            Check Your{' '}
-                            <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#A897C6] to-[#8B7AAE]">
-                                Unemployment Benefits
-                            </span>{' '}
-                            in Minutes
-                        </h1>
-
-                        <p
-                            className={cn(
-                                'text-lg sm:text-xl text-gray-600 mb-8 max-w-2xl',
-                                'transition-all duration-700 delay-300',
-                                mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
-                            )}
-                        >
-                            Not sure if you qualify for unemployment insurance? Answer a few quick questions to estimate your eligibility and potential benefits.
-                        </p>
-
-                        <div
-                            className={cn(
-                                'flex flex-col sm:flex-row items-center gap-4 justify-center',
-                                'transition-all duration-700 delay-400',
-                                mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
-                            )}
-                        >
-                            <Link
-                                href="/assess"
-                                className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-4 text-lg font-bold text-white bg-gradient-to-r from-[#A897C6] to-[#9787B6] rounded-xl shadow-lg shadow-[#A897C6]/30 hover:shadow-xl hover:shadow-[#A897C6]/40 hover:-translate-y-0.5 transition-all duration-300"
+                            <motion.h1
+                                variants={fadeInUp}
+                                transition={{ duration: 0.6 }}
+                                className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-gray-900 leading-tight mb-6"
                             >
-                                Get Started Free
-                                <ArrowRightIcon className="w-5 h-5" />
-                            </Link>
-                            <a
-                                href="#how-it-works"
-                                className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-4 text-lg font-semibold text-gray-700 bg-white border-2 border-gray-200 rounded-xl hover:border-[#A897C6] hover:text-[#A897C6] transition-all duration-300"
-                            >
-                                See How It Works
-                            </a>
-                        </div>
+                                Check Your{' '}
+                                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#A897C6] to-[#8B7AAE]">
+                                    Unemployment Benefits
+                                </span>{' '}
+                                in Minutes
+                            </motion.h1>
 
-                        {/* No signup required note */}
-                        <p
-                            className={cn(
-                                'mt-4 text-sm text-gray-500',
-                                'transition-all duration-700 delay-500',
-                                mounted ? 'opacity-100' : 'opacity-0'
-                            )}
+                            <motion.p
+                                variants={fadeInUp}
+                                transition={{ duration: 0.6 }}
+                                className="text-lg sm:text-xl text-gray-600 mb-8 max-w-xl"
+                            >
+                                Not sure if you qualify for unemployment insurance? Answer a few quick questions to estimate your eligibility and potential benefits.
+                            </motion.p>
+
+                            <motion.div
+                                variants={fadeInUp}
+                                transition={{ duration: 0.6 }}
+                                className="flex flex-col sm:flex-row items-center gap-4 justify-center lg:justify-start"
+                            >
+                                <motion.div
+                                    whileHover={{ scale: 1.03, y: -2 }}
+                                    whileTap={{ scale: 0.98 }}
+                                    transition={{ type: "spring", stiffness: 400 }}
+                                >
+                                    <Link
+                                        href="/assess"
+                                        className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-4 text-lg font-bold text-white bg-gradient-to-r from-[#A897C6] to-[#9787B6] rounded-xl shadow-lg shadow-[#A897C6]/30 hover:shadow-xl hover:shadow-[#A897C6]/40 transition-shadow duration-300"
+                                    >
+                                        Get Started Free
+                                        <ArrowRightIcon className="w-5 h-5" />
+                                    </Link>
+                                </motion.div>
+                                <motion.a
+                                    href="#how-it-works"
+                                    className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-4 text-lg font-semibold text-gray-700 bg-white border-2 border-gray-200 rounded-xl hover:border-[#A897C6] hover:text-[#A897C6] transition-all duration-300"
+                                    whileHover={{ scale: 1.02 }}
+                                    whileTap={{ scale: 0.98 }}
+                                >
+                                    See How It Works
+                                </motion.a>
+                            </motion.div>
+
+                            <motion.p
+                                variants={fadeIn}
+                                transition={{ duration: 0.6, delay: 0.4 }}
+                                className="mt-4 text-sm text-gray-500"
+                            >
+                                No account required • Takes about 5 minutes
+                            </motion.p>
+                        </motion.div>
+
+                        {/* Bruno video */}
+                        <motion.div
+                            className="flex-shrink-0"
+                            initial={{ opacity: 0, scale: 0.9, x: 50 }}
+                            animate={{ opacity: 1, scale: 1, x: 0 }}
+                            transition={{ duration: 0.8, delay: 0.3, ease: "easeOut" }}
                         >
-                            No account required • Takes about 5 minutes
-                        </p>
+                            <motion.div
+                                className="w-80 h-80 sm:w-96 sm:h-96 lg:w-[480px] lg:h-[480px]"
+                                style={{
+                                    maskImage: 'radial-gradient(ellipse 70% 70% at center, black 50%, transparent 100%)',
+                                    WebkitMaskImage: 'radial-gradient(ellipse 70% 70% at center, black 50%, transparent 100%)'
+                                }}
+                                animate={{ y: [0, -10, 0] }}
+                                transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
+                            >
+                                <video
+                                    autoPlay
+                                    loop
+                                    muted
+                                    playsInline
+                                    className="w-full h-full object-cover"
+                                >
+                                    <source src="/bruno/video.mp4" type="video/mp4" />
+                                </video>
+                            </motion.div>
+                        </motion.div>
                     </div>
                 </div>
             </section>
@@ -264,57 +345,79 @@ export function LandingPage() {
             {/* Features Section */}
             <section className="py-20 bg-[#F8F7FC]">
                 <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <div className="text-center mb-12">
+                    <motion.div
+                        className="text-center mb-12"
+                        initial="hidden"
+                        whileInView="visible"
+                        viewport={{ once: true, margin: "-100px" }}
+                        variants={fadeInUp}
+                        transition={{ duration: 0.6 }}
+                    >
                         <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
                             Why Use Bruno?
                         </h2>
                         <p className="text-lg text-gray-600 max-w-2xl mx-auto">
                             Navigating unemployment benefits can be confusing. Bruno makes it simple.
                         </p>
-                    </div>
+                    </motion.div>
 
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                    <motion.div
+                        className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6"
+                        variants={staggerContainer}
+                        initial="hidden"
+                        whileInView="visible"
+                        viewport={{ once: true, margin: "-50px" }}
+                    >
                         <FeatureCard
                             icon={<SparklesIcon className="w-6 h-6" />}
                             title="AI-Powered"
                             description="Bruno uses smart AI to understand your situation and provide personalized guidance."
-                            delay={100}
                         />
                         <FeatureCard
                             icon={<MapIcon className="w-6 h-6" />}
                             title="All 50 States"
                             description="Covers unemployment rules for every U.S. state with up-to-date eligibility requirements."
-                            delay={200}
                         />
                         <FeatureCard
                             icon={<BoltIcon className="w-6 h-6" />}
                             title="Instant Results"
                             description="Get your eligibility assessment in minutes, not hours or days of research."
-                            delay={300}
                         />
                         <FeatureCard
                             icon={<ShieldCheckIcon className="w-6 h-6" />}
                             title="Private & Secure"
                             description="Your information stays private. No data is stored or shared with anyone."
-                            delay={400}
                         />
-                    </div>
+                    </motion.div>
                 </div>
             </section>
 
             {/* How It Works Section */}
             <section id="how-it-works" className="py-20 bg-white scroll-mt-8">
                 <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <div className="text-center mb-16">
+                    <motion.div
+                        className="text-center mb-16"
+                        initial="hidden"
+                        whileInView="visible"
+                        viewport={{ once: true, margin: "-100px" }}
+                        variants={fadeInUp}
+                        transition={{ duration: 0.6 }}
+                    >
                         <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
                             How It Works
                         </h2>
                         <p className="text-lg text-gray-600 max-w-2xl mx-auto">
                             Three simple steps to understand your unemployment benefits eligibility.
                         </p>
-                    </div>
+                    </motion.div>
 
-                    <div className="grid grid-cols-1 md:grid-cols-3 gap-12 md:gap-8">
+                    <motion.div
+                        className="grid grid-cols-1 md:grid-cols-3 gap-12 md:gap-8"
+                        variants={staggerContainer}
+                        initial="hidden"
+                        whileInView="visible"
+                        viewport={{ once: true, margin: "-50px" }}
+                    >
                         <StepCard
                             number={1}
                             icon={<ChatBubbleIcon className="w-8 h-8" />}
@@ -333,24 +436,44 @@ export function LandingPage() {
                             title="Get Your Results"
                             description="Receive an instant assessment of your eligibility and estimated weekly benefit amount."
                         />
-                    </div>
+                    </motion.div>
                 </div>
             </section>
 
             {/* Benefits List Section */}
             <section className="py-20 bg-gradient-to-b from-[#F8F7FC] to-white">
                 <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <div className="text-center mb-12">
+                    <motion.div
+                        className="text-center mb-12"
+                        initial="hidden"
+                        whileInView="visible"
+                        viewport={{ once: true, margin: "-100px" }}
+                        variants={fadeInUp}
+                        transition={{ duration: 0.6 }}
+                    >
                         <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
                             What You&apos;ll Learn
                         </h2>
                         <p className="text-lg text-gray-600">
                             Bruno&apos;s assessment gives you clarity on your unemployment benefits.
                         </p>
-                    </div>
+                    </motion.div>
 
-                    <div className="bg-white rounded-3xl shadow-xl shadow-gray-100/50 border border-gray-100 p-8 sm:p-12">
-                        <ul className="space-y-5">
+                    <motion.div
+                        className="bg-white rounded-3xl shadow-xl shadow-gray-100/50 border border-gray-100 p-8 sm:p-12"
+                        initial="hidden"
+                        whileInView="visible"
+                        viewport={{ once: true, margin: "-50px" }}
+                        variants={scaleIn}
+                        transition={{ duration: 0.5 }}
+                    >
+                        <motion.ul
+                            className="space-y-5"
+                            variants={staggerContainer}
+                            initial="hidden"
+                            whileInView="visible"
+                            viewport={{ once: true }}
+                        >
                             {[
                                 'Whether you meet your state\'s monetary eligibility requirements',
                                 'Your estimated weekly benefit amount (WBA)',
@@ -358,60 +481,129 @@ export function LandingPage() {
                                 'State-specific rules and requirements that apply to you',
                                 'What to expect when you file your official claim',
                             ].map((item, index) => (
-                                <li key={index} className="flex items-start gap-4">
-                                    <div className="flex-shrink-0 w-6 h-6 rounded-full bg-emerald-100 flex items-center justify-center mt-0.5">
+                                <motion.li
+                                    key={index}
+                                    className="flex items-start gap-4"
+                                    variants={fadeInUp}
+                                    transition={{ duration: 0.4 }}
+                                >
+                                    <motion.div
+                                        className="flex-shrink-0 w-6 h-6 rounded-full bg-emerald-100 flex items-center justify-center mt-0.5"
+                                        initial={{ scale: 0 }}
+                                        whileInView={{ scale: 1 }}
+                                        viewport={{ once: true }}
+                                        transition={{ delay: index * 0.1 + 0.2, type: "spring", stiffness: 300 }}
+                                    >
                                         <CheckIcon className="w-4 h-4 text-emerald-600" />
-                                    </div>
+                                    </motion.div>
                                     <span className="text-gray-700 text-lg">{item}</span>
-                                </li>
+                                </motion.li>
                             ))}
-                        </ul>
-                    </div>
+                        </motion.ul>
+                    </motion.div>
                 </div>
             </section>
 
             {/* Final CTA Section */}
             <section className="py-20 bg-white">
                 <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-                    <div className="relative">
+                    <motion.div
+                        className="relative"
+                        initial="hidden"
+                        whileInView="visible"
+                        viewport={{ once: true, margin: "-100px" }}
+                        variants={staggerContainer}
+                    >
                         {/* Bruno small avatar */}
-                        <div className="mx-auto w-40 h-40 mb-8 relative">
-                            <div className="absolute inset-0 bg-gradient-to-b from-[#A897C6]/20 to-transparent rounded-full blur-xl" />
-                            <Image
-                                src="/bruno/bruno-thinking-cropped.png"
-                                alt="Bruno"
-                                fill
-                                className="object-contain"
-                            />
-                        </div>
-
-                        <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
-                            Ready to Check Your Eligibility?
-                        </h2>
-                        <p className="text-lg text-gray-600 mb-8 max-w-2xl mx-auto">
-                            It only takes a few minutes. Bruno is here to help you understand your unemployment benefits.
-                        </p>
-
-                        <Link
-                            href="/assess"
-                            className="inline-flex items-center justify-center gap-2 px-10 py-5 text-xl font-bold text-white bg-gradient-to-r from-[#A897C6] to-[#9787B6] rounded-xl shadow-lg shadow-[#A897C6]/30 hover:shadow-xl hover:shadow-[#A897C6]/40 hover:-translate-y-0.5 transition-all duration-300"
+                        <motion.div
+                            className="mx-auto w-40 h-40 mb-8 relative"
+                            variants={scaleIn}
+                            transition={{ duration: 0.6 }}
                         >
-                            Start Your Free Assessment
-                            <ArrowRightIcon className="w-6 h-6" />
-                        </Link>
+                            <motion.div
+                                className="absolute inset-0 bg-gradient-to-b from-[#A897C6]/20 to-transparent rounded-full blur-xl"
+                                animate={{ scale: [1, 1.1, 1] }}
+                                transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
+                            />
+                            <motion.div
+                                animate={{ y: [0, -5, 0] }}
+                                transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
+                                className="relative w-full h-full"
+                            >
+                                <Image
+                                    src="/bruno/bruno-thinking-cropped.png"
+                                    alt="Bruno"
+                                    fill
+                                    className="object-contain"
+                                />
+                            </motion.div>
+                        </motion.div>
 
-                        <p className="mt-4 text-sm text-gray-500">
+                        <motion.h2
+                            className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4"
+                            variants={fadeInUp}
+                            transition={{ duration: 0.5 }}
+                        >
+                            Ready to Check Your Eligibility?
+                        </motion.h2>
+                        <motion.p
+                            className="text-lg text-gray-600 mb-8 max-w-2xl mx-auto"
+                            variants={fadeInUp}
+                            transition={{ duration: 0.5 }}
+                        >
+                            It only takes a few minutes. Bruno is here to help you understand your unemployment benefits.
+                        </motion.p>
+
+                        <motion.div
+                            variants={fadeInUp}
+                            transition={{ duration: 0.5 }}
+                        >
+                            <motion.div
+                                whileHover={{ scale: 1.03, y: -3 }}
+                                whileTap={{ scale: 0.98 }}
+                                transition={{ type: "spring", stiffness: 400 }}
+                                className="inline-block"
+                            >
+                                <Link
+                                    href="/assess"
+                                    className="inline-flex items-center justify-center gap-2 px-10 py-5 text-xl font-bold text-white bg-gradient-to-r from-[#A897C6] to-[#9787B6] rounded-xl shadow-lg shadow-[#A897C6]/30 hover:shadow-xl hover:shadow-[#A897C6]/40 transition-shadow duration-300"
+                                >
+                                    Start Your Free Assessment
+                                    <motion.span
+                                        animate={{ x: [0, 4, 0] }}
+                                        transition={{ duration: 1.5, repeat: Infinity, ease: "easeInOut" }}
+                                    >
+                                        <ArrowRightIcon className="w-6 h-6" />
+                                    </motion.span>
+                                </Link>
+                            </motion.div>
+                        </motion.div>
+
+                        <motion.p
+                            className="mt-4 text-sm text-gray-500"
+                            variants={fadeIn}
+                            transition={{ duration: 0.5, delay: 0.3 }}
+                        >
                             Free • Private • No account required
-                        </p>
-                    </div>
+                        </motion.p>
+                    </motion.div>
                 </div>
             </section>
 
             {/* Footer */}
-            <footer className="bg-[#F8F7FC] border-t border-gray-100">
+            <motion.footer
+                className="bg-[#F8F7FC] border-t border-gray-100"
+                initial={{ opacity: 0 }}
+                whileInView={{ opacity: 1 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.6 }}
+            >
                 <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
                     <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
-                        <div className="flex items-center gap-3">
+                        <motion.div
+                            className="flex items-center gap-3"
+                            whileHover={{ scale: 1.02 }}
+                        >
                             <div className="w-10 h-10 relative">
                                 <Image
                                     src="/bruno/bruno-thinking-cropped.png"
@@ -421,11 +613,23 @@ export function LandingPage() {
                                 />
                             </div>
                             <span className="font-bold text-gray-900">Bruno</span>
-                        </div>
+                        </motion.div>
 
                         <div className="flex items-center gap-6 text-sm text-gray-500">
-                            <a href="#" className="hover:text-[#A897C6] transition-colors">Privacy Policy</a>
-                            <a href="#" className="hover:text-[#A897C6] transition-colors">Terms of Service</a>
+                            <motion.a
+                                href="#"
+                                className="hover:text-[#A897C6] transition-colors"
+                                whileHover={{ y: -2 }}
+                            >
+                                Privacy Policy
+                            </motion.a>
+                            <motion.a
+                                href="#"
+                                className="hover:text-[#A897C6] transition-colors"
+                                whileHover={{ y: -2 }}
+                            >
+                                Terms of Service
+                            </motion.a>
                         </div>
 
                         <p className="text-sm text-gray-400">
@@ -440,7 +644,7 @@ export function LandingPage() {
                         </p>
                     </div>
                 </div>
-            </footer>
+            </motion.footer>
         </div>
     );
 }

@@ -1442,7 +1442,7 @@ export function ConversationalAssessment() {
     // Language selector - show first before anything else
     if (!language) {
         return (
-            <div className="relative h-screen overflow-hidden flex items-center justify-center" style={{ backgroundColor: '#D8EEF6' }}>
+            <div className="relative h-screen overflow-hidden flex items-center justify-center" style={{ backgroundColor: '#FFFFFF' }}>
                 <div className="absolute top-6 left-6 z-10">
                     <span className="text-4xl font-black text-black tracking-tight" style={{ fontWeight: 950 }}>bruno</span>
                 </div>
@@ -1468,7 +1468,7 @@ export function ConversationalAssessment() {
     }
 
     return (
-        <div className="relative h-screen overflow-hidden" style={{ backgroundColor: '#D8EEF6' }}>
+        <div className="relative h-screen overflow-hidden" style={{ backgroundColor: '#FFFFFF' }}>
             {/* Logo */}
             <div className="absolute top-6 left-6 z-10">
                 <span className="text-4xl font-black text-black tracking-tight" style={{ fontWeight: 950 }}>bruno</span>

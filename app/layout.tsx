@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import { Nunito } from "next/font/google";
+import { Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
 
-const nunito = Nunito({
-  variable: "--font-nunito",
+const plusJakarta = Plus_Jakarta_Sans({
+  variable: "--font-plus-jakarta",
   subsets: ["latin"],
   weight: ["400", "500", "600", "700", "800"],
 });
@@ -21,8 +21,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${nunito.variable} font-sans antialiased`}
-        style={{ fontFamily: 'var(--font-nunito)' }}
+        className={`${plusJakarta.variable} font-sans antialiased`}
+        style={{ fontFamily: 'var(--font-plus-jakarta)' }}
       >
         {children}
       </body>
